@@ -31,5 +31,5 @@ editable-simplemde:
 
 # Elektromobilität
 
-Teaser zum Fallbeispiel ***Open Data***
+Teaser zum Fallbeispiel **Elektromobilität**
 [plugin:youtube](https://youtu.be/rEB3Oti20CI)
