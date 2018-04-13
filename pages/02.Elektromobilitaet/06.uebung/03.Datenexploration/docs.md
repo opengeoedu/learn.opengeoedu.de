@@ -4,7 +4,6 @@ taxonomy:
     category:
         - docs
 ---
-# Datenexploration
 Will man wie vorher angesprochen nun eine Auswertung mit offenen Daten durchführen, stellt sich die Frage wie man diese Daten findet. Dies hängt besonders von benötigtem Datentyp, Thematik und benötigter Datenqualität ab.
 
 Im Allgemeinen beginnt man eine solche Recherche entweder über einschlägige Suchmaschinen wie z.B., durch das Nachfragen bei Experten, oder durch die direkte Nutzung von Datenportalen. Letzteres ist offensichtlich nur möglich wenn man sich schon vorher mit ähnlichen Themen oder Open Data allgemein befasst hat.
