@@ -1,5 +1,5 @@
 ---
-title: 'Einführung Open Data'
+title: 'Klick für Klick'
 taxonomy:
     category:
         - docs
