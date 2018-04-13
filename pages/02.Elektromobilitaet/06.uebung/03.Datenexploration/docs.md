@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
 ---
-
+# Datenexploration
 Will man wie vorher angesprochen nun eine Auswertung mit offenen Daten durchführen, stellt sich die Frage wie man diese Daten findet. Dies hängt besonders von benötigtem Datentyp, Thematik und benötigter Datenqualität ab.
 
 Im Allgemeinen beginnt man eine solche Recherche entweder über einschlägige Suchmaschinen wie z.B., durch das Nachfragen bei Experten, oder durch die direkte Nutzung von Datenportalen. Letzteres ist offensichtlich nur möglich wenn man sich schon vorher mit ähnlichen Themen oder Open Data allgemein befasst hat.
@@ -43,8 +43,8 @@ Auf den folgenden drei Seiten werden wir den Explorations- und Akquisitionsproze
 
 Quellen.
 [^1]: [](https://www.openstreetmap.org)
-[^2]: https://www.mcloud.de/ 
-[^3]: ArcMap Handbuch - http://desktop.arcgis.com/de/arcmap/10.3/manage-data/shapefiles/what-is-a-shapefile.htm 
-[^4]: RFC 7946 - https://tools.ietf.org/html/rfc7946 
-[^5]: Open Geospatial Konsortium, KML-Referenz - http://www.opengeospatial.org/standards/kml/ 
+[^2]: https://www.mcloud.de/
+[^3]: ArcMap Handbuch - http://desktop.arcgis.com/de/arcmap/10.3/manage-data/shapefiles/what-is-a-shapefile.htm
+[^4]: RFC 7946 - https://tools.ietf.org/html/rfc7946
+[^5]: Open Geospatial Konsortium, KML-Referenz - http://www.opengeospatial.org/standards/kml/
 [^6]: https://creativecommons.org/licenses/
