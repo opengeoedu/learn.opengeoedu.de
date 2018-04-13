@@ -4,7 +4,6 @@ taxonomy:
     category:
         - docs
 ---
-# Ladestationen
 Da es sowohl für Anbieter als auch für Privatpersonen von Vorteil ist, wenn die Ladestationen gut auffindbar sind, ist es nicht unwahrscheinlich hier einen guten Datensatz zu finden. Außerdem sind sie sehr einfach zu verzeichnen, da Punktdaten mit einigen Attributen hier völlig ausreichen.
 
 Tatsächlich gibt es hier auch mehrere Anbieter, die schon mit einer einfachen Suchmaschinen-Anfrage gut auffindbar sind. Doch natürlich müssen wir nach wie vor Lizenzen, Vollständigkeit, Aktualität und Verfügbarkeit beachten. Speziell zeigt sich hier, dass es viele Datensätze gibt, welche nur das Anzeigen und Hinzufügen von Ladestationen auf Karten ermöglichen, jedoch nicht das Herunterladen eben dieser Daten.
