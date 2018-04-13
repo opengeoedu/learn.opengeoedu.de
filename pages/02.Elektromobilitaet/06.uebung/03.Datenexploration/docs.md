@@ -16,11 +16,15 @@ Zusätzlich zu den allgemeinen Kriterien von offenen Daten, die im vorherigen Ka
 Soll eine repräsentative Auswertung mit sinnvollen Datenquantitäten erstellt werden, so ist es von hoher Wichtigkeit dass die Daten in guter, maschinenlesbarer Form vorliegen. Erlaubt ein Portal keinen Datenexport in allgemein verwendete Datenformate, ist es kaum zu gebrauchen.
 
 Die häufigsten Datenformate, auf die wir hier stoßen werden, sind:
-**.shp**: ESRI-Shapefiles bestehen meist aus mehreren Einzeldateien und speichern sowohl Geometrie als auch Attribute. Die Geometrien bestehen aus Punkten, Linien und Polygonen, und sind nicht topologisch, d.H. Lagebeziehungen zwischen verschiedenen Geometrien werden nicht explizit abgespeichert. [^3]
-**.geojson**: GeoJSON, ein Austauschformat für geografische Vektordaten mit weiteren Attributen, basierend auf der Javascript Object Notation (JSON). [^4]
-**.kml**: Dateiformat der Keyhole Markup Language, einer XML-basierten Beschreibungssprache für Geodaten, die sowohl Vektor- als auch Rasterdaten enthalten kann. [^5]
-**.csv**: Dateiformat für Comma Separated Values, ein eine einfache Methode strukturierte Daten im Textformat zu speichern. Ist wie eine Tabelle nach Zeilen und Spalten geordnet, und ermöglicht verschiedene Sonderzeichen um die Werte zu separieren.
-**.xlsx**: Microsoft Excel-XML Format, Standardformat neuerer Excel-Versionen als Ersatz für alte Binärformate, offen definiert mittels XML.
+* **.shp**: ESRI-Shapefiles bestehen meist aus mehreren Einzeldateien und speichern sowohl Geometrie als auch Attribute. Die Geometrien bestehen aus Punkten, Linien und Polygonen, und sind nicht topologisch, d.H. Lagebeziehungen zwischen verschiedenen Geometrien werden nicht explizit abgespeichert. [^3]
+
+* **.geojson**: GeoJSON, ein Austauschformat für geografische Vektordaten mit weiteren Attributen, basierend auf der Javascript Object Notation (JSON). [^4]
+
+* **.kml**: Dateiformat der Keyhole Markup Language, einer XML-basierten Beschreibungssprache für Geodaten, die sowohl Vektor- als auch Rasterdaten enthalten kann. [^5]
+
+* **.csv**: Dateiformat für Comma Separated Values, ein eine einfache Methode strukturierte Daten im Textformat zu speichern. Ist wie eine Tabelle nach Zeilen und Spalten geordnet, und ermöglicht verschiedene Sonderzeichen um die Werte zu separieren.
+
+* **.xlsx**: Microsoft Excel-XML Format, Standardformat neuerer Excel-Versionen als Ersatz für alte Binärformate, offen definiert mittels XML.
 
 Alle diese Formate werden typischerweise von modernen Geo-Informationssystemen unterstützt. Hat man die Wahl zwischen mehreren Formaten, sollte man überlegen wie komplex die folgenden Auswertungen werden. Arbeitet man z.B. mit ArcGIS, erlauben Shapefiles einige fortgeschrittene Vorgänge, wie z.B. das Einbinden in eine Geodatabase, um Topologieinformationen hinzuzufügen. [^3] GeoJSON wiederum ist in webbasierten Anwendungen sehr einfach zu verarbeiten und gut zum Austausch über Schnittstellen geeignet.
 
