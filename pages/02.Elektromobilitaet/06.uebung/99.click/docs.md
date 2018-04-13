@@ -1,13 +1,12 @@
 ---
-title: 'Klick für Klick'
+title: 'Klick für Klick Anleitung'
 taxonomy:
     category:
         - docs
 ---
 
-!! alot2do ;>
-
 Anleitung zu den Pflichtaufgaben
+!! alot2do ;>
 ## Aufgabe 1
 
 
