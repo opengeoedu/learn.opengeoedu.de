@@ -8,7 +8,7 @@ Will man wie vorher angesprochen nun eine Auswertung mit offenen Daten durchfüh
 
 Im Allgemeinen beginnt man eine solche Recherche entweder über einschlägige Suchmaschinen wie z.B., durch das Nachfragen bei Experten, oder durch die direkte Nutzung von Datenportalen. Letzteres ist offensichtlich nur möglich wenn man sich schon vorher mit ähnlichen Themen oder Open Data allgemein befasst hat.
 
-Ein prominentes Beispiel für einen solchen Anlaufpunkt für offene Geodaten ist OpenStreetMap [^1]. Die Datenbanken dieses internationalen Projektes enthalten eine Vielzahl von Daten aus einer Vielzahl von Domänen. Hierzu wird es später ein konkreteres Beispiel und Erklärungen geben. Ein Beispiel für ein spezifischeres Portal ist die mCloud des Bundesamtes für Verkehr und digitale Infrastruktur, eine "Rechercheplattform zu offenen Daten aus dem Bereich Mobilität und angrenzender Themen". [^2] Zu finden sind hier Daten von Verkehrsinfrastruktur bis Wetteraufzeichnungen.
+Ein prominentes Beispiel für einen solchen Anlaufpunkt für offene Geodaten ist OpenStreetMap.[^1] Die Datenbanken dieses internationalen Projektes enthalten eine Vielzahl von Daten aus einer Vielzahl von Domänen. Hierzu wird es später ein konkreteres Beispiel und Erklärungen geben. Ein Beispiel für ein spezifischeres Portal ist die mCloud des Bundesamtes für Verkehr und digitale Infrastruktur, eine "Rechercheplattform zu offenen Daten aus dem Bereich Mobilität und angrenzender Themen".[^2] Zu finden sind hier Daten von Verkehrsinfrastruktur bis Wetteraufzeichnungen.
 
 Zusätzlich zu den allgemeinen Kriterien von offenen Daten, die im vorherigen Kapitel genannt wurden, soll nachfolgend noch auf einige speziellere Merkmale eingegangen werden.
 
