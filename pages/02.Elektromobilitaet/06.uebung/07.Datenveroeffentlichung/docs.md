@@ -4,7 +4,6 @@ taxonomy:
     category:
         - docs
 ---
-# Datenveröffentlichung
 Schlussendlich muss jedes Projekt irgendwo veröffentlicht werden. Möglicherweise in einem wissenschaftlichen Journal, auf einer Projektwebseite, oder auf einem von einer Institution angebotenen WebGIS. In allen Fällen muss unterschiedlich vorgegangen werden.
 
 Für wissenschaftliche Publikationen benötigt man Varianten der Karten, die in das Paper selbst eingefügt werden können. Da diese jedoch oft zu klein, und nicht maschinenlesbar sind, sollten die Daten auch auf einer privaten Webseite, oder auf Institutsseiten veröffentlich werden. Teilweise bieten auch die Journals selbst Speicherplatz an.
