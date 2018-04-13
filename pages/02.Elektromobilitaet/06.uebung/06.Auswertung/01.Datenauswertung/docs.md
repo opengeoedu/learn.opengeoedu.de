@@ -4,7 +4,6 @@ taxonomy:
     category:
         - docs
 ---
-# Datenauswertung
 Hier nun eine kleine Erinnerung was unsere eigentliche Problemstellung war: Wir wollen anhand der Verteilung der Ladestationen in Deutschland abschätzen, in welchen Kreisen die potentielle Nachfrage nach Fahrzeugen und Infrastruktur am größten ist.
 
 ## Idee
