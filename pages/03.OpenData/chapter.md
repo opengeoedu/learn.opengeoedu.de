@@ -8,8 +8,6 @@ editable-simplemde:
   self: false
 ---
 
-# OpenGeoEdu Grundlagenkapitel
-
 # Open Data
 
 Einführung in die Arbeit mit offenen Daten
@@ -22,23 +20,18 @@ Einführung in die Arbeit mit offenen Daten
   </iframe>
 </object>
 </div>
-
 [Download Teaser](https://www.opengeoedu.de/content/Foliensets/data_teaser_20180316_v1.pdf)
 
-In dieser Lerneinheit lernen Sie ...
 
-- Warum offene Daten für die **Gesellschaft**, **Demokratie**, **Wissenschaft** **Wirtschaft** und nicht zuletzt für
 
-  <u>
-    <strong>Sie</strong>
-  </u>
+### In dieser Lerneinheit lernen Sie:
 
-  wichtig sind und warum ihre Bedeutung weiterhin rasant wächst
+Warum offene Daten für die **Gesellschaft**, **Demokratie**, **Wissenschaft**, **Wirtschaft** und nicht zuletzt für Sie wichtig sind, und warum ihre Bedeutung weiterhin rasant wächst
 
-- wissenswertes zur **Open Data Bewegung** und ihren Hintergründen
+Wissenswertes zur **Open Data Bewegung** und ihren Hintergründen
 
-- **Wo** offene Daten zu finden sind, **wie** man sie verwenden kann und **was** dabei zu Beachten ist
+**Wo** offene Daten zu finden sind, **wie** man sie verwenden kann und **was** dabei zu Beachten ist
 
-- Zu beurteilen, **ob ein Datensatz für Ihr Vorhaben geeignet ist**
+Grundlagen des **Urheberrechts** und der **Lizenzen** für offenen Daten
 
-- Grundlagen des **Urheberrechts** und der **Lizenzen** für offenen Daten
+Zu beurteilen, ob ein offener Datensatz für Ihr Vorhaben geeignet ist und einen Mehrwert für Ihr Projekt darstellt
