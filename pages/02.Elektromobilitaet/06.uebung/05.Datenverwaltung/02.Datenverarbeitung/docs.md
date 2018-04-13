@@ -4,8 +4,6 @@ taxonomy:
     category:
         - docs
 ---
-
-# Datenverarbeitung
 Nun zum letzten Vorbereitungsschritt. Hier wollen wir unsere Daten endlich in Verbindung zueinander bringen, so dass wir mit ihnen arbeiten können. Grundsätzlich gibt es hier zwei Arten von Daten:
 
 Daten mit direkter Georeferenz. Diese enthalten Längen- und Breitengrade, einen Rechts- und Hochwert, oder eine sonstige direkte Koordinatenangabe. In den meisten Fällen wird das Geo-Informationssystem diese korrekt erkennen und die Datensätze korrekt auf einer Karte positionieren.
