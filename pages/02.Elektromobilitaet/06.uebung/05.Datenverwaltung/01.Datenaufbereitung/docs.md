@@ -4,8 +4,6 @@ taxonomy:
     category:
         - docs
 ---
-
-# Datenaufbereitung
 Die Aufbereitung setzt sich aus zwei Schritten zusammen:
 1. Alle überflüssigen Attribute sollten entfernt und
 2. alle gewünschten Attribute in die richtige Form gebracht werden.
