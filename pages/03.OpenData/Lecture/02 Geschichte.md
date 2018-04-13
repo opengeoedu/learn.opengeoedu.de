@@ -1,11 +1,10 @@
 ---
-title: Overview
+title: Übersicht
+published: false
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
-
-
-Let's face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
 
 **Markdown** is a better way to write **HTML**, without all the complexities and ugliness that usually accompanies it.
 
@@ -299,39 +298,39 @@ You may use any of the following symbols to denote bullets for each list item:
 ```markdown
 * valid bullet
 - valid bullet
-+ valid bullet
+  valid bullet
 ```
 
 For example
 
 ```markdown
-+ Lorem ipsum dolor sit amet
-+ Consectetur adipiscing elit
-+ Integer molestie lorem at massa
-+ Facilisis in pretium nisl aliquet
-+ Nulla volutpat aliquam velit
+  Lorem ipsum dolor sit amet
+  Consectetur adipiscing elit
+  Integer molestie lorem at massa
+  Facilisis in pretium nisl aliquet
+  Nulla volutpat aliquam velit
   - Phasellus iaculis neque
   - Purus sodales ultricies
   - Vestibulum laoreet porttitor sem
   - Ac tristique libero volutpat at
-+ Faucibus porta lacus fringilla vel
-+ Aenean sit amet erat nunc
-+ Eget porttitor lorem
+  Faucibus porta lacus fringilla vel
+  Aenean sit amet erat nunc
+  Eget porttitor lorem
 ```
 Renders to:
 
-+ Lorem ipsum dolor sit amet
-+ Consectetur adipiscing elit
-+ Integer molestie lorem at massa
-+ Facilisis in pretium nisl aliquet
-+ Nulla volutpat aliquam velit
+  Lorem ipsum dolor sit amet
+  Consectetur adipiscing elit
+  Integer molestie lorem at massa
+  Facilisis in pretium nisl aliquet
+  Nulla volutpat aliquam velit
   - Phasellus iaculis neque
   - Purus sodales ultricies
   - Vestibulum laoreet porttitor sem
   - Ac tristique libero volutpat at
-+ Faucibus porta lacus fringilla vel
-+ Aenean sit amet erat nunc
-+ Eget porttitor lorem
+  Faucibus porta lacus fringilla vel
+  Aenean sit amet erat nunc
+  Eget porttitor lorem
 
 And this HTML
 
@@ -441,7 +440,7 @@ In this example, `<section></section>` should be wrapped with **code**.
 HTML:
 
 ```html
-<p>In this example, <code>&lt;section&gt;&lt;/section&gt;</code> should be wrapped with <strong>code</strong>.</p>
+<p>In this example, <code><section></section></code> should be wrapped with <strong>code</strong>.</p>
 ```
 
 ### Indented code
