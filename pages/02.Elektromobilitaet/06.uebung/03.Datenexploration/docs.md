@@ -45,9 +45,9 @@ Ein Datensatz kann gut zugreifbar, in einem passenden Dateiformat und mit freier
 Auf den folgenden drei Seiten werden wir den Explorations- und Akquisitionsprozess für die für unsere Auswertung benötigten Daten durchlaufen. Jede Seite zielt auf einen Datensatz ab, und ist mit einer Aufgabe assoziiert die zu lösen ist.
 
 Quellen.
-[^1]: [](https://www.openstreetmap.org)
-[^2]: https://www.mcloud.de/
+[^1]: OpenStreetMap https://www.openstreetmap.org
+[^2]: mCloud https://www.mcloud.de/
 [^3]: ArcMap Handbuch - http://desktop.arcgis.com/de/arcmap/10.3/manage-data/shapefiles/what-is-a-shapefile.htm
 [^4]: RFC 7946 - https://tools.ietf.org/html/rfc7946
 [^5]: Open Geospatial Konsortium, KML-Referenz - http://www.opengeospatial.org/standards/kml/
-[^6]: https://creativecommons.org/licenses/
+[^6]: CC-Lizenz https://creativecommons.org/licenses/
