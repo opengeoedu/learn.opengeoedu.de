@@ -3,17 +3,18 @@ title: 'Klick für Klick Anleitung'
 taxonomy:
     category:
         - docs
-highlight:
-    theme: monokai
 ---
 
 ## Aufgabe 1
-Öffnen Sie das ESRI Deutschland Open Data Portal (http://opendata-esri-de.opendata.arcgis.com) im Browser. Suchen Sie nach „Kreisgrenzen“.
-Suchen Sie den Datensatz „Deutschland Kreisgrenzen 2015“ Datensatz heraus. Klicken Sie auf Daten herunterladen, und wählen Sie als Format „Shapefile“ aus.
+Öffnen Sie das [ESRI Deutschland Open Data Portal](http://opendata-esri-de.opendata.arcgis.com) im Browser.
+Suchen Sie nach „Kreisgrenzen“.
+Suchen Sie den Datensatz „Deutschland Kreisgrenzen 2015“ Datensatz heraus.
+Klicken Sie auf Daten herunterladen, und wählen Sie als Format „Shapefile“ aus.
 
 ## Aufgabe 2
-Öffnen Sie die Overpass-Turbo Webseite (https://overpass-turbo.eu/), um eine Anfrage an die Overpass API von OpenStreetMap zu stellen.
+Öffnen Sie die [Overpass-Turbo Webseite](https://overpass-turbo.eu/), um eine Anfrage an die Overpass API von OpenStreetMap zu stellen.
 Wählen Sie dazu manuell ungefähr das deutsche Staatsgebiet aus, und stellen Sie folgende Anfrage:
+
 ```
 [timeout:200];
 // gather results
@@ -31,18 +32,24 @@ Vollständigere Alternative: OpenChargeMap
 API Anfrage: https://api.openchargemap.io/v2/poi/?output=kml&countrycode=DE&opendata=true&maxresults=20690
 
 ## Aufgabe 3
-Öffnen Sie die Webseite des Statistischen Bundesamtes. (https://www.regionalstatistik.de/)
+Öffnen Sie die Webseite des [Statistischen Bundesamtes](https://www.regionalstatistik.de/).
 
-Suchen Sie nach „Bevölkerungsdichte“, wählen Sie dann bei den Ergebnissen „Merkmale“, und suchen Sie nach einer Statistik zu Bevölkerungsdichte je qkm. Es sollte eine Tabelle aus dem Regionalatlas Deutschland zu finden sein. Wählen Sie hier das Jahr 2015 als Zeitraum aus, bevor Sie den Werteabruf starten. Exportieren Sie die nachfolgend angezeigte Tabelle als .xlsx-Datei, mittels des entsprechenden Buttons unter „Optionen“.
+Suchen Sie nach „Bevölkerungsdichte“, wählen Sie dann bei den Ergebnissen „Merkmale“, und suchen Sie nach einer Statistik zu Bevölkerungsdichte je qkm.
+Es sollte eine Tabelle aus dem Regionalatlas Deutschland zu finden sein. Wählen Sie hier das Jahr 2015 als Zeitraum aus, bevor Sie den Werteabruf starten.
+Exportieren Sie die nachfolgend angezeigte Tabelle als .xlsx-Datei, mittels des entsprechenden Buttons unter „Optionen“.
 
-Suchen Sie dann nach „Durchschnittsalter“, wählen Sie wieder „Merkmale“, und suchen Sie einen Datensatz der ebenso aus 2015 stammt. Exportieren Sie die Daten dann wieder als .xlsx.
+Suchen Sie dann nach „Durchschnittsalter“, wählen Sie wieder „Merkmale“, und suchen Sie einen Datensatz der ebenso aus 2015 stammt.
+Exportieren Sie die Daten dann wieder als .xlsx.
 
-Suchen Sie dann nach „Einkommen“, wählen Sie „Merkmale“ und suchen Sie nach einem Datensatz zum Verfügbaren Einkommen je Einwohner auf Kreisebene. Dieser sollte mindestens für das Jahr 2014 verfügbar sein.
+Suchen Sie dann nach „Einkommen“, wählen Sie „Merkmale“ und suchen Sie nach einem Datensatz zum Verfügbaren Einkommen je Einwohner auf Kreisebene.
+Dieser sollte mindestens für das Jahr 2014 verfügbar sein.
 
 ## Aufgabe 4
-Öffnen Sie https://www.draw.io/ und erstellen sie ein neues Diagramm. Wählen sie als Grundlage „Blank Diagram“.
+Öffnen Sie [draw.io](https://www.draw.io/) und erstellen sie ein neues Diagramm.
+Wählen sie als Grundlage „Blank Diagram“.
 
-Für die in den vorherigen Aufgaben gesammelten Daten soll nun eine Datenstruktur entwickelt werden, um diese systematischer bearbeiten zu können. Hierfür benötigen wir die Diagrammelemente unter „UML“.
+Für die in den vorherigen Aufgaben gesammelten Daten soll nun eine Datenstruktur entwickelt werden, um diese systematischer bearbeiten zu können.
+Hierfür benötigen wir die Diagrammelemente unter „UML“.
 
 Genauer gesagt soll ein Klassendiagramm erstellt werden, in dem es für die Klassen genügt die Attribute anzugeben, da in statischen Daten wie diesen keine Methoden vorkommen. In draw.io nennt sich dieses Element „Class 2“.
 
@@ -90,12 +97,11 @@ Ist die Karte ansprechend positioniert, fügen Sie die restlichen Elemente die f
 
 Dieser Schritt ist relativ komplex, Sie können daher das nachfolgende Video als Anleitung benutzen. Beachten Sie dass dies nur eine kurze Demonstration ohne besonderen Fokus auf ansprechendes Layout ist. Experimentieren sie mit den Einstellungen und Elementpositionen, um ein kartographisch ansprechendes und professionell wirkendes Resultat zu erhalten.
 
-Video Player
-00:00
-04:53
-(Auf Youtube ansehen)
+[plugin:youtube](https://www.youtube.com/watch?v=EMAT-hqmlXI)
+(Auf Youtube ansehen)[https://www.youtube.com/watch?v=EMAT-hqmlXI]
 
-Bei weiteren Fragen gibt es auch noch die offizielle Anleitung: http://docs.qgis.org/2.6/de/docs/user_manual/print_composer/print_composer.html
+Bei weiteren Fragen gibt es auch noch die offizielle Anleitung:
+[http://docs.qgis.org/2.6/de/docs/user_manual/print_composer/print_composer.html](http://docs.qgis.org/2.6/de/docs/user_manual/print_composer/print_composer.html)
 
 ## Aufgabe 7
 Die in der vorherigen Aufgabe getätigten Schritte treten leicht abgewandelt bei vielen Auswertungen auf. Nutzen Sie was sie gelernt haben.
