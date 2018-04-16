@@ -14,8 +14,7 @@ Die folgende Tabelle enthält einen Überblick über verschiedene Anbieter, meis
 |  :-----          |  :-----          |  :-----          |  :-----          |  :-----          |
 |  LemNet e.V. |  >7500	| aktuell |	Nur Karte |	https://www.lemnet.org/de |
 |  Bundesverband der Energie- und Wasserwirtschaft |  3206 (7407 Ladepunkte) |	aktuell	| Nur Karte | https://www.bdew.de/internet.nsf/id/bdew-erhebung-elektromobilitaet-de |
-|  GoingElectric |  8860 (26402 Ladepunkte)	| aktuell |	Nur Karte und Liste |	http://www.goingelectric.de/
- |
+|  GoingElectric |  8860 (26402 Ladepunkte)	| aktuell |	Nur Karte und Liste |	http://www.goingelectric.de/ |
 |  Smarttanken | ? |	aktuell	| Nur Karte	| www.smarttanken.de |
 |  e-stations.de | ~4000 | aktuell	| Nur Karte und Liste |	https://e-stations.de/ |
 |  E-Tankstellenfinder |	4340 |	aktuell |	Nur Karte |	https://e-tankstellen-finder.com |
