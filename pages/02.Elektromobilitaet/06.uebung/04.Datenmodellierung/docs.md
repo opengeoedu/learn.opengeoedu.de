@@ -11,7 +11,7 @@ Bevor wir nun nach Augenmaß Datensätze entfernen und rekombinieren, sollte man
 Das Ergebnis dieser Überlegungen sollte also eine gut durchsichtige Struktur für unsere Daten liefern. In solchen Fällen ist eine visuelle Darstellung oft effektiver als eine textuelle Beschreibung. Der Standard für grafische Modellierung ist die Unified Modeling Language (UML).
 
 ## Unified Modeling Language
-Die Unified Modeling Language ist ursprünglich eine grafische Modellierungssprache für komplexe Softwaresysteme, welche es erlaubt Software zu entwerfen bevor diese programmiert wird. Sie hilft sowohl beim Spezifizieren, Visualisieren, als auch beim Dokumentieren und Testen. [1]
+Die Unified Modeling Language ist ursprünglich eine grafische Modellierungssprache für komplexe Softwaresysteme, welche es erlaubt Software zu entwerfen bevor diese programmiert wird. Sie hilft sowohl beim Spezifizieren, Visualisieren, als auch beim Dokumentieren und Testen.[^1]
 
 Nachdem sie im Bereich der Softwareentwicklung zu internationaler Verbreitung gelangt ist, hat sie sich auch in weiteren Bereichen verbreitet. Fast jedes komplexe System das von größeren Gruppen entwickelt und genutzt werden soll profitiert von einer guten Modellierung. Das am weitesten verbreitete Beispiel ist hierbei sicher die Geschäftsprozessmodellierung, welche auch für größere geodatenbasierte Projekte relevant sein kann. An dieser Stelle wollen wir uns jedoch nicht auf Prozesse, sondern auf Strukturen konzentrieren.
 
@@ -36,10 +36,10 @@ Ein Beispiel für einen Anwendungsfall wäre hier ein Besitzer eines E-Fahrzeugs
 
 
 ## INSPIRE
-Angesichts der weiten Verbreitung der UML, ist es nicht überraschend dass es auch eine standardisierte Spezifikation speziell für Geodaten gibt. Das INSPIRE-Projekt (Infrastructure for spatial information in Europe) will eine Europa weite Geodateninfrastruktur aufbauen, und nutzt dabei zur Definition ihrer Standards eine Vielzahl von UML-Elementen und Diagrammen. Dabei stützen sie sich auf die ISO-Norm ISO 19103:2015. [2]
+Angesichts der weiten Verbreitung der UML, ist es nicht überraschend dass es auch eine standardisierte Spezifikation speziell für Geodaten gibt. Das INSPIRE-Projekt (Infrastructure for spatial information in Europe) will eine Europa weite Geodateninfrastruktur aufbauen, und nutzt dabei zur Definition ihrer Standards eine Vielzahl von UML-Elementen und Diagrammen. Dabei stützen sie sich auf die ISO-Norm ISO 19103:2015.[^2]
 
 Die UML-Modelle, die Sie hier erstellen, müssen sich nicht an diese Norm halten, aber ein Blick auf die UML-Diagramme in der INSPIRE-Data Specification (Siehe externe Materialien) kann sich schon deshalb lohnen, um die eine oder andere Idee zum Aufbau Ihrer Diagramme zu bekommen. Sollten Sie zu einem späteren Zeitpunkt in offizielle Projekte involviert sein, ist es außerdem nicht unwahrscheinlich, dass diese auf INSPIRE aufbauen.
 
-! Quellen:
-! [1] - http://www.uml.org/what-is-uml.htm
-! [2] - https://inspire.ec.europa.eu/
+Quellen:
+[^1]: http://www.uml.org/what-is-uml.htm
+[^2]: https://inspire.ec.europa.eu/
