@@ -26,7 +26,7 @@ Wählen Sie dazu manuell ungefähr das deutsche Staatsgebiet aus, und stellen Si
 out;
 ```
 
-![](overpass.png)
+![overpassturbo](overpass.png)
 
 Wählen Sie dann die Schaltfläche „Export“, und exportieren Sie die Daten in einem Format das in QGIS als Vektordatei geöffnet werden kann, z.B. GeoJSON.
 
@@ -49,7 +49,7 @@ Dieser sollte mindestens für das Jahr 2014 verfügbar sein.
 ## Aufgabe 4
 Öffnen Sie [draw.io](https://www.draw.io/) und erstellen sie ein neues Diagramm.
 Wählen sie als Grundlage „Blank Diagram“.
-![](drawio.png?classes=float-right)
+![drawio](drawio.png?classes=float-right,shadow)
 
 Für die in den vorherigen Aufgaben gesammelten Daten soll nun eine Datenstruktur entwickelt werden, um diese systematischer bearbeiten zu können.
 Hierfür benötigen wir die Diagrammelemente unter „UML“.
@@ -64,7 +64,7 @@ Fügen Sie nun alle für die Auswertungen wichtigen Attribute/Spalten, die Sie i
 Installieren Sie QGIS und öffnen Sie QGIS Desktop. Fügen Sie dann die Kreisgrenzen und die Ladestationen als Vektorlayers hinzu.
 
 Nutzen Sie das „Clip“-Werkzeug (Vektor -> Geoverarbeitungswerkzeuge -> Zuschneiden) mit den Ladestationen als Eingabe, und den Landesgrenzen als Clip-Layer.
-![](qgis.png)
+![qgis](qgis.png)
 Fügen Sie nun die drei Tabellen mit den demographischen dem Projekt hinzu. Rechtsklicken Sie auf die Kreisgrenzen-Shapefile, öffnen Sie die Eigenschaften und wählen Sie den Reiter „Verknüpfungen“.
 
 Dort klicken Sie auf das grüne Plus-Zeichen. Verknüpfen Sie für alle drei Tabellen das erste Feld mit dem Feld „RS“ im Kreisgrenzendatensatz. Wenn Sie nun in die Attributtabelle der Kreisgrenzen schauen, werden Sie sehen, dass alle Spalten der drei demographischen Tabellen an passender Stelle hinzugefügt wurden.
@@ -91,7 +91,7 @@ Dies muss sowohl für Ladestationen als auch Bevölkerungsdichte durchgeführt w
 Sobald diese beiden Attribute berechnet sind, kann die Nachfrage geschätzt werden. Wir werden hier einfach die Differenz nutzen. Nutzen Sie wieder den Feldrechner und subtrahieren Sie die Spalte der standardisierten Ladestationenzahl von der Spalte mit der standardisierten Bevölkerungsdichte.
 
 Öffnen Sie dann die Eigenschaften, klicken auf den Reiter „Stil“ und wählen im obersten Drop-Down Menü „Abgestuft“. Suchen Sie einen Farbverlauf Ihrer Wahl aus und klicken Sie dann auf „Klassifizieren“. Stellen Sie sicher dass die vom Programm gewählten Grenzen sinnvoll sind und für eine aussagekräftige Einfärbung der Karte sorgen. Experimentieren Sie mit verschiedenen Modi und Farbverläufen.
-![](qgis2.png)
+![QGIS Layereigenschaften](qgis2.png)
 Öffnen Sie das gleiche Menü bei den Ladestationen, und justieren Sie Farbe und Größe so dass diese sichtbar sind, aber nicht die berechneten Ergebnisse überdecken.
 
 Sollte die Karte verzerrt wirken, klicken Sie auf den Projektionsnamen in der unteren rechten Ecke des Fensters und aktivieren Sie Spontanreprojektion. Dann suchen Sie nach „ETRS89 / UTM zone 32N“ un wenden diese auf die Karte an.
@@ -115,7 +115,7 @@ Die in der vorherigen Aufgabe getätigten Schritte treten leicht abgewandelt bei
 
 ## Aufgabe 8
 Klicken Sie auf „Erweiterungen“ und suchen Sie nach Qgis2web. Installieren Sie diese Erweiterung. In der Werkzeugleiste sollte nun ein neues Symbol mit dem Label „Create Web Map“ aufgetaucht sein.
-![](qgis3.png)
+![qgis2web](qgis3.png)
 Öffnen Sie dieses. Zuerst öffnet sich eine Seite mit Export-Einstellungen. Gehen Sie sicher dass die richtigen Layer angewählt sind (Ladestationen und Kreisgrenzen mit Nachfrageschätzung für die Pflichtauswertung).
 
 Wählen Sie in der Liste unten links unter „Data Export“ -> „Exporter“ -> „…“ einen Ordner aus, in den die Webseiten-Dateien geschrieben werden sollen. Wählen Sie dann unten rechts die Hintergrundkarte für Ihre Daten aus, am besten „OSM“. Dann klicken Sie auf „Export“.
