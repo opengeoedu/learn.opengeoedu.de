@@ -22,4 +22,4 @@ Weiterhin muss man sich bei jeder Problemstellung, die mit offenen Daten bearbei
 Um diese Fragen zu beantworten, muss zuallererst eine Datenexploration durchgeführt werden. Diese wird im nächsten Abschnitt behandelt, und gleichzeitig auch die erste Aufgabe dieser Übung sein.
 
 ! Quellen:
-! [1] Webseite des Open Data Institutes: [https://theodi.org/](https://theodi.org/)
+! Webseite des Open Data Institutes: [https://theodi.org/](https://theodi.org/)
