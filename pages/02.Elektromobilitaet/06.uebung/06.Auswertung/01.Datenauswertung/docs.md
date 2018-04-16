@@ -21,9 +21,11 @@ Würden wir in unserem Fall z.B. einfach die Differenz in absoluten Zahlen zwisc
 Um vergleichbare Metriken der Abweichungen zu erhalten, gibt es eine statistische Methode names Standardisierung (auch Normalisierung oder Z-Transformation genannt). Diese Methode transformiert eine statistische Zufallsvariable so, dass sie einen Erwartungswert von Null, und eine Varianz von Eins besitzt. Praktisch bedeutet dies, dass alle Werte so verändert werden, dass sie nur die relative Abweichung vom Mittelwert anzeigen, in den positiven als auch in den negativen Bereich. Die Werte können dabei auch einen Betrag von Eins übersteigen, falls sie besonders stark abweichen.
 
 Berechnet wird diese Transformation mit folgender Formel:
-!!! x′=x−x¯¯¯σ
+!!! \[
+!!! x^{\prime} = \frac{x - \overline{x}}{\sigma}
+!!! \]
 
-x ist dabei ein einzelner Wert, x¯¯¯ der Mittelwert, und σ die Standardabweichung. Diese Formel kann normalerweise im Feldrechner des von ihnen genutzten GIS einfach eingegeben werden. Falls nicht, müssen sie Mittelwert und Standardabweichung separat berechnen und zwischenspeichern. Beachten Sie dass dieser Vorgang für beide Datensätze durchführt werden muss, Bevölkerungsdichte pro Kreis, und Anzahl der Ladestationen pro Kreis!
+$x$ ist dabei ein einzelner Wert, $\overline{x}$ der Mittelwert, und $\sigma$ die Standardabweichung. Diese Formel kann normalerweise im Feldrechner des von ihnen genutzten GIS einfach eingegeben werden. Falls nicht, müssen sie Mittelwert und Standardabweichung separat berechnen und zwischenspeichern. Beachten Sie dass dieser Vorgang für beide Datensätze durchführt werden muss, Bevölkerungsdichte pro Kreis, und Anzahl der Ladestationen pro Kreis!
 
 Um die Anzahl der Ladestationen pro Kreis zu erhalten, müssen Sie ein entsprechendes Werkzeug nutzen, welches die Punkte in jedem Polygon durchzählt. QGis hat hier direkt ein "Punkte in Polygon zählen" Werkzeug, bei ArcGIS gibt es den Umweg über die "Spatial Join"-Funktionalität. Hier muss erst in den Punktdaten ein Attributfeld mit einem Wert von Eins erstellt werden, und dieses dann über die Polygone aufsummiert werden. Auch diese Funktion wird im Teil zu Geo-Algorithmen erklärt.
 
