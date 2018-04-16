@@ -71,14 +71,18 @@ Dort klicken Sie auf das grüne Plus-Zeichen. Verknüpfen Sie für alle drei Tab
 ## Aufgabe 6
 Nutzen Sie erst das Point-in-Polygon (Vektor -> Analyse-Werkzeuge -> Punkte in Polygon zählen) um die Ladestationen in jedem Landkreis zu zählen. Speichern Sie den neu entstandenen Datensatz.
 
-Um nun Bevölkerungsdichte und Anzahl der Ladestationen zu normalisieren, benötigen wir den Mittelwert (x¯¯¯) und die Standardabweichung (σ) beider Spalten um folgende Formel zu berechnen:
+Um nun Bevölkerungsdichte und Anzahl der Ladestationen zu normalisieren, benötigen wir den Mittelwert ($\overline{x}$) und die Standardabweichung ($\sigma$) beider Spalten um folgende Formel zu berechnen:
 
-x′=x−x¯¯¯σ
+!!! \[
+!!! x^{\prime} = \frac{x - \overline{x}}{\sigma}
+!!! \]
 
 Dafür öffnen wir die Attributtabelle unseres Datensatzes, und starten dann den Feldrechner. Dieser erlaubt es uns neue Spalten Feld für Feld nach bestimmten Formeln mit Werten zu füllen. Wir wählen „Neues Feld anlegen“, überlegen uns einen passenden Namen für das neue normalisierte Attribut und führen folgende Formel aus:
+
 ```
 ("ATTR_NAME" - mean("ATTR_NAME")) / (stdev("ATTR_NAME"))
 ```
+
 `ATTR_NAME` sollte dabei durch den Namen der entsprechenden Tabellenspalte ersetzt werden. Mean und stdev aggregieren Mittelwert und Standardabweichung über die gesamte Spalte, während `ATTR_NAME` für jedes neue Feld den Wert des Ursprungsfeldes in der gleichen Zeile einsetzt.
 
 Dies muss sowohl für Ladestationen als auch Bevölkerungsdichte durchgeführt werden. Achten Sie dabei auf die Formate der Spalten, evtl. liegen die Zahlen in einer der Spalten als Strings gespeichert vor, und müssen erst mittels `to_real()` oder `to_int()` umgewandelt werden.
@@ -119,7 +123,6 @@ Im vorher ausgewählten Ordner sollte nun ein weiterer Ordner mit den Daten der 
 
 Führen Sie diesen Prozess für die beiden Auswertungen durch. Enthält Ihre Auswertung mehrere Karten-Layer, dann nutzen Sie den mitgelieferten Layer-Switcher, welcher in der oberen rechte Ecke der Karte zu finden ist und es erlaubt dynamisch Layer hinzuzufügen und abzuschalten.
 
-Überlegen Sie sich dann wie Sie ihre Ergebnisse möglichst sinnvoll präsentieren können. Sie könnten beispielsweise die Karten in einen kleineren Seitenausschnitt komprimieren, und eine Titelleiste und Erklärungstext hinzufügen. Versuchen sie dabei gängige Web-Elemente zu benutzen, um die Seite nutzerfreundlich zu gestalten. Das Bootstrap-Framework bietet dafür z.B. einige einfache Starter-Templates, aus denen Sie sich bedienen können.
-(https://v4-alpha.getbootstrap.com/examples/)
+Überlegen Sie sich dann wie Sie ihre Ergebnisse möglichst sinnvoll präsentieren können. Sie könnten beispielsweise die Karten in einen kleineren Seitenausschnitt komprimieren, und eine Titelleiste und Erklärungstext hinzufügen. Versuchen sie dabei gängige Web-Elemente zu benutzen, um die Seite nutzerfreundlich zu gestalten. Das (Bootstrap-Framework)[https://getbootstrap.com/] bietet dafür z.B. einige einfache Starter-Templates, aus denen Sie sich bedienen können.
 
 Die Karte befindet sich im HTML-Body in einem <div> Element, welches von Skripten und durch CSS befüllt wird. Bauen Sie um dieses herum Ihre HTML-Seite auf. Sie müssen kein Javascript oder CSS benutzen, besonders letzteres wird meistens gut von Bootstrap übernommen. Eine grundlegende Einführung in HTML finden Sie in den externen Materialien, benötigen Sie weitergehende Funktionalität gibt es eine große Menge einsteigerfreundlicher Ressourcen.
