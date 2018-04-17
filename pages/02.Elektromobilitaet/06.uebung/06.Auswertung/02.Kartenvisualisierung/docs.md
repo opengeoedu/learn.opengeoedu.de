@@ -4,7 +4,6 @@ taxonomy:
     category:
         - docs
 ---
-# Kartenvisualisierung
 Jedes GI-System bietet zumindest grundlegende Funktionen an Karten zu erstellen und zu exportieren, da es die natürlichste, und oft einzige Form ist verarbeitete Geodaten sinnvoll zu veröffentlichen. Die digitale Kartographie ist dabei ein umfassendes Gebiet, dessen Feinheiten an dieser Stelle nicht vertieft werden können. Zu beachten sind Faktoren wie Typographie, menschliche Farbwahrnehmung, kartographische Darstellungsregeln, Displayauflösungen, Drucktechnik, Dateiformate, Koordinatensysteme, Lizenzrechte und viele mehr. Informationen hierzu finden sich im Modul Kartographie.
 
 An dieser Stelle sollen nur sehr einfache Karten erzeugt werden. Ein passender Kartenausschnitt auf einem A4-Blatt, ergänzt um:

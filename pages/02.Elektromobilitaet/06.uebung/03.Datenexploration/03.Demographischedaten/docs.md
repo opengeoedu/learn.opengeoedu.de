@@ -4,7 +4,6 @@ taxonomy:
     category:
         - docs
 ---
-# Demographische Daten
 Wie schon in der Problemstellung beschrieben, geht es bei diesen Daten darum zusätzlichen Kontext, z.B. aus dem Zensus, einfließen zu lassen, und interessante Auswertungen zu ermöglichen. Da nicht unmittelbar ersichtlich ist, welcher demographische Faktor am meisten zur Verteilung der Nutzung von Elektromobilität beiträgt, muss hier eine Selektion einiger wahrscheinlicher Einflussfaktoren getroffen werden:
 
 Elektrofahrzeuge sind oft teuer, insbesondere wenn noch eine persönliche Ladestation in die Garage eingebaut werden muss. Das monatliche Einkommen spielt also eine Rolle.

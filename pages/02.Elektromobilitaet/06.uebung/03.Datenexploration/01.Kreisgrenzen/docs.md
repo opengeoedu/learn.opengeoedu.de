@@ -5,7 +5,6 @@ taxonomy:
         - docs
 ---
 
-# Kreisgrenzen
 Hierbei handelt es sich um einen Datensatz, der auf jeden Fall offen vorliegt, da er Grundlage für so viele Arten von Auswertungen und Visualisierungen ist. Eine Google-Suche mit den richtigen Stichwörtern sollte dabei genügen. So geht es hier genauer gesagt um die Grenzen von Kreisen *und* von Kreisfreien Städten, damit der Datensatz später auch vollständig ist.
 
 Es sollte außerdem darauf geachtet werden für welchen Zeitraum der Datensatz vorliegt. Dementsprechend müssen später die weiteren Datensätze zeitlich ausgewählt werden. Dies ist nicht immer vom ersten gewählten Datensatz abhängig, da später benötigte Daten oft auch einfach nicht für das gewünschte Jahr vorliegen. Im Idealfall findet man eine Quelle, welche die Kreisgrenzen für verschiedene Jahre anbietet.
