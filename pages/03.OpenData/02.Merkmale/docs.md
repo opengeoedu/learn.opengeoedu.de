@@ -5,9 +5,9 @@ taxonomy:
         - docs
 ---
 
->> Diese Seite ist noch im Entwurfsstadium.
+! Diese Seite ist noch im Entwurfsstadium.
 
->>> Offene Daten sind Daten, die von jedem und zu jedem Zweck genutzt, verändert und weitergegeben werden können.
+!! Offene Daten sind Daten, die von jedem und zu jedem Zweck genutzt, verändert und weitergegeben werden können.
 
 Diese Definition fasst das Verständnis von offenen Daten und Inhalten zusammen, wie sie in der [Open Definition](https://opendefinition.org/), herausgegeben von Open Knowledge International, ausführlich beschrieben ist. Obgleich die Open Definition nicht die einzige Richlinie oder Auslegung des Begriffs Open Data ist, repräsentiert sie den allgemeinen Konsenz der Open Data Community und wird entsprechend oft zitiert.
 
