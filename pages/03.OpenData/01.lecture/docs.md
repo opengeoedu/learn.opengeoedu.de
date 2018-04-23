@@ -3,7 +3,7 @@ title: Übersicht
 visible: true
 ---
 
->>> Diese Seite ist noch im Entwurfsstadium.
+>>> Diese Seite ist noch im Entwurfsstadium!
 
 In unserer Gesellschaft ist Forderung nicht neu, dass Ideen, Wissen, Informationen und Daten der Öffentlichkeit frei zugänglich sein sollten. 
 
@@ -65,6 +65,7 @@ Wichtig ist die Erkenntnis, dass die Open Data-Bewegung das Ergebnis mehrerer ge
 
 
 Quellen:
+
 https://blog.openstreetmap.org/2004/08/
 http://de.digital-geography.com/10-jahre-openstreetmap-ein-kurzer-ueberblick/
 
