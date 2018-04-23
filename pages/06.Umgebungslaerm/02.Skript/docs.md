@@ -13,7 +13,7 @@ taxonomy:
 !!! [center][fa=car \] + [fa=train \] + [fa=plane \] = [fa=volume-up \][/center]
 
 !! Abgrenzung:
-!! * **Kein Umgebungslärm** hingegen ist sogenannter
-!! * **Nachbarschaftslärm** (private Feste, Musik, Singen etc.),
+!! Kein Umgebungslärm hingegen ist:
+!! * sogenannter **Nachbarschaftslärm** (private Feste, Musik, Singen etc.),
 !! * der **Lärm am Arbeitsplatz** und
 !! * **in Verkehrsmitteln.**
