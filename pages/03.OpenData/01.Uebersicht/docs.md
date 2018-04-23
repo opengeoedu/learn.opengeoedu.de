@@ -4,8 +4,7 @@ taxonomy:
     category:
         - docs
 ---
-
->>> Diese Seite ist noch im Entwurfsstadium!
+!!! Diese Seite ist noch im Entwurfsstadium!
 
 In unserer Gesellschaft ist Forderung nicht neu, dass Ideen, Wissen, Informationen und Daten der Öffentlichkeit frei zugänglich sein sollten.
 
