@@ -1,5 +1,5 @@
 ---
-title: Beispiel-Anwendungen
+title: Einführung
 taxonomy:
     category:
         - docs

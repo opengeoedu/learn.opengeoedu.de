@@ -1,5 +1,5 @@
 ---
-title: Beispiel-Anwendungen
+title: Übung
 taxonomy:
     category:
         - docs

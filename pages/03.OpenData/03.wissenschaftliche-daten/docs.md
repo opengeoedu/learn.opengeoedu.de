@@ -1,5 +1,8 @@
 ---
 title: 'Wissenschaftliche Daten'
+taxonomy:
+    category:
+        - docs
 ---
 
 - OpenAIRE

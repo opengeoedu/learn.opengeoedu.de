@@ -1,5 +1,8 @@
 ---
 title: 'Freiwillig erhobene Geodaten'
+taxonomy:
+    category:
+        - docs
 ---
 
 - OpenStreetMap, OpenSenseMap, OpenAire

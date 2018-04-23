@@ -1,22 +1,25 @@
 ---
 title: 'Merkmale offener Daten'
+taxonomy:
+    category:
+        - docs
 ---
 
 >> Diese Seite ist noch im Entwurfsstadium.
 
->>> Offene Daten sind Daten, die von jedem und zu jedem Zweck genutzt, verändert und weitergegeben werden können. 
+>>> Offene Daten sind Daten, die von jedem und zu jedem Zweck genutzt, verändert und weitergegeben werden können.
 
-Diese Definition fasst das Verständnis von offenen Daten und Inhalten zusammen, wie sie in der [Open Definition](https://opendefinition.org/), herausgegeben von Open Knowledge International, ausführlich beschrieben ist. Obgleich die Open Definition nicht die einzige Richlinie oder Auslegung des Begriffs Open Data ist, repräsentiert sie den allgemeinen Konsenz der Open Data Community und wird entsprechend oft zitiert. 
-
-
+Diese Definition fasst das Verständnis von offenen Daten und Inhalten zusammen, wie sie in der [Open Definition](https://opendefinition.org/), herausgegeben von Open Knowledge International, ausführlich beschrieben ist. Obgleich die Open Definition nicht die einzige Richlinie oder Auslegung des Begriffs Open Data ist, repräsentiert sie den allgemeinen Konsenz der Open Data Community und wird entsprechend oft zitiert.
 
 
-Da jede technische oder rechtliche Einschränkung der Datennutzung ihren potentiellen Wert für die Gesellschaft verringert, wird diesbezüglich größtmögliche Freizügigkeit angestrebt,  Entsprechend können die Vorgaben der Open Definition in technische und rechtliche Askpekte unterteilt werden: 
+
+
+Da jede technische oder rechtliche Einschränkung der Datennutzung ihren potentiellen Wert für die Gesellschaft verringert, wird diesbezüglich größtmögliche Freizügigkeit angestrebt,  Entsprechend können die Vorgaben der Open Definition in technische und rechtliche Askpekte unterteilt werden:
 
 - **Technische Offenheit:** Die Daten sollten *als Ganzes* verfügbar sein, bevorzugt zum kostenlosen Download. Sie sollten *maschinenlesbar* sein, sodass sie einem Computer verarbeitet werden können und dabei für jedes einzelne Datenelement Zugriff und Veränderung möglich sind. Daten sollten in einem *offenem Format* vorliegen, das mit wenigstem einen Free/Libre/Open Source Software Tool verarbeitet werden kann.
 
-- **Rechtliche Offenheit:** Nutzungsbedingung von Open Data werden durch Lizenzen geregelt, welche die kostenlose Nutzung (auch kommerziell), Weitergabe, Veränderung, Verknüpfung und Vereinzelung der Daten erlaubt. Lediglich für die Bereitstellung der Daten kann allerdings ein einmaliges geringfügiges Entgelt verlangt werden. 
-Akzeptabel sind lediglich solche Nutzungseinschränkungen, die zur Kenntlichmachung der Urheberschaft des Werkes verpflichten oder der Erhaltung des "offenen" Charakters der Daten, auch bei deren Weitergabe, sicherstellen. Dazu zählen u.a. die Nennung der Urheber und Mitwirkenden (Attribution), Weitergabe unter gleichen oder ähnlichen Bedingungen (Share alike) und das Kenntlichmachen von Änderungen bei der Weitergabe der Daten (Integrity). 
+- **Rechtliche Offenheit:** Nutzungsbedingung von Open Data werden durch Lizenzen geregelt, welche die kostenlose Nutzung (auch kommerziell), Weitergabe, Veränderung, Verknüpfung und Vereinzelung der Daten erlaubt. Lediglich für die Bereitstellung der Daten kann allerdings ein einmaliges geringfügiges Entgelt verlangt werden.
+Akzeptabel sind lediglich solche Nutzungseinschränkungen, die zur Kenntlichmachung der Urheberschaft des Werkes verpflichten oder der Erhaltung des "offenen" Charakters der Daten, auch bei deren Weitergabe, sicherstellen. Dazu zählen u.a. die Nennung der Urheber und Mitwirkenden (Attribution), Weitergabe unter gleichen oder ähnlichen Bedingungen (Share alike) und das Kenntlichmachen von Änderungen bei der Weitergabe der Daten (Integrity).
 Die Open Definition legt hierfür ausführliche Konventionen fest und führt eine Liste existierender Standard-Lizenzen, die Konform sind (http://opendefinition.org/licenses/).
 
 Die meißten Open Data Richlinien beinhalten ähnliche Vorgaben wie die Open Definition, fügen dem aber noch weitere Kriterien an die "Offenheit" hinzu oder konretisieren diese. So setzt *Technische Offenheit* eine Interoperabilität der Daten vorraus, d.h. die Möglichkeit, die Daten gemeinsam verschiedenartigen Daten und Systemen in einen einzigen Arbeitsablauf zu integrieren. Dabei wird zwischen technischer, syntaktischer und semantischer Interoperabilität unterschieden, die jeweils separat und oft Branchen-spezifisch durch standardisierte Schnittstellen, Webservice-Spezifikationen, Datenformate und Datenmodelle adressiert werden müssen. Ist Interoperabilität nicht gegeben, ist es mitunter unmöglich oder sehr aufwändig, verschiedene Datensätze miteinander zu Verknüpfen oder mit einer besonderen Software zu verarbeiten.
@@ -40,7 +43,7 @@ Die meißten Open Data Richlinien beinhalten ähnliche Vorgaben wie die Open Def
 
 Interoperabilität im Kontext de 5-Star-Open Data Modells
 
-![](/home/matthias/learn.opengeoedu.de/pages/03.OpenData/02.lecture/5-star-steps.png) 
+![](/home/matthias/learn.opengeoedu.de/pages/03.OpenData/02.lecture/5-star-steps.png)
 
 
 
