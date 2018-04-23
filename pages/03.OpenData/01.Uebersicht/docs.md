@@ -58,14 +58,10 @@ Wichtig ist die Erkenntnis, dass die Open Data-Bewegung das Ergebnis mehrerer ge
 - **18. Juni 2013** 	Verabschiedung der G8 Open Data Charter durch Deutschland, Frankreich, Italien, Japan, Kanada, Russland, das Vereinigte Königreich (UK) und die Vereinigten Staaten (USA)
 - **2014** 	Nationaler Aktionsplan der deutschen Bundesregierung zur Umsetzung der Open-Data-Charta der G8
 
-
-
->>>>> **Diskutieren Sie:**
-1. Welche Interessengruppen sind an der Open Data Bewegung beteiligt?
-2. Welche Ziele verfolgen die einelnen Gruppen?
-
+!!! **Diskutieren Sie:**
+!!! 1. Welche Interessengruppen sind an der Open Data Bewegung beteiligt?
+!!! 2. Welche Ziele verfolgen die einelnen Gruppen?
 
 Quellen:
-
-https://blog.openstreetmap.org/2004/08/
-http://de.digital-geography.com/10-jahre-openstreetmap-ein-kurzer-ueberblick/
+[](https://blog.openstreetmap.org/2004/08/
+http://de.digital-geography.com/10-jahre-openstreetmap-ein-kurzer-ueberblick/)
