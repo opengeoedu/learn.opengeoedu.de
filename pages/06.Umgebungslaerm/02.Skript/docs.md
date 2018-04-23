@@ -10,7 +10,7 @@ taxonomy:
 ! * Verkehrsmitteln, also Lärm, ausgehend vom *Straßen-, Schienen-* und *Flugverkehr*
 ! * sowie Lärm, der von *Industrie–* und *Gewerbeanlagen* ausgeht.
 
-!!! [center][fa=car \] + [fa=train \] + [fa=plane \] = [fa=volume-up \] [/center]
+!!! [center][fa=car \] + [fa=train \] + [fa=plane \] = [fa=volume-up \][/center]
 
 !! Abgrenzung:
 !! *Kein Umgebungslärm* hingegen ist sogenannter
