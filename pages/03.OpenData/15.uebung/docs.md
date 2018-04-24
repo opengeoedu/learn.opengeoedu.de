@@ -5,6 +5,8 @@ taxonomy:
     - literatur
 ---
 
+!! Diese Seite ist noch im Entwurfsstadium!
+
 ####1. Finden Sie einen offenen Datensatz (oder Service) mit räumlichen Bezug.
 
  (Advanced: Finden Sie Zwei offene Datensätze, die Sie verschneiden - 1x Geobasisdaten, 1x Fachdaten)
@@ -17,7 +19,7 @@ taxonomy:
 
 - Benutzen sie nun ein GIS-Tool ihrer Wahl, um den Datensatz zu Erkunden und zu Visualisieren
 
-####3.afaf
+####3. XXXX
 
 **Abgabe:**
 - Ausgefüllte Bewertungsmatrix
@@ -26,53 +28,98 @@ taxonomy:
 
 
 
+###Evaluationskriterien
+
+**Evaluation nach Open Data Kritierien:**
+
 Bewertung in Anlehnung an Schicktanz et al. (2017) und Klessman et al. (2012): Punktevergabe von 0 - 12 Punkten
 
-| Kriterium / Punktevergabe  | Datensatz 1 | Datensatz 2 
+| Kriterium / Punktevergabe  | Datensatz 1 | Datensatz 2 |
 | ------------- |:-------------:| -----:|  -----:|
 Vollständigkeit <br/>1: teilweise; 2: vollständig | | |
 Verfügbarkeit der Primärquelle <br/>0: Bericht / Text mit Datenwerten; 1: teilweise; 2: vollständig | | |
 Zeitnähe <br/>0: keine Aktualisierung 1: feste Aktualisierungsrate; 2: Historienbildung | | |
 Zugänglichkeit* <br/>0: Bericht / Text mit Datenwerten; 1: eingeschränkt (z.B. Registrierung erforderlich) 2: direkter Zugriff | | |
 Maschinenlesbarkeit <br/>0: gar nicht bis gering 1: überwiegend 2: vollständig | | |
+Gesamt (Ist / Soll) :
 
 * Kriterien angepasst
 
-| Kriterium   |  Erfüllt  | Antwort  | Anmerkung/ Erläuterung |
-| ------------- |:-------------:| -----:|
-| Ist ein eindeutiger Lizenz-Hinweis gegeben? Geben Sie ggf. den Namen der Lizenz an!
-| Handelt es sich dabei um eine Open-Data Lizenz? Begründen Sie ihre Antwort! |
-| Welche Pflichten / Einschränkungen sind mit der Nutzung des Datensatzes verbunden? |  |  | |
-| (Bei mehreren Datensätzen) Sind die Datenlizenzen mit
+*Mögliche Zusatzfragen:*
+
+Ist ein eindeutiger Lizenz-Hinweis gegeben? Geben Sie ggf. den Namen der Lizenz an!
+
+Handelt es sich dabei um eine Open-Data Lizenz? Begründen Sie ihre Antwort! 
+
+Welche Pflichten / Einschränkungen sind mit der Nutzung des Datensatzes verbunden
 
 
- Siehe Kapitel "Merkmale offener Daten"
+**Evaluation für wissenschaftliche Weiterverarbeitung:**
+
+Wichtig u.a. für das wissenschaftliche Zitieren:
+
+Von wem wuden die Daten Erhoben (Personen / Behörde)?
+
+Wann wurden die Daten veröffentlicht?
+
+Sind die (Meta-) daten dauerhaft über einen eundeutigen Globalen Identifier abrufbar (z.B. DOI). Wie lautet dieser Identifier?
+
+!!! Für eine ausführliche Evaluation offener Forschungsdaten können die FAIR Prinzipien für offene Forschungsdaten genutzt werden. Sie sind u.a. offizielle Richtlinie des Horizon 2020 Programms der EU: 
+!!! Grundprinzip: Daten sollten auffindbar, zugänglich, interoperabel und wiederverwendbar sein (findable, accessible, operable and reusable)
 
 
-**Kriterium: Legale Offenheit**
+**Kriterien der Interoperabilität:**
+(Sollten sie eine dieser Fragen über die Daten nicht beantworten können, deutet dies auf unzureichende Metadaten hin)
 
-**Kriterium: technische Offenheit**
+**Technisch:**
+- Ist das Datenformat (Oder der Datenservice) kompatibel mit dem GIS-Tool (oder dem Web-Service, dem Informationsystem)? Erlaubt das GIS Lesen, Bearbeiten, exportieren der Daten? 
+-> Falls nicht: Ist es möglich, die Daten mittels einer anderen Software / eines Webdienstes in ein Kompatibles Format zu konvertieren?
 
-
-Kriterien der Offenheit:
-
-Anmerkung: Existierende Kriterien im Kontext von Open Data- und Open Science:
-Open Definition: 
- FAIR Prinzipien für offene Forschungsdaten (Offizielle Richtlinie von Horizon 2020): 
- Daten sollten auffindbar, zugänglich, interoperabel und wiederverwendbar sein (findable, accessible, operable and reusable 
+**Syntaktisch:**
 
 
+- Auf welche Art sind fehlende Werte beschrieben? (NA, null, Leerzeichen ...)
+- Auf welche Arten sind Nachkommastellen von nummerischen Daten beschrieben (Komma oder Punkt)
+
+**Semantisch:**
+
+Sind die Begriffe / Modellannamen klar definiert (bei zu verschneidenden Daten bereinstimmend / vereinbar)
+
+Beispiele: Ein und das selbe Gebiet können je nach Datensatz als Wald, Erholungsgebiet, Naturschutzgebiet können sich je nach Datensatz auf ein und das selbe Gebiet bezogen sein. Bei Geobasisdaten unterscheiden sich möglicherweise Grenzverläufe oder behandeln nicht allgemein anerkannten Staaten unterschiedlich (z.B. Taiwan, Nordzypern) und wirken sich entsprechend auf die Datenlage aus
 
 
-- Matrix Input: Freitext und Klassifikation von Bewertungskriterien in erfüllt, nicht erfüllt, unklar
-
-		
-		
+**Betrachtung der Datenqualität:**
 
 
+Auf welchen Zeitpunkt(e) / Zeiträum(e) beziehen sich die Daten?
+
+Auf welch(e/s) Ort(e) / Gebiet(e) beziehen sich die Daten?
+
+Was wird gemessen / Abgebildet?
+
+Wie genau / akkurat und mit welcher Granularität sind diese Informationen gegeben?
+
+Wie zuverlässig / Vertrauenswürdig ist die Datenquelle? Handelt es sich um amtliche / offizielle Daten?
+Sind Ursprung der Daten, Erhebung und ggf. Weiterverarbeitung ausreichend und nachvollziehbar Dokumentiert (Provenance/Lineage)
+
+---
+Betrachtung von:
+
+1. Georeferenz
+	- In welcher Form liegt ein räumlicher Bezug vor? (
+Koordinaten / Adressen, Ortsnamen, Gemeindeschlüssel oder ID, (Luft-)bild
+
+- Welches Koordinatenreferenzsystem / welche Projektion ist gegeben? Wird 
+
+2. Zeitkomponente
 
 
+3. Attribute
 
+Welche Maßeinheiten sind gegeben?
+
+Einordnung nach Skalenniveau: Nominal, Ordinal, Kardinalskala
+--> Unterschiedliche Skalenniveaus lassen sich u. U. homogenisieren. Von Nominal > Ordinal > Kardinal nur mit zusätzlichen informationen, umgekehrt mit Informationsverlust
 
 
 
@@ -102,18 +149,5 @@ Open Definition:
 
 !(%202018-01-24%2015-36-47%20OpenDataPortal-Kartenansicht.png "Portal der Open Data Portale")
 
-
-
-
-##Evaluierungskriterien
-
-### Offenheit
-
-- Lizenz
-
-
-
-### Interoperabilität
-
-- Datenformat bzw. Schnittstelle
+ 
 
