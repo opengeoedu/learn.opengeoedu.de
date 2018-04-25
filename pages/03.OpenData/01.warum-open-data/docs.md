@@ -33,7 +33,9 @@ Ein Missbrauch von Daten wird durch ihre Offenlegung und das Recht, diese zu Ver
 
 Es kann zu Wettbewerbsverzerrungen für private Unternehmen kommen weil deren privat finanzierte Datenbestände in Konkurrenz öffentlich finanzierten Daten geraten können (für Open GeoData z. B. bei Luftbildern, topographischen Daten und geokodierten Adressbeständen. [vgl. Seuß])
 
-Für eine sinnvolle Nutzung von offenen Geodaten fehlt es an Standards, einheitlicher Datenqualität und einheitlichen und klar verständlichen Lizenzmodellen [vgl Seuß]
+Für eine sinnvolle Nutzung von offenen Geodaten fehlt es an Standards, einheitlicher Datenqualität und einheitlichen und klar verständlichen Lizenzmodellen [vgl. Seuß]
+
+Der Zugang zu Daten ist eine Grundvoraussetzung für die stetige Fortentwicklung wissenschaftlicher Arbeiten und Ergebnisse. (vgl. Klessmann et al., S. 102)
 
 
 !!! **Diskutieren Sie:**

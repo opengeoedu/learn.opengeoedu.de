@@ -5,3 +5,4 @@ taxonomy:
         - docs
 ---
 
+!! Diese Seite ist noch im Entwurfsstadium!
