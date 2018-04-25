@@ -28,14 +28,14 @@ Die Lizenzierung bestimmter Daten ist mitunter sehr teuer (insbesondere Geobasis
 
 Urheberrecht, Marken- und Patentschutz
 
-Ein Missbrauch von Daten wird durch ihre Offenlegung und das Recht, diese zu Verändern erleichtert. Daten könnten absichtlich oder unabsichtlich verfälscht werden. [vgl. Seuß]
+Ein Missbrauch von Daten wird durch ihre Offenlegung und das Recht, diese zu Verändern erleichtert. Daten könnten absichtlich oder unabsichtlich verfälscht werden. ([Seuß, 2015](../literatur#Seus2015))
 
 
-Es kann zu Wettbewerbsverzerrungen für private Unternehmen kommen weil deren privat finanzierte Datenbestände in Konkurrenz öffentlich finanzierten Daten geraten können (für Open GeoData z. B. bei Luftbildern, topographischen Daten und geokodierten Adressbeständen. [vgl. Seuß])
+Es kann zu Wettbewerbsverzerrungen für private Unternehmen kommen weil deren privat finanzierte Datenbestände in Konkurrenz öffentlich finanzierten Daten geraten können (für Open GeoData z. B. bei Luftbildern, topographischen Daten und geokodierten Adressbeständen. ([Seuß, 2015](../literatur#Seus2015))
 
-Für eine sinnvolle Nutzung von offenen Geodaten fehlt es an Standards, einheitlicher Datenqualität und einheitlichen und klar verständlichen Lizenzmodellen [vgl. Seuß]
+Für eine sinnvolle Nutzung von offenen Geodaten fehlt es an Standards, einheitlicher Datenqualität und einheitlichen und klar verständlichen Lizenzmodellen ([Seuß, 2015](../literatur#Seus2015))
 
-Der Zugang zu Daten ist eine Grundvoraussetzung für die stetige Fortentwicklung wissenschaftlicher Arbeiten und Ergebnisse. (vgl. Klessmann et al., S. 102)
+Der Zugang zu Daten ist eine Grundvoraussetzung für die stetige Fortentwicklung wissenschaftlicher Arbeiten und Ergebnisse. ([Klessmann et al., 2012, S. 102](../literatur#klessmann2012open))
 
 
 !!! **Diskutieren Sie:**
