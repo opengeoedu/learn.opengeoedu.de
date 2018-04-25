@@ -33,7 +33,7 @@ Die meisten Open Data Richtlinien beinhalten ähnliche Vorgaben wie die Open Def
 
 Interoperabilität im Kontext de 5-Star-Open Data Modells
 
-![](/home/matthias/learn.opengeoedu.de/pages/03.OpenData/02.lecture/5-star-steps.png)
+![](5-star-steps.png)
 
 
 

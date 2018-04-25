@@ -41,7 +41,12 @@ Verfügbarkeit der Primärquelle <br/>0: Bericht / Text mit Datenwerten; 1: teil
 Zeitnähe <br/>0: keine Aktualisierung 1: feste Aktualisierungsrate; 2: Historienbildung | | |
 Zugänglichkeit* <br/>0: Bericht / Text mit Datenwerten; 1: eingeschränkt (z.B. Registrierung erforderlich) 2: direkter Zugriff | | |
 Maschinenlesbarkeit <br/>0: gar nicht bis gering 1: überwiegend 2: vollständig | | |
-Gesamt (Ist / Soll) :
+nicht diskriminierende Bereitstellung   | | |
+nicht proprietäre Bereitstellung   | | |
+Lizenzfreiheit   | | |
+Dauerhaftigkeit   | | |
+Nutzungskosten | | |
+**Gesamt (Ist / Soll) :**  | | |
 
 * Kriterien angepasst
 
