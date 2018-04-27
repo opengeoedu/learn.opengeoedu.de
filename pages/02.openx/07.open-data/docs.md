@@ -14,25 +14,25 @@ taxonomy:
 ## Kriterien für offene Daten
 Für offene Daten definiert die Sunlight Foundation (2010) zehn Kriterien:
 * Vollständigkeit
-Alle öffentlichen Daten werden verfügbar gemacht. Öffentliche Daten sind Daten, die nicht berechtigten Datenschutz-, Sicherheits- oder Zugangsbeschränkungen unterliegen.
+  - Alle öffentlichen Daten werden verfügbar gemacht. Öffentliche Daten sind Daten, die nicht berechtigten Datenschutz-, Sicherheits- oder Zugangsbeschränkungen unterliegen.
 * Verfügbarkeit der Primärquelle
-Die Daten werden an ihrem Ursprung gesammelt. Dies geschieht mit dem höchstmöglichen Feinheitsgrad, nicht in aggregierten oder anderweitig modifizierten Formaten.
+  - Die Daten werden an ihrem Ursprung gesammelt. Dies geschieht mit dem höchstmöglichen Feinheitsgrad, nicht in aggregierten oder anderweitig modifizierten Formaten.
 * Zeitnähe
-Daten werden so zügig wie zur Werterhaltung notwendig zur Verfügung gestellt.
+  - Daten werden so zügig wie zur Werterhaltung notwendig zur Verfügung gestellt.
 * Zugänglichkeit
-Daten werden so vielen Nutzern wie möglich für möglichst viele Verwendungszwecke bereitgestellt.
+  - Daten werden so vielen Nutzern wie möglich für möglichst viele Verwendungszwecke bereitgestellt.
 * Nicht diskriminierende Bereitstellung
-Daten sind für alle verfügbar, ohne vorherige Registrierung der Nutzer.
+  - Daten sind für alle verfügbar, ohne vorherige Registrierung der Nutzer.
 * Maschinenlesbarkeit
-Daten werden zur automatisierten Verarbeitung strukturiert zur Verfügung gestellt.
+  - Daten werden zur automatisierten Verarbeitung strukturiert zur Verfügung gestellt.
 * Nicht proprietäre Bereitstellung
-Daten werden in standardisierten Formaten bereitgestellt, über die keine juristische Person die alleinige Kontrolle hat.
+  - Daten werden in standardisierten Formaten bereitgestellt, über die keine juristische Person die alleinige Kontrolle hat.
 * Lizenzfreiheit
-Daten unterliegen weder dem Urheberrecht noch Patenten, Markenzeichen oder Geschäftsgeheimnissen. Sinnvolle Datenschutz-, Sicherheits- und Zugangsbeschränkungen sind zulässig.
+  - Daten unterliegen weder dem Urheberrecht noch Patenten, Markenzeichen oder Geschäftsgeheimnissen. Sinnvolle Datenschutz-, Sicherheits- und Zugangsbeschränkungen sind zulässig.
 * Dauerhaftigkeit
-Daten werden dauerhaft zur Verfügung gestellt, gegebenenfalls auf Basis einer geeigneten Versionierung, d.h. einer Kennzeichnung der Daten, dass sie lediglich einem bestimmten Stand entsprechen.
+  - Daten werden dauerhaft zur Verfügung gestellt, gegebenenfalls auf Basis einer geeigneten Versionierung, d.h. einer Kennzeichnung der Daten, dass sie lediglich einem bestimmten Stand entsprechen.
 * Nutzungskosten
-Nutzungskosten stellen eine Barriere für den Zugriff auf öffentlich verfügbare Informationen dar. Verwaltungen verwenden derzeit verschiedene Ansätze für die Bepreisung: die Kosten für die Erstellung der Daten, Kosten für die Abfrage der Daten, Kosten für jede einzelne Abfrage, Kosten auf Basis eines Mengengerüsts (z. B. Seitenumfang) oder Vervielfältigungskosten. Die Bepreisung des Zugangs reduziert die Häufigkeit der Nutzung und hat dadurch über nicht realisiertes Wirtschaftswachstum unter Umständen einen Einfluss auf Steuereinnahmen.
+  - Nutzungskosten stellen eine Barriere für den Zugriff auf öffentlich verfügbare Informationen dar. Verwaltungen verwenden derzeit verschiedene Ansätze für die Bepreisung: die Kosten für die Erstellung der Daten, Kosten für die Abfrage der Daten, Kosten für jede einzelne Abfrage, Kosten auf Basis eines Mengengerüsts (z. B. Seitenumfang) oder Vervielfältigungskosten. Die Bepreisung des Zugangs reduziert die Häufigkeit der Nutzung und hat dadurch über nicht realisiertes Wirtschaftswachstum unter Umständen einen Einfluss auf Steuereinnahmen.
 
 ## Vor- und Nachteile
 Rössler, 2014 diskutiert auch die Vor- und Nachteile offener Daten. [in BDVI-Forum](http://bdvi-forum.de/wp-content/uploads/FORUM_2_2014.pdf)
