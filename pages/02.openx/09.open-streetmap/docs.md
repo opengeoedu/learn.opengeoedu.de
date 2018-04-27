@@ -27,7 +27,7 @@ Relations (Verknüpfungen) ![](Relations.png)
 ! * [www.openstreetmap.org](http://www.openstreetmap.org/)
 ! * [OpenStreetMap Wiki](http://wiki.openstreetmap.org/wiki/DE:Hauptseite?uselang=de)
 
-!! Recherchieren Sie in OSM an ihrem eigenen Wohnort und machen sich mit den vorhandenen Inhalten und der Aussagekraft der OSM-Daten vertraut.
+!!! Recherchieren Sie in OSM an ihrem eigenen Wohnort und machen sich mit den vorhandenen Inhalten und der Aussagekraft der OSM-Daten vertraut.
 [/ui-accordion-item]
 [ui-accordion-item title="OSM in Rostock"]
 Die folgende Abbildung zeigt einen Ausschnitt aus OpenStreetMap am Standort Rostock. Recherchieren Sie in OSM an ihrem eigenen Wohnort und machen sich mit den vorhandenen Inhalten und der Aussagekraft der OSM-Daten vertraut.
@@ -37,7 +37,7 @@ Die folgende Abbildung zeigt einen Ausschnitt aus OpenStreetMap am Standort Rost
 [/center]
 [/ui-accordion-item]
 
-[ui-accordion-item title="Offene Regionalkarte MV **ORKa.MV**"]
+[ui-accordion-item title="Offene Regionalkarte MV (ORKa.MV)"]
 Die Offene Regionalkarte Mecklenburg-Vorpommern (ORKa.MV) ist ein offener Kartendienst aus der Verwaltung (OpenGovData), in dem Katasterdaten und OpenStreetMap-Daten kombiniert werden.
 Realisiert wurde die ORKa.MV durch die Landkreise und kreisfreien Städte in Mecklenburg-Vorpommern (LkKfS-MV), betreut und gehostet wird das Projekt durch das Kataster-, Vermessungs- und Liegenschaftsamt der Hansestadt Rostock ([https://www.orka-mv.de](https://www.orka-mv.de/)).
 
@@ -50,7 +50,7 @@ Realisiert wurde die ORKa.MV durch die Landkreise und kreisfreien Städte in Mec
 > `Kartenbild © Hansestadt Rostock (CC BY 4.0) | Kartendaten © OpenStreetMap (ODbL) und LkKfS-MV.`
 > <cite>Zitat aus den [Nutzungsbedingungen der ORKa.MV](https://www.orka-mv.de/nutzungsbedingungen.html)</cite>
 
-!! Vergleichen Sie einen Ausschnitt aus Rostock zwischen OpenStreetMap und der Offenen Regionalkarte. Bezüglich welcher Themen unterscheiden sich diese?
- 
+!!! Vergleichen Sie einen Ausschnitt aus Rostock zwischen OpenStreetMap und der Offenen Regionalkarte. Bezüglich welcher Themen unterscheiden sich diese?
+
 [/ui-accordion-item]
 [/ui-accordion]
