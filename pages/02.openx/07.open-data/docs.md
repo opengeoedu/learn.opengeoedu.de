@@ -5,47 +5,36 @@ taxonomy:
 ---
 !! [fa=fa-long-arrow-right] Hauptartikel [OpenData](../opendata)
 
-
 >„The days of keeping our research results to ourselves are over. There is far more to gain from sharing data and letting others access and analyse that data.“<cite>[EU-Commissioner Carlos Moedas, Lund 4.12.2015](https://ec.europa.eu/digital-single-market/en/news/open-innovation-open-science-open-world-vision-europe) </cite>
 
 ---
 
 > „Unter Open Data wird die Handlungsmaxime verstanden, dass Daten, die vom öffentlichen Sektor erhoben bzw. zusammengetragen werden und nicht offensichtlichen Einschränkungen – beispielsweise aufgrund von Datenschutz- und Sicherheitsaspekten – unterliegen, offen verfügbar gemacht werden.“ <cite>[Rössler, 2014](http://bdvi-forum.de/wp-content/uploads/FORUM_2_2014.pdf)</cite>
 
+## Kriterien für offene 
 Für offene Daten definiert die Sunlight Foundation (2010) zehn Kriterien:
 * Vollständigkeit
 Alle öffentlichen Daten werden verfügbar gemacht. Öffentliche Daten sind Daten, die nicht berechtigten Datenschutz-, Sicherheits- oder Zugangsbeschränkungen unterliegen.
-
 * Verfügbarkeit der Primärquelle
 Die Daten werden an ihrem Ursprung gesammelt. Dies geschieht mit dem höchstmöglichen Feinheitsgrad, nicht in aggregierten oder anderweitig modifizierten Formaten.
-
 * Zeitnähe
 Daten werden so zügig wie zur Werterhaltung notwendig zur Verfügung gestellt.
-
 * Zugänglichkeit
 Daten werden so vielen Nutzern wie möglich für möglichst viele Verwendungszwecke bereitgestellt.
-
 * Nicht diskriminierende Bereitstellung
 Daten sind für alle verfügbar, ohne vorherige Registrierung der Nutzer.
-
 * Maschinenlesbarkeit
 Daten werden zur automatisierten Verarbeitung strukturiert zur Verfügung gestellt.
-
 * Nicht proprietäre Bereitstellung
 Daten werden in standardisierten Formaten bereitgestellt, über die keine juristische Person die alleinige Kontrolle hat.
-
 * Lizenzfreiheit
 Daten unterliegen weder dem Urheberrecht noch Patenten, Markenzeichen oder Geschäftsgeheimnissen. Sinnvolle Datenschutz-, Sicherheits- und Zugangsbeschränkungen sind zulässig.
-
 * Dauerhaftigkeit
 Daten werden dauerhaft zur Verfügung gestellt, gegebenenfalls auf Basis einer geeigneten Versionierung, d.h. einer Kennzeichnung der Daten, dass sie lediglich einem bestimmten Stand entsprechen.
-
 * Nutzungskosten
 Nutzungskosten stellen eine Barriere für den Zugriff auf öffentlich verfügbare Informationen dar. Verwaltungen verwenden derzeit verschiedene Ansätze für die Bepreisung: die Kosten für die Erstellung der Daten, Kosten für die Abfrage der Daten, Kosten für jede einzelne Abfrage, Kosten auf Basis eines Mengengerüsts (z. B. Seitenumfang) oder Vervielfältigungskosten. Die Bepreisung des Zugangs reduziert die Häufigkeit der Nutzung und hat dadurch über nicht realisiertes Wirtschaftswachstum unter Umständen einen Einfluss auf Steuereinnahmen.
 
-
-
-
+## Vor- und Nachteile
 Rössler, 2014 diskutiert auch die Vor- und Nachteile offener Daten. [in BDVI-Forum](http://bdvi-forum.de/wp-content/uploads/FORUM_2_2014.pdf)
 
 | Aspekt | PRO | CONTRA |
