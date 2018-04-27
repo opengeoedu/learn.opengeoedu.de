@@ -27,6 +27,7 @@ Die Einträge bestehen jeweils aus einem Tag, der eine Kombination von Schlüsse
 ![](Relations.png)**Relations (Verknüpfungen)**
 [/center]
 
+
 ! Weiterführende Informationen unter:
 ! * [www.openstreetmap.org](http://www.openstreetmap.org/)
 ! * [OpenStreetMap Wiki](http://wiki.openstreetmap.org/wiki/DE:Hauptseite?uselang=de)
