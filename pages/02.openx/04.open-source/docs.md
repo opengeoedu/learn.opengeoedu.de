@@ -19,5 +19,5 @@ Im Bereich der Geoinformatik finden sich umfangreiche freie Softwareangebote unt
 Der FOSSGIS e.V., ein eingetragener und gemeinnütziger Verein, hat diese Liste zusammenstellt. FOSSGIS e.V. hat sich das Ziel gesetzt, Freie Software aus dem GIS-Bereich und Freie Geodaten zu fördern.
 
 ! Weiterführende Informationen unter:
-! [Open Source Initiative (OSI)](https://opensource.org/)
-! [freegis by FOSSGIS e.V.](www.freegis.org)
+! * [Open Source Initiative (OSI)](https://opensource.org/)
+! * [freegis by FOSSGIS e.V.](www.freegis.org)
