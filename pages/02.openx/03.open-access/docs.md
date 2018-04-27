@@ -10,7 +10,7 @@ Open Access (OA) bezeichnet den unbeschränkten und kostenlosen Zugang zu wissen
 
 Das Konzept „Open Access“ will den Zugang zu wissenschaftlichen Erkenntnissen erleichtern und Forschungsergebnisse besser sichtbar machen. Wissenschaftliche Informationen, die im Rahmen der öffentlich geförderten Forschung entstehen, sollen über das Internet für jeden Nutzer ohne finanzielle, technische oder rechtliche Barrieren zugänglich und nachnutzbar sein. Bei Open Access geht es nicht nur um den Zugang zu qualitätsgesicherten Textpublikationen, sondern auch zu anderen digitalen Objekten wie zum Beispiel Forschungsprimärdaten oder Monographien.
 
-[ui-accordion independent=true open=0][ui-accordion-item title="Entwicklung zu Open Access"]
+[ui-accordion independent=true open=none][ui-accordion-item title="Entwicklung zu Open Access"]
 Auszugsweise wird hier die Entstehung reflektiert.
 
 Im „Dezember 2001 entstand die Budapest Open Access Initiative ([BOAI](http://www.budapestopenaccessinitiative.org/)), ein Zusammenschluss verschiedener nationaler und internationaler Wissenschaftlerinnen und Wissenschaftler aus den Geistes- und Naturwissenschaften, mit der Forderung nach freiem unentgeltlichen Zugang zur wissenschaftlichen Fachzeitschriftenliteratur in allen akademischen Feldern.
