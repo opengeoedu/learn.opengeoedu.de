@@ -20,18 +20,21 @@ Das OSM-Datenmodell kennt im Wesentlichen die Objekttypen Knoten (Node), Linien 
 [center]![](Datenmodell.png)[/center]
 
 Die Einträge bestehen jeweils aus einem Tag, der eine Kombination von Schlüsselbegrff (Key) und Werteintrag (Value) darstellt.
+[center]
 Node (Knoten) ![](node.png)
 Ways (Linien) ![](ways.png)
 Relations (Verknüpfungen) ![](Relations.png)
+[/center]
 
 ! Weiterführende Informationen unter:
 ! * [www.openstreetmap.org](http://www.openstreetmap.org/)
 ! * [OpenStreetMap Wiki](http://wiki.openstreetmap.org/wiki/DE:Hauptseite?uselang=de)
 
-!!! Recherchieren Sie in OSM an ihrem eigenen Wohnort und machen sich mit den vorhandenen Inhalten und der Aussagekraft der OSM-Daten vertraut.
+!! Recherchieren Sie in OSM an ihrem eigenen Wohnort und machen sich mit den vorhandenen Inhalten und der Aussagekraft der OSM-Daten vertraut.
 
 ## OSM in Rostock
-Die folgende Abbildung zeigt einen Ausschnitt aus OpenStreetMap am Standort Rostock. Recherchieren Sie in OSM an ihrem eigenen Wohnort und machen sich mit den vorhandenen Inhalten und der Aussagekraft der OSM-Daten vertraut.
+Die folgende Abbildung zeigt einen Ausschnitt aus OpenStreetMap am Standort Rostock.
+
 [center]
 [![Rostock in Open Street Map
 ](HRO_OSM.png)](https://www.openstreetmap.org/#map=11/54.0928/12.1275)**Rostock in Open Street Map**
@@ -50,18 +53,20 @@ Realisiert wurde die ORKa.MV durch die Landkreise und kreisfreien Städte in Mec
 > `Kartenbild © Hansestadt Rostock (CC BY 4.0) | Kartendaten © OpenStreetMap (ODbL) und LkKfS-MV.`
 > <cite>Zitat aus den [Nutzungsbedingungen der ORKa.MV](https://www.orka-mv.de/nutzungsbedingungen.html)</cite>
 
-!!! Vergleichen Sie einen Ausschnitt aus Rostock zwischen OpenStreetMap und der Offenen Regionalkarte. Bezüglich welcher Themen unterscheiden sich diese?
+!! Vergleichen Sie einen Ausschnitt aus Rostock zwischen OpenStreetMap und der Offenen Regionalkarte. Bezüglich welcher Themen unterscheiden sich diese?
 
 [ui-accordion independent=true open=none][ui-accordion-item title="OSM-Datenmodell"]
-Das OSM-Datenmodell kennt im Wesentlichen die Objekttypen Knoten (Node), Linien (Way) und Beziehungen (Relation). Flächenhafte Objekte werden durch Linienschluss erzeugt. Den einzelnen Objekten können Attribute zugeordnet werden. Mittels einer Relation können Beziehungen zwischen den Objekten modelliert werden. Da es im Wesentlichen um die Erhebung von Verkehrsdaten geht, ist eine Art Objektartenkatalog (Map Features) definiert, der Straßen (Highway), Wasserstraßen (Waterway), Schienenwege (Railway) kennt und um flächenhafte Nutzungsarten wie Freizeitflächen, Plätze, Landnutzung u.a. ergänzt ist. OSM lässt aber prinzipiell jegliche Schlüssel und Werte zu, individuelle Erweiterungen werden aber nicht unbedingt unterstützt und visualisiert. Alle Daten, die in der OSM-Datenbank eingestellt sind, unterstehen der Lizenz Creative Commons Attribute Share Alike 2.0 (creativecommons.org/licenses/by-sa/2.0/).
+Das OSM-Datenmodell kennt im Wesentlichen die Objekttypen Knoten (Node), Linien (Way) und Beziehungen (Relation). Flächenhafte Objekte werden durch Linienschluss erzeugt. Den einzelnen Objekten können Attribute zugeordnet werden. Mittels einer Relation können Beziehungen zwischen den Objekten modelliert werden. Da es im Wesentlichen um die Erhebung von Verkehrsdaten geht, ist eine Art Objektartenkatalog (Map Features) definiert, der Straßen (Highway), Wasserstraßen (Waterway), Schienenwege (Railway) kennt und um flächenhafte Nutzungsarten wie Freizeitflächen, Plätze, Landnutzung u.a. ergänzt ist. OSM lässt aber prinzipiell jegliche Schlüssel und Werte zu, individuelle Erweiterungen werden aber nicht unbedingt unterstützt und visualisiert. Alle Daten,  in der OSM-Datenbank unterstehen der
+[Open Data Commons Open Database License](https://opendatacommons.org/licenses/odbl/) (ODbL), die kartographische Darstellung sind unter der [Creative Commons Attribute Share Alike 2.0](creativecommons.org/licenses/by-sa/2.0/) (CC BY-SA 2.0) lizensiert.
 
 [center]![](Datenmodell.png)[/center]
 
 Die Einträge bestehen jeweils aus einem Tag, der eine Kombination von Schlüsselbegrff (Key) und Werteintrag (Value) darstellt.
-Node (Knoten) ![](node.png)
-Ways (Linien) ![](ways.png)
-Relations (Verknüpfungen) ![](Relations.png)
-
+[center]
+![](node.png)**Node (Knoten)**
+![](ways.png)**Ways (Linien)**
+![](Relations.png)**Relations (Verknüpfungen)**
+[/center]
 ! Weiterführende Informationen unter:
 ! * [www.openstreetmap.org](http://www.openstreetmap.org/)
 ! * [OpenStreetMap Wiki](http://wiki.openstreetmap.org/wiki/DE:Hauptseite?uselang=de)

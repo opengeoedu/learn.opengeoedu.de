@@ -34,7 +34,7 @@ Für offene Daten definiert die Sunlight Foundation (2010) zehn Kriterien:
 * Nutzungskosten
   - Nutzungskosten stellen eine Barriere für den Zugriff auf öffentlich verfügbare Informationen dar. Verwaltungen verwenden derzeit verschiedene Ansätze für die Bepreisung: die Kosten für die Erstellung der Daten, Kosten für die Abfrage der Daten, Kosten für jede einzelne Abfrage, Kosten auf Basis eines Mengengerüsts (z. B. Seitenumfang) oder Vervielfältigungskosten. Die Bepreisung des Zugangs reduziert die Häufigkeit der Nutzung und hat dadurch über nicht realisiertes Wirtschaftswachstum unter Umständen einen Einfluss auf Steuereinnahmen.
 
-## Vor- und Nachteile
+## Vor- und Nachteile 
 Rössler, 2014 diskutiert auch die Vor- und Nachteile offener Daten. [in BDVI-Forum](http://bdvi-forum.de/wp-content/uploads/FORUM_2_2014.pdf)
 
 | Aspekt | PRO | CONTRA |

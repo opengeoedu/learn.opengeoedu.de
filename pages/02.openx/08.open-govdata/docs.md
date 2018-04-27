@@ -41,10 +41,10 @@ Im August 2017 wurden 94 Länder mit 1410 Einträgen gelistet, von denen 166 fre
 
 
 ! Weiterführende Informationen unter:
-* [Public Sector Information (PSI) Directive](https://ec.europa.eu/info/consultations/public-consultation-review-directive-re-use-public-sector-information-psi-directive_de)
-* [E-Government-Gesetz (EGovG)](http://www.gesetze-im-internet.de/egovg/)
-* [Geodatenzugangsgesetz (GeoZG)](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html)
-* [Global Open Data Index](https://index.okfn.org/)
+! * [Public Sector Information (PSI) Directive](https://ec.europa.eu/info/consultations/public-consultation-review-directive-re-use-public-sector-information-psi-directive_de)
+! * [E-Government-Gesetz (EGovG)](http://www.gesetze-im-internet.de/egovg/)
+! * [Geodatenzugangsgesetz (GeoZG)](https://www.gesetze-im-internet.de/geozg/BJNR027800009.html)
+! * [Global Open Data Index](https://index.okfn.org/)
 
 !! * Schauen Sie sich im Global Open Data Index die Bewertung von Deutschland im Vergleich zu einem Land an der Spitze des Rankings an.
 !! * Betrachten Sie die Bewertung von Deutschland und vergleichen Sie dies mit Ihren persönlichen Erfahrungswerten zur Daten- und Informationspolitik.
