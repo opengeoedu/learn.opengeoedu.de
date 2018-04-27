@@ -58,7 +58,7 @@ Realisiert wurde die ORKa.MV durch die Landkreise und kreisfreien Städte in Mec
 > <cite>Zitat aus den [Nutzungsbedingungen der ORKa.MV](https://www.orka-mv.de/nutzungsbedingungen.html)</cite>
 
 !! Vergleichen Sie einen Ausschnitt aus Rostock zwischen OpenStreetMap und der Offenen Regionalkarte. Bezüglich welcher Themen unterscheiden sich diese?
-
+<!--
 [ui-accordion independent=true open=none][ui-accordion-item title="OSM-Datenmodell"]
 Das OSM-Datenmodell kennt im Wesentlichen die Objekttypen Knoten (Node), Linien (Way) und Beziehungen (Relation). Flächenhafte Objekte werden durch Linienschluss erzeugt. Den einzelnen Objekten können Attribute zugeordnet werden. Mittels einer Relation können Beziehungen zwischen den Objekten modelliert werden. Da es im Wesentlichen um die Erhebung von Verkehrsdaten geht, ist eine Art Objektartenkatalog (Map Features) definiert, der Straßen (Highway), Wasserstraßen (Waterway), Schienenwege (Railway) kennt und um flächenhafte Nutzungsarten wie Freizeitflächen, Plätze, Landnutzung u.a. ergänzt ist. OSM lässt aber prinzipiell jegliche Schlüssel und Werte zu, individuelle Erweiterungen werden aber nicht unbedingt unterstützt und visualisiert. Alle Daten,  in der OSM-Datenbank unterstehen der
 [Open Data Commons Open Database License](https://opendatacommons.org/licenses/odbl/) (ODbL), die kartographische Darstellung sind unter der [Creative Commons Attribute Share Alike 2.0](creativecommons.org/licenses/by-sa/2.0/) (CC BY-SA 2.0) lizensiert.
@@ -103,4 +103,4 @@ Realisiert wurde die ORKa.MV durch die Landkreise und kreisfreien Städte in Mec
 !!! Vergleichen Sie einen Ausschnitt aus Rostock zwischen OpenStreetMap und der Offenen Regionalkarte. Bezüglich welcher Themen unterscheiden sich diese?
 
 [/ui-accordion-item]
-[/ui-accordion]
+[/ui-accordion] -->
