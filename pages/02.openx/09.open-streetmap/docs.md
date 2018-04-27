@@ -46,8 +46,9 @@ Realisiert wurde die ORKa.MV durch die Landkreise und kreisfreien Städte in Mec
 [/center]
 
 >„Die von der Hansestadt Rostock angebotene und in ihrem Eigentum befindliche ORKa.MV unterliegt der freien Lizenz Creative Commons Namensnennung 4.0 ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)). Damit ist es gestattet die ORKa.MV zu nutzen, in jedwedem Format oder Medium zu vervielfältigen und weiterzuverbreiten sowie zu remixen, zu verändern und auf der ORKa.MV aufzubauen, und zwar für beliebige Zwecke, auch und vor allem kommerziell. Allein der Quellenvermerk ist stets und bei jedweder Art der Nutzung erforderlich und wie folgt auszugestalten:
-> ``` Kartenbild © Hansestadt Rostock (CC BY 4.0) | Kartendaten © OpenStreetMap (ODbL) und LkKfS-MV.“```
-> <cite>(Zitat aus den Nutzungsbedingungen der ORKa.MV)</cite>
+`Kartenbild © Hansestadt Rostock (CC BY 4.0)
+Kartendaten © OpenStreetMap (ODbL) und LkKfS-MV.`"
+> <cite>Zitat aus den [Nutzungsbedingungen der ORKa.MV](https://www.orka-mv.de/nutzungsbedingungen.html)</cite>
 
 [/ui-accordion-item]
 [/ui-accordion]
