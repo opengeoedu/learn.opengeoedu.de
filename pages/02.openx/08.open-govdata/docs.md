@@ -72,9 +72,7 @@ Daten zum Download werden in den unterschiedlichsten Formaten angeboten. Die Abb
 ![](OpenGovData.png)
 Eine kleine Auswahl von Portalen findet sich hier. Eine umfassende Einstiegsseite bietet das Portal der Open Data Portale in Open GeoEdu.
 
-![](europeandataportal.png?lightbox&resize=200,200)[**Europäische Union**](https://www.europeandataportal.eu/)
-![](openGOVdata_D.png?lightbox&resize=200,200)[**GovData Portal für Deutschland**](https://www.govdata.de/)
-![](opendata.HRO.png?lightbox&resize=200,200)[**OpenData.HRO Hansestadt Rostock**](https://www.opendata-hro.de/)
+![](europeandataportal.png?lightbox&resize=200,200)[**Europäische Union**](https://www.europeandataportal.eu/)![](openGOVdata_D.png?lightbox&resize=200,200)[**GovData Portal für Deutschland**](https://www.govdata.de/)![](opendata.HRO.png?lightbox&resize=200,200)[**OpenData.HRO Hansestadt Rostock**](https://www.opendata-hro.de/)
 
 !! * Suchen Sie sich ein Open Data Portal aus und schauen Sie sich die darin enthaltenen Datenangebote an.
 [/ui-accordion-item]
