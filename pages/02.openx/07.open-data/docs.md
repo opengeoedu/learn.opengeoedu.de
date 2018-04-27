@@ -8,6 +8,8 @@ taxonomy:
 
 >„The days of keeping our research results to ourselves are over. There is far more to gain from sharing data and letting others access and analyse that data.“<cite>[EU-Commissioner Carlos Moedas, Lund 4.12.2015](https://ec.europa.eu/digital-single-market/en/news/open-innovation-open-science-open-world-vision-europe) </cite>
 
+---
+
 > „Unter Open Data wird die Handlungsmaxime verstanden, dass Daten, die vom öffentlichen Sektor erhoben bzw. zusammengetragen werden und nicht offensichtlichen Einschränkungen – beispielsweise aufgrund von Datenschutz- und Sicherheitsaspekten – unterliegen, offen verfügbar gemacht werden.“ <cite>[Rössler, 2014](http://bdvi-forum.de/wp-content/uploads/FORUM_2_2014.pdf)</cite>
 
 Für offene Daten definiert die Sunlight Foundation (2010) zehn Kriterien:
