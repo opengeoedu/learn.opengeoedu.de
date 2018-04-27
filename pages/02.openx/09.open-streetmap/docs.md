@@ -23,8 +23,11 @@ Die Einträge bestehen jeweils aus einem Tag, der eine Kombination von Schlüsse
 
 [center]
 ![](node.png)**Node (Knoten)**
+
 ![](ways.png)**Ways (Linien)**
+
 ![](Relations.png)**Relations (Verknüpfungen)**
+
 [/center]
 
 
