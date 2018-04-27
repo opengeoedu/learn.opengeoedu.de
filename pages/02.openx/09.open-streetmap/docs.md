@@ -8,7 +8,7 @@ OpenStreetMap ist ein im Jahre 2004 gegründetes Projekt mit dem Ziel, eine frei
 
 Technologisch besteht das OSM-Projekt aus vier Komponenten:
 * Editoren zur Dateneingabe und Datenpflege, im Wesentlichen per GNSS-Import oder mittels eigener Digitalisierungen (z. B. Potlatch als flashbasierter Online-Editor oder JOSM als Java Stand-alone-Applikation).
-* Datenbankserver mit einer MySQL-Datenbank am University College London. Auf die Daten kann entweder mittels OSM-API direkt oder in einem spezifischen XML-Dateiformat (*.osm) auf einen Datenbankabzug zugegriffen werden.
+* Datenbankserver mit einer MySQL-Datenbank am University College London. Auf die Daten kann entweder mittels OSM-API direkt oder in einem spezifischen XML-Dateiformat (\*.osm) auf einen Datenbankabzug zugegriffen werden.
 * Kartenrenderer sind für das Erstellen der Karten zuständig. Der osmarender erzeugt z.B. aus den OSM-Daten SVG-Graphikdaten. Mapnik ist ein Open-Source-Kartenrenderer.
 * Viewer, die im Browser verwendet werden, um die OSM-Karte anzuzeigen.
 
