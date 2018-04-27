@@ -63,14 +63,15 @@ Das OSM-Datenmodell kennt im Wesentlichen die Objekttypen Knoten (Node), Linien 
 
 Die Einträge bestehen jeweils aus einem Tag, der eine Kombination von Schlüsselbegrff (Key) und Werteintrag (Value) darstellt.
 
-[center]
 ### Node (Knoten)
 ![](node.png)
+
 ### Ways (Linien)
 ![](ways.png)
+
 ### Relations (Verknüpfungen)
 ![](Relations.png)
-[/center]
+
 ! Weiterführende Informationen unter:
 ! * [www.openstreetmap.org](http://www.openstreetmap.org/)
 ! * [OpenStreetMap Wiki](http://wiki.openstreetmap.org/wiki/DE:Hauptseite?uselang=de)
