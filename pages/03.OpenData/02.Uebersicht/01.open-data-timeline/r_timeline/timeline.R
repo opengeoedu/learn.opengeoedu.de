@@ -31,3 +31,24 @@ unlink("timeline.html")
 unlink("timeline_files", recursive = TRUE)
 setwd(wd)
 
+knitr::knit(file.path(getwd(),"timeline.Rmd"), "timeline.html")
+
+
+
+
+
+library(timevis)
+
+
+groups <- data.frame(
+  id = 1:3,
+  content= c("FLOSS", "Geoinformation", "Open Data /<br/> Open Content"),
+  style=c("","","")
+)
+
+data <- read.csv("timeline.csv")
+tv <- timevis(data, groups = groups, options = list(orientation="both", width="100%"))
+htmlwidgets::saveWidget(tv, "timeline.html", selfcontained = FALSE)
+
+
+
