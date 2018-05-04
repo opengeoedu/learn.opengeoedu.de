@@ -27,6 +27,8 @@ Der Freie Zugang zu Verwaltungsdaten fördert die öffentliche Meinungsbildung u
 
 Die Lizenzierung bestimmter Daten ist mitunter sehr teuer (insbesondere Geobasisdaten wie ALKIS und ATKIS). Damit wird deren breite Nutzung verhindert und Innovation gehemmt  ([Seuß, 2015](../literatur#Seus2015)).
 
+Der Zugang zu Daten ist eine Grundvoraussetzung für die stetige Fortentwicklung wissenschaftlicher Arbeiten und Ergebnisse. ([Klessmann et al., 2012, S. 102](../literatur#klessmann2012open))
+
 
 Urheberrecht, Marken- und Patentschutz
 
@@ -37,7 +39,9 @@ Es kann zu Wettbewerbsverzerrungen für private Unternehmen kommen weil deren pr
 
 Für eine sinnvolle Nutzung von offenen Geodaten fehlt es an Standards, einheitlicher Datenqualität und einheitlichen und klar verständlichen Lizenzmodellen ([Seuß, 2015](../literatur#Seus2015))
 
-Der Zugang zu Daten ist eine Grundvoraussetzung für die stetige Fortentwicklung wissenschaftlicher Arbeiten und Ergebnisse. ([Klessmann et al., 2012, S. 102](../literatur#klessmann2012open))
+Offene Daten wurden ursprünglich für interne Zwecke einer Organisation erhoben. Da eine Nutzung durch Dritte oftmals nicht in Betracht gezogen wurde, fehlt es oft an Kontext, Metadaten und einer geeigneten Struktur um die Daten interpretieren und wiederverwenden zu können.
+
+
 
 
 !!! **Diskutieren Sie:**
