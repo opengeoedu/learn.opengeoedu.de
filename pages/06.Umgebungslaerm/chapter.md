@@ -15,7 +15,7 @@ editable-simplemde:
 
 Videos zum Fallbeispiel ***Umgebungslärm***
 [owl-carousel items=3 loop=true autoplay=true autoplayHoverPause=true responsive={0:{items:1},1000:{items:2},1400:{items:3}}]
-[![](placeholder.png)]()
-[![](placeholder.png)]()
-[![](placeholder.png)]()
+![](placeholder.png)
+![](placeholder.png)
+![](placeholder.png)
 [/owl-carousel]
