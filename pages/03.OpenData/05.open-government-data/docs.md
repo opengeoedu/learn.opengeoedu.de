@@ -20,11 +20,11 @@ title: 'Open Government Data'
 
 </style>
 
-!! Diese Seite ist noch im Entwurfsstadium
 
 Open Goverment Data (auch OpenGovData, OGD, seltener open public data), zu deutsch, offene Regierungs- und Verwaltungsdaten, sind Daten die von einer öffentlichen Behörde oder Regierungsorganisation zur freien Nutzung durch die Öffentlichkeit bereitgestellt werden. Open Government Data ist eine gemeinsame Teilmenge der *Open Government*- und der *Open Data*- Bewegung. Viele Autoren benutzen den Begriff *Open Data* jedoch synonym mit *Open Government Data* und vernachlässigen dabei die weiter gefasste Bedeutung des Begriffes. Dies zeigt, wie brisant die *"Datenschätze"* des öffentlichen Sektors für unsere Gesellschaft sind.
 
-> "The world is witnessing a significant global transformation, facilitated by technology and digital media, and fueled by data an information.  [...] Open data is at the center of this global shift." <cite>[International Open Data Charter](https://opendatacharter.net/)</cite>
+> "The world is witnessing a significant global transformation, facilitated by technology and digital media, and fueled by data an information.  [...] Open&#160;data is at the center of this global shift." <cite>[International Open Data Charter](https://opendatacharter.net/)</cite>
+
 
 Die meisten Regierungen, die Daten im großen Stil offenlegen, haben sich dem *Open Government*-Leitbild (kurz OpenGov) verschrieben, dessen Grundsätze mit Transparenz, Partizipation und Zusammenarbeit zusammengefasst werden. Durch mehr **Transparenz**  soll staatliches Handeln für die Bürger besser nachvollziehbar gemacht werden. Durch die Bereitstellung offener Daten legt der Staat Rechenschaft dafür ab, wie etwa Steuergelder investiert oder natürliche Ressourcen genutzt werden. **Partizipation** bedeutet, dass Bürger in die Entscheidungsprozesse des Staates mit einbezogen werden sollen - die Politik profitiert dabei durch neue Impulse und Problemlösungsansätze aus der Gesellschaft, in der Gesellschaft selbst soll Politikverdrossenheit abgebaut und die Akzeptanz für staatliches Handeln erhöht werden. Außerdem soll die **Zusammenarbeit** von Regierungen mit bürgerlichen Organisationen und Unternehmen aktiv gefördert werden.
 

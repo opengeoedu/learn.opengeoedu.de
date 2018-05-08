@@ -5,9 +5,8 @@ taxonomy:
         - docs
 ---
 
-!! Diese Seite ist noch im Entwurfsstadium!
 
-In unserer Gesellschaft ist Forderung nicht neu, dass Ideen, Wissen, Informationen und Daten der Öffentlichkeit frei zugänglich sein sollten.
+In unserer Gesellschaft ist die Forderung nicht neu, dass Ideen, Wissen, Informationen und Daten der Öffentlichkeit frei zugänglich sein sollten.
 
 ### Wissenschaftlicher Austausch und internationale Vernetzung
 
@@ -19,26 +18,26 @@ Eine wichtige Rolle für die Öffnung von Geodaten spielen die Normungen der ISO
 
 ### Freie Software und freie Inhalte
 
-Entscheidende Impulse erhielt Open Data auch aus den **F**ree/**L**ibre und **O**pen **S**ource **S**oftware (FLOSS) Bewegungen, deren Anfänge bis in die 80er zurückreichen und deren Vertreter in vieler Hinsicht Vordenker der mannigfaltigen "Open"-Bewegungen sind ([Tacz, 2012](../literatur#tkacz2012open)), welche im [Kapitel Open XX](../../openx) ausführlich behandelt werden. Wesentlich ist Abkehr von traditionellen Prinzipien der Softwareentwicklung hin zu einem auf Offenheit, Partizipation und Kollaboration basierendem Entwicklungsprozess. Open Source- Pionier Eric S. Raymold [...] beschrieb den Paradigmenwechsel mit dem Sinnbild von Kathedralen und Basaren. Demnach würde traditionelle Software würde wie Kathedralen kreiert: Ein Chefarchitekt (leitender Softwareentwickler) leitet eine Hierarchie von Arbeitern an, die nach geheimen Plänen ein großes Bauwerk errichten, das erst bei seiner Fertigstellung der Öffentlichkeit zugänglich gemacht wird (Software-Release). Die Entwicklung von FLOSS Software wie GNU / Linux dagegen ähnelt dem Treiben auf einem Basar: Die viele Entwickler 
+Entscheidende Impulse erhielt Open Data auch aus den **F**ree/**L**ibre und **O**pen **S**ource **S**oftware (FLOSS) Bewegungen, deren Anfänge bis in die 80er zurückreichen und deren Vertreter in vieler Hinsicht Vordenker der mannigfaltigen "Open"-Bewegungen sind ([Tacz, 2012](../literatur#tkacz2012open)), welche im [Kapitel Open XX](../../openx) ausführlich behandelt werden. Wesentlich ist die Abkehr von traditionellen Prinzipien der Softwareentwicklung hin zu einem auf Offenheit, Partizipation und Kollaboration basierendem Entwicklungsprozess. Open Source-Pionier Eric S. Raymold [...] beschrieb den Paradigmenwechsel mit dem Sinnbild von Kathedralen und Basaren. Demnach würde traditionelle Software wie Kathedralen kreiert: Ein Chefarchitekt (leitender Softwareentwickler) leitet eine Hierarchie von Arbeitern an, die nach geheimen Plänen ein großes Bauwerk errichten, das erst bei seiner Fertigstellung der Öffentlichkeit zugänglich gemacht wird (Software-Release). Die Entwicklung von FLOSS Software wie GNU / Linux dagegen ähnelt dem Treiben auf einem Basar: Die viele Entwickler
 
 
-mit 
+mit
 
 
 
-dem Bau von Kathedralen und den Handel auf Basaren: Während traditionelle Softwareentwicklung eher dem Bau einer Kirche ähnelt, bei dem 
+dem Bau von Kathedralen und den Handel auf Basaren: Während traditionelle Softwareentwicklung eher dem Bau einer Kirche ähnelt, bei dem
 
-Nicht nur wird hierbei der Quellcode des Programms offengelegt - durch Software-Lizenzen, wie z. B. der der GNU General Public License oder Mozilla Public License, werden den Nutzer ausdrücklich Rechte zur Wieder-Verwendung und Weitergabe des Programmcodes eingeräumt, teilweise aber auch Pflichten wie die der Namensnennung des Urhebers und die Weitergabe unter gleicher Lizenz (copyleft / share-alike).
+Nicht nur wird hierbei der Quellcode des Programms offengelegt - durch Software-Lizenzen, wie z. B. der GNU General Public License oder Mozilla Public License, werden den Nutzer ausdrücklich Rechte zur Wieder-Verwendung und Weitergabe des Programmcodes eingeräumt, teilweise aber auch Pflichten wie die der Namensnennung des Urhebers und die Weitergabe unter gleicher Lizenz (copyleft / share-alike).
 
 Mit der Ausbreitung des Internets wuchs auch seine Bedeutung als Plattform für den Austausch von Informationen, Dokumente, Grafiken und sonstigen kreative Werken. Es herrschte jedoch auch eine Unsicherheit, welche Werke auf welche Art ohne die Verletzung von Urheberrechten verwendet werden dürfen. Diese Problematik griff die 2001 gegründete Organisation *Creative Commons* auf ([Creative Commons, 2018](../literatur#cchistory)). Inspiriert von den GNU Public License entwickelte sie eine Reihe von standardisierten Lizenzverträgen, die es Urhebern kreativer Inhalte ermöglichen, die Nutzungsrechte für ihre Werke in unterschiedlichen Abstufungen freizugeben. Diese Lizenzen erfreuen sich bis heute großer internationaler Beliebtheit und gehören zu den wichtigsten Lizenzen, die in ihren freizügigsten Varianten für auch offene Daten verwendet werden.
 
-In den 2000er Jahren gewannen Projekte mit offenen Inhalten und offene Daten an Popularität. Prominente Beispiele hierfür sind die freie Enzyklopädie Wikipedia und das OpenStreetMap-Projekt für eine freie Weltkarte und offene Geodaten. Mit der 2006 erstmals veröffentlichen [Open Definition](https://opendefinition.org/) ([Open Knowledge International, 2006](../literatur#knowledge2015open)) verständigte sich die wachsende Open Data Bewegung auf ein allgemeine Definition der Begriffe *Open* und *Open Data*, sowie die legalen Kriterien einer Open Data Lizenzen, die dem Nutzer möglichst uneingeschränkte Nutzung von Daten erlauben sollen.
+In den 2000er Jahren gewannen Projekte mit offenen Inhalten und offenen Daten an Popularität. Prominente Beispiele hierfür sind die freie Enzyklopädie Wikipedia und das OpenStreetMap-Projekt für eine freie Weltkarte und offene Geodaten. Mit der 2006 erstmals veröffentlichen [Open Definition](https://opendefinition.org/) ([Open Knowledge International, 2006](../literatur#knowledge2015open)) verständigte sich die wachsende Open Data Bewegung auf ein allgemeine Definition der Begriffe *Open* und *Open Data*, sowie die legalen Kriterien einer Open Data Lizenzen, die dem Nutzer möglichst uneingeschränkte Nutzung von Daten erlauben sollen.
 
 ### Von Open Source zu Open Government
 
 *Open Source Demokratie* wurde bereits 2003 von Douglas Rushkoff theoretisiert. Als Ende der 2000er das Thema Open Data auch von der Politik aufgegriffen wurde, war dies ein großer Wendepunkt für die Bewegung. Bekannt ist das *[Memorandum on Transparency and Open Government](https://obamawhitehouse.archives.gov/the-press-office/transparency-and-open-government)*, welches US-Präsident Barack Obama bei seinem Amtsantritt 2009 verabschiedete. Er erklärt darin die Informationen der US-Bundesregierung zu einem nationalen Gut und erklärt *Transparenz*, *Kollaboration* und *Partizipation* zu den Grundsätzen von Open Government in den USA.
 
-Es folgten Internationale Vereinbarungen zur Öffnung von Regierungs- und Verwaltungsdaten wie die G8-Open-Data-Charta 2013, welche auch von der Bundesrepublik Deutschland unterschrieben wurde. 2014 veröffentlichte die deutsche Bundesregierung den Aktionsplan der zur Umsetzung der G8-Open-Data-Charta führte. Hierin verpflichtet sie sich selbst zu Maßnahmen zur Öffnung von Verwaltungsdaten, insbesondere zur Annäherung an den Grundsatz, dass Verwaltungsdaten standardmäßig offen sein sollen. Offene Verwaltungsdaten schaffen Regierungen nicht nur Transparenz und legen Rechenschaft für ihr Handeln ab, sondern besitzen auch ein hohes wirtschaftliches Potential. Die Europäische Kommission schätzt das Marktvolumen, dass durch Offene Daten in der EU zwischen 2016 und 2020 generiert wird auf 325 Milliarden Euro.
+Es folgten internationale Vereinbarungen zur Öffnung von Regierungs- und Verwaltungsdaten wie die G8-Open-Data-Charta 2013, welche auch von der Bundesrepublik Deutschland unterschrieben wurde. 2014 veröffentlichte die deutsche Bundesregierung den Aktionsplan der zur Umsetzung der G8-Open-Data-Charta führte. Hierin verpflichtet sie sich selbst zu Maßnahmen zur Öffnung von Verwaltungsdaten, insbesondere zur Annäherung an den Grundsatz, dass Verwaltungsdaten standardmäßig offen sein sollen. Offene Verwaltungsdaten schaffen Regierungen nicht nur Transparenz und legen Rechenschaft für ihr Handeln ab, sondern besitzen auch ein hohes wirtschaftliches Potential. Die Europäische Kommission schätzt das Marktvolumen, dass durch Offene Daten in der EU zwischen 2016 und 2020 generiert wird auf 325 Milliarden Euro.
 
 ### Fazit
 Wichtig ist die Erkenntnis, dass die Open Data-Bewegung das Ergebnis mehrerer gesellschaftlicher Diskurse ist, an dem Interessengruppen mit unterschiedlichen Zielen beteiligt sind. Sie ist ein globales Phänomen, begünstigt durch digitale Vernetzung und internationale Zusammenarbeit. In verschiedenen Ländern, Regionen und Branchen unterscheiden sich jedoch die Rahmenbedingungen, unter denen der Open Data umgesetzt wird. Die folgenden Lektionen konzentrieren sich daher auf offene Daten im deutschsprachigen Raum (insbesondere D-A-CH-LI) und deren Relevanz für raumbezogene Forschung und Studiengänge.
@@ -47,4 +46,3 @@ Wichtig ist die Erkenntnis, dass die Open Data-Bewegung das Ergebnis mehrerer ge
 !!! **Diskutieren Sie:**
 !!! 1. Welche Interessengruppen sind an der Open Data Bewegung beteiligt?
 !!! 2. Welche Ziele verfolgen die einzelnen Gruppen?
-

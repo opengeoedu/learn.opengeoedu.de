@@ -30,8 +30,8 @@ Warum offene Daten für die **Gesellschaft**, **Demokratie**, **Wissenschaft**, 
 
 Wissenswertes zur **Open Data Bewegung** und ihren Hintergründen
 
-**Wo** offene Daten zu finden sind, **wie** man sie verwenden kann und **was** dabei zu Beachten ist
+**Wo** offene Daten zu finden sind, **wie** man sie verwenden kann und **was** dabei zu beachten ist
 
-Grundlagen des **Urheberrechts** und der **Lizenzen** für offenen Daten
+Grundlagen des **Urheberrechts** und der **Lizenzen** für offene Daten
 
 Zu beurteilen, ob ein offener Datensatz für Ihr Vorhaben geeignet ist und einen Mehrwert für Ihr Projekt darstellt
