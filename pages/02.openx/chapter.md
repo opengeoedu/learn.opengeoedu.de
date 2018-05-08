@@ -7,12 +7,10 @@ menu: 'Open XX'
 ---
 # Open XX
 
-**Offenheit** in Gesellschaft, Verwaltung, Wirtschaft und Wissenschaft
+Videos zu **Offenheit** in Gesellschaft, Verwaltung, Wirtschaft und Wissenschaft
 
-[owl-carousel items=2 loop=true autoplay=true video=true autoplayHoverPause=true responsive={0:{items:1},600:{items:3}}]
-![](https://youtu.be/rEB3Oti20CI)
-![](https://www.opengeoedu.de/images/logo/oge.svg)
-![](https://www.opengeoedu.de/images/logo/oge.svg)
-![](https://www.opengeoedu.de/images/logo/oge.svg)
-![](https://www.opengeoedu.de/images/logo/oge.svg)
+[owl-carousel items=3 loop=true autoplay=true autoplayHoverPause=true responsive={0:{items:1},1000:{items:2},1400:{items:3}}]
+[![](teaser_openx.png)]()
+[![](placeholder.png)]()
+[![](placeholder.png)]()
 [/owl-carousel]
