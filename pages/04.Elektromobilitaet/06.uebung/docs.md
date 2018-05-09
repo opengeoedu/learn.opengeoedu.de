@@ -5,4 +5,4 @@ taxonomy:
         - docs
 ---
 
-[plugin:youtube](https://youtu.be/HHDmcOtN33s)
+ # Übungsanleitung
