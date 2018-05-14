@@ -5,4 +5,4 @@ taxonomy:
         - docs
 ---
 
- # Übungsanleitung
+# Übungsanleitung
