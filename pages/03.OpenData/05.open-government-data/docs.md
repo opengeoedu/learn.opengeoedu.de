@@ -37,26 +37,36 @@ Der Studie "Open Government Data Deutschland" zufolge ([Klessman et al., 2012](.
 
 Einen größeren Fokus auf Open Data als Bestandteil von Open Government-Stategien hat die Open Government Charta der G8-Staaten (2013) deren Nachfolgeerklärung die [internationale Open Data Charta](https://opendatacharter.net/) ist. Die beiden Charters nennen fünf bzw. sechs Kernprinzipien für die Veröffentlichung von offenen Verwaltungsdaten, die im wesentlichen miteinander &uuml;bereinstimmen, jedoch mit kleinen Unterschieden ausformuliert wurden.
 
-|Prinzip (sinngemäß) | G8 Open Data Charta | International Open Data Charta 
---|---|---|
-| 1. Standardmäßig offene Daten | Open by default  | Open by default  |
-| <div class="fullspan" markdown="1">**Erläuterung**</div> |
-| 2. Qualität und Quantität /<br/> Zeitnah und umfassend | Quality and Quantity  | Timely and comprehensive  |
-| <div class="fullspan" markdown="1">**Erläuterung**</div> |
-| 3. Von allen verwendbar /<br/>(offen) zugänglich und verwendbar | Usable by All  | Accessible and Usable |
-| <div class="fullspan" markdown="1">**Erläuterung**</div> |
-| 4. Vergleichbar und Interoperabel | - | Comparable and Interoperable  |
+|Prinzip (sinngemäß) | G8 Open Data Charta [^1] | International Open Data Charta [^2] | Open-Data-Prinzipien
+--|---|---|--|
+| Standardmäßig offene Daten | 1. Open by default  | 2. Open by default  | - 
+| <div class="fullspan" markdown="1">**Erläuterung:** Bislang wurden Regierungs- und Verwaltungsdaten oft nur auf begründete Anfragen hin herausgegeben. In Zukunft sollen alle Daten standardmäßig veröffentlicht werden, sofern keine besonderen Gründe vorliegen, diese zurückzuhalten. Die internationale Charta fordert auch, dass Regierungen das Zurückhalten von Daten rechtfertigen müssen.</div> |
+| Qualität und Quantität /<br/> Zeitnah und umfassend | 1. Quality and Quantity  | 2. Timely and comprehensive  | 1. Completeness (Vollstänigkeit)<br/>2. timeliness (Zeitnähe)<br/>3. primacy (Primärquellen)|
+| <div class="fullspan" markdown="1">**Erläuterung:** Daten von hoher Qualität sollen zeitnah und umfassend veröffentlicht werden. in ihrem ursprünglichen, unmodifizierten Zustand (Primär-Datensatz) veröffentlicht werden. </div> |
+|  3. Von allen verwendbar /<br/>(offen) zugänglich und verwendbar | Usable by All  | Accessible and Usable | <div class="rowspan" markdown="1">4. Ease of of physical and electronic Access (Leichte physische und elektronische Erreichbarkeit)<br/>5. Machine readability (Maschinenlesbarkeit)<br/>6. Non-discrimination (Barrierefreier Zugang) <br/> 7. Commonly owned or Open Standards<br/> 8. Licensing (Lizensierung)<br/> (9. Dauerhaftigkeit) <br/>10. Usage Costs (Nutzungskosten)|
+| 4. Vergleichbar und Interoperabel<div> | - | Comparable and Interoperable  |
 | <div class="fullspan" markdown="1">**Erläuterung**</div> |
 | 5. Freigabe von Daten für verbessertes staatliches Handeln und Einbeziehung von Bürgern | Releasing Data for Improved Governance | For Improved Governance And Citizen Engagement |
 | <div class="fullspan" markdown="1">**Erläuterung**</div>
 | 6. Freigabe von Daten für Entwicklung und Innovation |  Releasing Data for Innovation  | For inclusive Development and Innovation  |
 | <div class="fullspan" markdown="1">**Erläuterung**</div> 
+[^1]: Am 18. Juni 2013 verabschiedet durch Deutschland, Frankreich, Italien, Japan, Kanada, Russland, das Vereinigte Königreich (UK) und die Vereinigten Staaten (USA)
+[^2]: Wird als Nachfolgeerklärung der G8-Charta aktiv weiterentwickelt und wurde bislang von 19 nationalen Regierungen offiziell angenommen und von vielen staatlichen Einrichtungen und nichtstaatlichen Organisationen weltweit unterstützt. (Stand: 15.5.2018, in Europa lediglich angenommen durch UK, Italien, Frankreich und die Ukraine)
+
 <script>
 	  var divelements = document.getElementsByClassName("fullspan");
   for (var i = 0; i < divelements.length; i++) {
       var element = divelements[i];
-      element.parentElement.colSpan=3;
+      element.parentElement.colSpan=4;
       element.parentElement.style.backgroundColor="#eeeeee";
+  }
+  
+  
+var divelements = document.getElementsByClassName("rowspan");
+  for (var i = 0; i < divelements.length; i++) {
+      var element = divelements[i];
+      element.parentElement.rowSpan=2;
+     // element.parentElement.style.backgroundColor="#eeeeee";
   }
 </script>
 
@@ -69,6 +79,12 @@ Deutschland hat 2013 die G8 Open Data Charter unterschrieben und ist seit 2016 T
 Seit 2013 dürfen Geodaten des Bundes nach der ["Verordnung zur Festlegung der Nutzungsbestimmungen für die Bereitstellung von Geodaten des Bundes (GeoNutzV)"](https://www.gesetze-im-internet.de/geonutzv/BJNR054700013.html) unter Beigabe des Quellenvermerks ohne Einschränkung weiterverwendet werden, soweit durch besondere Rechtsvorschrift nichts anderes Bestimmt ist oder rechte Dritter dem entgegenstehen.
 
 2014 wurde der *Nationale Aktionsplan der Bundesregierung Umsetzung der G8-Open-Data-Charta* veröffentlicht, in welchem die Bundesregierung sich zu konkreten Maßnahmen entsprechend der international anerkannten Open Data-Prinzipien verpflichtet. Demnach sollten weitere gesetzliche Open-Data-Regelungen nach Vorbild der GeoNutzV erlassen werden. [GovData](https://www.govdata.de) soll demnach als zentrales Datenportal für Bund, Länder und Kommunen fungieren, wobei viele Bundesbehörden verpflichtet wurden, mindestens 2 Datensätze dort zu veröffentlichen. Konkret wurden Datensätze zu dem Themen *Haushalt und Finanzen*, *Geodaten*, *Wahlen* sowie *Statistik* benannt, welche in strukturierter Form öffentlich gemacht werden sollten.
+
+[Gesetz zur Förderung der elektronischen Verwaltung (E-Government-Gesetz - EGovG)
+§ 12a Offene Daten der Behörden der unmittelbaren Bundesverwaltung](
+https://www.gesetze-im-internet.de/egovg/__12a.html)
+
+
 
 Als Empfehlung für die einheitliche die Lizensierung offener Verwaltungsdaten entwickelte die Arbeitsgemeinschaft von GovData in Zusammenarbeit mit Bund, Ländern und Kommunen die beiden Lizenzen [*Datenlizenz Deutschland – Zero – Version 2.0*](https://www.govdata.de/dl-de/zero-2-0) und [*Datenlizenz Deutschland – Namensnennung – Version 2.0*](https://www.govdata.de/dl-de/by-2-0), welche jeweils die uneingeschränkte Datenutzung nach den Open-Data-Prinzipien erlauben und Sachverständigenrat der Open Definition als Definitionskonform bestätigt wurde (siehe [https://opendefinition.org/licenses/](https://opendefinition.org/licenses/).
 
