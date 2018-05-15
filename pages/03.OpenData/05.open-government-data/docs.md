@@ -37,39 +37,30 @@ Der Studie "Open Government Data Deutschland" zufolge ([Klessman et al., 2012](.
 
 Einen größeren Fokus auf Open Data als Bestandteil von Open Government-Stategien hat die Open Government Charta der G8-Staaten (2013) deren Nachfolgeerklärung die [internationale Open Data Charta](https://opendatacharter.net/) ist. Die beiden Charters nennen fünf bzw. sechs Kernprinzipien für die Veröffentlichung von offenen Verwaltungsdaten, die im wesentlichen miteinander &uuml;bereinstimmen, jedoch mit kleinen Unterschieden ausformuliert wurden.
 
-|Prinzip (sinngemäß) | G8 Open Data Charta | International Open Data Charta  |
---|---|---|---|--
-|  | Open by default  | Open by default  |   
-|**Erläuterung:** <td colspan="3">Three</td>
-|  | Quality and Quantity  | Timely and comprehensive  |
-|**Erläuterung:** <td colspan="3">Three</td>
-|  | Usable by All  | Accessible and Usable |  
-|  |  | Comparable and Interoperable  |  
-|**Erläuterung:** <td colspan="3">Three</td>  |  
-Releasing Data for Improved Governance  |  For Improved Governance And Citizen Engagement |    
-|**Erläuterung:** <td colspan="3">Three</td>  |   
-Releasing Data for Innovation  | For inclusive Development and Innovation  |    
-|**Erläuterung:** <td colspan="3">Three</td>d  |   |  
+|Prinzip (sinngemäß) | G8 Open Data Charta | International Open Data Charta 
+--|---|---|
+| 1. Standardmäßig offene Daten | Open by default  | Open by default  |
+| <div class="fullspan" markdown="1">**Erläuterung**</div> |
+| 2. Qualität und Quantität /<br/> Zeitnah und umfassend | Quality and Quantity  | Timely and comprehensive  |
+| <div class="fullspan" markdown="1">**Erläuterung**</div> |
+| 3. Von allen verwendbar /<br/>(offen) zugänglich und verwendbar | Usable by All  | Accessible and Usable |
+| <div class="fullspan" markdown="1">**Erläuterung**</div> |
+| 4. Vergleichbar und Interoperabel | - | Comparable and Interoperable  |
+| <div class="fullspan" markdown="1">**Erläuterung**</div> |
+| 5. Freigabe von Daten für verbessertes staatliches Handeln und Einbeziehung von Bürgern | Releasing Data for Improved Governance | For Improved Governance And Citizen Engagement |
+| <div class="fullspan" markdown="1">**Erläuterung**</div>
+| 6. Freigabe von Daten für Entwicklung und Innovation |  Releasing Data for Innovation  | For inclusive Development and Innovation  |
+| <div class="fullspan" markdown="1">**Erläuterung**</div> 
+<script>
+	  var divelements = document.getElementsByClassName("fullspan");
+  for (var i = 0; i < divelements.length; i++) {
+      var element = divelements[i];
+      element.parentElement.colSpan=3;
+      element.parentElement.style.backgroundColor="#eeeeee";
+  }
+</script>
 
-*
-*
-*
-*
-*
-
-
-*
-*
-*
-*
-*
-
-1. affaf
-2. affaf
-
-
-2. af
-3.
+<br/>
 
 ### OGD in Deutschland
 
