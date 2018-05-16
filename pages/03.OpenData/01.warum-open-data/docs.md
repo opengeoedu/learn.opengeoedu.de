@@ -23,14 +23,21 @@ Open Data bedeutet, dass Regierungen, Verwaltungen, wissenschaftliche Einrichtun
 <div markdown="1" style="background-color:#22ff77; padding:10px;  border-radius: 20px; border-style:groove; border-width: 4pt; border-color: green">
 ## Argumente für Open Data
 
-Daten, deren Erhebung durch Steuergelder finanziert wurden, sollten auch der Allgemeinheit zugute kommen.
+Daten, deren Erhebung durch Steuergelder finanziert wurden (z.B. in der öffentlichen Verwaltung und Wissenschaft), sollten auch der Allgemeinheit zugute kommen.
 
-Der freie Zugang zu Verwaltungsdaten fördert die öffentliche Meinungsbildung und Partizipation der Bürger. Dies stärkt die Demokratie.
+Der freie Zugang zu Regierungs- und Verwaltungsdaten fördert die öffentliche Meinungsbildung und die Partizipation der Bürger. Dies stärkt die Demokratie.
 
-Die Lizenzierung bestimmter Daten ist mitunter sehr teuer (insbesondere Geobasisdaten wie ALKIS und ATKIS). Damit wird deren breite Nutzung verhindert und Innovation gehemmt  ([Seuß, 2015](../literatur#Seus2015)).
+Die Lizenzierung bestimmter Daten in öffentlicher Hand ist mitunter sehr teuer (insbesondere Geobasisdaten wie ALKIS und ATKIS). Damit wird deren breite Nutzung verhindert und Innovation gehemmt  ([Seuß, 2015](../literatur#Seus2015)).
+
+Liegt ein offener Datensatz in ausreichender Qualität zur Nachnutzung vor, können die kosten eingespart werden die es erfordern würde, die Informationen selbst zu erheben oder zu erwerben.
 
 Der Zugang zu Daten ist eine Grundvoraussetzung für die stetige Fortentwicklung wissenschaftlicher Arbeiten und Ergebnisse. ([Klessmann et al., 2012, S. 102](../literatur#klessmann2012open))
 
+Offener Zugang zu Daten und Fakten stimuliert neue Ideen und Innovation.
+
+Die allgemeine Offenlegung von Daten führt zu einem schnelleren Informationsfluss und Austausch in und zwischen Regierungen, Organisationen und sonstigen Einrichtungen.
+
+Offene Daten und Informationen können von jedem nachvollzogen und unabhängig überprüft werden. Fehlinformationen können so leichter aufgedeckt und korrigiert werden. Die Qualität der Daten kann so gesteigert werden.
 </div>
 <br/>
 <div markdown="1" style="background-color:#ff6f66; padding:10px;  border-radius: 20px; border-style:groove; border-width: 4pt; border-color: red">

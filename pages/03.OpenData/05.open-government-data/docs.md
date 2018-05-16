@@ -39,11 +39,11 @@ Einen größeren Fokus auf Open Data als Bestandteil von Open Government-Stategi
 
 |Prinzip (sinngemäß) | G8 Open Data Charta [^1] | International Open Data Charta [^2] | Open-Data-Prinzipien
 --|---|---|--|
-| Standardmäßig offene Daten | 1. Open by default  | 2. Open by default  | - 
+| Standardmäßig offene Daten | 1. Open by default  | 1. Open by default  | - 
 | <div class="fullspan" markdown="1">**Erläuterung:** Bislang wurden Regierungs- und Verwaltungsdaten oft nur auf begründete Anfragen hin herausgegeben. In Zukunft sollen alle Daten standardmäßig veröffentlicht werden, sofern keine besonderen Gründe vorliegen, diese zurückzuhalten. Die internationale Charta fordert auch, dass Regierungen das Zurückhalten von Daten rechtfertigen müssen.</div> |
 | Qualität und Quantität /<br/> Zeitnah und umfassend | 1. Quality and Quantity  | 2. Timely and comprehensive  | 1. Completeness (Vollstänigkeit)<br/>2. timeliness (Zeitnähe)<br/>3. primacy (Primärquellen)|
 | <div class="fullspan" markdown="1">**Erläuterung:** Daten von hoher Qualität sollen zeitnah und umfassend veröffentlicht werden. in ihrem ursprünglichen, unmodifizierten Zustand (Primär-Datensatz) veröffentlicht werden. </div> |
-|  3. Von allen verwendbar /<br/>(offen) zugänglich und verwendbar | Usable by All  | Accessible and Usable | <div class="rowspan" markdown="1">4. Ease of of physical and electronic Access (Leichte physische und elektronische Erreichbarkeit)<br/>5. Machine readability (Maschinenlesbarkeit)<br/>6. Non-discrimination (Barrierefreier Zugang) <br/> 7. Commonly owned or Open Standards<br/> 8. Licensing (Lizensierung)<br/> (9. Dauerhaftigkeit) <br/>10. Usage Costs (Nutzungskosten)|
+|  Von allen verwendbar /<br/>(offen) zugänglich und verwendbar | Usable by All  | Accessible and Usable | <div class="rowspan" markdown="1">4. Ease of of physical and electronic Access (Leichte physische und elektronische Erreichbarkeit)<br/>5. Machine readability (Maschinenlesbarkeit)<br/>6. Non-discrimination (Barrierefreier Zugang) <br/> 7. Commonly owned or Open Standards<br/> 8. Licensing (Lizensierung)<br/> (9. Dauerhaftigkeit) <br/>10. Usage Costs (Nutzungskosten)|
 | 4. Vergleichbar und Interoperabel<div> | - | Comparable and Interoperable  |
 | <div class="fullspan" markdown="1">**Erläuterung**</div> |
 | 5. Freigabe von Daten für verbessertes staatliches Handeln und Einbeziehung von Bürgern | Releasing Data for Improved Governance | For Improved Governance And Citizen Engagement |
