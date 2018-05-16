@@ -35,21 +35,22 @@ Die meisten Regierungen, die Daten im großen Stil offenlegen, haben sich dem *O
 
 Der Studie "Open Government Data Deutschland" zufolge ([Klessman et al., 2012](../literatur#klessmann2012open)) soll Open Government in Zusammenwirken mit existierenden Ansätzen ein sogenanntes Ökosystem der Offenheit anregen, bei dem sich die verschiedenen Ansätze Aufgrund von Wechselwirkungen gegenseitig befruchten (siehe Abbildung 1). Prominent formuliert wurden die Ziele von Open Government in dem Memorandum über ""[Transparency and Open Government](https://obamawhitehouse.archives.gov/the-press-office/transparency-and-open-government)", 2009 veröffentlicht von US-Präsident Barack Obama. Sie finden sich auch in der Deklaration der [Open Government Partnership](https://www.opengovpartnership.org) (2011) wider, einer internationalen Open Government - Initiative.
 
-Einen größeren Fokus auf Open Data als Bestandteil von Open Government-Stategien hat die Open Government Charta der G8-Staaten (2013) deren Nachfolgeerklärung die [internationale Open Data Charta](https://opendatacharter.net/) ist. Die beiden Charters nennen fünf bzw. sechs Kernprinzipien für die Veröffentlichung von offenen Verwaltungsdaten, die im wesentlichen miteinander &uuml;bereinstimmen, jedoch mit kleinen Unterschieden ausformuliert wurden.
+Einen größeren Fokus auf Open Data als Bestandteil von Open Government-Stategien hat die Open Government Charta der G8-Staaten (2013) deren Nachfolgeerklärung die [internationale Open Data Charta](https://opendatacharter.net/) ist, welche gegenwärtig aktiv weiterentwickelt wird. Die beiden Charters nennen fünf bzw. sechs Kernprinzipien für die Veröffentlichung von offenen Verwaltungsdaten, die im wesentlichen miteinander &uuml;bereinstimmen, jedoch sie in der Internationalen Charta etwas anders ausformuliert und durch einige Bedingungen ergänzt. Die Nationen und Organisationen, welche eine der beiden Chartas unterstützen, haben sich bereit erklärt, sich den genannten Ziele schrittweise anzunähern und die dazu notwendigen rechtlichen, organisatorischen und technischen Rahmenbedingungen zu schaffen. Die beiden Chartas sind gemeinsam mit den 10 Open Data Prinzipien der [Sunlight-Foundation](https://sunlightfoundation.com/policy/documents/ten-open-data-principles/), welche oft auch in offiziellen Regierungsdokumenten zitiert werden, maßgeblich für international anerkannte Open Data Standards und Ziele. Wie die unten stehende Übersicht zeigt, finden sich wesentliche Punkte der Prinzipien Sunlight Foundation ebenfalls in den Beschreibungen der Charta-Prinzipien wieder. Die Tabelle stellt die thematisch einander entsprechenden Prinzipien gegenüber und fasst ihre wesentlichen Inhalte zusammen.
 
-|Prinzip (sinngemäß) | G8 Open Data Charta [^1] | International Open Data Charta [^2] | Open-Data-Prinzipien
---|---|---|--|
-| Standardmäßig offene Daten | 1. Open by default  | 1. Open by default  | - 
-| <div class="fullspan" markdown="1">**Erläuterung:** Bislang wurden Regierungs- und Verwaltungsdaten oft nur auf begründete Anfragen hin herausgegeben. In Zukunft sollen alle Daten standardmäßig veröffentlicht werden, sofern keine besonderen Gründe vorliegen, diese zurückzuhalten. Die internationale Charta fordert auch, dass Regierungen das Zurückhalten von Daten rechtfertigen müssen.</div> |
-| Qualität und Quantität /<br/> Zeitnah und umfassend | 1. Quality and Quantity  | 2. Timely and comprehensive  | 1. Completeness (Vollstänigkeit)<br/>2. timeliness (Zeitnähe)<br/>3. primacy (Primärquellen)|
-| <div class="fullspan" markdown="1">**Erläuterung:** Daten von hoher Qualität sollen zeitnah und umfassend veröffentlicht werden. in ihrem ursprünglichen, unmodifizierten Zustand (Primär-Datensatz) veröffentlicht werden. </div> |
-|  Von allen verwendbar /<br/>(offen) zugänglich und verwendbar | Usable by All  | Accessible and Usable | <div class="rowspan" markdown="1">4. Ease of of physical and electronic Access (Leichte physische und elektronische Erreichbarkeit)<br/>5. Machine readability (Maschinenlesbarkeit)<br/>6. Non-discrimination (Barrierefreier Zugang) <br/> 7. Commonly owned or Open Standards<br/> 8. Licensing (Lizensierung)<br/> (9. Dauerhaftigkeit) <br/>10. Usage Costs (Nutzungskosten)|
-| 4. Vergleichbar und Interoperabel<div> | - | Comparable and Interoperable  |
-| <div class="fullspan" markdown="1">**Erläuterung**</div> |
-| 5. Freigabe von Daten für verbessertes staatliches Handeln und Einbeziehung von Bürgern | Releasing Data for Improved Governance | For Improved Governance And Citizen Engagement |
-| <div class="fullspan" markdown="1">**Erläuterung**</div>
-| 6. Freigabe von Daten für Entwicklung und Innovation |  Releasing Data for Innovation  | For inclusive Development and Innovation  |
-| <div class="fullspan" markdown="1">**Erläuterung**</div> 
+|G8 Open Data Charta [^1] | International Open Data Charta [^2] | Open-Data-Prinzipien der Sunlight-Foundation
+|--|---|--|
+1. Open by default  | 1. Open by default  | - 
+| <div class="fullspan" markdown="1"><h3>Prinzip: Standardmäßig offene Daten</h3> **Erläuterung:** Bislang wurden Regierungs- und Verwaltungsdaten oft nur auf begründete Anfragen hin herausgegeben. In Zukunft sollen alle Daten standardmäßig veröffentlicht werden, sofern keine besonderen Gründe vorliegen, diese zurückzuhalten. Die internationale Charta fordert auch, dass Regierungen das Zurückhalten von Daten rechtfertigen müssen.</div> |
+ | 2. Quality and Quantity  | 2. Timely and comprehensive  | 1. Vollstänigkeit (Completeness)<br/>2. Zeitnähe (timeliness)<br/>3. Primärquellen (primacy)
+| <div class="fullspan" markdown="1"> <h3>Prinzip: Qualität und Quantität / Zeitnah und umfassend </h3>**Erläuterung:** Daten von hoher Qualität sollen zeitnah und umfassend veröffentlicht werden. in ihrem ursprünglichen, unmodifizierten Zustand (Primär-Datensatz) veröffentlicht werden. </div>|
+| 3. Usable by all  | 3. Accessible and usable | <div class="rowspan" markdown="1">4. Ease of of physical and electronic Access (Leichte physische und elektronische Erreichbarkeit)<br/>5. Machine readability (Maschinenlesbarkeit)<br/>6. Non-discrimination (Barrierefreier Zugang) <br/> 7. Commonly owned or Open Standards<br/> 8. Licensing (Lizensierung)<br/> (9. Dauerhaftigkeit) <br/>10. Usage Costs (Nutzungskosten) </div>|
+|- | 4. Comparable and Interoperable  |
+| <div class="fullspan" markdown="1"><h3>Prinzip: Von allen verwendbar / zugänglich und verwendbar </h3>**Erläuterung:**<h3>Prinzip: Vergleichbar und interoperabel</h3> **Erläuterung:**</div> |
+| 4. Releasing Data for Improved Governance | 5. For Improved Governance And Citizen Engagement |
+| <div class="fullspan" markdown="1"><h3>Prinzip: Freigabe von Daten für verbessertes staatliches Handeln und Einbeziehung von Bürgern </h3> **Erläuterung**</div>
+|  5. Releasing Data for Innovation  | 6. For inclusive Development and Innovation  | -
+| <div class="fullspan" markdown="1"><h3>Prinzip:  Freigabe von Daten für Entwicklung und Innovation </h3>**Erläuterung:**</div> |
+
 [^1]: Am 18. Juni 2013 verabschiedet durch Deutschland, Frankreich, Italien, Japan, Kanada, Russland, das Vereinigte Königreich (UK) und die Vereinigten Staaten (USA)
 [^2]: Wird als Nachfolgeerklärung der G8-Charta aktiv weiterentwickelt und wurde bislang von 19 nationalen Regierungen offiziell angenommen und von vielen staatlichen Einrichtungen und nichtstaatlichen Organisationen weltweit unterstützt. (Stand: 15.5.2018, in Europa lediglich angenommen durch UK, Italien, Frankreich und die Ukraine)
 
@@ -57,7 +58,7 @@ Einen größeren Fokus auf Open Data als Bestandteil von Open Government-Stategi
 	  var divelements = document.getElementsByClassName("fullspan");
   for (var i = 0; i < divelements.length; i++) {
       var element = divelements[i];
-      element.parentElement.colSpan=4;
+      element.parentElement.colSpan=3;
       element.parentElement.style.backgroundColor="#eeeeee";
   }
   

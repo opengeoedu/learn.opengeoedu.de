@@ -2,11 +2,9 @@
 title: 'Open Data Timeline'
 taxonomy:
     category:
-        - Filecontent
-filename: 'timeline.html'
+        - docs
 ---
-
-!! Diese Seite ist noch im Entwurfsstadium!
+!!!! Wesentliche Daten im Zusammenhang mit Open Data sind [HIER](http://www.opengeoedu.de/timeline) in einer interaktiven Timeline zusammengefasst
 
 - **1984** Richard Stallman initiiert das GNU-Projekt für ein freies, Linux-ähnliches Betriebssystem und gründet 1985 die *Free Software Foundation (FSF)*
 - **1989** Entwicklung der GNU General Public License (GPL) als allgemein wiederverwendbare Softwarelizenz (mit dem Copyleft oder Sharealike-Prinzip)
@@ -31,7 +29,7 @@ filename: 'timeline.html'
 - **18. Juni 2013** 	Verabschiedung der G8 Open Data Charter durch Deutschland, Frankreich, Italien, Japan, Kanada, Russland, das Vereinigte Königreich (UK) und die Vereinigten Staaten (USA)
 - **2014** 	Nationaler Aktionsplan der deutschen Bundesregierung zur Umsetzung der Open-Data-Charta der G8
 
-
+<!-- <iframe src="http://www.opengeoedu.de/_hinz_playfield/timeline.html"><iframe> -->
 
 Quellen:
 [](https://blog.openstreetmap.org/2004/08/
