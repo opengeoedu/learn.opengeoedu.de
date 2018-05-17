@@ -1,10 +1,13 @@
 ---
 title: 'Open Government Data'
+taxonomy:
+    category:
+        - docs
 ---
 
 <style>
   figure {
-    max-width: 400px;
+    max-width: 300px;
     float: left;
 
     left: 0pt;
@@ -43,7 +46,7 @@ Einen größeren Fokus auf Open Data als Bestandteil von Open Government-Stategi
 | <div class="fullspan" markdown="1"><h3>Prinzip: Standardmäßig offene Daten</h3> **Erläuterung:** Bislang wurden Regierungs- und Verwaltungsdaten oft nur auf begründete Anfragen hin herausgegeben. In Zukunft sollen alle Daten standardmäßig veröffentlicht werden, sofern keine besonderen Gründe vorliegen, diese zurückzuhalten. Die internationale Charta fordert auch, dass Regierungen das Zurückhalten von Daten rechtfertigen müssen.</div> |
  | 2. Quality and Quantity  | 2. Timely and comprehensive  | 1. Vollstänigkeit (Completeness)<br/>2. Zeitnähe (timeliness)<br/>3. Primärquellen (primacy)
 | <div class="fullspan" markdown="1"> <h3>Prinzip: Qualität und Quantität / Zeitnah und umfassend </h3>**Erläuterung:** Daten von hoher Qualität sollen zeitnah und umfassend veröffentlicht werden. in ihrem ursprünglichen, unmodifizierten Zustand (Primär-Datensatz) veröffentlicht werden. </div>|
-| 3. Usable by all  | 3. Accessible and usable | <div class="rowspan" markdown="1">4. Ease of of physical and electronic Access (Leichte physische und elektronische Erreichbarkeit)<br/>5. Machine readability (Maschinenlesbarkeit)<br/>6. Non-discrimination (Barrierefreier Zugang) <br/> 7. Commonly owned or Open Standards<br/> 8. Licensing (Lizensierung)<br/> (9. Dauerhaftigkeit) <br/>10. Usage Costs (Nutzungskosten) </div>|
+| 3. Usable by all  | 3. Accessible and usable | <div class="rowspan" markdown="1">4. Leichte physische und elektronische Erreichbarkeit (Ease of of physical and electronic Access)<br/>5.  Maschinenlesbarkeit (Machine readability)<br/>6.  Barrierefreier Zugang (Non-discrimination) <br/> 7. Gemeinsame oder offene Standards (Commonly owned or Open Standards)<br/> 8. Lizensierung (Licensing)<br/> 9. Dauerhaftigkeit (Permanence) <br/>10. Nutzungskosten  (Usage Costs)</div>|
 |- | 4. Comparable and Interoperable  |
 | <div class="fullspan" markdown="1"><h3>Prinzip: Von allen verwendbar / zugänglich und verwendbar </h3>**Erläuterung:**<h3>Prinzip: Vergleichbar und interoperabel</h3> **Erläuterung:**</div> |
 | 4. Releasing Data for Improved Governance | 5. For Improved Governance And Citizen Engagement |
@@ -73,47 +76,14 @@ var divelements = document.getElementsByClassName("rowspan");
 
 <br/>
 
-### OGD in Deutschland
 
-Deutschland hat 2013 die G8 Open Data Charter unterschrieben und ist seit 2016 Teilnehmer der Open Government Partnership. Bereits seit 2006 ist es möglich, gemäß dem Informationsfreiheitsgesetz (IFG) der BRD, Dokumente und Akten der Bundesverwaltung einzusehen, allerdings beschränkte sich die Veröffentlichung bisweilen nur auf einige solche Informationen, die zuvor angefragt wurden. Gemäß dem Leitsatz *"open by befault"* soll lange Sicht eine standardmäßige Veröffentlichung von Verwaltungsdaten angestrebt werden.
-
-Seit 2013 dürfen Geodaten des Bundes nach der ["Verordnung zur Festlegung der Nutzungsbestimmungen für die Bereitstellung von Geodaten des Bundes (GeoNutzV)"](https://www.gesetze-im-internet.de/geonutzv/BJNR054700013.html) unter Beigabe des Quellenvermerks ohne Einschränkung weiterverwendet werden, soweit durch besondere Rechtsvorschrift nichts anderes Bestimmt ist oder rechte Dritter dem entgegenstehen.
-
-2014 wurde der *Nationale Aktionsplan der Bundesregierung Umsetzung der G8-Open-Data-Charta* veröffentlicht, in welchem die Bundesregierung sich zu konkreten Maßnahmen entsprechend der international anerkannten Open Data-Prinzipien verpflichtet. Demnach sollten weitere gesetzliche Open-Data-Regelungen nach Vorbild der GeoNutzV erlassen werden. [GovData](https://www.govdata.de) soll demnach als zentrales Datenportal für Bund, Länder und Kommunen fungieren, wobei viele Bundesbehörden verpflichtet wurden, mindestens 2 Datensätze dort zu veröffentlichen. Konkret wurden Datensätze zu dem Themen *Haushalt und Finanzen*, *Geodaten*, *Wahlen* sowie *Statistik* benannt, welche in strukturierter Form öffentlich gemacht werden sollten.
-
-[Gesetz zur Förderung der elektronischen Verwaltung (E-Government-Gesetz - EGovG)
-§ 12a Offene Daten der Behörden der unmittelbaren Bundesverwaltung](
-https://www.gesetze-im-internet.de/egovg/__12a.html)
-
-
-
-Als Empfehlung für die einheitliche die Lizensierung offener Verwaltungsdaten entwickelte die Arbeitsgemeinschaft von GovData in Zusammenarbeit mit Bund, Ländern und Kommunen die beiden Lizenzen [*Datenlizenz Deutschland – Zero – Version 2.0*](https://www.govdata.de/dl-de/zero-2-0) und [*Datenlizenz Deutschland – Namensnennung – Version 2.0*](https://www.govdata.de/dl-de/by-2-0), welche jeweils die uneingeschränkte Datenutzung nach den Open-Data-Prinzipien erlauben und Sachverständigenrat der Open Definition als Definitionskonform bestätigt wurde (siehe [https://opendefinition.org/licenses/](https://opendefinition.org/licenses/).
-
-Während die Bundesregierung eine Vorreiterrolle im Bereich Open Data angestrebt und aktiv für die Ziele von Open Government wirbt, verlaufen die Entwicklungen auf Länderebene sehr heterogen. Während die meisten Bundesländer im Laufe der vergangenen 20 Jahren eigene Informationensfreiheitsgesetze (IFG), sowie Transparenzgesetze erlassen haben, fehlen vergleichbare Regelungen bislang in den Ländern Niedersachsen, Hessen, Sachsen und Bayern, wo sie sich teilweise im Entwurfsstadium befinden (Stand: 7. Mai 2018). 
-
-Weitere Informationen:
-https://netzwerkrecherche.org/handwerk/informationsfreiheit-und-auskunftsrechte/ifg-guide/ifg-landesgesetze/
-https://de.wikipedia.org/wiki/Informationsfreiheit#L%C3%A4nderebene
-
-
-
-
-
-### OGD in Österreich
-
-
-### OGD der Schweiz
-
-
-
-
-
-!! Diskutieren sie und machen sie sich Notizen:
-!! Warum veröffentlichen Regierungen Daten als "Open Data"?
-!! Auch Regierungen, die sich nicht klar zu den Open Government Zielen bekennen und teilweise oder sogar eine dem entgegengesetzte Politik betreiben veröffentlichen Daten also Open Data. Beispiel hierfür Russland und China. Worin unterscheiden Sich die Ziele dieser Regierungen möglicherweise?
-!!Mehr Informationen:
-!! - https://www.theguardian.com/media-network/2015/dec/02/china-russia-open-data-open-government
-!! - https://gijn.org/2017/03/28/why-open-data-is-good-for-china/
+!!! **Diskutieren sie und machen sie sich Notizen:**
+!! <br/> <br/>
+!!! Warum veröffentlichen Regierungen und öffentliche Behörden ihre Daten als "Open Data"? <br/><br/>
+!!! Auch Regierungen, die sich nicht klar zu den Open Government Zielen bekennen und teilweise oder sogar entgegengesetzte Politik betreiben veröffentlichen Daten also Open Data. Beispiel hierfür Russland und China. Worin unterscheiden sich die Ziele dieser Regierungen möglicherweise?
+!!! <br/><br/>**Weitereführende Artikel:**
+!!! - [Eleanor Ross (2015): Why open data doesn't mean open government. The Guardian](https://www.theguardian.com/media-network/2015/dec/02/china-russia-open-data-open-government)
+!!! - [Yolanda Jinxin Ma (2017): Why Open Data Is Good For China](https://gijn.org/2017/03/28/why-open-data-is-good-for-china/)
 
 
 
