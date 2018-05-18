@@ -1,5 +1,5 @@
 ---
-title: Übung
+title: 
 taxonomy:
   category:
     - docs
