@@ -5,7 +5,6 @@ taxonomy:
         - docs
 ---
 
-
 In unserer Gesellschaft ist die Forderung nicht neu, dass Ideen, Wissen, Informationen und Daten der Öffentlichkeit frei zugänglich sein sollten.
 
 ### Wissenschaftlicher Austausch und internationale Vernetzung

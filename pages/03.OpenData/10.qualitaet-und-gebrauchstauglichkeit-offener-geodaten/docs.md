@@ -13,20 +13,19 @@ taxonomy:
 
 Bewertung in Anlehnung an Schicktanz et al. (2017) und Klessman et al. (2012): Punktevergabe von 0 - 12 Punkten
 
-| Kriterium / Punktevergabe                                                                                                                 | Datensatz 1 | Datensatz 2 |
-|-------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------|
-| **Vollständigkeit** <br/>1: teilweise  <br/>2: vollständig                                                                                |             |             |
-| Verfügbarkeit der Primärquelle <br/>0: Bericht / Text mit Datenwerten  <br/>1: teilweise  <br/>2: vollständig                             |             |             |
-| **Zeitnähe**<br/>0: keine Aktualisierung <br/>1: feste Aktualisierungsrate <br/>2: Historienbildung                                       |             |             |
-| Zugänglichkeit* <br/>0: Bericht / Text mit Datenwerten  <br/>1: eingeschränkt (z.B. Registrierung erforderlich)  <br/>2: direkter Zugriff |             |             |
-| **Maschinenlesbarkeit**<br/>0: gar nicht bis gering <br/> 1: überwiegend  <br/>2: vollständig                                             |             |             |
-| **nicht diskriminierende Bereitstellung**                                                                                                 |             |             |
-| **nicht proprietäre Bereitstellung**                                                                                                      |             |             |
-| **Lizenzfreiheit**                                                                                                                        |             |             |
-| **Dauerhaftigkeit**                                                                                                                       |             |             |
-| **Nutzungskosten**                                                                                                                        |             |             |
-| **Gesamt (Ist / Soll) :**                                                                                                                 |             |             |
-
+Kriterium / Punktevergabe                                                                                                                 | Datensatz 1 | Datensatz 2
+------------------------------------------------------------------------------------------------------------------------------------------|-------------|------------
+**Vollständigkeit** <br/>1: teilweise  <br/>2: vollständig                                                                                |             |
+Verfügbarkeit der Primärquelle <br/>0: Bericht / Text mit Datenwerten  <br/>1: teilweise  <br/>2: vollständig                             |             |
+**Zeitnähe**<br/>0: keine Aktualisierung <br/>1: feste Aktualisierungsrate <br/>2: Historienbildung                                       |             |
+Zugänglichkeit* <br/>0: Bericht / Text mit Datenwerten  <br/>1: eingeschränkt (z.B. Registrierung erforderlich)  <br/>2: direkter Zugriff |             |
+**Maschinenlesbarkeit**<br/>0: gar nicht bis gering <br/> 1: überwiegend  <br/>2: vollständig                                             |             |
+**nicht diskriminierende Bereitstellung**                                                                                                 |             |
+**nicht proprietäre Bereitstellung**                                                                                                      |             |
+**Lizenzfreiheit**                                                                                                                        |             |
+**Dauerhaftigkeit**                                                                                                                       |             |
+**Nutzungskosten**                                                                                                                        |             |
+**Gesamt (Ist / Soll) :**                                                                                                                 |             |
 * Kriterien angepasst
 
 *Mögliche Zusatzfragen:*
@@ -104,3 +103,16 @@ Welche Maßeinheiten sind gegeben?
 
 Einordnung nach Skalenniveau: Nominal, Ordinal, Kardinalskala
 --> Unterschiedliche Skalenniveaus lassen sich u. U. homogenisieren. Von Nominal > Ordinal > Kardinal nur mit zusätzlichen informationen, umgekehrt mit Informationsverlust
+
+
+
+
+- Oftmals wird Aktualität als ein wichtiges Kriterium für Datenqualität aufgeführt.
+
+
+|	Räumlich	|	Zeitlich	|	Thematisch
+---|----|----|---
+Genauigkeit	|	| |
+Auflösung (Granularität, Detailiertheit)	|	| |
+Vollständigkeit	|	| |
+(innere) Konsistenz	|	|	|

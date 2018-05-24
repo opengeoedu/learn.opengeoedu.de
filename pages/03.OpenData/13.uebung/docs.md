@@ -1,8 +1,8 @@
 ---
 title: Übung
 taxonomy:
-  category:
-    - docs
+    category:
+        - docs
 ---
 
 !! Diese Seite ist noch im Entwurfsstadium!
