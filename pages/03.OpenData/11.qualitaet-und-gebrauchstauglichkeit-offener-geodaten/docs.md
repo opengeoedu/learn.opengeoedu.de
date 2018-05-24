@@ -13,19 +13,19 @@ taxonomy:
 
 Bewertung in Anlehnung an Schicktanz et al. (2017) und Klessman et al. (2012): Punktevergabe von 0 - 12 Punkten
 
-| Kriterium / Punktevergabe  | Datensatz 1 | Datensatz 2 |
-|---|---|---|
-Vollständigkeit <br/>1: teilweise; 2: vollständig | | |
-Verfügbarkeit der Primärquelle <br/>0: Bericht / Text mit Datenwerten; 1: teilweise; 2: vollständig | | |
-Zeitnähe <br/>0: keine Aktualisierung 1: feste Aktualisierungsrate; 2: Historienbildung | | |
-Zugänglichkeit* <br/>0: Bericht / Text mit Datenwerten; 1: eingeschränkt (z.B. Registrierung erforderlich) 2: direkter Zugriff | | |
-Maschinenlesbarkeit <br/>0: gar nicht bis gering 1: überwiegend 2: vollständig | | |
-nicht diskriminierende Bereitstellung   | | |
-nicht proprietäre Bereitstellung   | | |
-Lizenzfreiheit   | | |
-Dauerhaftigkeit   | | |
-Nutzungskosten | | |
-**Gesamt (Ist / Soll) :**  | | |
+| Kriterium / Punktevergabe                                                                                                                 | Datensatz 1 | Datensatz 2 |
+|-------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------|
+| **Vollständigkeit** <br/>1: teilweise  <br/>2: vollständig                                                                                |             |             |
+| Verfügbarkeit der Primärquelle <br/>0: Bericht / Text mit Datenwerten  <br/>1: teilweise  <br/>2: vollständig                             |             |             |
+| **Zeitnähe**<br/>0: keine Aktualisierung <br/>1: feste Aktualisierungsrate <br/>2: Historienbildung                                       |             |             |
+| Zugänglichkeit* <br/>0: Bericht / Text mit Datenwerten  <br/>1: eingeschränkt (z.B. Registrierung erforderlich)  <br/>2: direkter Zugriff |             |             |
+| **Maschinenlesbarkeit**<br/>0: gar nicht bis gering <br/> 1: überwiegend  <br/>2: vollständig                                             |             |             |
+| **nicht diskriminierende Bereitstellung**                                                                                                 |             |             |
+| **nicht proprietäre Bereitstellung**                                                                                                      |             |             |
+| **Lizenzfreiheit**                                                                                                                        |             |             |
+| **Dauerhaftigkeit**                                                                                                                       |             |             |
+| **Nutzungskosten**                                                                                                                        |             |             |
+| **Gesamt (Ist / Soll) :**                                                                                                                 |             |             |
 
 * Kriterien angepasst
 
@@ -33,7 +33,7 @@ Nutzungskosten | | |
 
 Ist ein eindeutiger Lizenz-Hinweis gegeben? Geben Sie ggf. den Namen der Lizenz an!
 
-Handelt es sich dabei um eine Open-Data Lizenz? Begründen Sie ihre Antwort! 
+Handelt es sich dabei um eine Open-Data Lizenz? Begründen Sie ihre Antwort!
 
 Welche Pflichten / Einschränkungen sind mit der Nutzung des Datensatzes verbunden
 
@@ -48,7 +48,7 @@ Wann wurden die Daten veröffentlicht?
 
 Sind die (Meta-) daten dauerhaft über einen eundeutigen Globalen Identifier abrufbar (z.B. DOI). Wie lautet dieser Identifier?
 
-!!! Für eine ausführliche Evaluation offener Forschungsdaten können die FAIR Prinzipien für offene Forschungsdaten genutzt werden. Sie sind u.a. offizielle Richtlinie des Horizon 2020 Programms der EU: 
+!!! Für eine ausführliche Evaluation offener Forschungsdaten können die FAIR Prinzipien für offene Forschungsdaten genutzt werden. Sie sind u.a. offizielle Richtlinie des Horizon 2020 Programms der EU:
 !!! Grundprinzip: Daten sollten auffindbar, zugänglich, interoperabel und wiederverwendbar sein (findable, accessible, operable and reusable)
 
 
@@ -56,7 +56,7 @@ Sind die (Meta-) daten dauerhaft über einen eundeutigen Globalen Identifier abr
 (Sollten sie eine dieser Fragen über die Daten nicht beantworten können, deutet dies auf unzureichende Metadaten hin)
 
 **Technisch:**
-- Ist das Datenformat (Oder der Datenservice) kompatibel mit dem GIS-Tool (oder dem Web-Service, dem Informationsystem)? Erlaubt das GIS Lesen, Bearbeiten, exportieren der Daten? 
+- Ist das Datenformat (Oder der Datenservice) kompatibel mit dem GIS-Tool (oder dem Web-Service, dem Informationsystem)? Erlaubt das GIS Lesen, Bearbeiten, exportieren der Daten?
 -> Falls nicht: Ist es möglich, die Daten mittels einer anderen Software / eines Webdienstes in ein Kompatibles Format zu konvertieren?
 
 **Syntaktisch:**
@@ -93,7 +93,7 @@ Betrachtung von:
 	- In welcher Form liegt ein räumlicher Bezug vor? (
 Koordinaten / Adressen, Ortsnamen, Gemeindeschlüssel oder ID, (Luft-)bild
 
-- Welches Koordinatenreferenzsystem / welche Projektion ist gegeben? Wird 
+- Welches Koordinatenreferenzsystem / welche Projektion ist gegeben? Wird
 
 2. Zeitkomponente
 
@@ -104,5 +104,3 @@ Welche Maßeinheiten sind gegeben?
 
 Einordnung nach Skalenniveau: Nominal, Ordinal, Kardinalskala
 --> Unterschiedliche Skalenniveaus lassen sich u. U. homogenisieren. Von Nominal > Ordinal > Kardinal nur mit zusätzlichen informationen, umgekehrt mit Informationsverlust
-
-
