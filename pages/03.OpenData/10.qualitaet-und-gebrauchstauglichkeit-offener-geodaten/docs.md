@@ -110,6 +110,9 @@ Einordnung nach Skalenniveau: Nominal, Ordinal, Kardinalskala
 - Oftmals wird Aktualität als ein wichtiges Kriterium für Datenqualität aufgeführt.
 
 
+- Informationen zur Herkunft der Daten (Erfassung und Verarbeitung) sind wichtige Metadaten zur Beurteilung der Datenqualität
+
+
 |	Räumlich	|	Zeitlich	|	Thematisch
 ---|----|----|---
 Genauigkeit	|	| |
