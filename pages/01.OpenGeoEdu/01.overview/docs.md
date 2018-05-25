@@ -10,8 +10,8 @@ Für raumbezogene Studiengänge werden exemplarische Fallbeispiele mit offenen D
 
 ## Folgende Fallbeispiele sind verfügbar bzw. geplant:
 * [Elektromobilität](https://www.opengeoedu.de/learn/elektromobilitaet)
-* Umgebungslärm
-* Offene Daten
-* Biomassepotenzial
-* IÖR-Monitoring
-* Geovisualisierung
+* [Umgebungslärm](https://www.opengeoedu.de/learn/umgebungslaerm)
+* [Offene Daten](https://www.opengeoedu.de/learn/opendata)
+* [Biomassepotenzial](https://www.opengeoedu.de/learn/biomassepotenzial)
+* [IÖR-Monitoring](https://www.opengeoedu.de/learn/monitoring)
+* [Geovisualisierung](https://www.opengeoedu.de/learn/geovisualisierung)
