@@ -2,9 +2,11 @@
 ## Offene Daten in Lehre und Forschung
 ---
 # Was ist OpenGeoEdu ?
+@ul
 - offene Daten
 - offenes Lernen
 - offene ...
+@ulend
 ---
 ### OpenGeoEdu
 der offene Onlinekurs 
