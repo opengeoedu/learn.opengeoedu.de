@@ -1,5 +1,5 @@
-## Offene Daten in Lehre und Forschung
 # OpenGeoEdu
+## Offene Daten in Lehre und Forschung
 ---
 # Was ist OpenGeoEdu ?
 - offene Daten
