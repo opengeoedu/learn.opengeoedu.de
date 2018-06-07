@@ -1,8 +1,5 @@
 ---
 title: 'OGD in Österreich'
-taxonomy:
-    category:
-        - docs
 ---
 
 <style>

@@ -1,7 +1,5 @@
 ---
 title: 'Open Data'
-taxonomy:
-    category: docs
 ---
 ! [fa=fa-long-arrow-right] Hauptartikel: [OpenData](/opendata)
 

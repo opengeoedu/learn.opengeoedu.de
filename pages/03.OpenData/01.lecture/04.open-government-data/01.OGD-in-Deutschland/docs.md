@@ -1,8 +1,5 @@
 ---
 title: 'OGD in Deutschland'
-taxonomy:
-    category:
-        - docs
 ---
 
 <style>

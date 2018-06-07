@@ -1,8 +1,6 @@
 ---
 title: Einführung
 menu: Lecture
-taxonomy:
-    category: docs
 ---
 
 ## In dieser Lerneinheit lernen Sie:

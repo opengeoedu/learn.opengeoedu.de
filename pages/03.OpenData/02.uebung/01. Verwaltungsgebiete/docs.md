@@ -1,8 +1,5 @@
 ---
 title: 'Verwaltungsgebiete'
-taxonomy:
-    category:
-        - docs
 published: false
 ---
 

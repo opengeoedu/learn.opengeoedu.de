@@ -1,7 +1,5 @@
 ---
-taxonomy:
-    category:
-        - docs
+title: Elektromobilität
 menu: Elektromobilität
 ---
 

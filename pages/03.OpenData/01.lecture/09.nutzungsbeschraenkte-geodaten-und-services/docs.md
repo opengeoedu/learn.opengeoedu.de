@@ -1,8 +1,5 @@
 ---
 title: 'Nutzungsbeschränkte Geodaten und Services'
-taxonomy:
-    category:
-        - docs
 ---
 
 !! Diese Seite ist noch im Entwurfsstadium!

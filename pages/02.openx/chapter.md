@@ -1,8 +1,5 @@
 ---
 title: OpenXX
-taxonomy:
-    category:
-        - docs
 menu: 'Open XX'
 ---
 # Open XX

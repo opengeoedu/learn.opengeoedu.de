@@ -1,8 +1,5 @@
 ---
 title: 'Merkmale offener Daten'
-taxonomy:
-    category:
-        - docs
 ---
 
 

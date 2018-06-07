@@ -1,7 +1,5 @@
 ---
 title: 'Open Educational Resources'
-taxonomy:
-    category: docs
 ---
 [center]
 ![UNESCO OER](globaloer.png)**Das OER Global Logo von 2012 Jonathas Mello [www.jonathasmello.com](http://www.jonathasmello.com/)

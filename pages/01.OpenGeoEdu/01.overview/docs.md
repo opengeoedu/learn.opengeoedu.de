@@ -1,8 +1,5 @@
 ---
 title: Fallbeispiele
-taxonomy:
-    category:
-        - docs
 menu: Fallbeispiele
 ---
 
