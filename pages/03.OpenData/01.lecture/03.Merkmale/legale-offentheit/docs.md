@@ -1,4 +1,8 @@
 ---
 title: 'Legale Offentheit'
-published: false
+taxonomy:
+    category:
+        - docs
+published        : false
 ---
+

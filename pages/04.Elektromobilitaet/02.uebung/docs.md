@@ -1,5 +1,7 @@
 ---
 title: Übungsanleitung
 menu: Übung
-published: false
+taxonomy:
+    category:
+        - docs
 ---

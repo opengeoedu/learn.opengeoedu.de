@@ -1,5 +1,9 @@
 ---
 title: OpenGeoEdu
+taxonomy:
+    category:
+        - docs
+child_type: docs
 ---
 
 # OpenGeoEdu

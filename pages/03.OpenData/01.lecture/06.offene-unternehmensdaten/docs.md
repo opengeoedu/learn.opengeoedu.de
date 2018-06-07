@@ -1,5 +1,8 @@
 ---
 title: 'Offene Unternehmensdaten'
+taxonomy:
+    category:
+        - docs
 ---
 
 !! Diese Seite ist noch im Entwurfsstadium!

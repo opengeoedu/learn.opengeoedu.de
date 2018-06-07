@@ -1,5 +1,8 @@
 ---
 title: 'Open Data Timeline'
+taxonomy:
+    category:
+        - docs
 ---
 !!!! Wesentliche Daten im Zusammenhang mit Open Data sind [HIER](http://www.opengeoedu.de/timeline) in einer interaktiven Timeline zusammengefasst
 
@@ -15,7 +18,7 @@ title: 'Open Data Timeline'
 - **17. Dezember 2004** Verabschiedung des [Bundesgesetz über das Öffentlichkeitsprinzip der Verwaltung](https://www.admin.ch/opc/de/classified-compilation/20022540/index.html) in der Schweiz
 - **4. Februar 2006** Gründung der [Open Source Geospatial Foundation (OSGeo)](https://www.osgeo.org/), in Delaware, USA - eine gemeinnützige Organisation, welche sich international für die Enwicklung freier, quelloffener Geosoftware (z.B. QGIS, MapServer, OpenLayers), sowie offene Geodaten und offene Bildung in der Geo-Branche ([www.geoforall.org/](http://www.geoforall.org/)) einsetzt
 - **26. April 2006** Gründung der *[Sunlight Foundation](https://sunlightfoundation.com/)* in Washington, D.C,, einer gemeinnützigen Nichtregierungsorganisation für Open Government Data. Ursprünglich beschränkte sich ihre Aktivitäten auf den U.S. Kongress und weiteten sich dann sowohl national als auch international aus.
-- **Juli 2006**	Veröffentlichung der *[Open Definition](https://opendefinition.org/)*, Version 1.0, durch die *Open Knowledge Foundation* ([Open Knowledge International, 2006](../literatur#knowledge2015open))
+- **Juli 2006**	Veröffentlichung der *[Open Definition](https://opendefinition.org/)*, Version 1.0, durch die *Open Knowledge Foundation* ([Open Knowledge International, 2006](../literatur#knowledge2015open)) 
 - **Dezember 2007** 	Konferenz in Sebastopol, Kalifornien, bei der 30 Experten, vor allem bekannt aus der Free Software- und Free Culture Bewegungen, ein Konzept für open public data entwerfen.
 - Im gleichen Monat ruft Jordan Hatcher das Projekt [Open Data Commons](https://opendatacommons.org) und entwirft mit Dr. Charlotte Waelde die Public Domain Dedication Lizenz (PDDL) für offene Daten. Seit Januar 2009 wird Projekt von der *Open Knowledge Foundation* unterstützt
 - **Januar 2009**	US-Präsident Barack Obama veröffentlicht das [Memorandum on Transparency and Open Government](https://obamawhitehouse.archives.gov/the-press-office/transparency-and-open-government), in welcher die Informationen der US-Bundesregierung zum nationalen Gut erklärt wurden. Im Mai geht das nationale Datenportal [data.gov](https://www.data.gov/blog/open-data-history) online.
@@ -31,3 +34,5 @@ title: 'Open Data Timeline'
 Quellen:
 [](https://blog.openstreetmap.org/2004/08/
 http://de.digital-geography.com/10-jahre-openstreetmap-ein-kurzer-ueberblick/)
+
+

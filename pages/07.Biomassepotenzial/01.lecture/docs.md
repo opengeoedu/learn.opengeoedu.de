@@ -1,6 +1,8 @@
 ---
 title: Einführung
 menu: Lecture
+taxonomy:
+    category: docs
 ---
 
 ![](dfbz.jpg?resize=200,200)

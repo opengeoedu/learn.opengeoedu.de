@@ -1,5 +1,7 @@
 ---
 title: 'Literatur'
+taxonomy:
+    category: docs
 ---
 
 BMI (2012): Open Government Data Germany. Eine Studie zu Open Government in Deutschland im Auftrag des Bundesministeriums des Innern. Juli  2012. [http://www.bmi.bund.de/DE/Themen/OeffentlDienstVerwaltung/ModerneVerwaltung/OpenGovernment/op] Alternativer Link (researchgate)

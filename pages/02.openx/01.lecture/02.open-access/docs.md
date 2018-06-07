@@ -1,5 +1,7 @@
 ---
 title: 'Open Access'
+taxonomy:
+    category: docs
 ---
 
 ![](oa.png "OpenAccess")

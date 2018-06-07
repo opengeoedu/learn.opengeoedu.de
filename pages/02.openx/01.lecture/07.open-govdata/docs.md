@@ -1,5 +1,7 @@
 ---
 title: 'Open Government Data'
+taxonomy:
+    category: docs
 ---
 
 

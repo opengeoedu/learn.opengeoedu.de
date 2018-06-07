@@ -1,5 +1,7 @@
 ---
 title: 'Open Source'
+taxonomy:
+    category: docs
 ---
 ![osi](osi.png)
 

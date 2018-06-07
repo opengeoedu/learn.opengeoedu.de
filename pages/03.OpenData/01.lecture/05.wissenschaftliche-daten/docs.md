@@ -1,5 +1,8 @@
 ---
 title: 'Wissenschaftliche Daten'
+taxonomy:
+    category:
+        - docs
 ---
 
 !! Diese Seite ist noch im Entwurfsstadium!
