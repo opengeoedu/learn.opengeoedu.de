@@ -1,9 +1,11 @@
 ---
-title: Übung
+title: Übungsanleitung
+menu: Übung
 taxonomy:
     category:
         - docs
 ---
+
 
 ####1. Finden Sie einen offenen Datensatz (oder Service) mit räumlichen Bezug.
 
