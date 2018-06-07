@@ -1,5 +1,6 @@
 ---
 title: Einführung
+menu: Lecture
 taxonomy:
     category: docs
 ---
@@ -21,4 +22,4 @@ Ziel der Lerneinheit ist es die wesentlichen Strömungen kennenzulernen und einz
 
 Allen diesen Initiativen gemeinsam ist die Annahme, dass Offenheit von Daten/Wissen/Software/… die Entwicklung der Wissenschaft, Wirtschaft und Verwaltung befördert und zu mehr Transparenz, Partizipation und Kooperation führt.
 
-! Weiterführende Informationen unter: [Open Knowledge Foundation Deutschland](https://okfn.de/) sowie [Openall.info](http://openall.info/open-culture-offene-kultur/open-knowledge/definition/) 
+! Weiterführende Informationen unter: [Open Knowledge Foundation Deutschland](https://okfn.de/) sowie [Openall.info](http://openall.info/open-culture-offene-kultur/open-knowledge/definition/)
