@@ -1,4 +1,6 @@
 ---
-title: Geographische Informationsysteme
-menu: GIS
+title: Geographische Informationssysteme
+taxonomy:
+    category:
+        - docs
 ---
