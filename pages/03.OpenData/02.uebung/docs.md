@@ -5,8 +5,6 @@ taxonomy:
         - docs
 ---
 
-!! Diese Seite ist noch im Entwurfsstadium!
-
 ####1. Finden Sie einen offenen Datensatz (oder Service) mit räumlichen Bezug.
 
  (Advanced: Finden Sie Zwei offene Datensätze, die Sie verschneiden - 1x Geobasisdaten, 1x Fachdaten)
@@ -24,7 +22,7 @@ taxonomy:
 **Abgabe:**
 - Ausgefüllte Bewertungsmatrix
 - Screenshot oder Export der visualisierten Daten, ggf. Zusammenfassung der Datentabelle
-- Schriftliche Interpretation und Fazit über die Qualität/Eignung des Datensatzes (max. 500 Wörter) 
+- Schriftliche Interpretation und Fazit über die Qualität/Eignung des Datensatzes (max. 500 Wörter)
 
 
 
@@ -54,7 +52,7 @@ Nutzungskosten | | |
 
 Ist ein eindeutiger Lizenz-Hinweis gegeben? Geben Sie ggf. den Namen der Lizenz an!
 
-Handelt es sich dabei um eine Open-Data Lizenz? Begründen Sie ihre Antwort! 
+Handelt es sich dabei um eine Open-Data Lizenz? Begründen Sie ihre Antwort!
 
 Welche Pflichten / Einschränkungen sind mit der Nutzung des Datensatzes verbunden
 
@@ -69,7 +67,7 @@ Wann wurden die Daten veröffentlicht?
 
 Sind die (Meta-) daten dauerhaft über einen eundeutigen Globalen Identifier abrufbar (z.B. DOI). Wie lautet dieser Identifier?
 
-!!! Für eine ausführliche Evaluation offener Forschungsdaten können die FAIR Prinzipien für offene Forschungsdaten genutzt werden. Sie sind u.a. offizielle Richtlinie des Horizon 2020 Programms der EU: 
+!!! Für eine ausführliche Evaluation offener Forschungsdaten können die FAIR Prinzipien für offene Forschungsdaten genutzt werden. Sie sind u.a. offizielle Richtlinie des Horizon 2020 Programms der EU:
 !!! Grundprinzip: Daten sollten auffindbar, zugänglich, interoperabel und wiederverwendbar sein (findable, accessible, operable and reusable)
 
 
@@ -77,7 +75,7 @@ Sind die (Meta-) daten dauerhaft über einen eundeutigen Globalen Identifier abr
 (Sollten sie eine dieser Fragen über die Daten nicht beantworten können, deutet dies auf unzureichende Metadaten hin)
 
 **Technisch:**
-- Ist das Datenformat (Oder der Datenservice) kompatibel mit dem GIS-Tool (oder dem Web-Service, dem Informationsystem)? Erlaubt das GIS Lesen, Bearbeiten, exportieren der Daten? 
+- Ist das Datenformat (Oder der Datenservice) kompatibel mit dem GIS-Tool (oder dem Web-Service, dem Informationsystem)? Erlaubt das GIS Lesen, Bearbeiten, exportieren der Daten?
 -> Falls nicht: Ist es möglich, die Daten mittels einer anderen Software / eines Webdienstes in ein Kompatibles Format zu konvertieren?
 
 **Syntaktisch:**
@@ -114,7 +112,7 @@ Betrachtung von:
 	- In welcher Form liegt ein räumlicher Bezug vor? (
 Koordinaten / Adressen, Ortsnamen, Gemeindeschlüssel oder ID, (Luft-)bild
 
-- Welches Koordinatenreferenzsystem / welche Projektion ist gegeben? Wird 
+- Welches Koordinatenreferenzsystem / welche Projektion ist gegeben? Wird
 
 2. Zeitkomponente
 
@@ -131,8 +129,8 @@ Einordnung nach Skalenniveau: Nominal, Ordinal, Kardinalskala
 
 ----
   *Basic Erläuterungen:*
-	- Kostenlose Desktop GIS-Tools: 
-		- QGis 
+	- Kostenlose Desktop GIS-Tools:
+		- QGis
 		- GRASS GiS
 		- SAGA GIS
 		- OpenJump
@@ -153,6 +151,3 @@ Einordnung nach Skalenniveau: Nominal, Ordinal, Kardinalskala
 ---
 
 !(%202018-01-24%2015-36-47%20OpenDataPortal-Kartenansicht.png "Portal der Open Data Portale")
-
- 
-
