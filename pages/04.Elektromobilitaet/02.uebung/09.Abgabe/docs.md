@@ -1,5 +1,6 @@
 ---
 title: 'Abgabe der Übungsergebnisse'
+published: false
 taxonomy:
     category:
         - docs

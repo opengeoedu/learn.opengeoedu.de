@@ -1,5 +1,6 @@
 ---
 title: Auswertung
+published: false
 taxonomy:
     category:
         - docs

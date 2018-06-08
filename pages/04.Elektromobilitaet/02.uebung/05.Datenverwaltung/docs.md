@@ -1,5 +1,6 @@
 ---
 title: Datenverwaltung
+published: false
 taxonomy:
     category:
         - docs

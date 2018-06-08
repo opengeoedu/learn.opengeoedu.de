@@ -1,5 +1,6 @@
 ---
 title: Datenveröffentlichung
+published: false
 taxonomy:
     category:
         - docs

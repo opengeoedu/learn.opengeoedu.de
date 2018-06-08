@@ -1,5 +1,6 @@
 ---
 title: Demographische Daten
+published: false
 taxonomy:
     category:
         - docs

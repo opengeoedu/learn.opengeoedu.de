@@ -1,5 +1,6 @@
 ---
 title: Datenaufbereitung
+published: false
 taxonomy:
     category:
         - docs

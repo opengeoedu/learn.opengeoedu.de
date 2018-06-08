@@ -1,5 +1,6 @@
 ---
 title: 'Klick für Klick Anleitung'
+published: false
 taxonomy:
     category:
         - docs

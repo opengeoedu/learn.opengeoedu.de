@@ -1,5 +1,6 @@
 ---
 title: Ladestationen
+published: false
 taxonomy:
     category:
         - docs

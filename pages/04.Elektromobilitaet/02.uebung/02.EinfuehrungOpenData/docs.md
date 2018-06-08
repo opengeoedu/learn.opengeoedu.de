@@ -1,5 +1,6 @@
 ---
 title: 'Einführung Open Data'
+published: false
 taxonomy:
     category:
         - docs

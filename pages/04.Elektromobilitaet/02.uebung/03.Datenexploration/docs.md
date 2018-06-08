@@ -1,5 +1,6 @@
 ---
 title: Datenexploration
+published: false
 taxonomy:
     category:
         - docs

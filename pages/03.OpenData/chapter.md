@@ -3,9 +3,6 @@ title: Open Data
 taxonomy:
   category:
     - docs
-child_type: docs
-editable-simplemde:
-  self: false
 ---
 
 # Open Data

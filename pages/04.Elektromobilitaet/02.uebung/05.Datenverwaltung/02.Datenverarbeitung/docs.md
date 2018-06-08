@@ -1,5 +1,6 @@
 ---
 title: Datenverarbeitung
+published: false
 taxonomy:
     category:
         - docs

@@ -1,5 +1,6 @@
 ---
 title: Datenmodellierung
+published: false
 taxonomy:
     category:
         - docs
