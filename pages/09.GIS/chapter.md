@@ -1,5 +1,5 @@
 ---
-title: Einführung in Geo-Informationssysteme
+title: 'Einführung in Geo-Informationssysteme'
 menu: Geo-Informationssysteme
 taxonomy:
     category:
