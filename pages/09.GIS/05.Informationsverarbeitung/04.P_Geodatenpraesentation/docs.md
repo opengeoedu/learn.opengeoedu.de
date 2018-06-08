@@ -1,6 +1,6 @@
 ---
 title: 'P: Geodatenpräsentation, Geovisualisierung und –datenbereitstellung'
-menu:
+menu: 'P: Geodatenpräsentation'
 taxonomy:
     category:
         - docs
