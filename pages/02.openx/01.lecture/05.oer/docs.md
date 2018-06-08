@@ -3,13 +3,7 @@ title: 'Open Educational Resources'
 taxonomy:
     category: docs
 ---
-<<<<<<< HEAD
 ![UNESCO OER](globaloer.png?classes=caption "Das OER Global Logo von 2012 Jonathas Mello [www.jonathasmello.com](http://www.jonathasmello.com/)steht unter der Lizenz Creative Commons Attribution 3.0 Unported [CC BY 3.0](http://creativecommons.org/licenses/by/3.0) via [UNESCO](http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/global-oer-logo/)")
-=======
-![UNESCO OER](globaloer.png?classes=caption "Das OER Global Logo von 2012 Jonathas Mello [www.jonathasmello.com](http://www.jonathasmello.com/)
-steht unter der Lizenz Creative Commons Attribution 3.0 Unported ([CC BY 3.0](http://creativecommons.org/licenses/by/3.0))
- via [UNESCO](http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/global-oer-logo/)")
->>>>>>> 8dad3b9b35aa28f71f9ca7b482cc59526fbd2b96
 
 Offene Bildungsinhalte ist im engeren Sinne die deutsche Übersetzung von Open Educational Resources (OER) und bedeutet im weiteren Sinne, dass Bildungsinhalte offen in einem doppelten Sinne sind: Sie sind frei zugänglich und dürfen frei verwendet werden. Weitere konkurrierende Begriffe sind Freie Lern- und Lehrressourcen und dergleichen.
 
