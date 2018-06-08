@@ -15,9 +15,7 @@ taxonomy:
 [ui-accordion-item title="Vernetzungsidee über die Verwaltungsebenen hinweg"]
 Offene Verwaltungsdaten sind solche Daten des öffentlichen Sektors, welche im öffentlichen Interesse nachnutzbar, verteilbar und neue Nutzungen ermöglichend ohne Einschränkungen frei verfügbar gemacht werden. Es handelt sich also um Daten der Verwaltung, die keinen rechtlichen Einschränkungen (Personenschutz, Datenschutz, Geheimhaltung u.a.) und offenen Lizenzen unterliegen, maschinenlesbar und ohne Kosten bereitgestellt werden können.
 
-[center]
-![Quelle: Open Government Studie (2012), S. 80](opengov_plattform.png)**Open Government Studie (2012), S. 80**
-[/center]
+![Quelle: Open Government Studie (2012), S. 80](opengov_plattform.png?classes=caption "Open Government Studie (2012), S. 80")
 [/ui-accordion-item]
 
 [ui-accordion-item title="Rechtsrahmen und vergleichende Gegenüberstellung"]
@@ -35,7 +33,7 @@ Der [Global Open Data Index](https://index.okfn.org/) stellt ein jährliches Ran
 1. Fahrpläne
 1. Schadstoffemissionen
 
-[![Global Open Data Index](opendataindex.png)](https://index.okfn.org/place/#map)**Global Open Data Index**
+[![Global Open Data Index](opendataindex.png?classes=caption "Global Open Data Index")](https://index.okfn.org/place/#map)
 
 Im August 2017 wurden 94 Länder mit 1410 Einträgen gelistet, von denen 166 frei verfügbar waren. Deutschland liegt im Ranking auf Platz 24. Führend sind Taiwan, Australien und Groß-Britannien.
 
