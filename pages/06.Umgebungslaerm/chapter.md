@@ -4,9 +4,6 @@ taxonomy:
     category:
         - docs
 menu: Umgebungslärm
-child_type: docs
-editable-simplemde:
-    self: false
 ---
 
 ### OpenGeoEdu Fallbeispiel

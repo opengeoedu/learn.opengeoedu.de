@@ -1,5 +1,6 @@
 ---
 title: Fragen und Antworten
+menu: FAQ 
 ---
 ## zum Projekt
 [ui-accordion independent=true open=none]
