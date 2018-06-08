@@ -5,4 +5,4 @@ taxonomy:
     category:
         - docs
 ---
-# Geographische Informationssysteme
+# Einführung in Geo-Informationssysteme
