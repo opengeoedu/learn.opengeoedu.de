@@ -9,5 +9,24 @@ GIS kann auf eine nunmehr über 50-jährige Geschichte zurückblicken (siehe Abb
 
 Einhergehend mit der rasanten Internetverbreitung wurden Webservices wie WMS (Web Map Service) oder WFS (Web Feature Service) spezifiziert, mit denen Geoinformationen im World Wide Web verbreitet werden können. Die Interoperabilität zwischen Systemen steht im Vordergrund. Geoinformation findet spätestens mit dem Eintreten großer Softwarefirmen wie Google, Microsoft oder Yahoo Eingang in das Bewusstsein des Bürgers, der nun bei Recherchen im Internet in Form von interaktiven Karten oder Wegbeschreibungen auch raumbezogene Informationen nutzen und erhalten kann. Auf europäischer Ebene startet 2007 mit der Verabschiedung der INSPIRE-Richtlinie (Infrastructure for Spatial Information in Europe) der Aufbau von harmonisierten Geodateninfrastrukturen in allen EU-Mitgliedsstaaten und darüber hinaus (weiterführende Aussagen hierzu finden sich im Kapitel 4 in Bill, 2016). Mobiltelefone werden immer leistungsfähiger, heutige Smartphones greifen auf Geoinformationen zurück, erlauben den Nutzer jederzeit zu lokalisieren und ihm zum entsprechenden Standort mit Location-based Services (LBS) zu bedienen.
 
-<iframe src="https://www.opengeoedu.de/gis-timeline.html" style="width:100%; height: 600px"></iframe
+<iframe src="https://www.opengeoedu.de/gis-timeline.html" style="width:100%; height: 600px"></iframe>
+
+[/columns]
+
+[columns]
+### Headline
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat.
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat.
 [/columns]
