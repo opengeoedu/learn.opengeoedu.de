@@ -16,3 +16,17 @@ Videos zum Fallbeispiel **Elektromobilität**
 [![exercise](ex_emob.png)](https://youtu.be/Zq_B1CcgqOs)
 [![interview](i_emob.png)](https://youtu.be/ut7l6ABAj3E)
 [/owl-carousel]
+[ui-tabs position="top-left" active="0" theme="lite"]
+
+[ui-tab title="Lecture"]
+![](user://images/lecture.png)
+[/ui-tab]
+
+[ui-tab title="Übung"]
+![](user://images/exercise.png)
+[/ui-tab]
+
+[ui-tab title="Test"]
+![](user://images/test.png)
+[/ui-tab]
+[/ui-tabs]
