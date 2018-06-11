@@ -16,3 +16,4 @@ Videos zum Fallbeispiel **Elektromobilität**
 [![exercise](ex_emob.png)](https://youtu.be/Zq_B1CcgqOs)
 [![interview](i_emob.png)](https://youtu.be/ut7l6ABAj3E)
 [/owl-carousel]
+![](user://images/lecture.png) ![](user://images/exercise.png) ![](user://images/test.png)
