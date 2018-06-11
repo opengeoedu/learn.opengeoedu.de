@@ -5,9 +5,8 @@ taxonomy:
     category: docs
 ---
 !!! Definition:
-
 !!! Unter Elektromobilität (kurz E-Mobilität) versteht man die Fortbewegung mit Fahrzeugen, deren Antrieb mit elektrischer Energie funktioniert, also mit Elektromotoren. Im heutigen Kontext sind dies im Wesentlichen elektrisch angetriebene Pkw. Hierunter fallen Brennstoffzellenfahrzeuge (FCEV), batterieelektrische Fahrzeuge (BEV) aber auch sog. Hybride (Fahrzeuge mit Verbrennungs- und kleinem Elektromotor) und Plug-in-Hybride (PHEV, Hybride mit der Möglichkeit, die Batterie am Elektrizitätsnetz zu laden und damit eine höhere Reichweite im elektrischen Fahrmodus zu realisieren).
-!!! https://wirtschaftslexikon.gabler.de/definition/elektromobilitaet-53700/version-276770,
+!!! https://wirtschaftslexikon.gabler.de/definition/elektromobilitaet-53700/version-276770, <br>
 !!! https://www.energie-lexikon.info/elektromobilitaet.html
 
 
@@ -28,4 +27,4 @@ Die Entwicklung der Elektromobilität wird nicht nur in Deutschland politisch ak
 
 Der Ausbau der Elektromobilität kommt in Deutschland dennoch nur langsam voran. Der eigentliche Boom der Elektromobilität scheint sich eher im Bereich der zweirädrigen E-Fahrzeuge abzuzeichnen. Während der Absatz bei Elektrofahrrädern (E-Bikes) stark zunimmt, entwickelt sich der Vertrieb von Elektro-PKWs eher schleppend.  Anfang 2017 waren nur etwa 35.000 Elektrofahrzeuge angemeldet. Der Anteil von Elektroautos an den Neuzulassungen lag damit etwa bei 1%. Klarer Vorreiter in Sachen Elektromobilität in Deutschland ist der öffentliche Dienst mit 4,7 % aller neuen Pkw im ersten Halbjahr 2017.
 
-![Neuzulassungen an Elektrofahrzeugen](zulassung_e-auto.PNG?classes=caption "Neuzulassungen an Elektrofahrzeugen (Eigene Darstellung, Quelle: Kraftfahrtbundesamt)"")
+![Neuzulassungen an Elektrofahrzeugen](zulassung_e-auto.PNG?classes=caption "Neuzulassungen an Elektrofahrzeugen (Eigene Darstellung, Quelle: Kraftfahrtbundesamt)")
