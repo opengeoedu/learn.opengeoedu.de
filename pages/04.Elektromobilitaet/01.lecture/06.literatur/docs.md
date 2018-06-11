@@ -50,7 +50,7 @@ https://www.ardmediathek.de/tv/ARD-Buffet/Elektromobilität-E-Autos-bald-im-Aufw
 https://www.ardmediathek.de/tv/defacto/Große-Pläne-für-die-Elektromobilität-D/hr-fernsehen/Video?bcastId=3437388&documentId=47170914
 
 
-Abkurzungen  |
+Abkürzungen  |
 --|--
 BEV  |  Battery electric vehicle, ausschließlich batterieelektrisch betriebenes Fahrzeug
 FCEV  |  Fuel Cell Electric Vehicle, ausschließlich durch Brennstoffzelle betrieben
