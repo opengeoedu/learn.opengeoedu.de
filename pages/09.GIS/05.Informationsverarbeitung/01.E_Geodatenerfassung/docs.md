@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
 ---
-Die Geodatenerfassung schließt alle Methoden zur Datengewinnung ein: von Vermessungsmethoden (Resnik & Bill, 2009) bis hin zu empirischen Erhebungen im Geomarketing z. B. mittels Befragungen.
+Die Geodatenerfassung schließt alle Methoden zur Datengewinnung ein: von Vermessungsmethoden (Resnik & Bill, 2018) bis hin zu empirischen Erhebungen im Geomarketing z. B. mittels Befragungen.
 
 Neben den im Einstieg genannten Karten sind natürlich Luft- und Satellitenbilder und die damit zur Auswertung genutzten Fernerkundungsmethoden (Albertz, 2001, siehe hierzu Kapitel 5 in Bill, 2016) von besonderer Bedeutung, um aktuelle raumbezogene Daten zu erhalten. Gerade die Fernerkundung, heute vom Satellitenbild über Luftbilder bis zu spontanen Befliegungen mittels UAS (Unmanned Aerial Systems) zeigt sich als sehr leistungsfähig, denn sie liefert unmittelbar und direkt digital sowohl Form- und Nachbarschaftsbeziehungen (also Geometrie und Topologie) von Objekten wie Wäldern, Siedlungen oder Gewässern als typische Landbedeckungen als auch thematische Informationen durch Auswertungen der Spektralinformationen mittels Indizes, Klassifikationen etc. Während Satelliten- und Luftbildauswertungen etablierte Verfahren der Geodatenerfassung darstellen, sind in jüngster Zeit die UAS in aller Munde. An Bord von kleinen unbemannten Flugkörpern mitgeführte Kamerasysteme erlauben die Aufnahme von großen Mengen von Bildern in ganz kurzer Zeit, die sehr präzise mittels photogrammetrischer Methoden (UAS-Photogrammmetrie, vgl. Grenzdörffer & Bill, 2013) zu Standardprodukten wie Digitalen Oberflächenmodellen (DOM), DGMs, Digitalen Orthophotos oder Punktwolken führen.
 
