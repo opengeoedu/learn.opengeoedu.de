@@ -7,7 +7,14 @@ taxonomy:
 Unterschiedliche Aspekte wirken sich bisher hinderlich auf den Zuwachs an Elektrofahrzeugen aus.
 
 !!!! Schauen Sie sich hierzu einmal folgendes Video an. <br> https://www.ardmediathek.de/tv/ARD-Buffet/Elektromobilität-E-Autos-bald-im-Aufwi/Das-Erste/Video?bcastId=428628&documentId=50401350 <br>
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> 2f81fc090e5005120f832614c8d2569e8d97f413
+>>>>>>> 2db79bd0036fa244fe6f871838a33ebcb70351f2
 !! Sollte das Video nicht mehr verfügbar sein, suchen Sie nach Alternativen.
 
 [![](ard_emob.png?classes=caption "Grundlegende Aspekte der Elektromobilität (Quelle: ARD-Mediathek)")](https://www.ardmediathek.de/tv/ARD-Buffet/Elektromobilität-E-Autos-bald-im-Aufwi/Das-Erste/Video?bcastId=428628&documentId=50401350)
