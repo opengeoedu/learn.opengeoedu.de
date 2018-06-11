@@ -20,4 +20,6 @@ Im Ergebnis entstehen thematische Auswertungen in Form von Karten, Diagrammen, B
 
 ![](kerndichte.png?classes=caption "Räumliche Verteilung der Ladestationen in Deutschland und Kerndichteschätzung")
 
+[center]
 !! [Hier geht es zur Übung](/learn/elektromobilitaet/uebung)
+[/center]

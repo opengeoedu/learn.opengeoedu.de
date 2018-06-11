@@ -10,7 +10,7 @@ Die unzureichende öffentliche Ladeinfrastruktur stellt ein wesentliches Hindern
 
 Nachfolgende Abbildung deutet als Übersicht das verfügbare Ladenetz in Deutschland und den Benelux-Ländern an (http://maps.ladenetz.de/).
 
-![](ladenetz.png?classes=caption "Ladenetz DACH- und Benelux-Länder (Juni 2018) [http://maps.ladenetz.de/](http://maps.ladenetz.de/)")
+[![](ladenetz.png?classes=caption "Ladenetz DACH- und Benelux-Länder (Juni 2018) [http://maps.ladenetz.de/](http://maps.ladenetz.de/)")](http://maps.ladenetz.de/)
 
 !!! Erkunden Sie auf der Seite von Ladenetz.de einmal Ihre lokale Umgebung. Welche Daten werden zu den Ladestationen geboten? Ist diese Liste vollständig oder wissen Sie weitere Ladestationen in Ihrer Umgebung, die hier nicht enthalten sind? Woran liegt dies wohl?
 
@@ -18,6 +18,7 @@ Anderson u.a. (2016) ermitteln einen Ladeinfrastrukturbedarf für die anvisierte
 Forschungen zur Ladeinfrastruktur fokussieren sich nach Anderson, 2016, S. 7 vorzugsweise auf die drei Bereiche Optimierung, Analysen zur räumlichen Verteilung und Empfehlungen zur Aufstellung von Ladestationen. Viele Einflussfaktoren sind nach Anderson, 2016, S. 14 noch nicht ausreichend bekannt, so technische Faktoren (z.B. elektrische Reichweite und Ladegeschwindigkeit), Charakteristika von Nutzern (z.B. Verfügbarkeit von privater Ladeinfrastruktur) oder das Nutzerverhalten in Bezug auf Fahrverhalten und Ladepräferenzen.
 Anderson u.a., 2016, S. 27 leiten mittels Routing-Algorithmen auch streckenbezogene Ladevorgänge im Fernverkehr als Dichtekarten ab.
 
-!!! Einen interessanten Einblick in die weitere Entwicklung der Ladeinfrastruktur am Beispiel Hessen gibt das Video aus der ARD-Mediathek: https://www.ardmediathek.de/tv/defacto/Große-Pläne-für-die-Elektromobilität-D/hr-fernsehen/Video?bcastId=3437388&documentId=47170914
+!!! Einen interessanten Einblick in die weitere Entwicklung der Ladeinfrastruktur am Beispiel Hessen gibt das Video aus der ARD-Mediathek: <br>
+!!! https://www.ardmediathek.de/tv/defacto/Große-Pläne-für-die-Elektromobilität-D/hr-fernsehen/Video?bcastId=3437388&documentId=47170914
 
 !! Sollte das Video nicht mehr verfügbar sein, suchen Sie nach Alternativen.
