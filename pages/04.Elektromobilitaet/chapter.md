@@ -16,8 +16,8 @@ Videos zum Fallbeispiel **Elektromobilität**
 [![exercise](ex_emob.png)](https://youtu.be/Zq_B1CcgqOs)
 [![interview](i_emob.png)](https://youtu.be/ut7l6ABAj3E)
 [/owl-carousel]
-<<<<<<< HEAD
-[ui-tabs position="top-left" active="0" theme="lite"]
+
+[ui-tabs position="center" active="0" theme="lite"]
 
 [ui-tab title="Lecture"]
 ![](user://images/lecture.png)
@@ -30,7 +30,5 @@ Videos zum Fallbeispiel **Elektromobilität**
 [ui-tab title="Test"]
 ![](user://images/test.png)
 [/ui-tab]
+
 [/ui-tabs]
-=======
-![](user://images/lecture.png) ![](user://images/exercise.png) ![](user://images/test.png)
->>>>>>> 3716914e21b2e91f1ddee407e63efa510ce8bf81
