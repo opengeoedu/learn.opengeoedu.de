@@ -40,7 +40,7 @@ Stationsanbieter arbeiten an der Verbesserung der Kundenorientierung, z.B. durch
 
 ! Eine kleine Auswahl von Apps für die Suche nach Ladestationen:
 ! - https://www.lemnet.org/de
-! - https://ww.plugsurfing.com
+! - https://www.plugsurfing.com
 ! - https://www.goingelectric.de/stromtankstellen/routenplaner/
 ! - https://www.plugfinder.de/
 
