@@ -1,11 +1,11 @@
----
+I--
 title: Fragen und Antworten
 menu: FAQ 
 ---
 ## zum Projekt
 [ui-accordion independent=true open=none]
 [ui-accordion-item title="Was bietet OpenGeoEdu"]
-Der offene Onlinekurs OpenGeoEdu richtet sich an Studierende, Nachwuchswissenschaftler, Lehrende und Praktiker, die sich mit offenen Geodaten für raumbezogene Fragestellungen vertraut machen wollen. Der Kurs kann von Einsteigern wie auch Fortgeschrittenen besucht werden, da er unterschiedliche Niveaus der Bearbeitung anbietet. Große Teile des Kurses werden vollkommen offen angeboten. Erst mit dem Interesse, konkrete Fallbeispiele bearbeiten zu wollen bzw. an Tests und Übungen teilnehmen zu wollen, muss eine Registrierung erfolgen, um die erzielten Ergebnisse nachvollziehbar zu machen und entsprechende Nachweise (vom Teilnahmeschein bis zum benoteten Nachweis eines bestimmten Kreditpunkteumfangs) ausstellen zu können. Studierende können diese an ihren Hochschulen als Leistungsnachweise für ihre Studiengänge anerkennen lassen.
+Der offene Onlinekurs OpenGeoEdu richtet sich an Studierende, Nachwuchswissenschaftler, Lehrende und Praktiker, die sich mit offenen Geodaten für raumbezogene Fragestellungen vertraut machen wollen. Der Kurs kann von Einsteigern wie auch Fortgeschrittenen besucht werden, da er unterschiedliche Niveaus der Bearbeitung anbietet. Große Teile des Kurses werden vollkommen offen angeboten. Erst mit dem Interesse, konkrete Fallbeispiele bearbeiten zu wollen bzw. an Tests und Übungen teilnehmen zu wollen, muss eine Registrierung erfolgen, um die erzielten Ergebnisse nachvollziehbar zu machen und entsprechende Nachweise (vom Teilnahmeschein bis zum benoteten Nachweis eines bestimmten Kreditpunkteumfangs) ausstellen zu können. Studierende können diese an Ihren Hochschulen als Leistungsnachweise für ihre Studiengänge anerkennen lassen.
 [/ui-accordion-item]
 [/ui-accordion]
 
