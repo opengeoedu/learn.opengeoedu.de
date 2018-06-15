@@ -1,9 +1,8 @@
-﻿---
+---
 title: 'Open Government Data'
 taxonomy:
     category: docs
 ---
-
 
 
 [ui-accordion independent=true open=none][ui-accordion-item title="Politisches Statement"]
