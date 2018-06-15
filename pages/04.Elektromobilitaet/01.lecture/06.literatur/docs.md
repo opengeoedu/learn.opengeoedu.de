@@ -3,7 +3,9 @@ title: Literatur
 taxonomy:
     category: docs
 ---
-Quellen:
+
+## Textquellen
+
 Anderson, J., Bergfeld, M., Hoffmann, N., Kuhn, T. u.a. (2016): LADEN2020. Schlussbericht Konzept zum Aufbau einer bedarfsgerechten Ladeinfrastruktur in Deutschland von heute bis 2020. DLR. https://www.tib.eu/de/suchen/id/TIBKAT%3A881663425/
 
 BMWi (2011): Bundesministerium für Wirtschaft und Technologie (BMWi) - Energieverbrauchskennzeichnung von PKW, https://www.bmwi.de/Redaktion/DE/Artikel/Energie/energieverbrauchskennzeichnung-von-pkw.html
@@ -41,13 +43,14 @@ Schill, W.-P., Gerbaulet, C., Kasten, P. (2015): Elektromobilität in Deutschlan
 ## Internetquellen:
 
 Zeit Magazin: http://www.zeit.de/thema/elektromobilitaet
-https://www.bundesregierung.de/Webs/Breg/DE/Themen/Energiewende/Mobilitaet/_node.html;jsessionid=D1C52787B09B0647792640F0088965DC.s2t2
+
+Bundesregierung: https://www.bundesregierung.de/Webs/Breg/DE/Themen/Energiewende/Mobilitaet/_node.html;jsessionid=D1C52787B09B0647792640F0088965DC.s2t2
 
 ## Videoquellen:
 
-https://www.ardmediathek.de/tv/ARD-Buffet/Elektromobilität-E-Autos-bald-im-Aufwi/Das-Erste/Video?bcastId=428628&documentId=50401350
+ARD Mediathek: https://www.ardmediathek.de/tv/ARD-Buffet/Elektromobilität-E-Autos-bald-im-Aufwi/Das-Erste/Video?bcastId=428628&documentId=50401350
 
-https://www.ardmediathek.de/tv/defacto/Große-Pläne-für-die-Elektromobilität-D/hr-fernsehen/Video?bcastId=3437388&documentId=47170914
+ARD Mediathek: https://www.ardmediathek.de/tv/defacto/Große-Pläne-für-die-Elektromobilität-D/hr-fernsehen/Video?bcastId=3437388&documentId=47170914
 
 
 Abkürzungen  |
