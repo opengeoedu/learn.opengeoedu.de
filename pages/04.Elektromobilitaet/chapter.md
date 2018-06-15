@@ -20,15 +20,15 @@ Videos zum Fallbeispiel **Elektromobilität**
 [ui-tabs position="center" active="0" theme="lite"]
 
 [ui-tab title="Lecture"]
-![](user://images/lecture.png)
+![](/images/lecture.png)
 [/ui-tab]
 
 [ui-tab title="Übung"]
-![](user://images/exercise.png)
+![](/images/exercise.png)
 [/ui-tab]
 
 [ui-tab title="Test"]
-![](user://images/test.png)
+![](/images/test.png)
 [/ui-tab]
 
 [/ui-tabs]
