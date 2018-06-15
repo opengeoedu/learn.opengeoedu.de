@@ -4,4 +4,4 @@ taxonomy:
     category:
         - docs
 ---
-### nachfolgend werden einige wichtige Begriffe erläutert
+### Nachfolgend werden einige wichtige Begriffe erläutert, wobei dies in Anlehnung an Bill, 2016 erfolgt.
