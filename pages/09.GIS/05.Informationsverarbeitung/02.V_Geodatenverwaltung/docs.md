@@ -12,7 +12,7 @@ Die Verwaltung raumbezogener Daten stellt aus der Sicht der Informatik eine Nich
 
 ## Geodatenbanksystem
 
-Ein Geodatenbanksystem muss nach Brinkhoff (2013) eine Reihe von Fähigkeiten besitzen, die heute i. d. R. in objektrelationalen Datenbanken mit räumlichen Erweiterungen zur Verfügung stehen (vgl. Bill, 20106, S. 444 ff.):
+Ein Geodatenbanksystem muss nach Brinkhoff (2013) eine Reihe von Fähigkeiten besitzen, die heute i. d. R. in objektrelationalen Datenbanken mit räumlichen Erweiterungen zur Verfügung stehen (vgl. Bill, 2016, S. 444 ff.):
 
 + Das Geodatenbanksystem muss geometrische und topologische Datentypen anbieten, die Geometrie- und Topologiedaten geeignet repräsentieren können. So werden zum Beispiel Datentypen für Punkte (Knoten), Linienzüge (Kanten), Polygone mit Löchern und Mengen von Polygonen (Maschen) in 2D und Körper in 3D benötigt.
 + Ein Geodatenbanksystem muss Methoden für diese geometrischen und topologischen Datentypen bereitstellen, die die Ausführung geometrischer und topologischer Funktionen erlauben. Solche Funktionen berechnen zum Beispiel den Schnitt zwischen zwei Flächen, bestimmen die Länge eines Streckenzugs oder prüfen das Enthaltensein innerhalb von Flächen. Sie können vom Benutzer in der Anfragesprache des Datenbanksystems verwendet werden. Dies kann entweder in der Anfragebedingung erfolgen, um die Daten aus einem bestimmten Gebiet zu bestimmen, oder bezüglich der Datensätze, die eine nichtgeometrische Anfragebedingung erfüllen, um beispielsweise deren Fläche zu berechnen.
