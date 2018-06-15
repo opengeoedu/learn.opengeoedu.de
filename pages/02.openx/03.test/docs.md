@@ -6,5 +6,5 @@ taxonomy:
         - docs
 ---
 [center]
-[Hier geht es weiter zum Test (ILIAS)<br> ![](exercise_open1.png)](https://www.opengeoedu.de/emob_ex)
+[Hier geht es weiter zum Test (ILIAS)<br> ![](/images/test.png)](https://www.opengeoedu.de/test-openxx)
 [/center]
