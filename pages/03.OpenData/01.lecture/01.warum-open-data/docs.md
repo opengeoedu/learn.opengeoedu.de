@@ -7,7 +7,7 @@ taxonomy:
 
 **Wissen ist Macht, Daten sind wichtig!** - besonders in der Gegenwart, die oft als Informationszeitalter bezeichnet wird. Die weltweit größten Konzerne (Alphabet Inc./Google, Microsoft, Amazon, Facebook, Acxiom) besitzen gigantische Mengen an Daten, die einen Kernbestandteil ihres Geschäftes ausmachen. Daten sind die neue Währung der digitalen Welt - das Öl im Internet. Personenbezogene Daten, mit denen oben genannte Firmen ihr Geld verdienen, sind der Goldstaub im Internet. Daten sind eine begehrte Handelsware. Die Datenbestände (so wie Ideen und Wissen) verbrauchen sich nicht, sondern wachsen immer mehr an. Sie können beliebig vervielfältigt und von vielen Menschen gleichzeitig benutzt werden.
 
-Wissenschaftliche Daten ermöglichen es, Probleme wie den Klimawandel, Umweltkatastrophen oder das Ökosystem der Erde besser zu verstehen und entsprechende Maßnahmen einzuleiten. Unternehmensdaten dienen der Entscheidungsunterstützung in Produktion und Vertrieb. Verwaltungsdaten unterstützen Aufgaben in der öffentlichen Verwaltung und machen Entscheidungen transparent und nachhvollziehbar für den Bürger. 
+Wissenschaftliche Daten ermöglichen es, Probleme wie den Klimawandel, Umweltkatastrophen oder das Ökosystem der Erde besser zu verstehen und entsprechende Maßnahmen einzuleiten. Unternehmensdaten dienen der Entscheidungsunterstützung in Produktion und Vertrieb. Verwaltungsdaten unterstützen Aufgaben in der öffentlichen Verwaltung und machen Entscheidungen transparent und nachhvollziehbar für den Bürger.
 
 Open Data bedeutet, dass Regierungen, Verwaltungen, wissenschaftliche Einrichtungen, Unternehmen, Nichtregierungsorganisationen und Bürgerinitiativen ihre Datenbestände allgemein zur Verfügung stellen (ausgenommen sind sensible Daten, die etwa den Personen- und Datenschutz, Patent- oder Staatsgeheimnisse betreffen). Diese Daten stehen nun nicht mehr nur einer begrenzten Gruppe von Privilegierten und Insidern zur Verfügung, sondern können von allen Personen in Anspruch genommen werden, die über die nötigen Kenntnisse verfügen um das Datenpotential nutzbringend auszuschöpfen. Dieses Potential ist groß: Die Europäische Kommission schätzt das Marktvolumen im Jahr 2016 auf 300 Milliarden Euro. Ein Zuwachs um 325 Milliarden Euro wird bis 2020 prognostiziert. Die Zahl der "Data Worker" wird in der EU von 2016 (etwa 6 Millionen) auf bis zu 10 Millionen bis 2020 anwachsen.
 
@@ -55,6 +55,8 @@ Es kann zu Wettbewerbsverzerrungen für private Unternehmen kommen, weil deren p
 Für eine sinnvolle Nutzung von offenen Geodaten fehlt es an Standards, einheitlicher Datenqualität und einheitlichen und klar verständlichen Lizenzmodellen ([Seuß, 2015](../literatur#Seus2015))
 
 Offene Daten wurden ursprünglich für interne Zwecke einer Organisation erhoben. Da eine Nutzung durch Dritte oftmals nicht in Betracht gezogen wurde, fehlt es oft an Kontext, Metadaten und einer geeigneten Struktur um die Daten interpretieren und wiederverwenden zu können.
+
+(Öffentliche) Organisationen, welche die Open Data-Standards nicht (vollständig) einhalten können, bekommen dadurch einen Image-Schaden. Ihre partiellen Bemühungen und Beiträge zur Erreichung der Open Data Ziele (z.B. Transparenz, Innovation, Wirtschaftswachstum) werden bislang nicht ausreichend gewürdigt. ([Bargh et al., 2016](../literatur#Bargh2016))
 </div>
 
 <br/><br/>
