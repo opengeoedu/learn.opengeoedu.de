@@ -5,7 +5,7 @@ taxonomy:
     category:
         - docs
 ---
-[center]Auf dieser Seite Finden Sie ausführliche Hilfestellungen zu verschiedenen Themen und Aufgaben in Geographischeninformationssystemen.
+[center]Auf dieser Seite Finden Sie ausführliche Hilfestellungen zu verschiedenen Themen und Aufgaben in Geographischen Informationssystemen.
 [/center]
 
 ![](/images/tutorial.png)
