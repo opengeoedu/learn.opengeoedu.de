@@ -16,7 +16,7 @@ Verfügbar sind:
 
   <div class="row align-items-center">
     <div class="col-sm-9">
-      <h4>Tutorial Kartengestaltung</h4>
+      <h4>Tutorial Kartengestaltung</h4
       <p class="text-justify">Die vorliegende ausführliche Anleitung erläutert, wie die Ergebnisse einer Analyse in einer thematischen Karte aufgearbeitet werden können. Dabei gehen wir vom Vorhandensein verschiedener Daten oder Analyseergebnisse aus und zeigen wie mittels ArcMap (10.3) Karten erstellt werden können. ArcMap ist die Analyse und Visualisierungskomponente des Desktop-GIS ArcGIS von ESRI. Als Datensätze nutzen wir die Ladestationen (ein Punktthema) und die Ergebnisse der Erreichbarkeitsanalyse (ein Polygonthema) auf kommunaler Ebene. Dies kombinieren wir vor eine Hintergrundkarte und illustrieren welche Elemente zu einer Karte gehören und mit welchen Signaturen oder Farbabstufungen gearbeitet werden kann.
       Das Ergebnis – eine Kombination einer Übersichts und einer Detailkarte – sehen Sie hier.
       </p>
@@ -50,8 +50,9 @@ Verfügbar sind:
 </div>
   </div>
 [/ui-tab]
-[ui-tab title="weitere Tutorials erscheinen bald"]
-
-
+[ui-tab title="weitere Tutorials ..."]
+[center]
+## Wir arbeiten unter Hochdruck daran weitere Tutorials für Sie bereitzustellen!
+[/center]
 [/ui-tab]
 [/ui-tabs]
