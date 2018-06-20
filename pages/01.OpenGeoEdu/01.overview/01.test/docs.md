@@ -1,5 +1,6 @@
 ---
-title: test
+title: Spielecke und Testumgebung für Ideen
+menu: Spielecke
 published: true
 highlight:
 ---
