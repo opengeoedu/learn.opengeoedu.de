@@ -4,9 +4,7 @@ taxonomy:
   category:
     - docs
 ---
-
-# Open Data
-
+[center]
 Einführung in die Arbeit mit offenen Daten
 
 <div class="embed-responsive embed-responsive-16by9">
@@ -17,3 +15,4 @@ Einführung in die Arbeit mit offenen Daten
   </iframe>
 </object>
 </div>
+[/center]
