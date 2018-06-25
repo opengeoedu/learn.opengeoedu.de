@@ -6,7 +6,10 @@ highlight:
 ---
 ## Demo Test
 
+https://ilias.uni-rostock.de/goto.php?target=tst_44938&client_id=ilias_hro
+```
 [ILIAS](https://ilias.uni-rostock.de/goto.php?target=tst_44938&client_id=ilias_hro)
+```
 
 ---
 ## Navigationsoptionen (Lecture, Übung, Test)
@@ -89,6 +92,6 @@ highlight:
 [/ui-tab]
 
 [ui-tab title="second Tab"]
-mehr inhalt
+[plugin:youtube](https://youtu.be/rEB3Oti20CI)
 [/ui-tab]
 [/ui-tabs]
