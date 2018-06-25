@@ -6,5 +6,7 @@ taxonomy:
         - docs
 ---
 [center]
-[Hier geht es weiter zum Test (ILIAS)<br> ![](/images/test.png)](https://www.opengeoedu.de/test-openxx)
+https://ilias.uni-rostock.de/goto.php?target=tst_40879
+
+[Hier geht es weiter zum Test (ILIAS)<br> ![](/images/test.png)](https://ilias.uni-rostock.de/goto.php?target=tst_40879) {.exclude}
 [/center]

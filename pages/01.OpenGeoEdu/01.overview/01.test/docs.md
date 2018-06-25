@@ -1,11 +1,29 @@
 ---
-title: Spielecke und Testumgebung für Ideen
-menu: Spielecke
+title: Testumgebung für Ideen
+menu: Testumgebung
 published: true
 highlight:
 ---
+## Demo Test
 
+[ILIAS](https://ilias.uni-rostock.de/goto.php?target=tst_44938&client_id=ilias_hro)
 
+---
+## Navigationsoptionen (Lecture, Übung, Test)
+[ui-tabs position="center" active="0" theme="lite"]
+[ui-tab title="Lecture"]
+![](/images/script-lecture.png)
+[/ui-tab]
+
+[ui-tab title="Übung"]
+![](/images/exercise.png)
+[/ui-tab]
+
+[ui-tab title="Test"]
+![](/images/test.png)
+[/ui-tab]
+[/ui-tabs]
+---
 ## Darstellung der Niveaustufen
 
 <div class="progress">
@@ -62,13 +80,8 @@ highlight:
 <br>
 <br>
 
-
-
-
-
-
-
-
+---
+## Videoauswahl (statt carousel)
 [ui-tabs position="top-left" active="0" theme="lite"]
 
 [ui-tab title="First Tab"]
