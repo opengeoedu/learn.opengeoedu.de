@@ -1,9 +1,10 @@
 ---
-title: Open Data
+title: 'Open Data'
 taxonomy:
-  category:
-    - docs
+    category:
+        - docs
 ---
+
 [center]
 Einführung in die Arbeit mit offenen Daten
 
