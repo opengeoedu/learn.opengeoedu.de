@@ -4,14 +4,8 @@ taxonomy:
     category:
         - docs
 ---
-
-### OpenGeoEdu Fallbeispiel
-
-# Geovisualisierung
-
-Teaser zum Fallbeispiel ***Geovisualisierung***
-
 [center]
+Teaser zum Fallbeispiel ***Geovisualisierung***
 <div class="embed-responsive embed-responsive-16by9">
   <object data="https://www.opengeoedu.de/content/Foliensets/copernicus_teaser.pdf#view=FitH&amp;toolbar=0&amp;navpanes=0&amp;scrollbar=1" type="application/pdf" width="100%" height="100%">
   <iframe src="https://www.opengeoedu.de/content/Foliensets/copernicus_teaser.pdf#view=FitH&amp;toolbar=0&amp;navpanes=0&amp;scrollbar=1" width="100%" height="100%" style="border: none;">
