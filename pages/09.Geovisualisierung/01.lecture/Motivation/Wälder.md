@@ -1,0 +1,3 @@
+Wälder übernehmen wichtige Funktionen mit folgenden Aspekten: Soziales, Ökonomie und Ökologie – die drei Säulen der Nachhaltigkeit. 
+
+...
