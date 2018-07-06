@@ -6,7 +6,7 @@ Wälder übernehmen wichtige Funktionen mit folgenden Aspekten: Soziales, Ökono
 
 
 ![WaldFunktionen](/pages/09.Geovisualisierung/Funktionen_Wälder.png)
-*Wälder übernehmen verschiedene soziale, ökologische und ökonomische Funktionen. Geändert nach (Thomas, 2012).*
+*Wälder übernehmen verschiedene soziale, ökologische und ökonomische Funktionen. Geändert nach Thomas (2012).*
 
  
  ...
