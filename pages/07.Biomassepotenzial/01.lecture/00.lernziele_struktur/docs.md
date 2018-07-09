@@ -20,8 +20,7 @@ Die Vorlesung besteht aus 5 Kapiteln inklusive Beispielen die Ihnen die oben gen
 
 - Fragen zum Selbsttest
 <br> !!!! so sehen die Fragen zum Selbsttest zum Beginn eines Kapitels aus <br>
-- Erklärungstext / Informationen zum Thema
 - Links zu weiterführender Literatur
-<br> ! so sehen die Links und Verweise aus <br> 
+<br> ! so sehen die Links und Verweise auf Literatur oder Webseiten aus <br> 
 - Gedankenanstöße
 <br> !! so sehen die Gedankenanstöße aus <br> 
