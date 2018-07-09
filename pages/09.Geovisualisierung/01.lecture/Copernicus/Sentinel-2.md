@@ -1,9 +1,9 @@
 # Sentinel-2
-## Generell 
+## Allgemein 
 Hinter „Senitel-2“ verbirgt sich nicht nur ein einzelner Satellit, sondern ein Satellitenpaar. Start: 22.06.15 (2A), 07.03.17 (2B).
 
 ![Senitel-2](/pages/09.Geovisualisierung/Sentinel-2_composites.png)
-...
+*Künstlerische Darstellung von Senitnel-2. Rechts: Aufnahme aus dem Taunus (Hessen), jeweils in verschiedener Kombination (rot-grün-blau, RGB) verschiedener Bänder.*
 
 Eckdaten Sentinel-2:
 
@@ -14,8 +14,12 @@ Die Schwadbreite ist mit 290 km größer als etwa die von Landsat 7 und Landsat 
 
 Zum Kennenlernen bietet sich der ![Sentinel Playground](http://apps.sentinel-hub.com/sentinel-playground/?source=S2&lat=40.34366578968397&lng=-3.6512374877929688&zoom=11&preset=1_NATURAL_COL0R&layers=B04,B03,B02&maxcc=20&gain=1.0&gamma=1.0&time=2015-01-01|2018-01-17&atmFilter=&showDates=false) an.
 
+<br><br>
+
 ![Rostock](/pages/09.Geovisualisierung/Senitnel-2_Rostock.png)
 *Rostock von oben... Sentinel-2 Color Infrarot (CIR) Falschfarbkomposit, RGB: 8-4-3. Der Pfeil markiert (ungefähr) die Hauptgebäude der Universität Rostock.*
+
+<br><br>
 
 ![Tiles](/pages/09.Geovisualisierung/Senitinel-2_Tiles_GoogleEarth.png)
 *Globale Abdeckung mit Sentinel-2 als 100x100 km Kacheln.* 
@@ -28,11 +32,19 @@ Zum Kennenlernen bietet sich der ![Sentinel Playground](http://apps.sentinel-hub
 *Frankfurter Hauptbahnhof aufgenommen mit verschiedenen räumlichen Auflösungen.*
 
 Aufgabe: Ordnen Sie Ausschnitte von Satellitenbildern ihrer räumlichen Auflösung entsprechend an. https://h5p.org/node/173319
+
+
 <iframe src="https://h5p.org/h5p/embed/173319" width="1090" height="542" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
+
+<br><br>
 
 Vgl. Sentinel-2 vs. Luftbild: https://h5p.org/node/239827 
 
 Aufgabe: Recherchieren Sie Metadaten zu den Sensoren und platzieren Sie sie entsprechend im Diagramm. https://h5p.org/node/172678
+
+
 <br><br>
 ## Spektrale Auflösung
 
