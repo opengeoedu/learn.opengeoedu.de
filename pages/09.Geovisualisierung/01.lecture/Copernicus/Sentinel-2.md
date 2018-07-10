@@ -28,10 +28,12 @@ Zum Kennenlernen bietet sich der ![Sentinel Playground](http://apps.sentinel-hub
 
 ## Räumliche Auflösung
 
+Die räumliche Auflösung beschreibt vor allem die Pixelgröße bzw. den Pixelabstand (im Bild oder am Objekt). Es ist abhängig von der Art des Sensors. Fähigkeit, Größe des CCD-Arrays (charge-coupled device) und die Blickwinkel. Einige wichtige Begriffe in der Fernerkundung und ihre Bedeutung sind: FOV= field of view, deutsch: Blickfeld, definiert die Schwadbreite; IFOV=instantaneous field of view, definiert den Winkel der einzelnen Sensoren; GIFOV=Ground instantaneous field of view, ist das auf den Boden projizierte IFOV. Die GSD=ground sample distance (aus GIFOV, Detektorgröße), definiert schließlich die resultierende Pixelgröße. Die räumliche Bildauflösung ist neben dem Kontrast entscheidend für die Erkennung von Objekten.
+
 ![F_Hbf](/pages/09.Geovisualisierung/Frankfurt_Hbf_Resolutions.png)
 *Frankfurter Hauptbahnhof aufgenommen mit verschiedenen räumlichen Auflösungen.*
 
-Aufgabe: Ordnen Sie Ausschnitte von Satellitenbildern ihrer räumlichen Auflösung entsprechend an. https://h5p.org/node/173319
+__Aufgabe:__ Ordnen Sie Ausschnitte von Satellitenbildern ihrer räumlichen Auflösung entsprechend an. https://h5p.org/node/173319
 
 
 <iframe src="https://h5p.org/h5p/embed/173319" width="1090" height="542" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
@@ -42,7 +44,7 @@ Aufgabe: Ordnen Sie Ausschnitte von Satellitenbildern ihrer räumlichen Auflösu
 
 Vgl. Sentinel-2 vs. Luftbild: https://h5p.org/node/239827 
 
-Aufgabe: Recherchieren Sie Metadaten zu den Sensoren und platzieren Sie sie entsprechend im Diagramm. https://h5p.org/node/172678
+__Aufgabe:__ Recherchieren Sie Metadaten zu den Sensoren und platzieren Sie sie entsprechend im Diagramm. https://h5p.org/node/172678
 
 
 <br><br>
