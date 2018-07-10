@@ -14,7 +14,6 @@ In diesem Fallbeispiel wird ein Sturmereignis vom August 2017 untersucht, bei de
 
 <br><br>
 
-
 Diese Lerneinheit beinhaltet folgende __Lernziele__:
 
 -	Recherche und Download
