@@ -4,23 +4,19 @@ taxonomy:
     category:
         - docs
 menu: Umgebungslärm
-child_type: docs
-editable-simplemde:
-    self: false
 ---
 
 ### OpenGeoEdu Fallbeispiel
 
 # Umgebungslärm
 
-Teaser zum Fallbeispiel ***Umgebungslärm***
+Videos zum Fallbeispiel ***Umgebungslärm***
+[plugin:youtube](https://www.youtube.com/watch?v=UJyKWAgDKr4)
 
-<div class="embed-responsive embed-responsive-16by9">
-    <object data="https://www.opengeoedu.de/content/Foliensets/laerm_teaser_20180316_v1.pdf#view=FitH&toolbar=0&navpanes=0&scrollbar=1" type="application/pdf" width="100%" height="100%">
-        <iframe src="https://www.opengeoedu.de/content/Foliensets/laerm_teaser_20180316_v1.pdf#view=FitH&toolbar=0&navpanes=0&scrollbar=1" width="100%" height="100%" style="border: none;">
-        This browser does not support PDFs. Please download the PDF to view it: 
-        <a href="https://www.opengeoedu.de/content/Foliensets/laerm_teaser_20180316_v1.pdf">Download PDF</a>
-        </iframe>
-    </object>
-</div>
-[Download Teaser](https://www.opengeoedu.de/content/Foliensets/laerm_teaser_20180316_v1.pdf)
+<!-- [owl-carousel items=3 loop=true autoplay=true autoplayHoverPause=true margin=10 responsive={0:{items:1},1000:{items:2},1400:{items:3}}]
+![](/images/video_placeholder.png)
+![](/images/video_placeholder.png)
+![](/images/video_placeholder.png)
+![](/images/video_placeholder.png)
+![](/images/video_placeholder.png)
+[/owl-carousel] -->
