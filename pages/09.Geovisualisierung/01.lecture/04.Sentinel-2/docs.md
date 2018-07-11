@@ -75,14 +75,9 @@ Spektrale Kurve und Pflanzenparameter https://h5p.org/node/240206
 ![ReflektanzVegetation](/pages/09.Geovisualisierung/Reflectance_Vegetation.png)
 
 *Vegetationsindizes*
-Prinzip: Neuberechnung eines künstlichen Kanals
-NDVI als Standard des Vegetationsmonitorings
-Recherche von Indizes auf der Index Database 
-Beispiele und Gegenüberstellung
-ggf. Indizes auf Sentinel Playground vergleichen
 
 Die in der Reflektanz (hier: Pixelwerten der einzelnen Kanäle) enthaltenen Informationen ...
-spektrale Indizes
+Spektrale Indizes verfolgen das Prinzip einer Neuberechnung eines künstlichen Kanals.
 um spezielle Features (Merkmale) hervorzuheben 
 meist als einfache oder Verhältnisse
 Es gibt je nach Sensor und der Anzahl der Kanäle eine Vielzahl an möglichen Kombinationen.
@@ -92,3 +87,9 @@ Der wohl bekannteste Vegetationsindex ist der Normalized Difference Vegetation I
 Der NDVI wird wie folgt berechnet:
 NDVI=  (NIR-rot)/(NIR+rot) =(ρ_800-ρ_680)/(ρ_800+ρ_680 )  ,  [-1;1]
 
+BILD
+
+
+Recherche von Indizes auf der Index Database 
+Beispiele und Gegenüberstellung
+ggf. Indizes auf Sentinel Playground vergleichen
