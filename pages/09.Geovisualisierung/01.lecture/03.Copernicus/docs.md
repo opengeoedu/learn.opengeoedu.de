@@ -45,7 +45,7 @@ __Sentinel-1__
  
 __Sentinel-2__ 
 
-![S2](/pages/09.Geovisualisierung/Sentinel-2.jpg)
+![S2](/pages/09.Geovisualisierung/Sentinel-2_2.png)
 
 *optisch Multispektral --> passiv*
  
