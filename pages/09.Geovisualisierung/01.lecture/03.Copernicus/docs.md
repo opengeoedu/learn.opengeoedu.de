@@ -22,9 +22,7 @@ In dieser Lerneinheit soll der Fokus auf das Landmonitoring liegen.
 
 ![CopernicusDienste](/pages/09.Geovisualisierung/Copernicus_Dienste_1.png)
 *Die sechs Copernicus Dienste.*
-
 <br><br>
-
 Im Rahmen von Copernicus gibt es im Grunde vier Projektkomponenten: die Basis bilden zum einen die __(i)__ Satelliten und beitragenden Missionen sowie das Bodensegment, zum anderen die nationalen **(ii)** in-situ Messnetze. Hinter der in-situ Komponente verbergen sich alle Daten, die nicht aus dem Weltraum gewonnen wurden (außer Daten wie z.B. SRTM). Darauf aufbauend operieren die __(iii)__ sechs thematischen Dienste, die durch Fachagenturen wie die Europäische Umweltagentur (EEA) umgesetzt werden. Die daraus resultierenden Informationen werden zusammengetragen und aufbereitet sowie für die __(iv)__ Endnutzer bereitgestellt. Dazu zählen behördliche Anwender und Verwaltung, Politik, Wissenschaft, kommerzielle Unternehmen, Start-Ups oder gemeinnützige Organisationen und Bürger ...bzw. jeder.
 
 ![CopernicusKomponenten](/pages/09.Geovisualisierung/Copernicus_Komponenten.png)
@@ -56,7 +54,6 @@ __Sentinel-3__
 ![S3](/pages/09.Geovisualisierung/Sentinel-3.png)
 
 *Radar & Multispektral --> aktiv & passiv*
-
 
 <br><br>
 
