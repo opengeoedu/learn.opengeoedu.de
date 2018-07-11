@@ -50,7 +50,7 @@ __Aufgabe:__ Recherchieren Sie Metadaten zu den Sensoren und platzieren Sie sie 
 <br><br>
 ## Spektrale Auflösung
 
-Die spektrale Auflösung eines Sensors beschreibt die 
+Die spektrale (optische) Auflösung eines Sensors gibt an, welche Bereiche des elektromagnischen Spektrums wie erfasst werden können. Die spektrale Auflösung ist somit der abgedeckte Wellenlängenbereich bezogen auf die Anzahl der Spektralbänder und ist mit der Bandbreite verknüpft, welche durch den Full Width Half Mean-Wert (FWHM) beschrieben wird. Dieser gibt die Wellenlängenbreite an, die ein Kanal bei 50 % der maximalen Durchlässigkeit des Spektralbandes umfasst (s. ![FE-Lexikon](http://www.fe-lexikon.info/lexikon-s.htm#spektrale-aufloesung)). Sie wird manchmal mit dem spektralen Sampling Interval verwechselt, was jedoch die Schritte zwischen den einzelnen Bändern definiert.
 
 ![KanäleS2LS7LS8](/pages/09.Geovisualisierung/BANDS_S2_LS8_LS7.png)
 *Die spektralen Kanäle von Sentinel-2 im Vergleich zu Landsat 8 (OLI und TRS) und Landsat 7 ETM+.*
@@ -87,9 +87,10 @@ Der wohl bekannteste Vegetationsindex ist der Normalized Difference Vegetation I
 Der NDVI wird wie folgt berechnet:
 NDVI=  (NIR-rot)/(NIR+rot) =(ρ_800-ρ_680)/(ρ_800+ρ_680 )  ,  [-1;1]
 
-BILD
+- BILD
 
 
-Recherche von Indizes auf der Index Database 
+__Aufgabe:__ Recherche von Indizes auf der ![Index Database](https://www.indexdatabase.de/) für Sentinel-2 und weitere Sensoren.
 Beispiele und Gegenüberstellung
-ggf. Indizes auf Sentinel Playground vergleichen
+ggf. Indizes auf dem ![Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/?source=S2&lat=50.03619419013074&lng=8.040962219238281&zoom=13&preset=1_NATURAL_COL0R&layers=B02,B12,B08&maxcc=20&gain=1.0&gamma=1.0&time=2015-01-01|2018-05-17&atmFilter=&showDates=false) vergleichen
+
