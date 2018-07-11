@@ -8,7 +8,6 @@ Reine Fichtenbestände (Picea abies) sind besonders durch ihre flachen Tellerwur
 *Windwurffläche im Taunus sowie weitere Beispiele der enormen Kraft von Stürmen.*
 
 
-
 Ist es zu einem größeren Windwurf im Wald gekommen, gilt es die Schäden schnellstmöglich zu erkennen und zu beseitigen. Gefahren für Personen wie etwa hängende Bäume und unter Spannung stehende Stämme und Wurzeln müssen zuerst ausgeräumt werden. Das ungeplant anfallende Mehr an Holz muss genutzt und verwertet werden. Eine rasche Beseitigung der Schäden ist außerdem notwendig, da u.a. Schädlingsbefall droht (z.B. Borkenkäfer). Sturmschäden und Insektenbefall können sich zudem gegenseitig begünstigen. Das Ziel ist die Wiederherstellung der Nutzfläche und gegebenenfalls eine Wiederaufforstung. 
 
 Informationen, etwa dazu wie man Sturmholz richtig aufarbeitet finden sich u.a. auf den Seiten des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten (StMELF) unter: www.stmelf.bayern.de/wald/waldschutz/sturm/104090/index.php.
