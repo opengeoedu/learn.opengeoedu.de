@@ -3,7 +3,7 @@
 
 Wälder übernehmen wichtige Funktionen mit folgenden Aspekten: Soziales, Ökonomie und Ökologie – die drei Säulen der Nachhaltigkeit. Dieser gegenwärtig in so vielen Bereichen auftauchende Begriff wurde einst von Hans Carl von Carlowitz (1645-1714) geprägt und hat in der Form seinen Ursprung in den Forstwissenschaften. Die Mehrheit der heutigen Wälder in Deutschland wird nachhaltig bewirtschaftet, d.h. vereinfacht gesagt wird nicht mehr entnommen als nachwächst. Der Waldanteil Deutschlands ist in den letzten Jahren relativ stabil geblieben. Heutzutage ist rund ein Drittel der Staatsfläche mit Wald bedeckt. 
 
-![WaldDE](/pages/09.Geovisualisierung/WaldDE2.png)
+![WaldDE](/pages/09.Geovisualisierung/WaldDE.png)
 
 Die Fläche und die Zusammensetzung des Waldes durchliefen im Laufe der Zeit große Veränderungen. Allen Veränderungen Widrigkeiten zum Trotz sind die Forste heute zwar in relativ gutem Zustand, doch von klimatischen Bedingungen bzw. Wetter (z.B. Trockenheit, Sturm) und Krankheiten (z.B. durch Insekten, Pilze) weiterhin geschwächt oder bedroht. 
 
