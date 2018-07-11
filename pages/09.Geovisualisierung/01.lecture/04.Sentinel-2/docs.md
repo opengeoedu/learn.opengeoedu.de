@@ -50,7 +50,10 @@ __Aufgabe:__ Recherchieren Sie Metadaten zu den Sensoren und platzieren Sie sie 
 <br><br>
 ## Spektrale Auflösung
 
+Die spektrale Auflösung eines Sensors beschreibt die 
+
 ![KanäleS2LS7LS8](/pages/09.Geovisualisierung/BANDS_S2_LS8_LS7.png)
+*Die spektralen Kanäle von Sentinel-2 im Vergleich zu Landsat 8 (OLI und TRS) und Landsat 7 ETM+.*
 
 https://h5p.org/node/238969
 
@@ -72,4 +75,20 @@ Spektrale Kurve und Pflanzenparameter https://h5p.org/node/240206
 ![ReflektanzVegetation](/pages/09.Geovisualisierung/Reflectance_Vegetation.png)
 
 *Vegetationsindizes*
-...
+Prinzip: Neuberechnung eines künstlichen Kanals
+NDVI als Standard des Vegetationsmonitorings
+Recherche von Indizes auf der Index Database 
+Beispiele und Gegenüberstellung
+ggf. Indizes auf Sentinel Playground vergleichen
+
+Die in der Reflektanz (hier: Pixelwerten der einzelnen Kanäle) enthaltenen Informationen ...
+spektrale Indizes
+um spezielle Features (Merkmale) hervorzuheben 
+meist als einfache oder Verhältnisse
+Es gibt je nach Sensor und der Anzahl der Kanäle eine Vielzahl an möglichen Kombinationen.
+Vegetationsindizes sind robuster gegenüber Beleuchtungsunterschieden oder atmosphärischen und Hintergrundeinflüssen.
+
+Der wohl bekannteste Vegetationsindex ist der Normalized Difference Vegetation Index (NDVI). Er gilt als Standard des Vegetationsmonitorings und macht sich die Unterschiede beim (Gesundheits-)Status von Vegetation besonders im NIR zu nutze.
+Der NDVI wird wie folgt berechnet:
+NDVI=  (NIR-rot)/(NIR+rot) =(ρ_800-ρ_680)/(ρ_800+ρ_680 )  ,  [-1;1]
+
