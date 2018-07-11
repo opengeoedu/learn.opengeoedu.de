@@ -16,4 +16,11 @@ Ist es zu einem größeren Windwurf im Wald gekommen, gilt es die Schäden schne
 
 Informationen, etwa dazu wie man Sturmholz richtig aufarbeitet finden sich u.a. auf den Seiten des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten (StMELF) unter: www.stmelf.bayern.de/wald/waldschutz/sturm/104090/index.php.
 
+<br><br>
 
+![vorOrtSatellit](/pages/09.Geovisualisierung/vor_Ort_vs_Satellit.png)
+
+Eine generelle Herausforderung ist es, nach einem Sturm die Situation richtig einzuschätzen und betroffene Flächen aufzufinden. Die folgende Abbildung zeigt einen beschädigten Waldbestand einmal wie er sich vor Ort darstellt (links) und einmal wie er und die Umgebung in einem Satellitenbild aussieht (rechts). Die Zuordnung und Verortung der Flächen ist ein zentraler Punkt von Kartierung und Monitoring.
+
+Windwurfflächen sind oft großflächig bzw. liegen räumlich weit verstreut vor. Dies mach die Fernerkundung zu einem geeigneten Instrument, da sie einen schnellen Überblick über betroffene Flächen gibt. Ferner lassen sich mit Hilfe von luftgetragenen Sensoren oder Satelliten unterschiedlichste Vegetationsparameter abschätzen. 
+Da solche Daten nicht immer und für jeden verfügbar sind, sind frei verfügbare Fernerkundungsdaten mit großer räumlicher Abdeckung zweckmäßig und erforderlich. So stehen seit Juli 2015 etwa Sentinel-2 Daten kostenfrei als Open Data zur Verfügung
