@@ -69,14 +69,11 @@ Zusätzlich: Sentinel-3 PreOps Hub, API Hub.
 Der zweite Datenzugang ist CODE-DE (Copernicus Data and Exploitation platform), erreichbar unter https://code-de.org. Auch hier ist eine Registrierung notwendig und kostenlos. Der Dienst bietet ebenso Sentinel-1 & -2 an. Es gibt einen offenen Such- und Darstellungsdienst sowie eine Toolsammlung zur Analyse von Sentinel-Daten. Der Kostenpflichtige Zugang ermöglicht darüber hinaus die Nutzung der online Prozessierungsumgebung.
 
 
-__Aufgabe:__ Sentinel-2 Datenrecherche
-
+__Aufgabe:__ Sentinel-2 Datenrecherche. 
 Recherchieren Sie nach wolkenfreien (Wolkenbedeckung bis max. 10 %) Sentinel-2 Aufnahmen der Stadt Frankfurt am Main, die im zweiten Halbjahr 2017 erfasst wurden. 
 
 Wie viele Datensätze finden Sie …
-
 a)	… im Copernicus Hub?
-
 b)	… in Code-DE? 
 
 MC-Frage: Warum finden Sie unterschiedlich viele Datensätze? (Hinweis: Recherchieren Sie nach Namenskonventionen der Sentinel-2 Daten)
