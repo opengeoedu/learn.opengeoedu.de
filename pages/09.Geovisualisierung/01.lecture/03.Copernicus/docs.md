@@ -31,7 +31,7 @@ Für die *Weltraumkomponente* bilden die Satellitensysteme natürlich die grundl
 
 <br><br>
 
-Die ersten drei *„Wächter“*:
+### Die ersten drei *„Wächter“*:
 
 __Sentinel-1__
 
@@ -70,7 +70,9 @@ __Aufgabe:__ Sentinel-2 Datenrecherche.
 Recherchieren Sie nach wolkenfreien (Wolkenbedeckung bis max. 10 %) Sentinel-2 Aufnahmen der Stadt Frankfurt am Main, die im zweiten Halbjahr 2017 erfasst wurden. 
 
 Wie viele Datensätze finden Sie …
+
 a)	… im Copernicus Hub?
+
 b)	… in Code-DE? 
 
 MC-Frage: Warum finden Sie unterschiedlich viele Datensätze? (Hinweis: Recherchieren Sie nach Namenskonventionen der Sentinel-2 Daten)
