@@ -10,7 +10,7 @@ Die Landesfläche Deutschlands ist zu etwa einem Drittel mit Wald bedeckt. Die A
 
 In diesem Fallbeispiel wird ein Sturmereignis vom August 2017 untersucht, bei dem es im Taunus (Hessen) zu größeren Sturmschäden im Wald kam. Dazu wird jeweils eine Sentinel 2-Szene vor und nach dem Ereignis aufbereitet, analysiert und Vegetationsindizes für beide Zeitpunkte berechnet. Durch die Ermittlung der Differenzen zwischen den Indizes können die Schadensflächen identifiziert und auf Basis eines Schwellenwerts extrahiert werden. Anschließend erfolgt eine Verschneidung mit Landbedeckungsdaten, um das Ergebnis hinsichtlich der betroffenen Waldtypen zu quantifizieren. Abschließend werden die ermittelten Windwurfflächen in einer dreidimensionalen Geländeansicht visualisiert.
 
-![satellitWindwurf](/pages/09.Geovisualisierung/SatellitWindwurf2.png)
+![Sentinel-2](/pages/09.Geovisualisierung/Sentinel-2.jpg)
 
 <br><br>
 
@@ -24,3 +24,7 @@ Diese Lerneinheit beinhaltet folgende __Lernziele__:
   -	Schwellenwertbasierte Klassifikation
   -	Quantifizierung von Schadensflächen
 -	Erstellung einer dreidimensionalen Geländeansicht
+
+<br><br>
+
+![GeodatenVerschneidung](/pages/09.Geovisualisierung/VerschnS2Geodaten.png)
