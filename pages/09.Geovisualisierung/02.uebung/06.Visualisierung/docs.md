@@ -1,6 +1,6 @@
 # Visualisierung
 
-Im letzten Schritt werden die Analyseergebnisse visualisiert. Um die Topographie des Taunus in der Visualisierung sichtbar zu machen, kann eine dreidimensionale Darstellung gewählt werden. Die folgenden Schritte dokumentieren die Erstellung einer Geländeansicht in QGIS __(5.1)__ und Google Earth Pro __(5.2)__. Für den erfolgreichen Abschluss dieses Fallbeispiels ist nur die Bearbeitung einer der beiden Möglichkeiten notwendig.
+Im letzten Schritt werden die Analyseergebnisse visualisiert. Um die Topographie des Taunus in der Visualisierung sichtbar zu machen, kann eine dreidimensionale Darstellung gewählt werden. Die folgenden Schritte dokumentieren die Erstellung einer Geländeansicht in QGIS und Google Earth (Pro). Für den erfolgreichen Abschluss dieses Fallbeispiels ist nur die Bearbeitung einer der beiden Möglichkeiten notwendig.
 
 ## Geländeansicht in QGIS
 ### Darstellung der Sturmschäden
