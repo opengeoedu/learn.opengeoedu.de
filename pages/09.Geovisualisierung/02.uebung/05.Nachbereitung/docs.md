@@ -19,5 +19,4 @@ Löschen Sie alle Objekte, die nicht zu einer dieser Klassen gehören, aus dem D
 Um die Ergebnisflächen zu quantifizieren, muss erneut eine Flächen-Spalte hinzugefügt werden. Dieser Schritt ist erneut nötig, da durch das Zusammenfassen der Objekte neue Polygone erzeugt wurden, das Feld *„area_ha“* jedoch ohne Anpassung aus dem vorherigen Datensatz übernommen wurde. Gehen Sie __analog zu 4.2__ vor und berechnen Sie die Flächen der Ergebnispolygone. 
 > Wie groß sind die beschädigten Flächen pro Waldtyp? 
 
-(Antwort: Größenordnungen Musterlösung sind Laubwald: ca. 150-240 ha, Nadelwald: ca. 20-50 ha und Mischwald: ca. 0.5-2 ha).
 
