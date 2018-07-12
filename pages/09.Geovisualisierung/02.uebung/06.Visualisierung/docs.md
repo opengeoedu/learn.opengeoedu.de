@@ -29,6 +29,6 @@ Starten Sie Google Earth und Wählen Sie Datei  Öffnen…. Navigieren Sie zu
 ### Erstellung der Geländeansicht
 Nutzen Sie die Navigationsmöglichkeiten in Google Earth (Ansicht neigen, zoomen etc. per Maustasten/-rad) um einen Ausschnitt zu erhalten, den Sie exportieren möchten. Klicken Sie in der oberen Menüleiste auf das Symbol Bild speichern. Einige Kartenelemente werden Ihnen angezeigt. Im Menü Ebenen links unten können Sie Informationen wie Ortsnamen, Straßen, etc. ein- oder ausblenden. Sie haben zudem die Möglichkeit am oberen Bildrand über Kartenoptionen Kartenelemente hinzuzufügen oder zu entfernen. Passen Sie auch die Auflösung des Exportbildes an. Bearbeiten Sie die Kartenelemente nach Ihren Vorstellungen und klicken Sie abschließend auf Bild speichern. Geben Sie einen Ausgabenamen und –pfad an und teilen Sie Ihr Ergebnis mit Ihren Kommilitonen/-innen.
 
-![GoogleEarth](/pages/09.Geovisualisierung/Google Earth Export_2.jpg)
+![GoogleEarth](/pages/09.Geovisualisierung/Google_Earth_Export_2.jpg)
 
 *… CAPTION …*
