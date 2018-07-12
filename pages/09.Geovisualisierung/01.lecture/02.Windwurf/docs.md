@@ -14,7 +14,7 @@ Ist es zu einem größeren Windwurf im Wald gekommen, gilt es die Schäden schne
 ![Holzeinschlag2017](/pages/09.Geovisualisierung/Holzeinschlag2017.png)
 *Erstellt aus: Statistisches Bundesamt (2018): Land- und Forstwirtschaft, Fischerei. Forstwirtschaftliche Bodennutzung – Holzeinschlagsstatistik. Fachserie 3, Reihe 3.3.1, Holzeinschlag.*
 
-Informationen, etwa dazu wie man Sturmholz richtig aufarbeitet finden sich u.a. auf den Seiten des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten (StMELF) unter: www.stmelf.bayern.de/wald/waldschutz/sturm/104090/index.php.
+Informationen, etwa dazu wie man Sturmholz richtig aufarbeitet finden sich u.a. ![hier](www.stmelf.bayern.de/wald/waldschutz/sturm/104090/index.php) auf den Seiten des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten (StMELF).
 
 <br><br>
 
