@@ -18,9 +18,7 @@ besteht. Erstellen Sie anschließend ein Band *dNDVI* mit der Formel
 
 und untersuchen Sie das Ergebnis. Rechtsklicken Sie auf den Datensatz und erstellen Sie über *Open RGB Image Window* eine Falschfarbansicht aus den Kanälen Red: B3_20170619, Green: B4_20170823, Blue: dNDVI. 
 > In welcher Farbe sind Schäden am Wald zu erkennen?
-
 <br><br> 
-
 ## Schwellenwertberechnung und Export
 
 Mit Hilfe der NDVI-Differenz können nun die geschädigten Waldflächen identifiziert werden. Dazu werden alle Pixel, die im Differenzbild einen bestimmten Schwellenwert überschreiten, als Raster extrahiert. Einen geeigneten Schwellenwert können Sie herausfinden, indem Sie im *Colour Manipulation*-Bereich die Farbgebung des Differenzbildes durch Verschiebung der Regler anpassen und diese mit einem RGB-Komposit vergleichen. Starten Sie erneut das *Band Maths* Tool und vergeben Sie den Namen *Sturmschaden*. Vergessen Sie nicht, den Haken vor *Virtual* zu entfernen. Geben Sie im Fenster *Edit Expression* folgende Formel ein 
