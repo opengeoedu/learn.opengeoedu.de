@@ -54,14 +54,14 @@ Die spektrale (optische) Auflösung eines Sensors gibt an, welche Bereiche des e
 *Die spektralen Kanäle von Sentinel-2 im Vergleich zu Landsat 8 (OLI und TRS) und Landsat 7 ETM+.*
 
 die Sentinel-2 Bänder:  
-<iframe src="https://h5p.org/h5p/embed/238969" width="1090" height="494" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://h5p.org/h5p/embed/238969" width="1090" height="494" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>  
 
 Die einzelnen Bänder liegen wie bei anderen Fernerkundungsensoren auch als Grauwertbilder vor. Im Fall von Sentinel-2 werden diese mit einer *radiometrischen Auflösung* von 12-bit gespeichert, was einem Kontrastvermögen von 2^12 Grauwerten entspricht.  
 
 Image-Slider:  
-<iframe src="https://h5p.org/h5p/embed/248696" width="1090" height="963" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://h5p.org/h5p/embed/248696" width="1090" height="963" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>  
 
 
-Die Grauwertbilder können nach Bedarf kombiniert werden (standardmäßig drei, RGB):  
+Die Grauwertbilder können nach Bedarf kombiniert werden (standardmäßig drei, RGB). Dadurch können je nach Intention und Bedarf unterschiedliche Bildbereiche angesprochen werden.    
 <iframe src="https://h5p.org/h5p/embed/248682" width="1090" height="935" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
