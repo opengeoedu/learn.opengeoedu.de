@@ -1,10 +1,9 @@
 # Copernicus
+Welche Daten? Und wie bekomme ich sie?
 
-## Welche Daten? Und wie bekomme ich sie?
+## Das Copernicus-Programm 
 
-### Das Copernicus-Programm 
-
-![CopernicusLogo](/pages/09.Geovisualisierung/Copernicus2.png)
+![CopernicusLogo](/pages/09.Geovisualisierung/Copernicus2.png)  
 
 Das Copernicus-Vorgängerprogramm war das Global Monitoring for Environment and Security (GMES, deutsch: Globale Umwelt- und Sicherheitsüberwachung) welches 1998 von der EU und der ESA ins Leben gerufen wurde. Im Jahr 2012 wurde es dann in Copernicus umbenannt. 
 
@@ -31,7 +30,7 @@ Für die *Weltraumkomponente* bilden die Satellitensysteme natürlich die grundl
 
 <br><br>
 
-### Die ersten drei *„Wächter“*:
+## Die ersten drei *„Wächter“*:
 
 __Sentinel-1__
 
@@ -57,7 +56,7 @@ __Sentinel-3__
 
 <br><br>
 
-### Datenzugang
+## Datenzugang
 
 Für den potentiellen Nutzer ist es zunächst wichtig zu wissen, wie man an welche Sentinel-Daten kommt. Dabei gibt es mehrere Möglichkeiten und Wege. Im Folgenden sollen die beiden gängigsten Plattformen beschrieben werden.
 Der erste Datenzugang erfolgt über den Sci-Hub der Europäischen Raumfahrtbehörde (European Space Agency, ESA), der zu erreichen ist unter: https://scihub.copernicus.eu/ bzw. https://scihub.copernicus.eu/dhus/#/home. Dabei handelt es sich um einen Open Access Hub, wo man nach einer Registrierung kostenlosen Zugang zu Sentinel-1 und Sentinel-2 erhält. Es gibt verschieden Suchoptionen: AOI, Sensor, Produkt, Datum und Wolkenbedeckung. 
@@ -69,14 +68,14 @@ Der zweite Datenzugang ist CODE-DE (Copernicus Data and Exploitation platform), 
 > __Aufgabe:__ Sentinel-2 Datenrecherche. 
 Recherchieren Sie nach wolkenfreien (Wolkenbedeckung bis max. 10 %) Sentinel-2 Aufnahmen der Stadt Frankfurt am Main, die im zweiten Halbjahr 2017 erfasst wurden. 
 
-> Wie viele Datensätze finden Sie …
->a)	… im Copernicus Hub?
->b)	… in Code-DE? 
+> Wie viele Datensätze finden Sie …  
+>a)	… im Copernicus Hub?  
+>b)	… in Code-DE?   
 >MC-Frage: Warum finden Sie unterschiedlich viele Datensätze? (Hinweis: Recherchieren Sie nach Namenskonventionen der Sentinel-2 Daten)
 
 <br><br>
 
-### Copernicus Land Monitoring Service
+## Copernicus Land Monitoring Service
 
 Datenzugang des Landüberwachungs-Services: Der Copernicus Land Monitoring Service ist erreichbar unter https://land.copernicus.eu. Die Daten stehen nach kostenloser Registrierung (EIONET Account) zur Verfügung.
 Dort werden Globale, europaweite, lokale und in-situ Daten angeboten. Vorrangig handelt es sich dabei um biophysikalische Parameter und LULC-Daten (Land Use/Land Cover, deutsch: Landnutzung/Landbedeckung). 
@@ -89,4 +88,4 @@ Die lokale Komponente zielt darauf ab, spezifische und detailliertere Informatio
  
 Durch einen regelmäßigen Update-Zyklus wir ein nachhaltiges Monitoring gewährleistet. Neben den Sentinels als Informationsquelle werden die Daten aus den beitragenden Missionen (Proba-V, SPOT, RapidEye, …) abgeleitet.
 
-__Aufgabe__: Recherche von HRL: Forest und Metadaten. (Update-Zyklus, Datenquellen, Bestimmungsmethode). Vergleich mit anderen Daten.
+> __Aufgabe__: Recherche von HRL: Forest und Metadaten. (Update-Zyklus, Datenquellen, Bestimmungsmethode). Vergleich mit anderen Daten.
