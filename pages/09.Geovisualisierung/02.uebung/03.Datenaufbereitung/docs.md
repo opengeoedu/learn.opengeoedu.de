@@ -7,7 +7,7 @@ Da die Kanäle von Sentinel-2 in unterschiedlichen Auflösungen vorliegen (10 m,
 ## Subset
 Um die Rechenzeit der weiteren Schritte nicht unnötig in die Höhe zu treiben, können die Datensätze bereits grob auf das Untersuchungsgebiet zurechtgeschnitten werden. Erstellen Sie dazu eine beliebige RGB-Ansicht (Rechtsklick, Open RGB Image Window) des ersten resampled Sentinel-2 Datensatzes und zoomen Sie auf die Waldfläche des westlichen Taunus. Zur Orientierung sollten Sie am linken Bildschirmrand den Rhein und am rechten Rand die in Nord-Süd Richtung verlaufende Autobahn A3 erkennen können (siehe Abbildung). Wählen Sie Raster --> Subset, entfernen Sie im Reiter Band Subset die Häkchen bei allen Kanälen, die keine Reflectance in band x beinhalten und bestätigen Sie. Wiederholen Sie den Vorgang für die andere resampled Sentinel 2 Szene. 
 
-![AOI](/pages/Geovisualisierung/AOI_SNAP_Subset.png)
+![AOI](/pages/09.Geovisualisierung/AOI_SNAP_Subset.png)
 
 *Räumliches Subset des Untersuchungsgebiets im Taunus. Zu erkennen ist der Lauf des Rheins zwischen Mainz und Wiesbaden.*
 
