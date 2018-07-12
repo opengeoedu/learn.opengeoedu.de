@@ -38,6 +38,6 @@ Nutzen Sie die Navigationsmöglichkeiten in Google Earth (Ansicht neigen, zoomen
 
  :exclamation: __ENDE.__  :exclamation:
  
-  :thumbsup:  
+  :simple_smile: :thumbsup:  
   
   
