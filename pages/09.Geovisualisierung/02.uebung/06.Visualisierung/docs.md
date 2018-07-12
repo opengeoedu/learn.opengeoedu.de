@@ -37,7 +37,5 @@ Nutzen Sie die Navigationsmöglichkeiten in Google Earth (Ansicht neigen, zoomen
 *Dreidimensionale Ansicht des Untersuchungsgebiets in Google Earth.*
 
 > __ENDE.__  
-:slightly_smiling_face: 
-:thumbsup:  
-  
+   
   
