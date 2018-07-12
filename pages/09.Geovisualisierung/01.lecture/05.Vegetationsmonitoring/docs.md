@@ -22,6 +22,6 @@ NDVI=  (NIR-rot)/(NIR+rot) =(ρ_800-ρ_680)/(ρ_800+ρ_680 )  ,  [-1;1]
 - BILD
 
 
-__Aufgabe:__ Recherche von Indizes auf der ![Index Database](https://www.indexdatabase.de/) für Sentinel-2 und weitere Sensoren.
-Beispiele und Gegenüberstellung
-ggf. Indizes auf dem ![Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/?source=S2&lat=50.03619419013074&lng=8.040962219238281&zoom=13&preset=1_NATURAL_COL0R&layers=B02,B12,B08&maxcc=20&gain=1.0&gamma=1.0&time=2015-01-01|2018-05-17&atmFilter=&showDates=false) vergleichen
+> __Aufgabe:__ Recherche von Indizes auf der ![Index Database](https://www.indexdatabase.de/) für Sentinel-2 und weitere Sensoren.
+Beispiele und Gegenüberstellung!
+Vergleichen Sie Indizes auf dem ![Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/?source=S2&lat=50.03619419013074&lng=8.040962219238281&zoom=13&preset=1_NATURAL_COL0R&layers=B02,B12,B08&maxcc=20&gain=1.0&gamma=1.0&time=2015-01-01|2018-05-17&atmFilter=&showDates=false) vergleichen.
