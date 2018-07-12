@@ -5,6 +5,7 @@
 Melden Sie sich unter https://scihub.copernicus.eu/ im Copernicus Open Access Hub an (Registrierung erforderlich) und navigieren Sie per Zoom und Panning am Mausrad zum Taunus. Ziehen Sie mit der linken Maustaste ein Rechteck um Wiesbaden. Klicken Sie in der Suchleiste auf das Menüsymbol, wodurch sich die Filtermaske öffnet.
 
 ![AOI_SciHub](/pages/09.Geovisualisierung/AOI_SciHub.png)
+
 *Definition des Untersuchungsgebiets rund um Wiesbaden im Sentinel Sci-Hub.*
 
 Dort setzen Sie ein Häkchen vor Mission: Sentinel-2 und wählen unter Sensing Period den 19.06.2017 aus (sowohl unter From als auch unter to). Klicken Sie anschließend auf das Lupensymbol. Laden Sie die Datei, deren Namen mit S2A-MSIL1C beginnt, herunter und entpacken Sie sie. Wiederholen Sie den Vorgang für den 23.08.2017. 
