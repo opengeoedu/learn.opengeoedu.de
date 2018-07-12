@@ -18,6 +18,7 @@ besteht. Erstellen Sie anschließend ein Band *dNDVI* mit der Formel
 
 und untersuchen Sie das Ergebnis. Rechtsklicken Sie auf den Datensatz und erstellen Sie über *Open RGB Image Window* eine Falschfarbansicht aus den Kanälen Red: B3_20170619, Green: B4_20170823, Blue: dNDVI. 
 > In welcher Farbe sind Schäden am Wald zu erkennen?
+
 <br><br> 
 ## Schwellenwertberechnung und Export
 
