@@ -13,10 +13,13 @@ Es befinden sich noch einige Ungenauigkeiten und sehr kleine Einzelflächen im D
 Öffnen Sie über *Vektorlayer hinzufügen* die heruntergeladene Datei *CLC10.shp*. Dieser Datensatz enthält Informationen über die Landbedeckung/Landnutzung und wird alle sechs Jahre mit Hilfe von Fernerkundungsdaten aktualisiert. Die Spalte *clc* in der Attributtabelle enthält die Landbedeckungs-/Landnutzungsinformation in Form eines eindeutigen Schlüssels. Wählen Sie *Vektor* --> *Geoverarbeitungswerkzeuge* --> *Zuschneiden*. Wählen Sie *CLC10* als *Eingabelayer* und die Sturmschäden als *Layer zuschneiden* und bestätigen Sie. Der neue Datensatz enthält nun die Landbedeckung/Landnutzung innerhalb der geschädigten Flächen.
 
 ## Quantifizierung
-Zunächst werden alle Objekte, die der gleichen Klasse zugeordnet sind, zusammengefasst. Wählen Sie *Vektor* --> *Geoverarbeitungswerkzeuge* --> *Dissolve*. Wählen Sie den zugeschnittenen Layer als *Eingabelayer* und entfernen Sie das Häkchen bei *Alle auflösen*. Verschieben Sie das Attribut *clc* in die *Selected*-Spalte und bestätigen Sie. Öffnen Sie die Attributtabelle des neuen Datensatzes. Die CLC-Klassen für Wald sind 311 (Laubwald), 312 (Nadelwald) und 313 (Mischwald). Möglicherweise befinden sich noch weitere Klassen im Datensatz. Woran könnte das liegen? 
-(Antwort: Waldmaske aus OSM nicht exakt bzw. unterschiedlich zu CLC. Möglicherweise auch andere Semantik von „Wald“). 
+Zunächst werden alle Objekte, die der gleichen Klasse zugeordnet sind, zusammengefasst. Wählen Sie *Vektor* --> *Geoverarbeitungswerkzeuge* --> *Dissolve*. Wählen Sie den zugeschnittenen Layer als *Eingabelayer* und entfernen Sie das Häkchen bei *Alle auflösen*. Verschieben Sie das Attribut *clc* in die *Selected*-Spalte und bestätigen Sie. Öffnen Sie die Attributtabelle des neuen Datensatzes. Die CLC-Klassen für Wald sind 311 (Laubwald), 312 (Nadelwald) und 313 (Mischwald). Möglicherweise befinden sich noch weitere Klassen im Datensatz. 
+> Woran könnte das liegen? 
+
 Löschen Sie alle Objekte, die nicht zu einer dieser Klassen gehören, aus dem Datensatz. 
-Um die Ergebnisflächen zu quantifizieren, muss erneut eine Flächen-Spalte hinzugefügt werden. Dieser Schritt ist erneut nötig, da durch das Zusammenfassen der Objekte neue Polygone erzeugt wurden, das Feld *„area_ha“* jedoch ohne Anpassung aus dem vorherigen Datensatz übernommen wurde. Gehen Sie __analog zu 4.2__ vor und berechnen Sie die Flächen der Ergebnispolygone. 
+
+Um die Ergebnisflächen zu quantifizieren, muss erneut eine Flächen-Spalte hinzugefügt werden. Dieser Schritt ist erneut nötig, da durch das Zusammenfassen der Objekte neue Polygone erzeugt wurden, das Feld *„area_ha“* jedoch ohne Anpassung aus dem vorherigen Datensatz übernommen wurde. Gehen Sie vor und berechnen Sie die Flächen der Ergebnispolygone. 
 > Wie groß sind die beschädigten Flächen pro Waldtyp? 
 
+##
 
