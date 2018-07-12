@@ -26,11 +26,11 @@ Im Rahmen von Copernicus gibt es im Grunde vier Projektkomponenten: die Basis bi
 
 ![CopernicusKomponenten](/pages/09.Geovisualisierung/Copernicus_Komponenten.png)
 
-Für die *Weltraumkomponente* bilden die Satellitensysteme natürlich die grundlegende Basis für die Erdbeobachtung und Umweltüberwachung. Durch dauerhafte Datenlieferungen und neue Standards soll die Position Europas in der Satellitenfernerkundung gefestigt werden (Konkurrenz: USA). Der geplante Bau von sieben Satellitensystemen/-instrumenten wurde begonnen und wird in den nächsten Jahren weitergeführt. Das bedeutet auch den Aus- und Aufbau von Bodensegmenten und Datenplattformen. NNeben den Sentinels gibt es zudem ein Abkommen mit ca. 30 beitragenden Missionen, zu denen bekannte zählen wie etwa RapidEye, Landsat, SPOT, Pleiades, WorldView, GeoEye, ALOS/PALSAR, TerraSAR-X, TanDEM-X.
+Innerhalb der *Weltraumkomponente* bilden die Satellitensysteme natürlich die grundlegende Basis für die Erdbeobachtung und Umweltüberwachung. Durch dauerhafte Datenlieferungen und neue Standards soll die Position Europas in der internationalen Satellitenfernerkundung gefestigt werden. Der geplante Bau von sieben Satellitensystemen/-instrumenten wird in den nächsten Jahren weitergeführt. Das bedeutet auch den Aus- und Aufbau von Bodensegmenten und Datenplattformen. NNeben den Sentinels gibt es zudem ein Abkommen mit ca. 30 beitragenden Missionen, zu denen bekannte zählen wie etwa RapidEye, Landsat, SPOT, Pleiades, WorldView, GeoEye, ALOS/PALSAR, TerraSAR-X, TanDEM-X.
 
 <br><br>
 
-## Die ersten drei *„Wächter“*:
+## Die ersten drei „Wächter“
 
 __Sentinel-1__
 
@@ -69,9 +69,9 @@ Der zweite Datenzugang ist CODE-DE (Copernicus Data and Exploitation platform), 
 Recherchieren Sie nach wolkenfreien (Wolkenbedeckung bis max. 10 %) Sentinel-2 Aufnahmen der Stadt Frankfurt am Main, die im zweiten Halbjahr 2017 erfasst wurden. 
 
 > Wie viele Datensätze finden Sie …  
->a)	… im Copernicus Hub?  
->b)	… in Code-DE?   
->MC-Frage: Warum finden Sie unterschiedlich viele Datensätze? (Hinweis: Recherchieren Sie nach Namenskonventionen der Sentinel-2 Daten)
+ a)	… im Copernicus Hub?  
+ b)	… in Code-DE?   
+ *MC-Frage: Warum finden Sie unterschiedlich viele Datensätze? (Hinweis: Recherchieren Sie nach Namenskonventionen der Sentinel-2 Daten)*
 
 <br><br>
 
@@ -80,12 +80,12 @@ Recherchieren Sie nach wolkenfreien (Wolkenbedeckung bis max. 10 %) Sentinel-2 A
 Datenzugang des Landüberwachungs-Services: Der Copernicus Land Monitoring Service ist erreichbar unter https://land.copernicus.eu. Die Daten stehen nach kostenloser Registrierung (EIONET Account) zur Verfügung.
 Dort werden Globale, europaweite, lokale und in-situ Daten angeboten. Vorrangig handelt es sich dabei um biophysikalische Parameter und LULC-Daten (Land Use/Land Cover, deutsch: Landnutzung/Landbedeckung). 
 
-Die globale Komponente liefert Daten über eine breite Palette von biophysikalischen Variablen auf globaler Ebene, die den Zustand der Vegetation (leaf area index, fraction of green vegetation cover, vegetation condition index), den Energiehaushalt (Albedo, Landoberflächentemperatur, top of canopy reflectance) und den Wasserkreislauf (soil water index, water bodies) beschreiben.  https://land.copernicus.eu/global/
+Die globale Komponente liefert Daten über eine breite Palette von biophysikalischen Variablen auf globaler Ebene, die den Zustand der Vegetation (leaf area index, fraction of green vegetation cover, vegetation condition index), den Energiehaushalt (Albedo, Landoberflächentemperatur, top of canopy reflectance) und den Wasserkreislauf (soil water index, water bodies) beschreiben. ![Global](https://land.copernicus.eu/global/)
 
-Die gesamteuropäische Komponente liefert hochauflösende Informationsprodukte, die die Landbedeckung und Landnutzung sowie deren Veränderungen beschreiben. Die CORINE Land Cover (CLC) bietet eine europaweite Kartierung der Landnutzung und stellt mittlerweile eine einzigartige Zeitreihe zur Beobachtung der Veränderungen in unseren europäischen Landschaften seit 1990 dar. Seit 2006 wird CLC durch drei jährliche High Resolution Layer (HRL) über die Bodenbedeckungseigenschaften der wichtigsten Bodenbedeckungstypen ergänzt: künstliche Flächen, Waldflächen, landwirtschaftliche Flächen, Feuchtgebiete und kleine Wasserkörper. Die Paneuropäischen HRL liefern somit Informationen über spezifische Landbedeckungsmerkmale und ergänzen die CLC-Landbedeckungs- bzw. Landnutzungskartierung.  https://land.copernicus.eu/pan-european/high-resolution-layers
+Die gesamteuropäische Komponente liefert hochauflösende Informationsprodukte, die die Landbedeckung und Landnutzung sowie deren Veränderungen beschreiben. Die CORINE Land Cover (CLC) bietet eine europaweite Kartierung der Landnutzung und stellt mittlerweile eine einzigartige Zeitreihe zur Beobachtung der Veränderungen in unseren europäischen Landschaften seit 1990 dar. Seit 2006 wird CLC durch drei jährliche High Resolution Layer (HRL) über die Bodenbedeckungseigenschaften der wichtigsten Bodenbedeckungstypen ergänzt: künstliche Flächen, Waldflächen, landwirtschaftliche Flächen, Feuchtgebiete und kleine Wasserkörper. Die Paneuropäischen HRL liefern somit Informationen über spezifische Landbedeckungsmerkmale und ergänzen die CLC-Landbedeckungs- bzw. Landnutzungskartierung.  ![HRL](https://land.copernicus.eu/pan-european/high-resolution-layers)
 
-Die lokale Komponente zielt darauf ab, spezifische und detailliertere Informationen bereitzustellen, welche die durch die gesamteuropäische Komponente gewonnenen Informationen ergänzen. Sie konzentriert sich auf "Hotspots", die für spezifische Umweltprobleme anfällig sind, und liefert detaillierte Informationen über die Landbedeckung und Landnutzung in den wichtigsten europäischen Städten. Neben einer Aktualisierung dieses sogenannten Urban Atlas wird sich die nächste lokale Komponente mit der Biodiversität in Hotspot-Gebieten rund um Flüsse (Ufergebiete) befassen.  https://land.copernicus.eu/local
+Die lokale Komponente zielt darauf ab, spezifische und detailliertere Informationen bereitzustellen, welche die durch die gesamteuropäische Komponente gewonnenen Informationen ergänzen. Sie konzentriert sich auf "Hotspots", die für spezifische Umweltprobleme anfällig sind, und liefert detaillierte Informationen über die Landbedeckung und Landnutzung in den wichtigsten europäischen Städten. Neben einer Aktualisierung dieses sogenannten Urban Atlas wird sich die nächste lokale Komponente mit der Biodiversität in Hotspot-Gebieten rund um Flüsse (Ufergebiete) befassen. ![Lokal](https://land.copernicus.eu/local)
  
 Durch einen regelmäßigen Update-Zyklus wir ein nachhaltiges Monitoring gewährleistet. Neben den Sentinels als Informationsquelle werden die Daten aus den beitragenden Missionen (Proba-V, SPOT, RapidEye, …) abgeleitet.
 
-> __Aufgabe__: Recherche von HRL: Forest und Metadaten. (Update-Zyklus, Datenquellen, Bestimmungsmethode). Vergleich mit anderen Daten.
+> __Aufgabe__: Recherche von HRL: Forest und Metadaten. Recherchieren Sie den Update-Zyklus, Datenquellen und Bestimmungsmethoden. Vergleichen Sie sie mit anderen Daten.
