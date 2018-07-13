@@ -2,7 +2,7 @@
 
 Jährlich kommt es zu einer Zerstörung größerer Waldflächen in Deutschland durch Sturmereignisse. Die wichtigsten Stürme bzw. Orkane der letzten Jahre waren Vivian & Wiebke (1990), Lothar (1999), Kyrill (2007), Niklas (2015), Xavier (2017). Anfang 2018 wütete dann das Orkantief Friederike in Teilen Europas und verursachte Schäden in Milliardenhöhe. 
 
-Die Bezirgsregierung Arnsberg (NRW) bietet ein Jahrzehnt nach Kyrill eindrucksvolle Impressionen, und gibt Einblicke darauf, was so ein Sturmereignis wirklich bedeutet: ![Kyrill - 10 Jahre danach](https://www.bezreg-arnsberg.nrw.de/kyrill/)
+! Die Bezirgsregierung Arnsberg (NRW) bietet ein Jahrzehnt nach Kyrill eindrucksvolle Impressionen, und gibt Einblicke darauf, was so ein Sturmereignis wirklich bedeutet: ![Kyrill - 10 Jahre danach](https://www.bezreg-arnsberg.nrw.de/kyrill/)
 
 Reine Fichtenbestände (*Picea abies*) sind besonders durch ihre flachen Tellerwurzeln, die bei Stürmen einen geringeren Halt geben, und ihre geringere Bruch- und Wurffestigkeit gegenüber Laubbäumen betroffen. Zudem wurden sie in der Vergangenheit oft auf für sie ungünstigen Standorten angepflanzt, was die Anfälligkeit erhöht. Darüber hinaus bieten immergrüne Nadelbäume wie Fichten und Tannen (*Abies spec.*) vor allem im Winter eine größere Angriffsfläche für Wind als Laubbaumarten.
 
@@ -24,4 +24,4 @@ Informationen, etwa dazu wie man Sturmholz richtig aufarbeitet finden sich u.a. 
 Eine generelle Herausforderung ist es, nach einem Sturm die Situation richtig einzuschätzen und betroffene Flächen aufzufinden. Die folgende Abbildung zeigt einen beschädigten Waldbestand einmal wie er sich vor Ort darstellt (links) und einmal wie er und die Umgebung in einem Satellitenbild aussieht (rechts). Die Zuordnung und Verortung der Flächen ist ein zentraler Punkt von Kartierung und Monitoring.
 
 Windwurfflächen sind oft großflächig bzw. liegen räumlich weit verstreut vor. Dies macht die Fernerkundung zu einem geeigneten Instrument, um einen schnellen Überblick über betroffene Flächen zu erhalten. Ferner lassen sich mit Hilfe von luftgetragenen Sensoren oder Satelliten unterschiedlichste Vegetationsparameter abschätzen. 
-Da solche Daten nicht immer und für jeden verfügbar sind, sind frei verfügbare Fernerkundungsdaten mit großer räumlicher Abdeckung zweckmäßig und erforderlich. So stehen seit Juli 2015 etwa __Sentinel-2__ Daten kostenfrei als Open Data zur Verfügung
+Da solche Daten nicht immer und für jeden zugänglich sind, sind frei verfügbare Fernerkundungsdaten mit großer räumlicher Abdeckung zweckmäßig und erforderlich. So stehen seit Juli 2015 __Sentinel-2__-Daten kostenfrei als Open Data zur Verfügung
