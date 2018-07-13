@@ -1,6 +1,6 @@
 # Windwurf...?!
 
-Jährlich kommt es zu einer Zerstörung größerer Waldflächen in Deutschland durch Sturmereignisse. Die wichtigsten Stürme bzw. Orkane der letzten Jahre waren Vivian & Wiebke (1990), Lothar (1999), Kyrill (2007), Niklas (2015), Xavier (2017). Anfang 2018 wütete dann das Orkantief Friederike in Teilen Europas und verursachte Schäden in Milliardenhöhe. 
+Jeder, der einmal einen richtigen Sturm oder Orkan miterlebt hat, weiß Jährlich kommt es zu einer Zerstörung größerer Waldflächen in Deutschland durch Sturmereignisse. Die wichtigsten Stürme bzw. Orkane der letzten Jahre waren Vivian & Wiebke (1990), Lothar (1999), Kyrill (2007), Niklas (2015), Xavier (2017). Anfang 2018 wütete dann das Orkantief Friederike in Teilen Europas und verursachte Schäden in Milliardenhöhe. 
 
 ! Die Bezirgsregierung Arnsberg (NRW) bietet ein Jahrzehnt nach Kyrill eindrucksvolle Impressionen, und gibt Einblicke darauf, was so ein Sturmereignis wirklich bedeutet: ![Kyrill - 10 Jahre danach](https://www.bezreg-arnsberg.nrw.de/kyrill/)
 
