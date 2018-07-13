@@ -6,5 +6,5 @@ taxonomy:
         - docs
 ---
 [center]
-[Hier geht es weiter zum Test (ILIAS)<br> ![](/images/test.png)](https://www.opengeoedu.de/test-gis)
+[Hier geht es bald weiter zum Test (ILIAS)<br> ![](/images/test.png)](https://www.opengeoedu.de/test-gis)
 [/center]

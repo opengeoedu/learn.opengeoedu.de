@@ -9,13 +9,13 @@ Unterschiedliche Aspekte wirken sich bisher hinderlich auf den Zuwachs an Elektr
 !!!! Schauen Sie sich hierzu einmal folgendes Video an. <br> https://www.ardmediathek.de/tv/ARD-Buffet/Elektromobilität-E-Autos-bald-im-Aufwi/Das-Erste/Video?bcastId=428628&documentId=50401350 <br>
 !! Sollte das Video nicht mehr verfügbar sein, suchen Sie nach Alternativen.
 
-[![](ard_emob.png?classes=caption "Grundlegende Aspekte der Elektromobilität (Quelle: ARD-Mediathek)")](https://www.ardmediathek.de/tv/ARD-Buffet/Elektromobilität-E-Autos-bald-im-Aufwi/Das-Erste/Video?bcastId=428628&documentId=50401350)
+[![](ard_emob.png?lightbox&resize=300,300&classes=caption "Grundlegende Aspekte der Elektromobilität (Quelle: ARD-Mediathek)")](https://www.ardmediathek.de/tv/ARD-Buffet/Elektromobilität-E-Autos-bald-im-Aufwi/Das-Erste/Video?bcastId=428628&documentId=50401350)
 
 - Anschaffungskosten der Elektrofahrzeuge: „Gegenwärtig liegen die Anschaffungskosten eines E-Fahrzeugs typischerweise um rund 60 % (bzw. 10.000 Euro) über denen eines konventionellen Fahrzeugs.“ (Döring/Aigner-Walder, 2017)
 - Ausbau des Ladestationsnetzes: Bis zum Jahr 2020 hat die NPE einen Bedarf von 70.000 öffentlichen Ladepunkten und 7.100 Schnellladesäulen ermittelt, die unter anderem entlang von Autobahnen lange Fahrten sichern (NPE 2011).
 
 
-![](ccs.png?classes=caption "Ladestationen (Quelle: [https://www.electrive.net/wp-content/uploads/2017/10/porsche-berlin-ladestation-high-power-charging-ccs-05.png](https://www.electrive.net/wp-content/uploads/2017/10/porsche-berlin-ladestation-high-power-charging-ccs-05.png)")
+![](ccs.png?lightbox&resize=300,300&classes=caption "Ladestationen (Quelle: [https://www.electrive.net/wp-content/uploads/2017/10/porsche-berlin-ladestation-high-power-charging-ccs-05.png](https://www.electrive.net/wp-content/uploads/2017/10/porsche-berlin-ladestation-high-power-charging-ccs-05.png)")
 
 - Reichweite der E-Fahrzeuge: „Problematisch ist hierbei zum einen die räumliche Reichweite von reinen E-Fahrzeugen (BEV, FCEV), die bei mittlerer Geschwindigkeit gegenwärtig 150 bis 200 Kilometer beträgt, bevor die Batterie erneut aufgeladen werden muss. Im Vergleich zu einem treibstoffbetriebenen Fahrzeug (aktuelle Reichweite: 600 bis 1.000 Kilometer) weisen Elektromobile damit einen erheblichen Wettbewerbsnachteil auf.“ (Döring/Aigner-Walder, 2017)
 - Ladezeiten: „Für das Wiederaufladen der Batterie an der Haushaltssteckdose benötigen E-Fahrzeuge 8 bis 12 Stunden. Selbst im Fall einer Schnellaufladung (fast charging) beansprucht der Ladevorgang üblicherweise rund 30 Minuten.“ (Döring/Aigner-Walder 2012: 114)
