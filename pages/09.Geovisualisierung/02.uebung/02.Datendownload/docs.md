@@ -1,4 +1,9 @@
-# Datendownload
+---
+title: 'Download der Daten'
+taxonomy:
+    category:
+        - docs
+---
 
 ## Sentinel-2
 
