@@ -1,6 +1,11 @@
-# Visualisierung
+---
+title: 'Visualisierung'
+taxonomy:
+    category:
+        - docs
+---
 
-Im letzten Schritt werden die Analyseergebnisse visualisiert. Um die Topographie des Taunus in der Visualisierung sichtbar zu machen, kann eine dreidimensionale Darstellung gewählt werden. Die folgenden Schritte dokumentieren die Erstellung einer Geländeansicht in QGIS und Google Earth (Pro). Für den erfolgreichen Abschluss dieses Fallbeispiels ist nur die Bearbeitung einer der beiden Möglichkeiten notwendig.
+> Im letzten Schritt werden die Analyseergebnisse visualisiert. Um die Topographie des Taunus in der Visualisierung sichtbar zu machen, kann eine dreidimensionale Darstellung gewählt werden. Die folgenden Schritte dokumentieren die Erstellung einer Geländeansicht in QGIS und Google Earth (Pro). Für den erfolgreichen Abschluss dieses Fallbeispiels ist nur die Bearbeitung einer der beiden Möglichkeiten notwendig.
 
 ## Geländeansicht in QGIS
 ### Darstellung der Sturmschäden
@@ -19,7 +24,6 @@ Aktivieren Sie unter *Polygon* das Sturmschäden-Polygon aus und wählen Sie unt
 *Dreidimensionale Ansicht des Untersuchungsgebiets östlich von Mainz zur Verdeutlichung des Reliefs und der Lage der Windwurfflächen, markiert in Rot. Im Vordergrund ist der Flusslauf des Rheins zu erkennen.*
 
 In der 3D-Ansicht können Sie mit Hilfe beider Maustasten sowie des Mausrades navigieren. Mit Shift + S können Sie die gegenwärtige Ansicht als Bild speichern. Das komplette Ergebnis lässt sich versenden, indem Sie den gesamten Ergebnisordner einem .zip-Archiv hinzufügen und verschicken. Nach dem Entpacken lässt sich die 3D-Ansicht per Doppelklick auf die .html-Datei öffnen.
-
 <br><br>
 
 ## Geländeansicht in Google Earth
@@ -27,7 +31,7 @@ In der 3D-Ansicht können Sie mit Hilfe beider Maustasten sowie des Mausrades na
 Rechtsklicken Sie auf den Sturmschäden-Layer und wählen Sie *Speichern als…*. Im folgenden Dialog wählen Sie unter *Format Keyhole Markup Language [KML]*. Vergeben Sie einen Ausgabenamen und –pfad und bestätigen Sie. 
 
 ### Google Earth Import und Darstellung
-Starten Sie Google Earth und Wählen Sie *Datei* --> *Öffnen…*. Navigieren Sie zu der soeben erstellten kml-Datei und bestätigen Sie. Die Ansicht sollte automatisch in das Untersuchungsgebiet zoomen. Markieren Sie den Sturmschäden-Layer im Menü *Orte* und wählen Sie *Bearbeiten* --> *Eigenschaften*. Im Reiter *Stil, Farbe* können Sie nach Klick auf *Gleichen Stil zuweisen* die Farbgebung des Layers anpassen (z.B. rote Füllung, transparenter Rand) (Abb.4). Unter *Tools* --> *Optionen* können Sie im Reiter *3D-Ansicht* zusätzlich einen Faktor zur Geländeüberhöhung einstellen (Parameter *Höhenverstärkung*), um das lokale Relief zu betonen.
+Starten Sie Google Earth und Wählen Sie *Datei* --> *Öffnen…*. Navigieren Sie zu der soeben erstellten kml-Datei und bestätigen Sie. Die Ansicht sollte automatisch in das Untersuchungsgebiet zoomen. Markieren Sie den Sturmschäden-Layer im Menü *Orte* und wählen Sie *Bearbeiten* --> *Eigenschaften*. Im Reiter *Stil, Farbe* können Sie nach Klick auf *Gleichen Stil zuweisen* die Farbgebung des Layers anpassen (z.B. rote Füllung, transparenter Rand). Unter *Tools* --> *Optionen* können Sie im Reiter *3D-Ansicht* zusätzlich einen Faktor zur Geländeüberhöhung einstellen (Parameter *Höhenverstärkung*), um das lokale Relief zu betonen.
 
 ### Erstellung der Geländeansicht
 Nutzen Sie die Navigationsmöglichkeiten in Google Earth (Ansicht neigen, zoomen etc. per Maustasten/-rad) um einen Ausschnitt zu erhalten, den Sie exportieren möchten. Klicken Sie in der oberen Menüleiste auf das Symbol *Bild speichern*. Einige Kartenelemente werden Ihnen angezeigt. Im Menü Ebenen links unten können Sie Informationen wie Ortsnamen, Straßen, etc. ein- oder ausblenden. Sie haben zudem die Möglichkeit am oberen Bildrand über Kartenoptionen Kartenelemente hinzuzufügen oder zu entfernen. Passen Sie auch die Auflösung des Exportbildes an. Bearbeiten Sie die Kartenelemente nach Ihren Vorstellungen und klicken Sie abschließend auf *Bild speichern*. Geben Sie einen Ausgabenamen und –pfad an und teilen Sie Ihr Ergebnis mit Ihren Kommilitonen/-innen.
