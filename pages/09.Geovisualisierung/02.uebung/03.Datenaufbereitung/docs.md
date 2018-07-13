@@ -1,4 +1,9 @@
-# Aufbereitung der Daten
+---
+title: 'Aufbereitung der Daten'
+taxonomy:
+    category:
+        - docs
+---
 ## Resampling
 Starten Sie SNAP und öffnen Sie über *File* --> *Open Product* die .xml-Datei MTD_MSIL1C, die sich innerhalb des Ordners der ersten heruntergeladenen Sentinel-2 Datei befindet. Rechtsklicken Sie auf den Dateinamen im Product Explorer und wählen Sie *Open RGB Image Window*. Belassen Sie die Default-Einstellungen, klicken Sie auf OK und untersuchen Sie das erzeugte Echtfarbbild. Per Klick auf das Handsymbol in der oberen Menüleiste aktivieren Sie das Panning und können sich anschließend mit der Maus im Bild bewegen. Im *Colour Manipulation* Feld unten links können Sie die Darstellung der drei Kanäle anpassen, indem Sie die Position der Schieberegler verändern. 
 
