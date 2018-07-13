@@ -1,4 +1,9 @@
-# Literatur
+---
+title: 'Literatur'
+taxonomy:
+    category:
+        - docs
+---
 
 Aberle, H., 2017. Hyperspectral Remote Sensing and Field Measurements for Forest Characteristics - A Case Study in the Hainich National Park, Central Germany. Georg-August-Universität Göttingen. http://hdl.handle.net/11858/00-1735-0000-0023-3DD5-8
 
