@@ -10,15 +10,14 @@ In diesem Fallbeispiel wird ein Sturmereignis vom August 2017 untersucht, bei de
 
 ![Sentinel-2](Sentinel-2.jpg)
 
-*Künstlerische Darstellung eines Sentinel-2 Satelliten (ESA).*
-
+<br><br>
 
 Diese Lerneinheit beinhaltet folgende __Lernziele__:
 
 -	Recherche und Download
   - Satellitendaten des Copernicus Programms, Copernicus Landdienst, BKG Open Data
 -	Verarbeitung von Sentinel-2 Daten in der freien Software SNAP & QGIS
-  -	Maskierung von Fernerkundungsdaten anhand von Landbedeckungsdaten
+  -	Maskierung von Fernerkundungsdaten anhand von Landbedeckungsdaten 
   -	Berechnung spektraler Indizes – Fernerkundung zum Vegetationsmonitoring
   -	Schwellenwertbasierte Klassifikation
   -	Quantifizierung von Schadensflächen
