@@ -1,4 +1,9 @@
-# Nachbereitung
+---
+title: 'Nachbereitung'
+taxonomy:
+    category:
+        - docs
+---
 ### Öffnen des Ergebnisrasters
 
 Schließen Sie alle geöffneten Layer in QGIS. Öffnen Sie das exportierte GeoTIFF in QGIS über Rasterlayer hinzufügen. Eventuell müssen Sie über Rechtsklick --> *Eigenschaften* --> *Stil* die Anzeige des Layers ändern, damit er korrekt dargestellt wird: Wählen Sie unter *Darstellungsart* *Einkanalpseudofarbe* und fügen Sie unten mit Hilfe des + Symbols die Werte 0 und 1 hinzu, denen Sie Farben zuweisen können. Klicken Sie dann auf *Anwenden* und *Ok*. Falls die Darstellung verzerrt ist, passen Sie das Darstellungskoordinatensystem an: Klicken Sie in der unteren Menüleiste rechts auf *EPSG: …* (EPSG=European Petroleum Survey Group Geodesy), aktivieren Sie das Häkchen bei *Spontanreaktion aktivieren* und suchen Sie nach *25832*. Wählen Sie das entsprechende Koordinatensystem aus und klicken Sie auf *Ok*.
