@@ -1,5 +1,9 @@
-# Datenanalyse
-
+---
+title: 'Analyse der Daten'
+taxonomy:
+    category:
+        - docs
+---
 ## NDVI und dNDVI
 
 Um den Zustand von Vegetation ermitteln zu können, kommen verschiedene spektrale Indizes zum Einsatz. __(Siehe hierzu Lecture ...)__. Der NDVI (Normalized Difference Vegetation Index) ist ein normalisierter, auf rotem und nahem infrarotem Kanal basierender Index. Er basiert auf der Tatsache, dass vitale Vegetation aufgrund eines hohen Chlorophyllgehalts im Bereich des nahen Infrarots stark reflektiert, wohingegen das Licht im roten Bereich größtenteils absorbiert wird. Diesen Gradienten macht sich der NDVI zunutze und bildet den Anteil vitaler Vegetation innerhalb eines Pixels auf einer Skala von -1 (keine Vegetation) bis +1 (komplett von vitaler Vegetation bedeckt) ab. Wird der NDVI für beide Sentinel-2 Aufnahmen ermittelt, können aus der Differenz der beiden Indexbilder Veränderungen des Vegetationszustands abgelesen werden.
