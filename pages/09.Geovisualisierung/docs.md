@@ -4,6 +4,7 @@ taxonomy:
     category:
         - docs
 ---
+
 [center]
 Teaser zum Fallbeispiel ***Geovisualisierung***
 <div class="embed-responsive embed-responsive-16by9">
