@@ -18,6 +18,8 @@ Nach Abschluss der Bearbeitung dieses Vorlesungsskripts im Selbststudium, werden
 
 Die Vorlesung besteht aus 5 Kapiteln inklusive Beispielen die Ihnen die oben genannten Lernziele vermitteln. Innerhalb eines Kapitels finden Sie folgende Elemente:
 
-! Links und Verweise auf Literatur oder Webseiten <br>
-!! Gedankenanstöße aus <br>
-!!!! Fragen zum Selbsttest zu Beginn jedes Kapitels <br>
+! Links und Verweise auf Literatur oder Webseiten
+
+!! Gedankenanstöße
+
+!!!! Fragen zum Selbsttest zu Beginn jedes Kapitels
