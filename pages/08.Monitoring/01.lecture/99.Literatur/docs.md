@@ -22,6 +22,29 @@ taxonomy:
 * De Smith M. J., Goodchild M. F., Longley P. A., [Geospatial Analysis.](http://discovery.ucl.ac.uk/49154/) 3rd Edition, Leicester, 2009.
 * Bachmann, G. [Das << Ziel-30-ha>> in der Nachhaltigkeitstrategie Deutschlands: Ein Schritt zur mordernen Urbanitat.](https://www.tandfonline.com/doi/pdf/10.1080/02513625.2005.10556914?needAccess=true) In: disP – The Planning Review 41 (2005): 106-10
 
+##Internetquellen
 
+[Global Land Tenure Network (GLTN): Land Management and Planning][2bdb4c4a] 
+[2bdb4c4a]: https://gltn.net/home/land-management-and-planning/#land-use-planning "GLTN"
 
+[IRENA-GlobalAtlas: Geothermie-Potenzial][7e46d99d]
+[7e46d99d]: https://irena.masdar.ac.ae/gallery/ "IRENA"
+
+[Global Land Tenure Network (GLTN): Land Management and Planning][2bdb4c4a]
+[2bdb4c4a]: https://gltn.net/home/land-management-and-planning/#land-use-planning "GLTN"
+
+[IRENA-GlobalAtlas: Geothermie-Potenzial][7e46d99d]
+[7e46d99d]: https://irena.masdar.ac.ae/gallery/ "IRENA"
+
+[LHS Dresden: Themenstadtplan Dresden; Amt für Geodaten und Kataster][504f5ee7]
+[504f5ee7]: http://stadtplan2.dresden.de "LHS-dresden"
+
+[LHS Stuttgart: Stadtklima][5a19488f]
+[5a19488f]: https://gis6.stuttgart.de/maps/index.html "LHS-sttutgart"
+
+[UBA – Umweltbundesamt (2017).: Siedlungs-und Verkehrsfläche. ][86cd77d4]
+[86cd77d4]: https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/flaeche/siedlungs-verkehrsflaeche#textpart-2 "UBA"
+
+[  Umweltatlas Berlin- Senatsverwaltung für Stadtentwicklung und Wohnen: Grünvolumen][e5690c02]
+[e5690c02]: https://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/ke601.htm "Stadt-Berlin"
 
