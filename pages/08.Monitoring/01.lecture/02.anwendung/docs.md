@@ -14,4 +14,4 @@ Der Bedarf an kleinräumigen Informationen ist vielfältig. Dabei können Praxis
 - Flächendeckung amtlicher Daten vs. genauere lokale nutzergenerierte Daten
 
 
-
+![abb_atkisdaten_qualitat_trend](abb_atkisdaten_qualitat_trend.png)
