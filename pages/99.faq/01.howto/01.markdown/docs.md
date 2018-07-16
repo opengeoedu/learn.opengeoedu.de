@@ -1,33 +1,28 @@
 ---
-title: Markdown basics
+title: 'Markdown basics'
 taxonomy:
     category:
         - docs
+process:
+    markdown: true
+    twig: false
 shortcode-core:
     active: false
     enabled: true
-
-process:
-      twig: false
 ---
+
 ! + Bitte beachten Sie die ausführliche Markdown Dokumentation auf https://learn.getgrav.org/content/markdown
 ! + Eine Markdown Übersicht hat heise hier auf einer Seite Zusammengefasst: https://www.heise.de/mac-and-i/downloads/65/1/1/6/7/1/0/3/Markdown-CheatSheet-Deutsch.pdf
 
 ## Markdown bearbeiten
-Zur Bearbeitung kann man [VS CODE](https://code.visualstudio.com/),
-[atom.io](https://atom.io/) oder die Editierfunktion von GitHub nutzen.
+Zur Bearbeitung der OpenGeoEdu Inhalte kann man [VS CODE](https://code.visualstudio.com/),
+[atom.io](https://atom.io/) für die lokale Bearbeitung oder die Editierfunktion von GitHub nutzen.
 ![gitsync](gitsync.png)
 
 
+## Überschriften
 
-
-
-
-
-## Headings
-
-Headings from `h1` through `h6` are constructed with a `#` for each level:
-
+Überschriften der Ebenen `h1` bis  `h6` werden durch die entsprechende Anzahl von `#` generiert.
 ```markdown
 # h1 Heading
 ## h2 Heading
@@ -37,7 +32,7 @@ Headings from `h1` through `h6` are constructed with a `#` for each level:
 ###### h6 Heading
 ```
 
-Renders to:
+wird zu:
 
 # h1 Heading
 ## h2 Heading
@@ -61,16 +56,16 @@ HTML:
 <br>
 <br>
 
-## Comments
+## Kommentare
 
-Comments should be HTML compatible
+Kommentare sind HTML kompatibel:
 
 ```html
 <!--
 This is a comment
 -->
 ```
-Comment below should **NOT** be seen:
+folgendes Kommentar ist **nicht** sichtbar:
 
 <!--
 This is a comment
@@ -80,7 +75,7 @@ This is a comment
 <br>
 <br>
 
-## Horizontal Rules
+<!-- ## Horizontal Rules
 
 The HTML `<hr>` element is for creating a "thematic break" between paragraph-level elements. In markdown, you can create a `<hr>` with any of the following:
 
@@ -123,7 +118,7 @@ A **line break** can be done with 2 spaces followed by 1 return.
 <br>
 <br>
 <br>
-
+-->
 
 ## Inline HTML
 
@@ -243,6 +238,11 @@ Nunc augue augue, aliquam non hendrerit ac, commodo vel nisi.
 odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
 
 ## Zitat mit Autor:
+Zur Angabe des Autors wird `<cite></cite>` am ende des Blockquote angefügt:
+```
+> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut ali. <cite>[Michael Kuster](https://example.com)</cite>
+```
+
 
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut ali. <cite>[Michael Kuster](https://example.com)</cite>
 
