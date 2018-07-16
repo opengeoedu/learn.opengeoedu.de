@@ -32,10 +32,10 @@ Die Reihenfolge der Inhalte ist durch die Ordnerstruktur 01.OpenGeoEdu, 02.openx
 Für jede markdown Seite **muss** eine Frontmatter angegeben werden.
 Darin werden Titel der Seite, Menütitel und weitere Einstellungen vorgenommen.
 
-```
+```YAML
 ---
-title: Neue Seiten erstellen
-menu: Seiten hinzufügen
+title: Seitentitel (Überschrift und Name im Browser/Suchergebnis)
+menu: Seiten hinzufügen (Name der Seite im Navigationsmenü wenn abweichend zum Titel)
 taxonomy:
     category:
         - docs

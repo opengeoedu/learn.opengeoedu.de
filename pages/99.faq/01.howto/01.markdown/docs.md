@@ -11,8 +11,8 @@ shortcode-core:
     enabled: true
 ---
 
-! + Bitte beachten Sie die ausführliche Markdown Dokumentation auf https://learn.getgrav.org/content/markdown
-! + Eine Markdown Übersicht hat heise hier auf einer Seite Zusammengefasst: https://www.heise.de/mac-and-i/downloads/65/1/1/6/7/1/0/3/Markdown-CheatSheet-Deutsch.pdf
+! Bitte beachten Sie die ausführliche Markdown Dokumentation auf https://learn.getgrav.org/content/markdown<br><br>
+! Eine Markdown Übersicht hat heise hier auf einer Seite Zusammengefasst: https://www.heise.de/mac-and-i/downloads/65/1/1/6/7/1/0/3/Markdown-CheatSheet-Deutsch.pdf
 
 ## Markdown bearbeiten
 Zur Bearbeitung der OpenGeoEdu Inhalte kann man [VS CODE](https://code.visualstudio.com/),
@@ -121,16 +121,31 @@ A **line break** can be done with 2 spaces followed by 1 return.
 -->
 
 ## Inline HTML
-
+HTML und Markdown funktionieren problemlos miteinander. So können Sie beispielsweise Klassen
 If you need a certain HTML tag (with a class) you can simply use HTML:
 
-```
+```html
 Paragraph in Markdown.
 
 <div class="class">
 </div>
 
 Paragraph in Markdown.
+```
+
+### Markdown in HTML
+Für die Verwendung von markdown in html-Abschnitten muss folgender Wert gesetzt werden:
+
+```
+markdown="1"
+```
+
+valide Syntax:
+
+```
+<div class="container" markdown="1">
+  ![Bildalttext](URL)
+</div>
 ```
 
 
@@ -707,20 +722,6 @@ With a reference later in the document defining the URL location:
     [id]: http://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
 ---
-
-## Markdown in HTML
-Für die Verwendung von markdown in html-Abschnitten muss folgender Wert gesetzt werden:
-
-```
-markdown="1"
-```
-
-funktionierendes Beispiel:
-
-```
-<div class="container" markdown="1">
-  ![Bildalttext](URL)
-```
 
 ## Code Markierung
 Einfaches Einrücken mit 4 Leerzeichen am Zeilenanfang
