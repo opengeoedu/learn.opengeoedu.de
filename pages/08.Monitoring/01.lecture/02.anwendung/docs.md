@@ -1,5 +1,5 @@
 ---
-title: Stand der Forschung
+title: Stand der Forschung & Anwendungsfelder
 taxonomy:
     category: docs
 ---
