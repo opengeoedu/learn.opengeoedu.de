@@ -7,7 +7,7 @@ taxonomy:
 
 Jeder, der einmal einen schweren Sturm oder Orkan miterlebt hat, kennt die unbändige Kraft, mit der große Gegenstände weggeweht und ganze Dächer abgedeckt werden. Selbst über 40 cm starke und 30 m hohe Bäume können der Naturgewalt oft nicht standhalten. Sie fallen meist nicht schlagartig um, sondern schaukeln eher solange hin und her bis sie unter dem Winddruck brechen oder samt den Wurzeln umgeworfen werden. Jährlich kommt es zu einer Zerstörung größerer Waldflächen in Deutschland durch Sturmereignisse. Die wichtigsten Stürme bzw. Orkane der letzten Jahre waren Vivian & Wiebke (1990), Lothar (1999), Kyrill (2007), Niklas (2015), Xavier (2017). Anfang 2018 wütete dann das Orkantief Friederike in Teilen Europas und verursachte Schäden in Milliardenhöhe.
 
-! Die Bezirgsregierung Arnsberg (NRW) bietet ein Jahrzehnt nach Kyrill eindrucksvolle Impressionen, und gibt Einblicke darauf, was so ein Sturmereignis wirklich bedeutet: ![Kyrill - 10 Jahre danach](https://www.bezreg-arnsberg.nrw.de/kyrill/)
+! Die Bezirgsregierung Arnsberg (NRW) bietet ein Jahrzehnt nach Kyrill eindrucksvolle Impressionen, und gibt Einblicke darauf, was so ein Sturmereignis wirklich bedeutet: [Kyrill - 10 Jahre danach](https://www.bezreg-arnsberg.nrw.de/kyrill/)
 
 Reine Fichtenbestände (*Picea abies*) sind besonders durch ihre flachen Tellerwurzeln, die bei Stürmen einen geringeren Halt geben, und ihre geringere Bruch- und Wurffestigkeit gegenüber Laubbäumen betroffen. Zudem wurden sie in der Vergangenheit oft auf für sie ungünstigen Standorten angepflanzt, was die Anfälligkeit erhöht. Darüber hinaus bieten immergrüne Nadelbäume wie Fichten und Tannen (*Abies spec.*) vor allem im Winter eine größere Angriffsfläche für Wind als Laubbaumarten.
 
@@ -19,7 +19,7 @@ Ist es zu einem größeren Windwurf im Wald gekommen, gilt es die Schäden schne
 ![Holzeinschlag2017](/pages/09.Geovisualisierung/Holzeinschlag2017.png)
 *Erstellt aus: Statistisches Bundesamt (2018): Land- und Forstwirtschaft, Fischerei. Forstwirtschaftliche Bodennutzung – Holzeinschlagsstatistik. Fachserie 3, Reihe 3.3.1, Holzeinschlag.*
 
-! Informationen, etwa dazu wie man Sturmholz richtig aufarbeitet finden sich u.a. ![hier](www.stmelf.bayern.de/wald/waldschutz/sturm/104090/index.php) auf den Seiten des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten (StMELF).
+! Informationen, etwa dazu wie man Sturmholz richtig aufarbeitet finden sich u.a. [hier](www.stmelf.bayern.de/wald/waldschutz/sturm/104090/index.php) auf den Seiten des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten (StMELF).
 
 <br><br>
 
