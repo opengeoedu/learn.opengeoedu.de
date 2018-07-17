@@ -1,5 +1,5 @@
 ---
-title: Flächenmonitoring Lecture
+title: Flächenmonitoring 
 menu: Lecture
 taxonomy:
     category: docs
