@@ -1,13 +1,13 @@
 ---
-title: IÖR-Monitoring
+title: Flächenmonitoring
 taxonomy:
     category:
         - docs
-menu: IÖR-Monitoring
+menu: Flächenmonitoring 
 ---
 
 ### OpenGeoEdu Fallbeispiel
 
-# IÖR-Monitoring
+# Flächenmonitoring 
 
-Teaser zum Fallbeispiel ***IÖR-Monitoring***
+Teaser zum Fallbeispiel ***Flächenmonitoring***
