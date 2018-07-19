@@ -11,19 +11,19 @@ Jeder, der einmal einen schweren Sturm oder Orkan miterlebt hat, kennt die unbä
 
 Reine Fichtenbestände (*Picea abies*) sind besonders durch ihre flachen Tellerwurzeln, die bei Stürmen einen geringeren Halt geben, und ihre geringere Bruch- und Wurffestigkeit gegenüber Laubbäumen betroffen. Zudem wurden sie in der Vergangenheit oft auf für sie ungünstigen Standorten angepflanzt, was die Anfälligkeit erhöht. Darüber hinaus bieten immergrüne Nadelbäume wie Fichten und Tannen (*Abies spec.*) vor allem im Winter eine größere Angriffsfläche für Wind als Laubbaumarten.
 
-![Fichten & Windwurf](/pages/09.Geovisualisierung/Fichten_Windwurf.png)
+![Fichten & Windwurf](Fichten_Windwurf.png)
 *Windwurffläche im Taunus sowie weitere Beispiele der enormen Kraft von Stürmen.*
 
 Ist es zu einem größeren Windwurf im Wald gekommen, gilt es die Schäden schnellstmöglich zu erkennen und zu beseitigen. Gefahren für Personen wie etwa hängende Bäume und unter Spannung stehende Stämme und Wurzeln müssen zuerst ausgeräumt werden. Das ungeplant anfallende Mehr an Holz muss genutzt und verwertet werden. Eine rasche Beseitigung der Schäden ist außerdem notwendig, da u.a. Schädlingsbefall droht (z.B. Borkenkäfer). Sturmschäden und Insektenbefall können sich zudem gegenseitig begünstigen. Das Ziel ist die Wiederherstellung der Nutzfläche und gegebenenfalls eine Wiederaufforstung. 
 
-![Holzeinschlag2017](/pages/09.Geovisualisierung/Holzeinschlag2017.png)
+![Holzeinschlag2017](Holzeinschlag2017.png)
 *Erstellt aus: Statistisches Bundesamt (2018): Land- und Forstwirtschaft, Fischerei. Forstwirtschaftliche Bodennutzung – Holzeinschlagsstatistik. Fachserie 3, Reihe 3.3.1, Holzeinschlag.*
 
 ! Informationen, etwa dazu wie man Sturmholz richtig aufarbeitet finden sich u.a. [hier](www.stmelf.bayern.de/wald/waldschutz/sturm/104090/index.php) auf den Seiten des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten (StMELF).
 
 <br><br>
 
-![vorOrtSatellit](/pages/09.Geovisualisierung/vor_Ort_vs_Satellit.png)
+![vorOrtSatellit](vor_Ort_vs_Satellit.png)
 *Eine Frage der Perspektive: Windwurf wie er sich vor Ort am Boden darstellt und vom Weltraum aus gesehen.*
 
 Eine generelle Herausforderung ist es, nach einem Sturm die Situation richtig einzuschätzen und betroffene Flächen aufzufinden. Die folgende Abbildung zeigt einen beschädigten Waldbestand einmal wie er sich vor Ort darstellt (links) und einmal wie er und die Umgebung in einem Satellitenbild aussieht (rechts). Die Zuordnung und Verortung der Flächen ist ein zentraler Punkt von Kartierung und Monitoring.
