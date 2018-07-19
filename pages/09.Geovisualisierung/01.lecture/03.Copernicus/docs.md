@@ -7,7 +7,7 @@ taxonomy:
 
 ## Das Copernicus-Programm 
 
-![CopernicusLogo](/pages/09.Geovisualisierung/Copernicus2.png)  
+![CopernicusLogo](Copernicus2.png)  
 
 Das Copernicus-Vorgängerprogramm war das Global Monitoring for Environment and Security (GMES, deutsch: Globale Umwelt- und Sicherheitsüberwachung) welches 1998 von der EU und der ESA ins Leben gerufen wurde. Im Jahr 2012 wurde es dann in Copernicus umbenannt. 
 
@@ -23,12 +23,12 @@ Das Programm besteht aus den folgenden sechs Kerndiensten:
 In dieser Lerneinheit soll der Fokus auf das Landmonitoring liegen.
 
 
-![CopernicusDienste](/pages/09.Geovisualisierung/Copernicus_Dienste_1.png)
+![CopernicusDienste](Copernicus_Dienste_1.png)
 *Die sechs Copernicus Dienste.*
 <br><br>
 Im Rahmen von Copernicus gibt es im Grunde vier Projektkomponenten: die Basis bilden zum einen die __(i)__ Satelliten und beitragenden Missionen sowie das Bodensegment, zum anderen die nationalen **(ii)** in-situ Messnetze. Hinter der in-situ Komponente verbergen sich alle Daten, die nicht aus dem Weltraum gewonnen wurden (außer Daten wie z.B. SRTM). Darauf aufbauend operieren die __(iii)__ sechs thematischen Dienste, die durch Fachagenturen wie die Europäische Umweltagentur (EEA) umgesetzt werden. Die daraus resultierenden Informationen werden zusammengetragen und aufbereitet sowie für die __(iv)__ Endnutzer bereitgestellt. Dazu zählen behördliche Anwender und Verwaltung, Politik, Wissenschaft, kommerzielle Unternehmen, Start-Ups oder gemeinnützige Organisationen und Bürger ...bzw. jeder.
 
-![CopernicusKomponenten](/pages/09.Geovisualisierung/Copernicus_Komponenten.png)
+![CopernicusKomponenten](Copernicus_Komponenten.png)
 
 Innerhalb der *Weltraumkomponente* bilden die Satellitensysteme natürlich die grundlegende Basis für die Erdbeobachtung und Umweltüberwachung. Durch dauerhafte Datenlieferungen und neue Standards soll die Position Europas in der internationalen Satellitenfernerkundung gefestigt werden. Der geplante Bau von sieben Satellitensystemen/-instrumenten wird in den nächsten Jahren weitergeführt. Das bedeutet auch den Aus- und Aufbau von Bodensegmenten und Datenplattformen. NNeben den Sentinels gibt es zudem ein Abkommen mit ca. 30 beitragenden Missionen, zu denen bekannte zählen wie etwa RapidEye, Landsat, SPOT, Pleiades, WorldView, GeoEye, ALOS/PALSAR, TerraSAR-X, TanDEM-X.
 
@@ -38,7 +38,7 @@ Innerhalb der *Weltraumkomponente* bilden die Satellitensysteme natürlich die g
 
 __Sentinel-1__
 
-![S1](/pages/09.Geovisualisierung/Sentinel-1.png)
+![S1](Sentinel-1.png)
 
 *Radar --> aktiv*
  
@@ -46,7 +46,7 @@ __Sentinel-1__
  
 __Sentinel-2__ 
 
-![S2](/pages/09.Geovisualisierung/Sentinel-2_2.png)
+![S2](Sentinel-2_2.png)
 
 *optisch Multispektral --> passiv*
  
@@ -54,6 +54,6 @@ __Sentinel-2__
 
 __Sentinel-3__ 
 
-![S3](/pages/09.Geovisualisierung/Sentinel-3.png)
+![S3](Sentinel-3.png)
 
 *Radar & Multispektral --> aktiv & passiv*
