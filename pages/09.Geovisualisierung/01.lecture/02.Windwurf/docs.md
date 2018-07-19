@@ -21,7 +21,6 @@ Ist es zu einem größeren Windwurf im Wald gekommen, gilt es die Schäden schne
 
 ! Informationen, etwa dazu wie man Sturmholz richtig aufarbeitet finden sich u.a. [hier](www.stmelf.bayern.de/wald/waldschutz/sturm/104090/index.php) auf den Seiten des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten (StMELF).
 
-<br><br>
 
 ![vorOrtSatellit](vor_Ort_vs_Satellit.png)
 *Eine Frage der Perspektive: Windwurf wie er sich vor Ort am Boden darstellt und vom Weltraum aus gesehen.*
