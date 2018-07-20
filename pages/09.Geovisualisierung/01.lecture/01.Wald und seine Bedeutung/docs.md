@@ -19,6 +19,7 @@ Der Wald dient für die meisten von uns in erster Linie zur Naherholung und für
 <p align="center">
   <img src="Funktionen_Wälder.png" alt="WaldFunktionen"/>
 </p>
+
 *Wälder übernehmen verschiedene soziale, ökologische und ökonomische Funktionen. Geändert nach Thomas (2012).*
 <br><br>
 
