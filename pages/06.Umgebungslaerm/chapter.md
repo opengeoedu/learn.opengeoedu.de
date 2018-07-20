@@ -4,6 +4,7 @@ taxonomy:
     category:
         - docs
 menu: Umgebungslärm
+published: false
 ---
 
 ### OpenGeoEdu Fallbeispiel
