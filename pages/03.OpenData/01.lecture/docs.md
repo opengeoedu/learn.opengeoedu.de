@@ -1,6 +1,6 @@
 ---
 title: Einführung
-menu: Lecture
+menu: Vorlesung
 taxonomy:
     category: docs
 ---
