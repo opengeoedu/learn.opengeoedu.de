@@ -42,6 +42,7 @@ Die ersten beiden Schlüssel bezeichnen das Bundesland (13=Mecklenburg-Vorpommer
 ## Amtlicher Regionalschlüssel (ARS)
 Außerdem gibt es den zwölfstelligen **Amtlichen Regionalschlüssel (ARS)**, der ähnlich aufgebaut ist, in den aber im Vergleich zum AGS vor den letzten drei Ziffern vier Stellen zur Verschlüsselung der Gemeindeverbände eingefügt sind. Der AGS ist also in den ARS integriert. Angaben auf der Gemeindeverbandsebene (in der EU: LAU 1-Ebene) werden zunehmend für den innereuropäischen und internationalen Vergleich von Eurostat benötigt und von den Statistischen Ämtern des Bundes und der Länder eingefordert. Die Amtliche Statistik in Deutschland strebt langfristig die Ablösung des achtstelligen AGS durch den zwölfstelligen Regionalschlüssel an.
 
+
 Der Amtliche Regionalschlüssel gliedert sich wie folgt:
 <pre style="white-space: pre-wrap;">
 1.–2. Stelle	= Kennzahl des Bundeslandes

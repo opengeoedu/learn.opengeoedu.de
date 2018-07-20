@@ -27,8 +27,6 @@ Zur Bearbeitung der OpenGeoEdu Inhalte kann man [VS CODE](https://code.visualstu
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
-##### h5 Heading
-###### h6 Heading
 ```
 
 wird zu:
@@ -37,8 +35,6 @@ wird zu:
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
-##### h5 Heading
-###### h6 Heading
 
 HTML:
 
@@ -47,8 +43,6 @@ HTML:
 <h2>h2 Heading</h2>
 <h3>h3 Heading</h3>
 <h4>h4 Heading</h4>
-<h5>h5 Heading</h5>
-<h6>h6 Heading</h6>
 ```
 
 <br>
@@ -80,13 +74,26 @@ In OGE GRAV werden ``!`` für die Farbboxen (Notices) genutzt
 !!!! Hinweis grün
 ```
 
-! Hinweis orange
+<!--beschränkte Farbauswahl
 
-!! Hinweis rot
+<div class="p-3 mb-2 bg-primary text-white">.bg-primary</div>
+<div class="p-3 mb-2 bg-secondary text-white">.bg-secondary</div>
+<div class="p-3 mb-2 bg-success text-white">.bg-success</div>
+<div class="p-3 mb-2 bg-warning text-dark">.bg-warning</div>
+<div class="p-3 mb-2 bg-info text-white">.bg-info</div>
+<div class="p-3 mb-2 bg-light text-dark">.bg-light</div>
+<div class="p-3 mb-2 bg-dark text-white">.bg-dark</div>
+<div class="p-3 mb-2 bg-white text-dark">.bg-white</div>
 
-!!! Hinweis blau
 
-!!!! Hinweis grün
+
+! fa-verweis/link(Links und Verweise auf Literatur oder Webseiten)
+
+!! fa-glühbirne(Gedankenanstöße in anderer Farbe)
+
+!!! fa-exclamation(Definition)
+
+!!!! fa-question(Fragen / Lernziele /)
 
 <br>
 
@@ -168,6 +175,12 @@ valide Syntax:
 <div class="container" markdown="1">
   ![Bildalttext](URL)
 </div>
+```
+
+## Footnotes (bigfootjs)
+
+```markdown
+[^1]
 ```
 
 <br>

@@ -4,6 +4,24 @@ menu: Testumgebung
 published: true
 highlight:
 ---
+
+<div class="p-3 mb-2 bg-dark text-white">[fa=fa-exclamation extras=fa-4x /] Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+
+
+[notice=warning]
+Danger Will Robinson! Danger, Will Robinson!
+[/notice]
+
+[fa=fa-cog extras=fa-2x /]
+! [fa=fa-exclamation extras=fa-4x /] 4 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+
+!! [fa=fa-exclamation extras=fa-3x /] 3 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+
+!!! [fa=fa-question extras=fa-2x /] 2 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+
+!!!! [fa=fa-bulb extras=fa-4x /] <i class="far fa-lightbulb fa-2x"></i> consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+
+
 ## Demo Test
 
 https://ilias.uni-rostock.de/goto.php?target=tst_44938&client_id=ilias_hro
