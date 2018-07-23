@@ -1,6 +1,6 @@
 ---
 title: Einführung
-menu: Lecture
+menu: Vorlesung
 taxonomy:
     category: docs
 ---
@@ -18,7 +18,7 @@ Diese Lerneinheit beinhaltet folgende __Lernziele__:
 -	Recherche und Download
   - Satellitendaten des Copernicus Programms, Copernicus Landdienst, BKG Open Data
 -	Verarbeitung von Sentinel-2 Daten in der freien Software SNAP & QGIS
-  -	Maskierung von Fernerkundungsdaten anhand von Landbedeckungsdaten 
+  -	Maskierung von Fernerkundungsdaten anhand von Landbedeckungsdaten
   -	Berechnung spektraler Indizes – Fernerkundung zum Vegetationsmonitoring
   -	Schwellenwertbasierte Klassifikation
   -	Quantifizierung von Schadensflächen

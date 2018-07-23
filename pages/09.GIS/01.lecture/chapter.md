@@ -1,6 +1,6 @@
 ---
 title: 'Einführung in Geo-Informationssysteme'
-menu: Lecture
+menu: Vorlesung
 taxonomy:
     category:
         - docs
