@@ -17,6 +17,7 @@ Nehmen wir Waldbäume als Beispiel. Sie stehen mal dicht gedrängt, mal mit sehr
 Die Reflektanzkurve von grüner gesunder Vegetation hat eine charakteritische Form und ist geprägt von Faktoren wie Konzentration an Blattpigmenten, Wassergehalt und Blattaufbau. Die folgende Abbildung zeigt das typische Erscheinen anahnd einer spektralen Kurve eines Eichenblatts (Kokaly et al. 2017) und den Einfluss der Faktoren.
 
 <iframe src="https://h5p.org/h5p/embed/240206" width="1091" height="682" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <br><br>
 
@@ -28,7 +29,7 @@ Der NDVI wird wie folgt berechnet:
 
 *NDVI = (NIR - rot) / (NIR + rot)* ,  [-1;1]
 
-![NDVI](/pages/09.Geovisualisierung/NDVI_calculation.png)
+![NDVI](NDVI_calculation.png)
 
 !!!! __Aufgabe:__ Recherche von Indizes auf der ![Index Database](https://www.indexdatabase.de/) für Sentinel-2 und weitere Sensoren.
 Suchen Sie sich Beispiele heraus und stellen Sie diese einander gegenüber. Vergleichen Sie Indizes auf dem ![Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/?source=S2&lat=50.03619419013074&lng=8.040962219238281&zoom=13&preset=1_NATURAL_COL0R&layers=B02,B12,B08&maxcc=20&gain=1.0&gamma=1.0&time=2015-01-01|2018-05-17&atmFilter=&showDates=false).
