@@ -17,7 +17,7 @@ Die Fläche und die Zusammensetzung des Waldes durchliefen im Laufe der Zeit gro
 Der Wald dient für die meisten von uns in erster Linie zur Naherholung und für Freizeitaktivitäten wie das Sammeln von Pilzen und Beeren, Wandern, Joggen und Radfahren. Aber Wald bedeutet zumeist auch, dass er wirtschaftlich genutzt wird und auch genutzt werden muss. Er bietet Arbeitsplätze  - direkt in der Forstwirtschaft und indirekt in der holzverarbeitenden Industrie. Hierzu zählen etwa die Produzenten von Holzpaletten, die Papier- und Verlags- oder auch Möbelindustrie. Darüber hinaus sind Wälder wichtig für den Wasserhaushalt dienen als Wasser- und Luftfilter. Wälder und Bäume innerhalb von Städten tragen zu einem angenehmeren (kühleren) Klima bei. Auf globaler Ebene sind Bäume als natürliche Kohlenstoffspeicher essentiell für das Erdklima und der Minderung des Klimawandels.
 <br><br>
 
-![WaldFunktionen](Funktionen_Wälder.png)
+![WaldFunktionen](Funktionen_Wälder.png)  
 *Wälder übernehmen verschiedene soziale, ökologische und ökonomische Funktionen. Geändert nach Thomas (2012).*
 
 Die Aichi-Ziele ([Aichi Biodiversity Targets](https://www.cbd.int/sp/targets)) wurden 1993 zur Umsetzung der UN Konvention zur Biologischen Vielfalt (Convention on Biological Diversity, CBD) formuliert. Sie sehen vor bis 2020 den Verlust Lebensraum zu halbieren, die Überfischung der Meere zu stoppen und mehr Flächen als Schutzgebiete auszuweisen.
