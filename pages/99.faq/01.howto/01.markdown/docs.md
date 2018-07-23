@@ -11,12 +11,12 @@ shortcode-core:
     enabled: true
 ---
 
-! Bitte beachten Sie die ausführliche Markdown Dokumentation auf https://learn.getgrav.org/content/markdown<br><br>
+! Bitte beachten Sie die ausführliche Markdown Dokumentation auf https://learn.getgrav.org/content/markdown<br>
 ! Eine Markdown Übersicht hat heise hier auf einer Seite Zusammengefasst: https://www.heise.de/mac-and-i/downloads/65/1/1/6/7/1/0/3/Markdown-CheatSheet-Deutsch.pdf
 
 ## Markdown bearbeiten
-Zur Bearbeitung der OpenGeoEdu Inhalte kann man [VS CODE](https://code.visualstudio.com/),
-[atom.io](https://atom.io/) für die lokale Bearbeitung oder die Editierfunktion von GitHub nutzen.
+Für die lokale Bearbeitung der OpenGeoEdu Inhalte können Sie [VS CODE](https://code.visualstudio.com/),
+[atom.io](https://atom.io/) oder die Online-Editierfunktion von GitHub nutzen.
 ![gitsync](gitsync.png)
 
 ## Überschriften
@@ -68,11 +68,25 @@ This is a comment
 In OGE GRAV werden ``!`` für die Farbboxen (Notices) genutzt
 
 ```
-! Hinweis orange
-!! Hinweis rot
-!!! Hinweis blau
-!!!! Hinweis grün
+! verweis/link(Links und Verweise auf Literatur oder Webseiten)
+!! Gedankenanstöße in anderer Farbe
+!!! Definition
+!!!! Fragen / Lernziele
+!!!!! tba
+!!!!!! tba
 ```
+
+! Links und Verweise auf Literatur oder Webseiten
+
+!! Gedankenanstöße in anderer Farbe
+
+!!! Definition
+
+!!!! Fragen / Lernziele
+
+!!!!! tba
+
+!!!!!! tba
 
 <!--beschränkte Farbauswahl
 
@@ -84,16 +98,10 @@ In OGE GRAV werden ``!`` für die Farbboxen (Notices) genutzt
 <div class="p-3 mb-2 bg-light text-dark">.bg-light</div>
 <div class="p-3 mb-2 bg-dark text-white">.bg-dark</div>
 <div class="p-3 mb-2 bg-white text-dark">.bg-white</div>
+-->
 
 
 
-! fa-verweis/link(Links und Verweise auf Literatur oder Webseiten)
-
-!! fa-glühbirne(Gedankenanstöße in anderer Farbe)
-
-!!! fa-exclamation(Definition)
-
-!!!! fa-question(Fragen / Lernziele /)
 
 <br>
 
