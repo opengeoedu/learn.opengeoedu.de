@@ -10,3 +10,8 @@ Flächemonitoring IÖR-Monitor – eine Geoinformation dienste mit 75 Indikatore
 
 Eine Mobil App ist auch im Androide Apps-store verfügbar mit allen Indikator des IÖR-Monitor
 ![abb_mobil_app_](abb_mobil_app_.png)
+
+
+
+
+[center] !! Hier geht es zur Übung [/center]
