@@ -6,6 +6,12 @@ taxonomy:
 
 Der Bedarf an kleinräumigen Informationen ist vielfältig. Dabei können Praxis und Wissenschaft zukünftige Entscheidungen optimieren, aber auch die bisherigen Erfolge oder Fehler genauer identifizieren. Hier sollen auch die Anforderungen an die Daten betrachtet werden – z.B. räumlich, objektiv, homogen usw. Die Anwendungsfelder reichen von Akteuren von der lokalen über die nationale bis hin zur internationalen Ebene, z. B. bzgl. Grünvolumen, Stadtluftbelastungsszenarien, Bodenwerte oder auch das Geothermie-Potential.
 
+
+
+  ![](pages/08.Monitoring/01.vorlesung/02.anwendung/abb_gruenvolumen_ua_berlin.png) |  ![](pages/08.Monitoring/01.vorlesung/02.anwendung/abb_luftbelastung_lhs_sttutgart.png)
+--|--
+
+
 ![abb_gruenvolumen_ua_berlin](pages/08.Monitoring/01.vorlesung/02.anwendung/abb_gruenvolumen_ua_berlin.png)
 
 - Benötigt werden Informationen zur Flächennutzungsänderung und der Landschaftsqualität, des Gebäudebestandes, oder zukünftiger Verkehrsformen (Ausnutzungsdichte, Einwohnerdichte, Gebäudetyp, -alter, -nutzung, Energiebedarf, Erreichbarkeit, usw. auch durch nutzergenerierte Daten)
