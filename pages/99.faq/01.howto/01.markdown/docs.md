@@ -1,50 +1,40 @@
 ---
-title: Markdown basics
+title: 'Markdown basics'
 taxonomy:
     category:
         - docs
+process:
+    markdown: true
+    twig: false
 shortcode-core:
     active: false
     enabled: true
-
-process:
-      twig: false
 ---
-! + Bitte beachten Sie die ausführliche Markdown Dokumentation auf https://learn.getgrav.org/content/markdown
-! + Eine Markdown Übersicht hat heise hier auf einer Seite Zusammengefasst: https://www.heise.de/mac-and-i/downloads/65/1/1/6/7/1/0/3/Markdown-CheatSheet-Deutsch.pdf
+
+! Bitte beachten Sie die ausführliche Markdown Dokumentation auf https://learn.getgrav.org/content/markdown<br>
+! Eine Markdown Übersicht hat heise hier auf einer Seite Zusammengefasst: https://www.heise.de/mac-and-i/downloads/65/1/1/6/7/1/0/3/Markdown-CheatSheet-Deutsch.pdf
 
 ## Markdown bearbeiten
-Zur Bearbeitung kann man [VS CODE](https://code.visualstudio.com/),
-[atom.io](https://atom.io/) oder die Editierfunktion von GitHub nutzen.
+Für die lokale Bearbeitung der OpenGeoEdu Inhalte können Sie [VS CODE](https://code.visualstudio.com/),
+[atom.io](https://atom.io/) oder die Online-Editierfunktion von GitHub nutzen.
 ![gitsync](gitsync.png)
 
+## Überschriften
 
-
-
-
-
-
-## Headings
-
-Headings from `h1` through `h6` are constructed with a `#` for each level:
-
+Überschriften der Ebenen `h1` bis  `h6` werden durch die entsprechende Anzahl von `#` generiert.
 ```markdown
 # h1 Heading
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
-##### h5 Heading
-###### h6 Heading
 ```
 
-Renders to:
+wird zu:
 
 # h1 Heading
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
-##### h5 Heading
-###### h6 Heading
 
 HTML:
 
@@ -53,34 +43,81 @@ HTML:
 <h2>h2 Heading</h2>
 <h3>h3 Heading</h3>
 <h4>h4 Heading</h4>
-<h5>h5 Heading</h5>
-<h6>h6 Heading</h6>
 ```
 
 <br>
-<br>
-<br>
 
-## Comments
+## Kommentare
 
-Comments should be HTML compatible
+Kommentare sind HTML kompatibel:
 
 ```html
 <!--
 This is a comment
 -->
 ```
-Comment below should **NOT** be seen:
+folgendes Kommentar ist **nicht** sichtbar:
 
 <!--
 This is a comment
 -->
 
 <br>
-<br>
+
+## Notices
+In OGE GRAV werden ``!`` für die Farbboxen (Notices) genutzt
+
+```
+! verweis/link(Links und Verweise auf Literatur oder Webseiten)
+!! Gedankenanstöße in anderer Farbe
+!!! Definition
+!!!! Fragen / Lernziele
+!!!!! tba
+!!!!!! tba
+```
+
+! Links und Verweise auf Literatur oder Webseiten
+
+!! Gedankenanstöße in anderer Farbe
+
+!!! Definition
+
+!!!! Fragen / Lernziele
+
+!!!!! tba
+
+!!!!!! tba
+
+<!--beschränkte Farbauswahl
+
+<div class="p-3 mb-2 bg-primary text-white">.bg-primary</div>
+<div class="p-3 mb-2 bg-secondary text-white">.bg-secondary</div>
+<div class="p-3 mb-2 bg-success text-white">.bg-success</div>
+<div class="p-3 mb-2 bg-warning text-dark">.bg-warning</div>
+<div class="p-3 mb-2 bg-info text-white">.bg-info</div>
+<div class="p-3 mb-2 bg-light text-dark">.bg-light</div>
+<div class="p-3 mb-2 bg-dark text-white">.bg-dark</div>
+<div class="p-3 mb-2 bg-white text-dark">.bg-white</div>
+-->
+
+
+
+
 <br>
 
-## Horizontal Rules
+### Zitat mit Autor:
+Zur Angabe des Autors wird `<cite></cite>` am ende des Blockquote angefügt:
+```markdown
+> **Fusion Drive** combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.
+<cite>[Michael Kuster](https://example.com)</cite>
+```
+
+> **Fusion Drive** combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined. <cite>[Michael Kuster](https://example.com)</cite>
+
+<br>
+
+
+<!-- ## Horizontal Rules
 
 The HTML `<hr>` element is for creating a "thematic break" between paragraph-level elements. In markdown, you can create a `<hr>` with any of the following:
 
@@ -123,13 +160,11 @@ A **line break** can be done with 2 spaces followed by 1 return.
 <br>
 <br>
 <br>
-
+-->
 
 ## Inline HTML
-
-If you need a certain HTML tag (with a class) you can simply use HTML:
-
-```
+HTML und Markdown funktionieren problemlos miteinander. So können Sie beispielsweise Klassen definiert werden:
+```html
 Paragraph in Markdown.
 
 <div class="class">
@@ -137,6 +172,199 @@ Paragraph in Markdown.
 
 Paragraph in Markdown.
 ```
+
+### Markdown in HTML
+Für die Verwendung von markdown in html-inline-Abschnitten muss folgender Wert gesetzt werden:
+`markdown="1"`
+
+valide Syntax:
+
+```
+<div class="container" markdown="1">
+  ![Bildalttext](URL)
+</div>
+```
+
+## Footnotes (bigfootjs)
+
+```markdown
+[^1]
+```
+
+<br>
+## Listen
+
+### Ungeordnet
+Auflistung von dingen in unbestimmter Reihenfolge. Zur Auszeichnung einer ungeordneten Liste wird entweder ein `*` `-` oder ein `+` verwendet
+
+```markdown
+* valid bullet
+- valid bullet
++ valid bullet
+```
+
+In diesem Beispiel mit Einrückungen für Unterpunkte
+
+```markdown
++ Lorem ipsum dolor sit amet
++ Consectetur adipiscing elit
++ Integer molestie lorem at massa
++ Facilisis in pretium nisl aliquet
++ Nulla volutpat aliquam velit
+  - Phasellus iaculis neque
+  - Purus sodales ultricies
+  - Vestibulum laoreet porttitor sem
+  - Ac tristique libero volutpat at
++ Faucibus porta lacus fringilla vel
++ Aenean sit amet erat nunc
++ Eget porttitor lorem
+```
+Wird zu:
+
++ Lorem ipsum dolor sit amet
++ Consectetur adipiscing elit
++ Integer molestie lorem at massa
++ Facilisis in pretium nisl aliquet
++ Nulla volutpat aliquam velit
+  - Phasellus iaculis neque
+  - Purus sodales ultricies
+  - Vestibulum laoreet porttitor sem
+  - Ac tristique libero volutpat at
++ Faucibus porta lacus fringilla vel
++ Aenean sit amet erat nunc
++ Eget porttitor lorem
+
+<!-- And this HTML
+
+```html
+<ul>
+  <li>Lorem ipsum dolor sit amet</li>
+  <li>Consectetur adipiscing elit</li>
+  <li>Integer molestie lorem at massa</li>
+  <li>Facilisis in pretium nisl aliquet</li>
+  <li>Nulla volutpat aliquam velit
+    <ul>
+      <li>Phasellus iaculis neque</li>
+      <li>Purus sodales ultricies</li>
+      <li>Vestibulum laoreet porttitor sem</li>
+      <li>Ac tristique libero volutpat at</li>
+    </ul>
+  </li>
+  <li>Faucibus porta lacus fringilla vel</li>
+  <li>Aenean sit amet erat nunc</li>
+  <li>Eget porttitor lorem</li>
+</ul>
+```
+-->
+### Geordnete Liste
+
+Eine Auflistung von Dingen in einer vorgegebenen Reihenfolge:
+```markdown
+1. Lorem ipsum dolor sit amet
+1. Consectetur adipiscing elit
+1. Integer molestie lorem at massa
+1. Facilisis in pretium nisl aliquet
+1. Nulla volutpat aliquam velit
+1. Faucibus porta lacus fringilla vel
+1. Aenean sit amet erat nunc
+1. Eget porttitor lorem
+```
+wird zu:
+
+1. Lorem ipsum dolor sit amet
+2. Consectetur adipiscing elit
+3. Integer molestie lorem at massa
+4. Facilisis in pretium nisl aliquet
+5. Nulla volutpat aliquam velit
+6. Faucibus porta lacus fringilla vel
+7. Aenean sit amet erat nunc
+8. Eget porttitor lorem
+
+<!--
+And this HTML:
+
+```html
+<ol>
+  <li>Lorem ipsum dolor sit amet</li>
+  <li>Consectetur adipiscing elit</li>
+  <li>Integer molestie lorem at massa</li>
+  <li>Facilisis in pretium nisl aliquet</li>
+  <li>Nulla volutpat aliquam velit</li>
+  <li>Faucibus porta lacus fringilla vel</li>
+  <li>Aenean sit amet erat nunc</li>
+  <li>Eget porttitor lorem</li>
+</ol>
+```
+-->
+
+!!! **TIP**: Beachten Sie die `1.` für jede Zeile, Markdown numeriert die Zeilen dann automatisch:
+
+<br>
+
+## Tabellen
+Tables are created by adding pipes as dividers between each cell, and by adding a line of dashes (also separated by bars) beneath the header. Note that the pipes do not need to be vertically aligned.
+
+
+```markdown
+| Option | Description |
+| ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
+```
+
+Renders to:
+
+| Option | Description |
+| ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
+
+And this HTML:
+
+```html
+<table>
+  <thead>
+    <tr>
+      <th>Option</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>data</td>
+      <td>path to data files to supply the data that will be passed into templates.</td>
+    </tr>
+    <tr>
+      <td>engine</td>
+      <td>engine to be used for processing templates. Handlebars is the default.</td>
+    </tr>
+    <tr>
+      <td>ext</td>
+      <td>extension to be used for dest files.</td>
+    </tr>
+  </tbody>
+</table>
+```
+
+### Right aligned text
+
+Adding a colon on the right side of the dashes below any heading will right align text for that column.
+
+```markdown
+| Option | Description |
+| ------:| -----------:|
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
+```
+
+| Option | Description |
+| ------:| -----------:|
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
 
 
 <br>
@@ -226,189 +454,8 @@ and this HTML:
 </blockquote>
 ```
 
-Blockquotes can also be nested:
-
-```markdown
-> Donec massa lacus, ultricies a ullamcorper in, fermentum sed augue.
-Nunc augue augue, aliquam non hendrerit ac, commodo vel nisi.
->> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
-odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
-```
-
-Renders to:
-
-> Donec massa lacus, ultricies a ullamcorper in, fermentum sed augue.
-Nunc augue augue, aliquam non hendrerit ac, commodo vel nisi.
->> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
-odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
-
-## Zitat mit Autor:
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut ali. <cite>[Michael Kuster](https://example.com)</cite>
-
 <br>
 <br>
-<br>
-
-## Notices
-In OGE GRAV werden ``!`` für die Farbboxen genutzt
-
-```
-! Hinweis orange
-!! Hinweis rot
-!!! Hinweis blau
-!!!! Hinweis grün
-```
-
-! Hinweis orange
-
-!! Hinweis rot
-
-!!! Hinweis blau
-
-!!!! Hinweis grün
-
-
-
-<br>
-<br>
-<br>
-
-## Lists
-
-### Unordered
-A list of items in which the order of the items does not explicitly matter.
-
-You may use any of the following symbols to denote bullets for each list item:
-
-```markdown
-* valid bullet
-- valid bullet
-+ valid bullet
-```
-
-For example
-
-```markdown
-+ Lorem ipsum dolor sit amet
-+ Consectetur adipiscing elit
-+ Integer molestie lorem at massa
-+ Facilisis in pretium nisl aliquet
-+ Nulla volutpat aliquam velit
-  - Phasellus iaculis neque
-  - Purus sodales ultricies
-  - Vestibulum laoreet porttitor sem
-  - Ac tristique libero volutpat at
-+ Faucibus porta lacus fringilla vel
-+ Aenean sit amet erat nunc
-+ Eget porttitor lorem
-```
-Renders to:
-
-+ Lorem ipsum dolor sit amet
-+ Consectetur adipiscing elit
-+ Integer molestie lorem at massa
-+ Facilisis in pretium nisl aliquet
-+ Nulla volutpat aliquam velit
-  - Phasellus iaculis neque
-  - Purus sodales ultricies
-  - Vestibulum laoreet porttitor sem
-  - Ac tristique libero volutpat at
-+ Faucibus porta lacus fringilla vel
-+ Aenean sit amet erat nunc
-+ Eget porttitor lorem
-
-And this HTML
-
-```html
-<ul>
-  <li>Lorem ipsum dolor sit amet</li>
-  <li>Consectetur adipiscing elit</li>
-  <li>Integer molestie lorem at massa</li>
-  <li>Facilisis in pretium nisl aliquet</li>
-  <li>Nulla volutpat aliquam velit
-    <ul>
-      <li>Phasellus iaculis neque</li>
-      <li>Purus sodales ultricies</li>
-      <li>Vestibulum laoreet porttitor sem</li>
-      <li>Ac tristique libero volutpat at</li>
-    </ul>
-  </li>
-  <li>Faucibus porta lacus fringilla vel</li>
-  <li>Aenean sit amet erat nunc</li>
-  <li>Eget porttitor lorem</li>
-</ul>
-```
-
-### Ordered
-
-A list of items in which the order of items does explicitly matter.
-
-```markdown
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-4. Facilisis in pretium nisl aliquet
-5. Nulla volutpat aliquam velit
-6. Faucibus porta lacus fringilla vel
-7. Aenean sit amet erat nunc
-8. Eget porttitor lorem
-```
-Renders to:
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-4. Facilisis in pretium nisl aliquet
-5. Nulla volutpat aliquam velit
-6. Faucibus porta lacus fringilla vel
-7. Aenean sit amet erat nunc
-8. Eget porttitor lorem
-
-And this HTML:
-
-```html
-<ol>
-  <li>Lorem ipsum dolor sit amet</li>
-  <li>Consectetur adipiscing elit</li>
-  <li>Integer molestie lorem at massa</li>
-  <li>Facilisis in pretium nisl aliquet</li>
-  <li>Nulla volutpat aliquam velit</li>
-  <li>Faucibus porta lacus fringilla vel</li>
-  <li>Aenean sit amet erat nunc</li>
-  <li>Eget porttitor lorem</li>
-</ol>
-```
-
-**TIP**: If you just use `1.` for each number, Markdown will automatically number each item. For example:
-
-```markdown
-1. Lorem ipsum dolor sit amet
-1. Consectetur adipiscing elit
-1. Integer molestie lorem at massa
-1. Facilisis in pretium nisl aliquet
-1. Nulla volutpat aliquam velit
-1. Faucibus porta lacus fringilla vel
-1. Aenean sit amet erat nunc
-1. Eget porttitor lorem
-```
-
-Renders to:
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-4. Facilisis in pretium nisl aliquet
-5. Nulla volutpat aliquam velit
-6. Faucibus porta lacus fringilla vel
-7. Aenean sit amet erat nunc
-8. Eget porttitor lorem
-
-
-<br>
-<br>
-<br>
-
 
 ## Code
 
@@ -533,84 +580,15 @@ grunt.initConfig({
   }
 };
 ```
-
+<!--
 !!! For syntax highlighting to work, the [Highlight plugin](https://github.com/getgrav/grav-plugin-highlight) needs to be installed and enabled. It in turn utilizes a jquery plugin, so jquery needs to be loaded in your theme too.
-
+-->
 <br>
 <br>
 <br>
 
 
 
-## Tables
-Tables are created by adding pipes as dividers between each cell, and by adding a line of dashes (also separated by bars) beneath the header. Note that the pipes do not need to be vertically aligned.
-
-
-```markdown
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-```
-
-Renders to:
-
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-And this HTML:
-
-```html
-<table>
-  <thead>
-    <tr>
-      <th>Option</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>data</td>
-      <td>path to data files to supply the data that will be passed into templates.</td>
-    </tr>
-    <tr>
-      <td>engine</td>
-      <td>engine to be used for processing templates. Handlebars is the default.</td>
-    </tr>
-    <tr>
-      <td>ext</td>
-      <td>extension to be used for dest files.</td>
-    </tr>
-  </tbody>
-</table>
-```
-
-### Right aligned text
-
-Adding a colon on the right side of the dashes below any heading will right align text for that column.
-
-```markdown
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-```
-
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-
-<br>
-<br>
-<br>
 
 
 ## Links
@@ -707,20 +685,6 @@ With a reference later in the document defining the URL location:
     [id]: http://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
 ---
-
-## Markdown in HTML
-Für die Verwendung von markdown in html-Abschnitten muss folgender Wert gesetzt werden:
-
-```
-markdown="1"
-```
-
-funktionierendes Beispiel:
-
-```
-<div class="container" markdown="1">
-  ![Bildalttext](URL)
-```
 
 ## Code Markierung
 Einfaches Einrücken mit 4 Leerzeichen am Zeilenanfang
