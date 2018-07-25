@@ -27,7 +27,7 @@ Stadtplanung   | Energieforschung
 
 </center>
 
-- Benötigt werden Informationen zur Flächennutzungsänderung und der Landschaftsqualität, des Gebäudebestandes, oder zukünftiger Verkehrsformen (Ausnutzungsdichte, Einwohnerdichte, Gebäudetyp, -alter, -nutzung, Energiebedarf, Erreichbarkeit, usw. auch durch nutzergenerierte Daten)
+- Benötigt werden Informationen zur Flächennutzungsänderung und der Landschaftsqualität, des Gebäudebestandes, oder zukünftiger Verkehrsformen (Ausnutzungsdichte, Einwohnerdichte, Gebäudetyp,-alter, -nutzung, Energiebedarf, Erreichbarkeit, usw. auch durch nutzergenerierte Daten)
 - Informationspotenzial von HU-DE, GA, LoD1-DE, VGI hoch, aber noch ungenügend ausgeschöpft
 - Nutzergenerierte Daten spielen eine immer wichtigere Rolle neben neuen und weiterentwickelten amtliche Daten
 - Datenqualitätsprobleme (mangelnde Aktualität, s. Abb. 3)
