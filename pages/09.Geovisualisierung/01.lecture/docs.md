@@ -1,5 +1,5 @@
 ---
-title: Einfühurng
+title: Einführung
 menu: Lecture
 taxonomy:
     category: docs
