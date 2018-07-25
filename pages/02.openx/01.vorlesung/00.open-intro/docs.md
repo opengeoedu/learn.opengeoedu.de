@@ -1,14 +1,13 @@
 ---
-title: Lernziele und Struktur der Vorlesung
-menu: Vorlesung
+title: 'Lernziele und Struktur der Lerneinheit'
 taxonomy:
     category: docs
 ---
 
-# Lernziele der Vorlesung
+## Lernziele 
 !!!! <br> Ziel der Lerneinheit ist es die wesentlichen Begriffe und Strömungen kennenzulernen und diese einordnen zu können. Nach Bearbeitung dieses Vorlesungsskripts im Selbststudium sollten Sie die wesentlichen Grundideen der Offenheit in Gesellschaft, der Verwaltung, der Wirtschaft und auch der Wissenschaft beherrschen.
 
-# Struktur der Vorlesung
+## Struktur 
 
 Die Vorlesung besteht aus einer Sammlung von kurzen Begriffserklärungen und Verweisen auf wichtige internationale Organisationen. Sie ist als schnelle Übersicht gedacht, mit Details speziell zu offenen Daten beschäftigen Sie sich in der Kurseinheit "Open Data".
 
