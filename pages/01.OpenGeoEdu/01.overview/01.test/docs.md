@@ -4,8 +4,6 @@ menu: Testumgebung
 published: true
 highlight:
 ---
-<<<<<<< HEAD
-=======
 ## UML diagrams [liveditor](https://mermaidjs.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbkFbQ2hyaXN0bWFzXSAtLT58R2V0IG1vbmV5fCBCKEdvIHNob3BwaW5nKVxuQiAtLT4gQ3tMZXQgbWUgdGhpbmt9XG5DIC0tPnxPbmV8IERbTGFwdG9wXVxuQyAtLT58VHdvfCBFW2lQaG9uZV1cbkMgLS0-fFRocmVlfCBGW2ZhOmZhLWNhciBDYXJdXG4iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ)
 
 [fa=cog /] Simplest Format
@@ -68,7 +66,6 @@ Danger Will Robinson! Danger, Will Robinson!
 
 
 
->>>>>>> 63f56484ed6a2452c50995eb1d15d7fe4ad28e1f
 ## Demo Test
 
 https://ilias.uni-rostock.de/goto.php?target=tst_44938&client_id=ilias_hro

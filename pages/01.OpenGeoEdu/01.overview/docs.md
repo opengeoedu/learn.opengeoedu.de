@@ -9,12 +9,9 @@ menu: Fallbeispiele
 Für raumbezogene Studiengänge werden exemplarische Fallbeispiele mit offenen Daten ausgewählt, thematisch aufgearbeitet und als E-Learning-Einheiten (Daten, Methoden, Forschungsfragen) zur Nachnutzung in der Lehre und Forschung offen verfügbar gemacht. Fallbeispiele bestehen aus einem theoretischen Unterbau (i.d.R. als Vorlesung konzipiert) und einem Praxisteil mit offenen Daten, die eine Geoprozessierung durchlaufen und Ergebnisse z.B. in Form thematischer Karten erarbeiten.
 
 ## Folgende Fallbeispiele sind verfügbar bzw. geplant:
-<<<<<<< HEAD
-=======
 
 
 ## Folgende Fallbeispiele sind verfügbar bzw. geplant:
->>>>>>> 63f56484ed6a2452c50995eb1d15d7fe4ad28e1f
 * [Elektromobilität](https://www.opengeoedu.de/learn/elektromobilitaet)
 * [Umgebungslärm](https://www.opengeoedu.de/learn/umgebungslaerm)
 * [Offene Daten](https://www.opengeoedu.de/learn/opendata)
