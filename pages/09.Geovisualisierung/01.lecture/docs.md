@@ -7,7 +7,7 @@ taxonomy:
 
 # Überschrift 
 <br> 
-LOGO.PNG 
+![BKG_Logo](BKG_2017_Office_Farbe_de_400px.png)
 <br> 
 <p>Infos zur Einrichtung mehrzeilig ca. 1000 Zeichen</p>
 
