@@ -4,6 +4,7 @@ menu: Dokumentation für Autoren
 taxonomy:
     category:
         - docs
+<<<<<<< HEAD
 shortcode-core:
     active: false
     enabled: true
@@ -253,3 +254,22 @@ Danger Will Robinson! Danger, Will Robinson!
 [fa icon=fa-camera-retro extras=fa-4x /] Explicit format with extras - [See FontAwesome Examples](https://fortawesome.github.io/Font-Awesome/examples/)
 
 [fa icon=fa-circle-o-notch extras=fa-spin,fa-3x,fa-fw,margin-bottom /] The full monty! - [See FontAwesome Examples](https://fortawesome.github.io/Font-Awesome/examples/)
+=======
+---
+# Dokumentation der offenen Lernumgebung
+
+## Was ist <i class="fab fa-grav"></i> GRAV?
+Die zugrundeliegende Architektur von [Grav](https://getgrav.org/) basiert auf bewährten Technologien. Damit soll sichergestellt werden, dass OpenGeoEdu mit Grav einfach zu bedienen und einfach zu erweitern ist. Einige dieser Schlüsseltechnologien sind:
++ **Twig** Templating: für die Steuerung der Benutzeroberfläche
++ **Markdown**: zur einfachen Erstellung von Inhalten
++ **YAML**: für einfache Konfiguration
++ Parsedown: für schnelle Markdown und Markdown Extra Unterstützung
++ und weitere (Doctrine Cache,Pimple Dependency Injection Container, Symfony Event Dispatcher
+
+
+## Grundidee
+Die Erstellung und Aktualisierung der offenen Lerninhalte (Lectures) soll nach kurzem erlernen der Grundlagen vielen Interessierten möglich sein. Die Versionskontrolle und Kollaboration bei der Erstellung offener Inhalte soll durch Git(Hub) gewährleistet werden.
+
+Dazu folgendes Schema:
+![http://learn.hibbittsdesign.org/user/pages/03.openpublishingspace/02.work-flow/open-publishing-space-with-git-sync-workflow.png](gravgitworkflow.png?classes=caption "scheme by hibbittsdesign")
+>>>>>>> 63f56484ed6a2452c50995eb1d15d7fe4ad28e1f
