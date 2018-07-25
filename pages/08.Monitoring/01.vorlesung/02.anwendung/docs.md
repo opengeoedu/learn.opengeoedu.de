@@ -10,6 +10,8 @@ Der Bedarf an kleinräumigen Informationen ist vielfältig. Dabei können Praxis
 <!-- Table show follow a cronology of header 1, sub-header, image, URL -->
 <!-- use / after inserting a picture location -->
 
+<center>
+
   Flächennutzung |Klimaanpassung
 --|---
 (Grünvolumen) |(Luftbelastung)
@@ -22,6 +24,8 @@ Stadtplanung   | Energieforschung
 (Bodenwerte)  |  Geothermie-Potenzial
 ![](/pages/08.Monitoring/01.vorlesung/02.anwendung/abb_bodenwerte_lhs_dresden.png)  |  ![](/pages/08.Monitoring/01.vorlesung/02.anwendung/abb_geotherme_irena.png)
 [© 2017 LHS Dresden](http://stadtplan2.dresden.de/(S(oeqbrjpzbm5s4tydywh1vlbm))/spdd.aspx?TH=UW_WANDERWEGE)  |[© 2017 IRENA-GlobalAtlas](https://irena.masdar.ac.ae/gallery/#map/1645)
+
+</center>
 
 - Benötigt werden Informationen zur Flächennutzungsänderung und der Landschaftsqualität, des Gebäudebestandes, oder zukünftiger Verkehrsformen (Ausnutzungsdichte, Einwohnerdichte, Gebäudetyp, -alter, -nutzung, Energiebedarf, Erreichbarkeit, usw. auch durch nutzergenerierte Daten)
 - Informationspotenzial von HU-DE, GA, LoD1-DE, VGI hoch, aber noch ungenügend ausgeschöpft
