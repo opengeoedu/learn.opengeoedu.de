@@ -1,5 +1,5 @@
 ---
-title: 'Open Science'
+title: 'Offene Wissenschaft'
 taxonomy:
     category: docs
 ---
