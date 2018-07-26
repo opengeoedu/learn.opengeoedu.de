@@ -11,6 +11,5 @@ Offenheit ist ein immanenter Bestandteil der Wissenschaft. Der Zugang zu bewähr
 ![](openscience.png?lightbox=800&resize=500,300)
 
 !! Schauen Sie sich hierzu einmal folgendes [Video](https://www.youtube.com/watch?v=yspZkJQ2KLE) an. <br><span class="small"> Sollte das Video nicht mehr verfügbar sein, suchen Sie nach Alternativen.</p>
-[![](Video_OpenScience?resize=300&classes=caption "What is Open Science?")]
-
+[![](Video_OpenScience.png?resize=300&classes=caption "What is Open Science?(Quelle: OpenScience)")]
 

@@ -24,8 +24,6 @@ Der [Global Open Data Index](https://index.okfn.org/) stellt ein jährliches Ran
 
 Im August 2017 wurden 94 Länder mit 1410 Einträgen gelistet, von denen 166 frei verfügbar waren. Deutschland liegt im Ranking auf Platz 24. Führend sind Taiwan, Australien und Groß-Britannien.
 
-! * [Global Open Data Index](https://index.okfn.org/)
-
 !! * Schauen Sie sich im Global Open Data Index die Bewertung von Deutschland im Vergleich zu einem Land an der Spitze des Rankings an.
 !! * Betrachten Sie die Bewertung von Deutschland und vergleichen Sie dies mit Ihren persönlichen Erfahrungswerten zur Daten- und Informationspolitik.
 
