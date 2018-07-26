@@ -1,5 +1,5 @@
 ---
-title: 'Open Government'
+title: 'global'
 taxonomy:
     category: docs
 ---

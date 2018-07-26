@@ -1,5 +1,5 @@
 ---
-title: 'Open Government'
+title: 'vernetzt'
 taxonomy:
     category: docs
 ---
@@ -10,5 +10,5 @@ taxonomy:
 
 ![Quelle: Open Government Studie (2012), S. 80](opengov_plattform.png?classes=caption "Open Government Studie (2012), S. 80")
 
-!! Sehr anschaulich erklärt das Video aus der Schweiz den Nutzen offener Daten am Beispiel des Schweizer Open Government Portals:  [Video](https://www.youtube.com/watch?v=Bm0QxEpL5XE) an. <br><span class="small"> Sollte das Video nicht mehr verfügbar sein, suchen Sie nach Alternativen.</p>
-[![](OGDSchweiz.png?resize=300&classes=caption "opendata.swiss - das Portal für Schweizer Open Government Data (OGD) (Quelle: Wikimedia-Salon)")]
+!! Sehr anschaulich erklärt das [Video](https://www.youtube.com/watch?v=Bm0QxEpL5XE) aus der Schweiz den Nutzen offener Daten am Beispiel des Schweizer Open Government Portals.   <br><span class="small"> Sollte das Video nicht mehr verfügbar sein, suchen Sie nach Alternativen.</p>
+[![](OGDSchweiz.png?resize=300&classes=caption "opendata.swiss - das Portal für Schweizer Open Government Data (OGD) (Quelle: Wikimedia-Salon)")](https://www.youtube.com/watch?v=Bm0QxEpL5XE)

@@ -1,5 +1,5 @@
 ---
-title: 'Open Government'
+title: 'politisch'
 taxonomy:
     category: docs
 ---
