@@ -1,10 +1,8 @@
 ---
-title: 'Enstehung von Open Access' 
+title: 'Berliner Erklärung' 
 taxonomy:
     category: docs
 ---
-
-## Berliner Erklärung
 
 Mittlerweile ist die Berliner Erklärung von nahezu allen namhaften Wissenschaftsinstitutionen unterzeichnet worden. 
 Gemäß Berliner Erklärung müssen Open-Access-Veröffentlichungen zwei Voraussetzungen erfüllen:
