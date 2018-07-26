@@ -1,5 +1,5 @@
 ---
-title: 'Open Data'
+title: 'Pro und Contra Open Data'
 taxonomy:
     category: docs
 ---
