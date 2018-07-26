@@ -1,14 +1,14 @@
 ---
-title: 'Wissenschaftliche Daten'
+title: 'Beispielanwendungen'
 taxonomy:
     category:
         - docs
 ---
 
+Auf Grundlage dieser Prinzipien und als Bestandteil des **EU Horizon 2020** Programms befindet sich zur Zeit eine [Europäische Open Access Infrastruktur (OpenAIRE)](https://www.openaire.eu/) im Aufbau, welche bereits jetzt Zugang zu umfangreicher Open Access-Literatur und wissenschaftlichen Daten bereitstellt.
 
-Das Zeitalter der Digitalisierung eröffnet der Wissenschaft völlig neue Möglichkeiten, aber neue Probleme und Herausforderungen. Im Folgenden werden die besonderen Anforderungen an Daten und digitalen Ressourcen für wissenschaftlichen Gebrauch beschrieben.
 
-
+<!--
 
 
 Artikels traditionell durch Belege (d.h. direkte / indirekte) Zitate aus der wissenschtlichen Literatur
