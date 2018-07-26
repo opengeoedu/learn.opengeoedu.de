@@ -1,20 +1,8 @@
 ---
 title: Testumgebung für Ideen
 menu: Testumgebung
-published: true
-highlight:
 ---
 ## UML diagrams [liveditor](https://mermaidjs.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbkFbQ2hyaXN0bWFzXSAtLT58R2V0IG1vbmV5fCBCKEdvIHNob3BwaW5nKVxuQiAtLT4gQ3tMZXQgbWUgdGhpbmt9XG5DIC0tPnxPbmV8IERbTGFwdG9wXVxuQyAtLT58VHdvfCBFW2lQaG9uZV1cbkMgLS0-fFRocmVlfCBGW2ZhOmZhLWNhciBDYXJdXG4iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9fQ)
-
-[fa=cog /] Simplest Format
-
-[fa=fa-cog /] Format using fa- prefix
-
-[fa icon=fa-camera-retro /] Explicit format
-
-[fa icon=fa-camera-retro extras=fa-4x /] Explicit format with extras - See FontAwesome Examples
-
-[fa icon=fa-circle-o-notch extras=fa-spin,fa-3x,fa-fw,margin-bottom /] The full monty! - See FontAwesome Examples
 
 [sequence]
 A->B:Hi C for me !
