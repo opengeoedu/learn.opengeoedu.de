@@ -16,6 +16,6 @@ Neis, P., Zipf, A. (2008): OpenStreetMap - Grundlagen und Potenziale der freien 
 
 Ramm, F., Topf, J. (2008): OpenStreetMap -- Die freie Weltkarte nutzen und mitgestalten. Lehmanns Media, Berlin.
 
-Rössler (2014): Open Data. BDVI-Forum Heft 2.
+Rössler, R. (2014): Open Data. BDVI-Forum Heft 2. Seite 11-19.
 
 Sunlight Foundation (2010): Ten Principles for Opening Up Government Information. [http://sunlightfoundation.com/policy/documents/ten-open-data-principles]

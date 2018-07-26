@@ -6,7 +6,7 @@ taxonomy:
 
 ## Kriterien für offene Daten
 
-Die Sunlight Foundation hat 2010 zehn Prinzipien für die Offenheit behördlicher Daten definiert und 2014 fortgeschrieben.[Sunlight Foundation](https://sunlightfoundation.com/wp-content/uploads/2016/11/Ten-Principles-for-Opening-Up-Government-Data.pdf)
+Die Sunlight Foundation hat 2010 zehn Prinzipien für die Offenheit behördlicher Daten definiert und 2014 fortgeschrieben. [Sunlight Foundation](https://sunlightfoundation.com/wp-content/uploads/2016/11/Ten-Principles-for-Opening-Up-Government-Data.pdf)
 
 1. Vollständigkeit (Completeness)
 <p>Alle öffentlichen Daten werden verfügbar gemacht. Öffentliche Daten sind Daten, die nicht berechtigten Datenschutz-, Sicherheits- oder Zugangsbeschränkungen unterliegen.</p>

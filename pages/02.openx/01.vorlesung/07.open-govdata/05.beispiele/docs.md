@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-## Beispiele offener Verwaltungsdaten - von der EU bis zur Kommune
+## Offene Verwaltungsdaten - von der EU bis zur Kommune
 
 Auf den unterschiedlichsten administrativen Ebene von der EU bis zur Kommune finden sich zahlreiche Angebote offener Verwaltungsdaten, meist geordnet nach Rubriken wie
 * Geographie, Geologie und Geobasisdaten
@@ -28,10 +28,10 @@ Eine kleine Auswahl von Portalen findet sich hier. Eine umfassende Einstiegsseit
 | :-- | :-- | :-- |
 | ![](europeandataportal.png?lightbox&resize=200,200) | ![](openGOVdata_D.png?lightbox&resize=200,200) | ![](opendata.HRO.png?lightbox&resize=200,200)
 
-!! Den Nutzen auf kommunaler Ebene illustriert der Abschlussfilm zum Pilotprojekt Kommunales Open Government NRW: [Video](https://open.nrw/abschlussfilm-zum-pilotprojekt-kommunales-open-government-nrw) an. <br><span class="small"> Sollte das Video nicht mehr verfügbar sein, suchen Sie nach Alternativen.</p>
-[![](OGDNRW.png?resize=300&classes=caption "Kommunales Open Government NRW")]
+!! Den Nutzen auf kommunaler Ebene illustriert das [Video](https://open.nrw/abschlussfilm-zum-pilotprojekt-kommunales-open-government-nrw) zum Pilotprojekt Kommunales Open Government NRW. <br><span class="small"> Sollte das Video nicht mehr verfügbar sein, suchen Sie nach Alternativen.</p>
+[![](OGDNRW.png?resize=300&classes=caption "Kommunales Open Government NRW")](https://open.nrw/abschlussfilm-zum-pilotprojekt-kommunales-open-government-nrw)
 
 !! * Suchen Sie sich ein Open Data Portal aus und schauen Sie sich die darin enthaltenen Datenangebote an. Gerne können Sie sich an dieser Stelle auch schon das von OpenGeoEdu bereitgestellte Portal der Datenportale anschauen. 
 
-[Hier geht es zum Übersichtsportal zu Open Data Portalen](http://portal.opengeoedu.de/)
+! Hier geht es zum Übersichtsportal zu [Open Data Portalen](http://portal.opengeoedu.de/)
 
