@@ -6,9 +6,9 @@ taxonomy:
         - docs
 ---
 
-## Datenzugang
+## Datenzugang Landüberwachung
 
-Datenzugang des Landüberwachungs-Services: Der Copernicus Land Monitoring Service ist erreichbar unter https://land.copernicus.eu. Die Daten stehen nach kostenloser Registrierung (EIONET Account) zur Verfügung.
+Der Copernicus Land Monitoring Service ist erreichbar unter https://land.copernicus.eu. Die Daten stehen nach kostenloser Registrierung (EIONET Account) zur Verfügung.
 Dort werden Globale, europaweite, lokale und in-situ Daten angeboten. Vorrangig handelt es sich dabei um biophysikalische Parameter und LULC-Daten (Land Use/Land Cover, deutsch: Landnutzung/Landbedeckung). 
 
 Die *globale Komponente* liefert Daten über eine breite Palette von biophysikalischen Variablen auf globaler Ebene, die den Zustand der Vegetation (leaf area index, fraction of green vegetation cover, vegetation condition index), den Energiehaushalt (Albedo, Landoberflächentemperatur, top of canopy reflectance) und den Wasserkreislauf (soil water index, water bodies) beschreiben. [Global](https://land.copernicus.eu/global/)
