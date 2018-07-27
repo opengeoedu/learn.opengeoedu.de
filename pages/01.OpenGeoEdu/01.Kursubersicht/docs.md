@@ -133,7 +133,9 @@ anchors:
                 <h3 class="text-center">
                     Flächenmonitoring
                 </h3>
-                <img class="img-fluid" src="/images/ioerstandderforschung.png">
+                <div class="embed-responsive embed-responsive-16by9">
+                  <iframe class="embed-responsive-item" src="//slideshare.net/slideshow/embed_code/key/wkPbpeNuVIuugR" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                </div>
                 <div class="card-body text-justify">
                     Eine nachhaltige Siedlungsentwicklung, d.h. geringer Flächenverbrauch, Begrünung der Städte, Vermeidung von Zersiedelung
                     durch Innen- vor Außenentwicklung usw.,
