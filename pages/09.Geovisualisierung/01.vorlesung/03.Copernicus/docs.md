@@ -9,7 +9,7 @@ taxonomy:
 
 ![CopernicusLogo](Copernicus2.png)  
 
-Das Copernicus-Vorgängerprogramm war das Global Monitoring for Environment and Security (GMES, deutsch: Globale Umwelt- und Sicherheitsüberwachung) welches 1998 von der EU und der ESA ins Leben gerufen wurde. Im Jahr 2012 wurde es dann in Copernicus umbenannt. 
+Das Copernicus-Vorgängerprogramm war das Global Monitoring for Environment and Security (GMES, deutsch: Globale Umwelt- und Sicherheitsüberwachung) welches 1998 von der EU und der ESA ins Leben gerufen wurde. Im Jahr 2012 wurde es dann in Copernicus umbenannt und überführt. 
 
 Die Copernicus Kerndienste stellen umfangreiche Grundlageninformationen bereit, die für vielfältige Anwendungen weiter verarbeitet werden können. Die Dienste „Überwachung des Klimawandels“ und „Sicherheit“ befinden sich noch in der Entwicklung. 
 Das Programm besteht aus den folgenden sechs Kerndiensten:
@@ -24,9 +24,10 @@ In dieser Lerneinheit soll der Fokus auf das Landmonitoring liegen.
 
 
 ![CopernicusDienste](Copernicus_Dienste_1.png)
-*Die sechs Copernicus Dienste.*
+*Die sechs Copernicus Dienste. https://www.d-copernicus.de/daten/daten-eu-kerndienste/*
 <br><br>
-Im Rahmen von Copernicus gibt es im Grunde vier Projektkomponenten: die Basis bilden zum einen die __(i)__ Satelliten und beitragenden Missionen sowie das Bodensegment, zum anderen die nationalen **(ii)** in-situ Messnetze. Hinter der in-situ Komponente verbergen sich alle Daten, die nicht aus dem Weltraum gewonnen wurden (außer Daten wie z.B. SRTM). Darauf aufbauend operieren die __(iii)__ sechs thematischen Dienste, die durch Fachagenturen wie die Europäische Umweltagentur (EEA) umgesetzt werden. Die daraus resultierenden Informationen werden zusammengetragen und aufbereitet sowie für die __(iv)__ Endnutzer bereitgestellt. Dazu zählen behördliche Anwender und Verwaltung, Politik, Wissenschaft, kommerzielle Unternehmen, Start-Ups oder gemeinnützige Organisationen und Bürger ...bzw. jeder.
+
+Im Rahmen von Copernicus gibt es im Grunde vier Projektkomponenten: zum einen die __(i)__ Satelliten und beitragenden Missionen sowie das Bodensegment, zum anderen die nationalen **(ii)** in-situ Messnetze. Hinter der in-situ Komponente verbergen sich alle Daten, die nicht aus dem Weltraum gewonnen wurden (außer Daten wie z.B. SRTM). Darauf aufbauend operieren die __(iii)__ sechs thematischen Dienste, die durch Fachagenturen wie die Europäische Umweltagentur (EEA) umgesetzt werden. Die daraus resultierenden Informationen werden zusammengetragen und aufbereitet sowie für die __(iv)__ Endnutzer bereitgestellt. Dazu zählen behördliche Anwender und Verwaltung, Politik, Wissenschaft, kommerzielle Unternehmen, Start-Ups oder gemeinnützige Organisationen und Bürger ...bzw. jeder.
 
 ![CopernicusKomponenten](Copernicus_Komponenten.png)
 
@@ -40,7 +41,7 @@ __Sentinel-1__
 
 ![S1](Sentinel-1.png)
 
-*Radar --> aktiv*
+*Radar --> aktiv. &copy; ESA*
  
  <br><br>
  
@@ -48,7 +49,7 @@ __Sentinel-2__
 
 ![S2](Sentinel-2_2.png)
 
-*optisch Multispektral --> passiv*
+*optisch Multispektral --> passiv. &copy; ESA*
  
 <br><br>  
 
@@ -56,4 +57,4 @@ __Sentinel-3__
 
 ![S3](Sentinel-3.png)
 
-*Radar & Multispektral --> aktiv & passiv*
+*Radar & Multispektral --> aktiv & passiv. &copy; ESA*
