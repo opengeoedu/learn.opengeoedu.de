@@ -71,4 +71,4 @@ Hier dargestellt die Entwicklung der Siedlungsdichte und Bevölkerung und differ
 
 Hier sehen Sie die Veränderung der Siedlungsdichte auf Gemeindeebene.
 
-Weitere Analyse finden Sie auf:  http://www.ioer-monitor.de/ergebnisse
+!!! **Weitere Analyse finden Sie auf:**  http://www.ioer-monitor.de/ergebnisse
