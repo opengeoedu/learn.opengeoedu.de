@@ -15,6 +15,5 @@ OpenStreetMap ist ein im Jahre 2004 gegründetes Projekt mit dem Ziel, eine frei
 ## OSM in Rostock
 Die folgende Abbildung zeigt einen Ausschnitt aus OpenStreetMap am Standort Rostock.
 
-[![Rostock in Open Street Map
-](HRO_OSM.png?classes=caption "Rostock in Open Street Map")](https://www.openstreetmap.org/#map=11/54.0928/12.1275)
+[![Rostock in Open Street Map](HRO_OSM.png?classes=caption "Rostock in Open Street Map")](https://www.openstreetmap.org/#map=11/54.0928/12.1275)
 
