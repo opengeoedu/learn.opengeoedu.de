@@ -11,25 +11,25 @@ Der Bedarf an kleinräumigen Informationen ist vielfältig. Dabei können Praxis
 
 ![abb_gruenvolumen_ua_berlin](abb_gruenvolumen_ua_berlin.png)
 
-[Umweltatlas-Berlin](http://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=showMap&mapId=wmsk05_09_gruendvol2010@senstadt)
+Quelle: [Umweltatlas-Berlin](http://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=showMap&mapId=wmsk05_09_gruendvol2010@senstadt)
 
 **Klimaanpassung (Luftbelastung)**
 
 ![abb_luftbelastung_lhs_sttutgart](abb_luftbelastung_lhs_sttutgart.png)
 
-[LHS Stuttgart](http://gis6.stuttgart.de/maps/index.html?karte=stadtklima&embedded=true#basemap=0&centerX=3516118.9675944396&centerY=5406021.037465078&scale=25000&layerIds=279.281)
+Quelle: [LHS Stuttgart](http://gis6.stuttgart.de/maps/index.html?karte=stadtklima&embedded=true#basemap=0&centerX=3516118.9675944396&centerY=5406021.037465078&scale=25000&layerIds=279.281)
 
 **Stadtplanung (Bodenwerte)**
 
 ![abb_bodenwerte_lhs_dresden](abb_bodenwerte_lhs_dresden.png)
 
-[LHS Dresden](http://stadtplan2.dresden.de/(S(oeqbrjpzbm5s4tydywh1vlbm))/spdd.aspx?TH=UW_WANDERWEGE)
+Quelle: [LHS Dresden](http://stadtplan2.dresden.de/(S(oeqbrjpzbm5s4tydywh1vlbm))/spdd.aspx?TH=UW_WANDERWEGE)
 
 **Energieforschung (Geothermie-Potenzial)**
 
 ![abb_geotherme_irena](abb_geotherme_irena.png)
 
-[IRENA-GlobalAtlas](https://irena.masdar.ac.ae/gallery/#map/1645)
+Quelle: [IRENA-GlobalAtlas](https://irena.masdar.ac.ae/gallery/#map/1645)
 
 
 
