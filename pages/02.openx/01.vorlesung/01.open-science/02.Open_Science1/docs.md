@@ -9,4 +9,4 @@ Ob Publikationen, Daten, Programmcode oder Lehrmaterialien - weltweit haben Fors
 
 Eine der zentralen Herausforderungen von Open Science ist, die langfristige Nutzung von wissenschaftlichen Verfahren und Erkenntnissen in neuen Zusammenhängen zu ermöglichen. Hierfür müssen rechtliche, technische und kulturelle Rahmenbedingungen berücksichtigt werden. Publikationen, Methoden und andere Objekte des Forschungsprozesses sind so zu öffnen, dass sie transparent, nachvollziehbar und nachnutzbar sind. Durch die vielfältigen Möglichkeiten im Umgang mit wissenschaftlichen Erkenntnissen fördert Open Science die Entwicklung von Wirtschaft und Gesellschaft.
 
-! Weiterführende Informationen unter: [Open Science](https://www.ag-openscience.de/open-science/) - die Open Science AG der OKF
+! Weiterführende Informationen unter: [Open Science](https://www.ag-openscience.de/open-science/) - die Open Science AG der Open Knowledge Foundation
