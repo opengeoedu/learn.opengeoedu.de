@@ -13,3 +13,5 @@ Das Konzept „Open Access“ will den Zugang zu wissenschaftlichen Erkenntnisse
 
 !! Schauen Sie sich hierzu einmal folgendes [Video](https://www.youtube.com/watch?v=PZhMtUvypbI) an. <br><span class="small"> Sollte das Video nicht mehr verfügbar sein, suchen Sie nach Alternativen.</p>
 [![](OpenAccess.png?resize=300&classes=caption "Open Access (Quelle: Wikimedia-Salon)")](https://www.youtube.com/watch?v=PZhMtUvypbI)
+
+!! OA und creativecommons - Typen kurz erklärt: https://youtu.be/gzRgknylTEM
