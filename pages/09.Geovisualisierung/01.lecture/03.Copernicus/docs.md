@@ -9,7 +9,7 @@ taxonomy:
 
 ![CopernicusLogo](Copernicus2.png)  
 
-Das Copernicus-Vorgängerprogramm war das Global Monitoring for Environment and Security (GMES, deutsch: Globale Umwelt- und Sicherheitsüberwachung) welches 1998 von der EU und der ESA ins Leben gerufen wurde. Im Jahr 2012 wurde es dann in Copernicus umbenannt. 
+Das Copernicus-Vorgängerprogramm war das Global Monitoring for Environment and Security (GMES, deutsch: Globale Umwelt- und Sicherheitsüberwachung) welches 1998 von der EU und der ESA ins Leben gerufen wurde. Im Jahr 2012 wurde es dann in Copernicus umbenannt und überführt. 
 
 Die Copernicus Kerndienste stellen umfangreiche Grundlageninformationen bereit, die für vielfältige Anwendungen weiter verarbeitet werden können. Die Dienste „Überwachung des Klimawandels“ und „Sicherheit“ befinden sich noch in der Entwicklung. 
 Das Programm besteht aus den folgenden sechs Kerndiensten:
