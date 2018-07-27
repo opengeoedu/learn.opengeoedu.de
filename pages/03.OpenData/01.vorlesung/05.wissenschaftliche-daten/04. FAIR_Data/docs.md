@@ -8,7 +8,7 @@ taxonomy:
 
 
 
-Eine Empfehlung der EU sind die **FAIR Richtlinien** für wissenschaftliches Datenmanagement und -verwaltung, demzufolge wissenschaftliche Daten auffindbar, **zugänglich, interoperabel und wiederverwendbar** sein sollten (**F**indable, **A**ccessible, **I**nteroperabel and **R**eusable = **FAIR**). 
+Eine Empfehlung der EU sind die **FAIR Richtlinien** für wissenschaftliches Datenmanagement und -verwaltung, demzufolge wissenschaftliche Daten auffindbar, **zugänglich, interoperabel und wiederverwendbar** sein sollten (**F**indable, **A**ccessible, **I**nteroperabel and **R**eusable = **FAIR**).
 
 ### Auffindbarkeit (to be **F**indable)
 
@@ -47,3 +47,9 @@ Das wissenschaftliche Arbeiten mit Daten
 - Research Compendia
 - Daten Zitieren
 -->
+
+[deutsch_etymologie](https://de.wikipedia.org/wiki/Deutsch_(Etymologie))
+
+[deutsch_etymologie](https://de.wikipedia.org/wiki/Deutsch_%28Etymologie%29)
+
+Deutsch_%28Etymologie%29
