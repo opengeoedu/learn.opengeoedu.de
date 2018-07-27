@@ -1,2 +1,2 @@
 #!/bin/bash
-bibtex2html -nofooter -a -s authordate1 -nobibsource open_data_quellen.bib
+bibtex2html -nokeys -nofooter -a -s authordate1 -nobibsource open_data_quellen.bib
