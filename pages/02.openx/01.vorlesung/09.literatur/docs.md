@@ -4,11 +4,11 @@ taxonomy:
     category: docs
 ---
 
-BMI (2012): Open Government Data Germany. Eine Studie zu Open Government in Deutschland im Auftrag des Bundesministeriums des Innern. Juli  2012. [http://www.bmi.bund.de/DE/Themen/OeffentlDienstVerwaltung/ModerneVerwaltung/OpenGovernment/op] Alternativer Link (researchgate)
+BMI (2012): Open Government Data Germany. Eine Studie zu Open Government in Deutschland im Auftrag des Bundesministeriums des Innern. Juli  2012. [http://www.bmi.bund.de/DE/Themen/OeffentlDienstVerwaltung/ModerneVerwaltung/OpenGovernment/op]
 
-Bundesregierung (2012): Vorsprung durch Geoinformationen. Dritter Bericht der Bundesregierung über die Fortschritte zur Entwicklung der verschiedenen Felder des Geoinformationswesens im nationalen, europäischen und internationalen Kontext. 3. Geo-Fortschrittsbericht der Bundesregierung. Bundesministerium des Innern.
+Bundesregierung (2012): Vorsprung durch Geoinformationen. Dritter Bericht der Bundesregierung über die Fortschritte zur Entwicklung der verschiedenen Felder des Geoinformationswesens im nationalen, europäischen und internationalen Kontext. 3. Geo-Fortschrittsbericht der Bundesregierung. Bundesministerium des Innern. [https://www.bmi.bund.de/SharedDocs/downloads/Webs/IMAGI/DE/Geofortschrittsberichte/3-fortschrittsbericht.html]
 
-GeoZG (2009): über den Zugang zu digitalen Geodaten (Geodatenzugangsgesetz - GeoZG) vom 10.02.2009.
+GeoZG (2009): über den Zugang zu digitalen Geodaten (Geodatenzugangsgesetz - GeoZG) vom 10.02.2009.[http://www.gesetze-im-internet.de/geozg/]
 
 Grassmuck, V. (2004): Freie Software. Zwischen Privat- und Gemeineigentum. Schriftenreihe Themen und Materialien. Bundeszentrale für Politische Bildung. Band 458. [http://freie-software.bpb.de/]
 
