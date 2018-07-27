@@ -18,7 +18,7 @@ Zusätzlich: Sentinel-3 PreOps Hub, API Hub.
 Der zweite Datenzugang ist __CODE-DE__ (Copernicus Data and Exploitation platform), erreichbar unter https://code-de.org. Auch hier ist eine Registrierung notwendig und kostenlos. Der Dienst bietet ebenso Sentinel-1 & -2 an. Es gibt einen offenen Such- und Darstellungsdienst sowie eine Toolsammlung zur Analyse von Sentinel-Daten. Der Kostenpflichtige Zugang ermöglicht darüber hinaus die Nutzung der online Prozessierungsumgebung.
 
 
-![code-de](code-de1.png)
+![code-de](code-de.png)
 *Datenzugang via CODE-DE.*
 
 !!!! Recherchieren Sie nach wolkenfreien (Wolkenbedeckung bis max. 10 %) Sentinel-2 Aufnahmen der Stadt Frankfurt am Main, die im zweiten Halbjahr 2017 erfasst wurden. 
