@@ -47,9 +47,3 @@ Das wissenschaftliche Arbeiten mit Daten
 - Research Compendia
 - Daten Zitieren
 -->
-
-[deutsch_etymologie](https://de.wikipedia.org/wiki/Deutsch_(Etymologie))
-
-[deutsch_etymologie](https://de.wikipedia.org/wiki/Deutsch_%28Etymologie%29)
-
-Deutsch_%28Etymologie%29
