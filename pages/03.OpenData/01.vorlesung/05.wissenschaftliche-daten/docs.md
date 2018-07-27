@@ -6,7 +6,7 @@ taxonomy:
 ---
 
 Das Zeitalter der Digitalisierung eröffnet der Wissenschaft völlig neue Möglichkeiten, aber neue Probleme und Herausforderungen. Im Folgenden werden die besonderen Anforderungen an Daten und digitalen Ressourcen für wissenschaftlichen Gebrauch beschrieben.
-
+test test
 
 <!--
 Artikels traditionell durch Belege (d.h. direkte / indirekte) Zitate aus der wissenschtlichen Literatur
