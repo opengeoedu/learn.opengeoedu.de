@@ -26,7 +26,6 @@ Eckdaten Sentinel-2:
 
 ![Tiles](Senitinel-2_Tiles_GoogleEarth.png)
 *Globale Abdeckung mit Sentinel-2 als 100x100 km Kacheln.* 
-
 <br><br>
 
 ## Räumliche Auflösung
@@ -35,7 +34,7 @@ Die räumliche Auflösung beschreibt vor allem die Pixelgröße bzw. den Pixelab
 <br><br>
 
 Vergleich von Sentinel-2 und Luftbild: 
-<iframe src="https://h5p.org/h5p/embed/239827" width="100%" height="600" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://h5p.org/h5p/embed/239827" width="100%" height="1065" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <br><br>
 
 !!!! __Aufgabe:__ Beispiele unterschiedliche räumliche Auflösungen in der Fernerkundung:
