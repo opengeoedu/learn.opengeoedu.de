@@ -1,5 +1,5 @@
 ---
-title: 'Sentinel-2'
+title: 'Sentinel-2, Teil 1'
 taxonomy:
     category:
         - docs
