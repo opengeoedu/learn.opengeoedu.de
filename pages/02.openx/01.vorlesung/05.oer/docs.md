@@ -12,7 +12,4 @@ Offene Bildungsinhalte sind somit freie Inhalte, die für den Bildungsbereich er
 ![OER](oer.png?classes=caption "[Markus Büsges (leomaria design) für Wikimedia Deutschland e.V.](https://commons.wikimedia.org/wiki/File:OER_Logo_Open_Educational_Resources.png), Lizenz: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)")
 
 
-!!! Weitferführende Informationen
-!!! * [UNESCO - OER](http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/)
-!!! * [ZUM-Wiki | Zentrale für Unterrichtsmedien im Internet e.V.](http://wikis.zum.de/zum/Open_Educational_Resources)
-!!! * [Diskussion zu den OER Logos](https://open-educational-resources.de/offizielles-oer-logo/)
+! Weiterführende Informationen unter: [UNESCO - OER](http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/), [ZUM-Wiki | Zentrale für Unterrichtsmedien im Internet e.V.](http://wikis.zum.de/zum/Open_Educational_Resources) und [Diskussion zu den OER Logos](https://open-educational-resources.de/offizielles-oer-logo/)

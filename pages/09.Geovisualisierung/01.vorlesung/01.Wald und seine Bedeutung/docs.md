@@ -23,7 +23,6 @@ Der Wald dient für die meisten von uns in erster Linie zur Naherholung und für
 </p>
 
 *Wälder übernehmen verschiedene soziale, ökologische und ökonomische Funktionen. Geändert nach Thomas (2012).*
-<br><br>-->
 
 Die Aichi-Ziele ([Aichi Biodiversity Targets](https://www.cbd.int/sp/targets)) wurden 1993 zur Umsetzung der UN Konvention zur Biologischen Vielfalt (Convention on Biological Diversity, CBD) formuliert. Sie sehen vor bis 2020 den Verlust Lebensraum zu halbieren, die Überfischung der Meere zu stoppen und mehr Flächen als Schutzgebiete auszuweisen.
 
