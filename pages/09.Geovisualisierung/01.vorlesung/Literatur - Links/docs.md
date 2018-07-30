@@ -15,13 +15,13 @@ Elatawneh, A., Wallner, A., Manakos, I., Schneider, T., Knoke, T., 2014. Forest 
 
 Ewald Fassnacht, F., Latifi, H., Stereńczak, K., Modzelewska, A., Lefsky, M., Waser, L.T., Straub, C., Ghosh, A., 2016. Review of studies on tree species classification from remotely sensed data. Remote Sens. Environ. 186, 64–87. https://doi.org/10.1016/j.rse.2016.08.013
 
-Kokaly, R.F., Clark, R.N., Swayze, G.A., Livo, K.E., Hoefen, T.M., Pearson, N.C., Wise, R.A., Benzel, W.M., Lowers, H.A., Driscoll, R.L., Klein, A.J., 2017. USGS Spectral Library Version 7: U.S. Geological Survey Data Series 1035. https://doi.org/https://doi.org/10.3133/ds1035
-
 Gardiner, B., Blennow, K., Carnus, J., Fleischer, P., Ingemarson, F., Landmann, G., Lindner, M., Marzano, M., Nicoll, B., Orazio, C., Peyron, J., Schelhaas, M., Schuck, A., Usbeck, T., 2010. Destructive Storms in European Forests : Past and Forthcoming Impacts. Final Rep. to Eur. Comm. - DG Environ. 138. https://doi.org/10.13140/RG.2.1.1420.4006
 
 Henrich, V., Krauss, G., Götze, C., Sandow, C., 2012. Index DataBase - A database for remote sensing indices [WWW Document]. IDB - Entwicklung einer Datenbank für Fernerkundungsindizes. URL www.indexdatabase.de
 
 Huete, A.R., 2012. Vegetation Indices, Remote Sensing and Forest Monitoring. Geogr. Compass 6, 513–532.
+
+Kokaly, R.F., Clark, R.N., Swayze, G.A., Livo, K.E., Hoefen, T.M., Pearson, N.C., Wise, R.A., Benzel, W.M., Lowers, H.A., Driscoll, R.L., Klein, A.J., 2017. USGS Spectral Library Version 7: U.S. Geological Survey Data Series 1035. https://doi.org/https://doi.org/10.3133/ds1035
 
 Remelgado, R., Notarnicola, C., Sonnenschein, R., 2014. Forest damage assessment using SAR and optical data: Evaluating the potential for rapid mapping in mountains. EARSeL eProceedings, Spec. Issue 34th EARSeL Symp. 2014 34, 76–81. https://doi.org/10.12760/02-2014-1-14
 
@@ -31,10 +31,10 @@ Schelhaas, M.-J., 2008. Impacts of Natural Disturbances on the Development of Eu
 
 Schwarz, M., Steinmeier, C., Holecz, F., Stebler, O., Wagner, H., 2003. Detection of Windthrow in Mountainous Regions with Different Remote Sensing Data and Classification Methods. Scand. J. For. Res. 18, 525–536. https://doi.org/https://doi.org/10.1080/02827580310018023
 
-Seitz, R., Straub, C., 2017. FastResponse - die schnelle Antwort nach dem Sturm. LWF Aktuell 4, 14–16.
-Steinmeier, C., Schwarz, M., Holecz, F., Stebler, O., Wagner, H., 2002. Evaluation moderner Fernerkundungsmethoden zur Sturmschadenerkennung im Wald. Eidg. Forschungsanstalt WSL, Birmensdorf.
+Seitz, R., Straub, C., 2017. FastResponse - die schnelle Antwort nach dem Sturm. LWF Aktuell 4, 14–16. Steinmeier, C., Schwarz, M., Holecz, F., Stebler, O., Wagner, H., 2002. Evaluation moderner Fernerkundungsmethoden zur Sturmschadenerkennung im Wald. Eidg. Forschungsanstalt WSL, Birmensdorf.
 
 Thomas, V., 2012. Hyperspectral remote sensing for forest management, in: Thenkabail, P., Lyon, J.G., Huete, A. (Eds.), Hyperspectral Remote Sensing of Vegetation. CRC Press, Taylor & Francis Group, Boca Raton, p. 705.
+
 
 
 ...tbc
