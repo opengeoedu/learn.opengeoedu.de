@@ -16,20 +16,18 @@ Um Ihnen den Einstieg in die OpenGeoEdu-Lerneinheiten zu erleichtern, bieten wir
 
 *	Datenblätter: Ein Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich. 
 
-## Selbsteinschätzung `test.opengeoedu.de/ABC`
+## Selbsteinschätzung
+
+[![](icons8-test-absolviert-64.png?resize=100&classes=caption "Selbsteinschätzung")](http://test.opengeoedu.de/workload.aspx)
+
+## Workloadrechner 
+
+[![](icons8-taschenrechner-64.png?resize=100&classes=caption "Selbsteinschätzung")](http://test.opengeoedu.de/workload.aspx)
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" src="http://test.opengeoedu.de/"> </iframe>
 </div>
 
-## Workloadrechner `test.opengeoedu.de/ABC`
+## Modulbeschreibung
 
-<div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="http://test.opengeoedu.de/"> </iframe>
-</div>
-
-## Modulbeschreibung `test.opengeoedu.de/ABC`
-
-<div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="http://test.opengeoedu.de/"> </iframe>
-</div>
+[Modulbeschreibung](OGE Modulbeschreibung.pdf)
