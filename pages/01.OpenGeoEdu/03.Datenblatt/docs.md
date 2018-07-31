@@ -19,15 +19,15 @@ Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, s
 
 ### (Reichweite: Regional - Level: Advanced - Basic - Click-by-Click)
 
-[Biomassepotenziale ](OGE Datenblatt_DBFZ_Quick_Scan_A_B_C.pdf)
+[Biomassepotenziale](OGE Datenblatt_DBFZ_Quick_Scan_A_B_C.pdf)
 
 ### (Reichweite: National - Level: Basic und Click-by-Click)
 
-[Biomassepotenziale ](OGE Datenblatt_Biogut_DBFZ_national_B_C.pdf)
+[Biomassepotenziale](OGE Datenblatt_Biogut_DBFZ_national_B_C.pdf)
 
 ### (Reichweite: National - Level: Advanced)
 
-[Biomassepotenziale ](OGE Datenblatt_DBFZ_Biogut_national_A.pdf)
+[Biomassepotenziale](OGE Datenblatt_DBFZ_Biogut_national_A.pdf)
 
 ## Fallbeispiele Flächenmonitoring
 
