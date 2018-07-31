@@ -39,27 +39,29 @@ Thomas, V., 2012. Hyperspectral remote sensing for forest management, in: Thenka
 
 ...tbc
 
-•	OpenGeoEdu:  www.opengeoedu.de 
+-	OpenGeoEdu:  www.opengeoedu.de 
 
-•	Copernicus:  http://www.d-copernicus.de 
+-	Copernicus:  http://www.d-copernicus.de 
 
-•	QGIS:  https://www.qgis.org/de/site/
-
-•	SNAP:  http://step.esa.int/main/download/ 
-
-•	Sentinel-2:
-  •	CODE-DE  https://code-de.org 
-  •	Copernicus Open Access Hub (Sci-Hub):  https://scihub.copernicus.eu  
+-	Sentinel-2:
+    -   CODE-DE  https://code-de.org 
+    -	Copernicus Open Access Hub (Sci-Hub):  https://scihub.copernicus.eu  
   
-•	Sentinel Hub:  
-•	Sentinel 2 EO products (Bsp. Farbkompositen, Vegetationsindizes): 				  https://www.sentinel-hub.com/develop/documentation/eo_products/Sentinel2EOproducts 
+-	Sentinel Hub:  
+    -	Sentinel 2 EO products (Bsp. Farbkompositen, Vegetationsindizes): https://www.sentinel-hub.com/develop/documentation/eo_products/Sentinel2EOproducts 
 
-•	Playground:  https://apps.sentinel-hub.com/sentinel-playground/ 
+    -	Playground:  https://apps.sentinel-hub.com/sentinel-playground/ 
 
-•	EO Browser:  https://apps.sentinel-hub.com/eo-browser/ 
+    -	EO Browser:  https://apps.sentinel-hub.com/eo-browser/ 
 
-•	USGS Sentinel2Look:  https://landsatlook.usgs.gov/sentinel2/viewer.html 
+-	USGS Sentinel2Look:  https://landsatlook.usgs.gov/sentinel2/viewer.html 
 
-•	Index DataBase:  https://www.indexdatabase.de/ 
+-   USGS Earth Explorer: https://earthexplorer.usgs.gov/
 
-•	OpenStreetMap: www.openstreetmap.org 
+-	Index DataBase:  https://www.indexdatabase.de/ 
+
+-	QGIS:  https://www.qgis.org/de/site/
+
+-	SNAP:  http://step.esa.int/main/download/ 
+
+-	OpenStreetMap: www.openstreetmap.org 
