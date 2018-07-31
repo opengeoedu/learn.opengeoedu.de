@@ -61,7 +61,7 @@ OpenGeoEdu ist für raumbezogene Studiengänge im deutschsprachigen Raum entworf
 [/ui-accordion-item]
 [ui-accordion independent=true open=none]
 [ui-accordion-item title="Welche Vorteile habe ich als Lehrender?"]
-Sie können zusätzlich zu Ihrer Expertise das Know how anderer Lehrender aus einem interdisziplinären Umfeld einbinden. Zudem integrieren Sie innovative multimediale Lehre und zeitgemäße Prüfungsmethoden in ihre Veranstaltungen und errmöglichen Studierenden mehr Freiheiten (räumlich, zeitlich) in der Kursbearbeitung. 
+Sie können zusätzlich zu Ihrer Expertise das Know how anderer Lehrender aus einem interdisziplinären Umfeld einbinden. Zudem integrieren Sie innovative multimediale Lehre und zeitgemäße Prüfungsmethoden in Ihre Veranstaltungen und errmöglichen Studierenden eine größere räumliche, zeitliche und inhaltliche Freiheit in der Kursbearbeitung. 
 [/ui-accordion-item]
 [ui-accordion-item title="Wie kann ich als Lehrender OpenGeoEdu nutzen?"]
 Als Lehrender können Sie Ihren Studierenden die Option bieten, statt z.B. einer Übungseinheit bei Ihnen eine Lehreinheit von OpenGeoEdu durchzuarbeiten. Sie erhalten das Ergebnis Ihrer Studierenden mit Workload, Note und Zertifikat und berücksichtigen dies in der Abrechnung Ihrer Lerneinheit.
