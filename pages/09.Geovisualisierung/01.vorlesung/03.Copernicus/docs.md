@@ -20,7 +20,7 @@ Das Programm besteht aus den folgenden sechs Kerndiensten:
 -	Überwachung des Klimawandels (Copernicus Climate Change Service, C3S)
 -	Sicherheit (Copernicus Security service)
 
-In dieser Lerneinheit soll der Fokus auf das Landmonitoring liegen.
+In dieser Lerneinheit soll der Fokus auf dem Landmonitoring liegen.
 
 
 ![CopernicusDienste](Copernicus_Dienste_1.png?classes=caption "Die sechs Copernicus Dienste. https://www.d-copernicus.de/daten/daten-eu-kerndienste/")
