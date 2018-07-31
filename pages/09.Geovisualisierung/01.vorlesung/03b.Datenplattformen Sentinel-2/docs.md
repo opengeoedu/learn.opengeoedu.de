@@ -13,15 +13,13 @@ Der erste Datenzugang erfolgt über den __Sci-Hub__ der Europäischen Raumfahrtb
 Zusätzlich: Sentinel-3 PreOps Hub, API Hub.
 <br><br>
 
-![scihub](scihub1.png)
-*Datenzugang via ESA SciHub.*
+![scihub](scihub1.png?classes=caption "Datenzugang via ESA SciHub.")
 <br><br>
 
 Der zweite Datenzugang ist __CODE-DE__ (Copernicus Data and Exploitation platform), erreichbar unter https://code-de.org. Auch hier ist eine Registrierung notwendig und kostenlos. Der Dienst bietet ebenso Sentinel-1 & -2 an. Es gibt einen offenen Such- und Darstellungsdienst sowie eine Toolsammlung zur Analyse von Sentinel-Daten. Der Kostenpflichtige Zugang ermöglicht darüber hinaus die Nutzung der online Prozessierungsumgebung.
 
 
-![code-de](code-de.png)
-*Datenzugang via CODE-DE.*
+![code-de](code-de.png?classes=caption "Datenzugang via CODE-DE.")
 <br><br>
 
 !!!! Recherchieren Sie nach wolkenfreien (Wolkenbedeckung bis max. 10 %) Sentinel-2 Aufnahmen der Stadt Frankfurt am Main, die im zweiten Halbjahr 2017 erfasst wurden. 
