@@ -21,8 +21,8 @@ Fernerkundungsdaten können zudem in vielfältigen Aufgabenbereichen genutzt wer
 Zurzeit verstärkt das BKG seine Aktivitäten im Bereich der satellitengestützten Fernerkundung und beteiligt sich u.a. am Copernicus-Erdbeobachtungsprogramm. Dabei stellt das BKG den Fachkoordinator für den Bereich Landüberwachung.
 
 ! Sie finden uns hier:  
-[www.bkg.de](www.bkg.de)  
-[https://twitter.com/BKG_Bund](https://twitter.com/BKG_Bund)  
+! [www.bkg.de](www.bkg.de)  
+! [https://twitter.com/BKG_Bund](https://twitter.com/BKG_Bund)  
 <br><br>
 
 ### Das Fallbeispiel Fernerkundung & Copernicus
