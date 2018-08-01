@@ -20,8 +20,9 @@ Ist es zu einem größeren Windwurf im Wald gekommen, gilt es die Schäden schne
 ![Holzeinschlag2017](Holzeinschlag2017.png?classes=caption "Erstellt aus: Statistisches Bundesamt (2018): Land- und Forstwirtschaft, Fischerei. Forstwirtschaftliche Bodennutzung – Holzeinschlagsstatistik. Fachserie 3, Reihe 3.3.1, Holzeinschlag.")
 <!-- *Erstellt aus: Statistisches Bundesamt (2018): Land- und Forstwirtschaft, Fischerei. Forstwirtschaftliche Bodennutzung – Holzeinschlagsstatistik. Fachserie 3, Reihe 3.3.1, Holzeinschlag.* -->
 
-! Informationen, etwa dazu wie man Sturmholz richtig aufarbeitet finden sich u.a. [hier](www.stmelf.bayern.de/wald/waldschutz/sturm/104090/index.php) auf den Seiten des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten (StMELF).
+! Informationen, etwa dazu wie man Sturmholz richtig aufarbeitet, finden sich u.a.  auf den Seiten des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten [StMELF](www.stmelf.bayern.de/wald/waldschutz/sturm/104090/index.php).
 
+! Die Seite [waldwissen.net](https://www.waldwissen.net/waldwirtschaft/schaden/sturm_schnee_eis/fva_sturmhandbuch/index_DE) bietet zudem viel Wissenswertes zum Thema Wald im Allgemeinen und zu vertiefenden Themen wie [Sturmschadensbewältigung](https://www.waldwissen.net/waldwirtschaft/schaden/sturm_schnee_eis/fva_sturmhandbuch/index_DE) oder zur Anwendung von Fernerkundung für die Waldschadenserfassung mittels [Luftbilder](https://www.waldwissen.net/technik/inventur/wuh_luftbilder_kyrill/index_DE).
 
 ![vorOrtSatellit](vor_Ort_vs_Satellit.png?classes=caption "Eine Frage der Perspektive: Windwurf wie er sich vor Ort am Boden darstellt und vom Weltraum aus gesehen.")
 <!-- *Eine Frage der Perspektive: Windwurf wie er sich vor Ort am Boden darstellt und vom Weltraum aus gesehen.* -->
