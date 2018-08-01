@@ -5,8 +5,6 @@ taxonomy:
         - docs
 ---
 
-## Wälder
-
 Wälder übernehmen wichtige Funktionen mit sozialen, ökonomischen und ökologischen Aspekten – den drei Säulen der Nachhaltigkeit. Dieser gegenwärtig in so vielen Bereichen auftauchende Begriff wurde einst von Hans Carl von Carlowitz (1645-1714) geprägt und hat in der Form seinen Ursprung in den Forstwissenschaften. Die Mehrheit der heutigen Wälder in Deutschland wird nachhaltig bewirtschaftet, d.h. vereinfacht gesagt wird nicht mehr entnommen als nachwächst. Der Waldanteil Deutschlands ist in den letzten Jahren relativ stabil geblieben. Heutzutage ist rund ein Drittel der Staatsfläche mit Wald bedeckt.
 
 ![WaldDE](WaldDE.png?classes=caption "Die Waldfläche in Deutschland (BKG).")
