@@ -49,9 +49,7 @@ Thomas, V., 2012. Hyperspectral remote sensing for forest management, in: Thenka
 
 -	Sentinel Hub:  
     -	Sentinel 2 EO products (Bsp. Farbkompositen, Vegetationsindizes): https://www.sentinel-hub.com/develop/documentation/eo_products/Sentinel2EOproducts 
-
     -	Playground:  https://apps.sentinel-hub.com/sentinel-playground/ 
-
     -	EO Browser:  https://apps.sentinel-hub.com/eo-browser/ 
 
 -	USGS Sentinel2Look:  https://landsatlook.usgs.gov/sentinel2/viewer.html 
