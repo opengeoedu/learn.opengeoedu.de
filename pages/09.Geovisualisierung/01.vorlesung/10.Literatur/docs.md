@@ -46,7 +46,7 @@ Thomas, V., 2012. Hyperspectral remote sensing for forest management, in: Thenka
 -	Sentinel-2:
     -   CODE-DE  https://code-de.org 
     -	Copernicus Open Access Hub (Sci-Hub):  https://scihub.copernicus.eu  
-  
+
 -	Sentinel Hub:  
     -	Sentinel 2 EO products (Bsp. Farbkompositen, Vegetationsindizes): https://www.sentinel-hub.com/develop/documentation/eo_products/Sentinel2EOproducts 
 
