@@ -22,7 +22,7 @@ Das Programm besteht aus den folgenden sechs Kerndiensten:
 
 In dieser Lerneinheit soll der Fokus auf dem Landmonitoring liegen.
 
-![CopernicusDienste](Copernicus_Dienste_1.png?classes=caption "Die sechs Copernicus Dienste.") 
+![CopernicusDienste](Copernicus_Dienste_1_1000.png?classes=caption "Die sechs Copernicus Dienste.") 
 
 ! Infos über die Copernicus-Kerndienste finden Sie hier: https://www.d-copernicus.de/daten/daten-eu-kerndienste/  
 <br><br>
@@ -48,6 +48,7 @@ __Sentinel-2__
 
 __Sentinel-3__ 
 
-![S3](Sentinel-3.png?classes=caption "Sentinel-3: Radar & optisch multispektral --> aktiv & passiv. &copy; ESA")
-
+==== BASE ====
+![S3](Sentinel-3.png)
+==== BASE ====
 

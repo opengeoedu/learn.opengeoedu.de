@@ -17,7 +17,6 @@ Die *gesamteuropäische Komponente* liefert hochauflösende Informationsprodukte
 ! [HRL](https://land.copernicus.eu/pan-european/high-resolution-layers)
 
 ![HRL-forest](HRL_Forest.png)
-*High Resolution Layers: Tree Cover Density.*
 <br><br>
 
 Die *lokale Komponente* zielt darauf ab, spezifische und detailliertere Informationen bereitzustellen, welche die durch die gesamteuropäische Komponente gewonnenen Informationen ergänzen. Sie konzentriert sich auf "Hotspots", die für spezifische Umweltprobleme anfällig sind, und liefert detaillierte Informationen über die Landbedeckung und Landnutzung in den wichtigsten europäischen Städten. Neben einer Aktualisierung dieses sogenannten Urban Atlas wird sich die nächste lokale Komponente mit der Biodiversität in Hotspot-Gebieten rund um Flüsse (Ufergebiete) befassen.  
