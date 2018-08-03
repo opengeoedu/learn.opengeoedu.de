@@ -6,9 +6,10 @@ taxonomy:
         - docs
 ---
 
+Eine Empfehlung der EU sind die **FAIR Richtlinien** für wissenschaftliches Datenmanagement und -verwaltung, demzufolge wissenschaftliche Daten auffindbar, **zugänglich, interoperabel und wiederverwendbar** sein sollten (**F**indable, **A**ccessible, **I**nteroperabel and **R**eusable = **FAIR**). Die Richtlinien gehen die [Force 11](https://www.force11.org) Gruppe zurück.
 
+! Lesen Sie die Erläuterungen von [Kraft (2018)](/opendata/vorlesung/literatur#kraftFair2018) in deutscher Sprache auf der Webseite der Technischen Informationsbibliothek (TIB). Im Folgenden sind die FAIR Prinzipien kurz aufgelistet.
 
-Eine Empfehlung der EU sind die **FAIR Richtlinien** für wissenschaftliches Datenmanagement und -verwaltung, demzufolge wissenschaftliche Daten auffindbar, **zugänglich, interoperabel und wiederverwendbar** sein sollten (**F**indable, **A**ccessible, **I**nteroperabel and **R**eusable = **FAIR**).
 
 ### Auffindbarkeit (to be **F**indable)
 
