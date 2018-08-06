@@ -16,4 +16,4 @@ Mehrere Studien zeigten bereits die Anwendbarkeit der Fernerkundung zur Erkennun
 
 Somit sind frei verfügbare Fernerkundungsdaten mit großer räumlicher Abdeckung nützlich und notwendig für die Waldbeobachtung wie z.B. die Erfassung von Windwurfgebieten. Dieses Fallsbeispiel soll die Nutzung freier und offener Fernerkundungsdaten des Copernicus-Programms in Kombination mit weiteren offenen Geodaten demonstrieren.
 
-![](intro_symbols_adv.png)
+![](intro_symbols.png)
