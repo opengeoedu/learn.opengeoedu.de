@@ -6,7 +6,7 @@ taxonomy:
         - docs
 ---
 
-* Meinel, G. et al. (Hrsg) [Flächennutzungsmonitoring IX: Nachhaltigkeit der Siedlungs- und Verkehrsentwicklung?](https://www.ioer.de/fileadmin/internet/IOER_schriften/IOER_Schriften_67_DFNS_VII_A.pdf) ,  Berlin : Rhombos-Verlag, 2017, S. 326 (IÖR-Schriften; 73). 
+* Meinel, G. et al. (Hrsg) [Flächennutzungsmonitoring IX: Nachhaltigkeit der Siedlungs- und Verkehrsentwicklung?](https://rhombos.de/shop/buecher/flachennutzungsmonitoring-ix.html) ,  Berlin : Rhombos-Verlag, 2017, S. 326 (IÖR-Schriften; 73).
 * Behnisch, M., Meinel, G. (Hrsg) [Trends in spatialanalysisandmodelling: Decision-support andplanningstrategies](https://doi.org/10.1007/978-3-319-52522-8), Springer, 2017, (Geotechnologies and the Environment; 19)
 * Iwanow, I., & Gutting, R., [Kleinräumige Wohnbauflächenprognosen – ein quantitativ orientiertes Instrument zur Reduktion der Flächenneuinanspruchnahme für Wohnzwecke](https://www.tandfonline.com/doi/full/10.1080/02513625.2017.1414496"). In: disP – The Planning Review 53 (2017), 71-89-31
 * Schorcht, M., Krüger, T., Meinel, M. [Measuring Land Take: Usability of National Topographic Databases as Input for Land Use Change Analysis: A Case Study from Germany.](http://www.mdpi.com/2220-9964/5/8/134/htm) In: ISPRS International Journal of Geo-Information 5 (2016) 8, Nr. 134, S. 20
@@ -18,13 +18,13 @@ taxonomy:
 * Bakillah, M., Liang, S., Mobasheri, A., JokarArsanjani, J. & Zipf, A. [Fine-resolution population mapping using OpenStreetMap points-of-interest.](https://www.tandfonline.com/doi/abs/10.1080/13658816.2014.909045?src=recsys&journalCode=tgis20) International Journal ofGeographical Information Science (2014) 28 (9), S 1940-1963.
 * Dorn, H., Törnros, T. & Zipf, A. [Quality evaluation of VGI using authoritative data—A comparison with land use data in Southern Germany.](http://www.mdpi.com/2220-9964/4/3/1657/htm)ISPRS International Journal of Geo-Information (2015) 4(3), 1657-1671
 * Langford, M., [An evaluation of small area population estimation techniques using open access ancillary data.](https://onlinelibrary.wiley.com/doi/abs/10.1111/gean.12012) Geographical Analysis (2013) 45(3), S 324-344.
-* Behnisch, M., [Using Quadtree Representations in Building Stock Visualizationand Analysis.](https://www2.ioer.de/recherche/pdf/2013_behnisch_erdkunde.pdf) In: Erdkunde 67 (2013) 2, S.151-166 
+* Behnisch, M., [Using Quadtree Representations in Building Stock Visualizationand Analysis.](https://www2.ioer.de/recherche/pdf/2013_behnisch_erdkunde.pdf) In: Erdkunde 67 (2013) 2, S.151-166
 * De Smith M. J., Goodchild M. F., Longley P. A., [Geospatial Analysis.](http://discovery.ucl.ac.uk/49154/) 3rd Edition, Leicester, 2009.
 * Bachmann, G. [Das << Ziel-30-ha>> in der Nachhaltigkeitstrategie Deutschlands: Ein Schritt zur mordernen Urbanitat.](https://www.tandfonline.com/doi/pdf/10.1080/02513625.2005.10556914?needAccess=true) In: disP – The Planning Review 41 (2005): 106-10
 
 ##Internetquellen
 
-[Global Land Tenure Network (GLTN): Land Management and Planning][2bdb4c4a] 
+[Global Land Tenure Network (GLTN): Land Management and Planning][2bdb4c4a]
 [2bdb4c4a]: https://gltn.net/home/land-management-and-planning/#land-use-planning "GLTN"
 
 [IRENA-GlobalAtlas: Geothermie-Potenzial][7e46d99d]
@@ -47,4 +47,3 @@ taxonomy:
 
 [  Umweltatlas Berlin- Senatsverwaltung für Stadtentwicklung und Wohnen: Grünvolumen][e5690c02]
 [e5690c02]: https://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/ke601.htm "Stadt-Berlin"
-
