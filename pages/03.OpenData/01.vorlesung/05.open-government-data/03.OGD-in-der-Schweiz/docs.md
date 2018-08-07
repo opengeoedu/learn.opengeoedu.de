@@ -3,6 +3,7 @@ title: 'OGD in der Schweiz'
 taxonomy:
     category:
         - docs
+published: false
 ---
 
 <style>
@@ -22,5 +23,3 @@ taxonomy:
 
 
 </style>
-
-

@@ -3,6 +3,7 @@ title: 'OGD in Österreich'
 taxonomy:
     category:
         - docs
+published: false
 ---
 
 <style>
