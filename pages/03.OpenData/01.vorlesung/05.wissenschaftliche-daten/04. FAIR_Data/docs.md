@@ -8,7 +8,7 @@ taxonomy:
 
 
 
-Eine Empfehlung der EU sind die **FAIR Richtlinien** für wissenschaftliches Datenmanagement und -verwaltung, demzufolge wissenschaftliche Daten auffindbar, **zugänglich, interoperabel und wiederverwendbar** sein sollten (**F**indable, **A**ccessible, **I**nteroperabel and **R**eusable = **FAIR**). 
+Eine Empfehlung der EU sind die **FAIR Richtlinien** für wissenschaftliches Datenmanagement und -verwaltung, demzufolge wissenschaftliche Daten auffindbar, **zugänglich, interoperabel und wiederverwendbar** sein sollten (**F**indable, **A**ccessible, **I**nteroperabel and **R**eusable = **FAIR**).
 
 ### Auffindbarkeit (to be **F**indable)
 
@@ -29,8 +29,6 @@ Eine Empfehlung der EU sind die **FAIR Richtlinien** für wissenschaftliches Dat
 ### Wiederverwendbarkeit (to be **R**eusable)
 
 - R1. (Meta)Daten sind detailliert beschrieben und enthalten präzise, relevante Attribute
-
-
 
 <!--
 
