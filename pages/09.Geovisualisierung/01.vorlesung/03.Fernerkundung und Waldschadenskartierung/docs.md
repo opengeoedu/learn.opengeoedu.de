@@ -10,6 +10,9 @@ Eine tragende Komponente bei der Überwachung der Landbedeckung spielt die Veget
 
 Generell: Waldmonitoring mittels Fernerkundung
 
+![Symbol](intro_symbols.png)
+<br><br>
+
 Waldschäden sind vielfältig und 
 Insekten, Waldbrände 
 
