@@ -47,8 +47,8 @@ anchors:
             </div>
         </div>
         <div class="card" id="gis">
-            <h3 class="text-center">Geo-informationssysteme</h3>
-            <img class="img-fluid" src="https://www.opengeoedu.de/learn/user/pages/09.GIS/01.vorlesung/07.GIS-Produkte/GIS22.png" alt="gis">
+            <h3 class="text-center">GIS</h3>
+            <img class="img-fluid" src="EuropaAfrika.png" alt="gis">
             <div class="card-body text-justify">
                 Geo-Informationssysteme (GIS) sind die Werkzeuge zur Verarbeitung der offenen Geodaten in OpenGeoEdu.
                 <a href="#" data-toggle="collapse" data-target="#gisdetails">Details...</a>
@@ -62,16 +62,7 @@ anchors:
         </div>
         <div class="card" id="tutorials">
             <h3 class="text-center">Tutorials</h3>
-            <div markdown="1">
-            “Person”: {
-              "name": "John Smith",
-              "age": 25,
-              "address": {
-                "cityStreet": "New York, 21 2nd Street",
-                "postalCode": "10021-3100"
-                },
-            }
-            </div>
+            <img class="img-fluid" src="Karte.png" alt="Tutorial"> 
             <div class="card-body text-justify">
                 Tutorials stehen zu verschiedenen Themen bereit. Diese umfassen sowohl eher grundlegende Ausführungen als auch praktische
                 Anleitungen zum Arbeiten mit GIS.
@@ -85,7 +76,6 @@ anchors:
                     bearbeiten wollen.
                 </p>
             </div>
-        </div>
         </div>
         <div class="row flex-wrap card-group">
             <div class="card" id="eMob">
