@@ -20,9 +20,9 @@ Beispiel für die Referenzierung eines Datensatzes mit DOI:
 ``` text
 Vijay, S; Braun, MH (2017): TanDEM-X digital elevation models of Columbia Glacier, Alaska during 2011-2016, Links to GeoTIFF files. https://doi.org/10.1594/PANGAEA.87621
 ```
-Im [Literaturverzeichnis](../../literatur) sind weitere Beispiele für DOI-Referenzen zu finden. Eine DOI kann entweder über einen Direktlink (z.B. [https://doi.org/10.1594/PANGAEA.87621](https://doi.org/10.1594/PANGAEA.87621)) oder auf der Webseite der [internationalen DOI Foundation (IDF)](https://www.doi.org/) aufgelöst werden.
+!! Im [Literaturverzeichnis](../../literatur) sind weitere Beispiele für DOI-Referenzen zu finden. Eine DOI kann entweder über einen Direktlink (z.B. [https://doi.org/10.1594/PANGAEA.87621](https://doi.org/10.1594/PANGAEA.87621)) oder auf der Webseite der [internationalen DOI Foundation (IDF)](https://www.doi.org/) aufgelöst werden.
 
-! **Datenzitation** ist ein offenes Forschungs- und Entwicklungsfeld: Während viele wissenschaftliche Artikel inzwischen mithilfe von DOIs eindeutig und dauerhaft identifiziert und zugänglich gemacht werden können, fehlen vergleichbare noch bei vielen Datenportalen. [Bunemann et al. (2016)](../../literatur#Buneman2016) sprechen ungelöste Probleme im Bereich der Datenzitation an und zeigen auf, dass neuartige Methoden notwendig sind, will man einzelne Teile einer Datenbank präzise zitieren. 
+! **Datenzitation** ist ein offenes Forschungs- und Entwicklungsfeld: Während viele wissenschaftliche Artikel inzwischen mithilfe von DOIs eindeutig und dauerhaft identifiziert und zugänglich gemacht werden können, fehlen vergleichbare noch bei vielen Datenportalen. [Bunemann et al. (2016)](../../literatur#Buneman2016) sprechen ungelöste Probleme im Bereich der Datenzitation an und zeigen auf, dass neuartige Methoden notwendig sind, will man einzelne Teile einer Datenbank präzise zitieren.
 ! Zur Vertiefung schauen Sie sich dazu bitte folgendes Video (Englisch) an: [http://cacm.acm.org/videos/why-data-citation-is-a-computational-problem](http://cacm.acm.org/videos/why-data-citation-is-a-computational-problem)
 
 
