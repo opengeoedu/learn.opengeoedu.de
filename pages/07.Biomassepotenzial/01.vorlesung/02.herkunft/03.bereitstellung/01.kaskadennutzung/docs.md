@@ -6,7 +6,7 @@ taxonomy:
 
 (Arnold et al. 2009) definieren Kaskadennutzung als „sequentielle Nutzung von biogenen Rohstoffen für stoffliche und energetische Anwendungen“ (S. 18). 
 
-Abbildung 6 Kaskadennutzung von NawaRo, Quelle: eigene Darstellung nach (Arnold et al. 2009)
+![](Skript_DBFZ_Kaskadennutzung.png?lightbox=800&resize=500&classes=caption "Kaskadennutzung von NawaRo, Quelle: eigene Darstellung nach Arnold et al. 2009")
 
 Das BMELV (BMELV 2008) unterscheidet zwischen zwei Arten der Kaskadennutzung (S.1):
 - „Biomasse wird erst stofflich, ggf. über mehrere Nutzungsetappen oder Produkte, verwendet und am Ende des Produktzyklus energetisch verwertet. 
@@ -18,6 +18,5 @@ Typischerweise findet Kaskadennutzung im Bereich der forstwirtschaftlichen Bioma
 
 Bei Kaskadennutzung ist zu beachten, dass Rohstoffqualität und Energiegehalt mit Zunahme der Kaskaden sinken können und für gewöhnlich zusätzliche Sortierungs- und Aufbereitungsschritte notwendig sind (bei Altholz z.B. das Entfernen von Lack und anderen Schadstoffen). 
 
-!! Reflektieren Sie Beiträge aus den Medien zu Nutzungskonkurrenzen. Liegen tatsächlich Nutzungskonkurrenzen vor? Wie können diese adressiert werden?
-
+!! Reflektieren Sie Beiträge aus den Medien zu Nutzungskonkurrenzen. Liegen tatsächlich Nutzungskonkurrenzen vor? Wie können diese adressiert werden? <br> <br>
 !! Überlegen Sie sich für eine Biomasse Ihrer Wahl mögliche Nutzungspfade, v.a. im Hinblick auf Kaskadennutzung oder Nutzung von Nebenprodukten.

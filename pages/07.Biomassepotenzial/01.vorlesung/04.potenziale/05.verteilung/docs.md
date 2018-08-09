@@ -14,10 +14,8 @@ In den bisherigen Kapiteln haben Sie sich bereits Wissen über die verfügbaren 
 
 Durch die Verknüpfung offener Datensätze (Geodaten, Statistiken, Fachdaten) können Potenzialinformationen mit Hilfe von Geo-Informationssystemen (GIS) so aufbereitet werden, dass Vorzugsregionen oder -standorte (aus Rohstoffsicht) für bestimmte Bioenergieanlagen identifiziert werden können. Dies kann – je nach Fragestellung - auf Ebene von Verwaltungseinheiten (z.B. Bundesländer, Landkreise, Gemeinden) oder unabhängig von administrativen Strukturen (km², Ackerfläche) erfolgen. In Abbildung 12 ist das Getreidestrohpotenzial für Deutschland sowohl auf Landkreisebene als auch nach km² dargestellt.
 
-Abbildung 12 Getreidestrohpotenziale auf Landkreisebene und nach km² (Quelle: (Brosowski 2014). [Link](https://www.dbfz.de/index.php?id=987&L=0) zur Onlineversion)
+![](Skript_DBFZ_Strohpotenziale.png?lightbox=800&resize=500&classes=caption "Getreidestrohpotenziale auf Landkreisebene und nach km², Quelle: Brosowski 2014, [Link](https://www.dbfz.de/index.php?id=987&L=0) zur Onlineversion")
 
-!! Vergleichen Sie die beiden Karten. Welche Aussage zu Strohpotenzialen können Sie treffen? Welchen Einfluss hat der räumliche Bezug auf die Aussagekraft der Karten? 
-
-!! Überlegen Sie sich in Vorbereitung für die Übungen, welche offenen Geodatensätze und Statistiken Sie kennen und ob diese sich für die räumliche Darstellung von Biomassepotenzialen eignen könnten. 
-
+!! Vergleichen Sie die beiden Karten. Welche Aussage zu Strohpotenzialen können Sie treffen? Welchen Einfluss hat der räumliche Bezug auf die Aussagekraft der Karten?  <br><br>
+!! Überlegen Sie sich in Vorbereitung für die Übungen, welche offenen Geodatensätze und Statistiken Sie kennen und ob diese sich für die räumliche Darstellung von Biomassepotenzialen eignen könnten. <br><br>
 !! In dem nachfolgenden Beispiel wird das technische Potenzial der Biomasse „Getreidestroh“ ermittelt. Nutzen Sie diese Beispiele und die Informationen aus den vorhergehenden Kapiteln um sich bereits erste Gedanken zu machen, wie Sie Biomassepotenziale mit Geodaten darstellen können. 

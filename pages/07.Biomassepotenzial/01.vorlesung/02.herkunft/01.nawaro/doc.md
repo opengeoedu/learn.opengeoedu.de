@@ -8,8 +8,8 @@ Unter „nachwachsenden Rohstoffen“ verstehen wir in diesem Lernmodul land- un
 
 Seit 1990 hat die energetische Biomassenutzung in Deutschland stark zugenommen. Wie aus der nachfolgenden Abbildung ersichtlich, werden in Deutschland derzeit auf etwa 2,7 Mio. ha oder 22 % der landwirtschaftlichen Nutzfläche nachwachsende Rohstoffe angebaut. Hiervon sind etwa 90% Energiepflanzen, die überwiegend zur Biogas- und Kraftstoffproduktion verwendet werden. (Fachagentur Nachwachsende Rohstoffe e. V. (FNR) 2018)
 
-Abbildung 4 Flächennutzung in Deutschland 2016. Quelle: FNR 2017 nach Statistischem Bundesamt, eigene Darstellung
+![](Skript_DBFZ_Flaechennutzung.png?lightbox=800&resize=500&classes=caption "Flächennutzung in Deutschland 2016. Quelle: FNR 2017 nach Statistischem Bundesamt, eigene Darstellung")
 
 Die häufigsten Kulturen, die in Deutschland für stoffliche und energetische Nutzungen angebaut werden (Stand 2016), sind in nachfolgnder Abbildung dargestellt.
 
-Abbildung 5 Anbauflächen wichtiger NawaRo in Deutschland. Quelle: Landwirtschaft: (Fachagentur Nachwachsende Rohstoffe e. V. (FNR) 2018), Forstwirtschaft: (Thünen-Institut); eigene Darstellung
+![](Skript_DBFZ_Anbauflaechen.png?lightbox=800&resize=500&classes=caption "Anbauflächen wichtiger NawaRo in Deutschland. Quelle: Landwirtschaft: Fachagentur Nachwachsende Rohstoffe e. V. 2018; Forstwirtschaft: Thünen-Institut; eigene Darstellung")

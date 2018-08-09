@@ -4,7 +4,7 @@ taxonomy:
   category: docs
 ---
 
-!!!! Welche Kernfragen und Bearbeitungsschritte muss ich vor der Berechnung eines Biomassepotenzials berücksichtigen?
+!!!! Welche Kernfragen und Bearbeitungsschritte muss ich vor der Berechnung eines Biomassepotenzials berücksichtigen? <br>
 !!!! Kann ich das gegebene Schema auf andere Biomassen übertragen?
 
 In diesem Kapitel zeigen wir exemplarisch anhand von Getreidestroh auf, welche Kernfragen Sie beantworten müssen bevor Sie eine Potenzialberechnung durchführen. Um das technische Potenzial zu berechnen und vor allem um Aussagen über die Erschließung des ungenutzten technischen Potenzials machen zu können, sind diese Kernfragen / Bearbeitungsschritte ausschlaggebend:

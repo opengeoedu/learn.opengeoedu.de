@@ -12,4 +12,4 @@ Die Potenzialebenen lassen sich in unterschiedliche Potenzialarten übersetzen, 
 - Nachhaltiges Potenzial
 - Erschließbares Potenzial
 
-Abbildung 9 Schematische Darstellung der Potenzialarten. Quelle: eigene Darstellung nach (Thrän und Pfeiffer 2013)
+![](Skript_DBFZ_Potenzialarten.png?lightbox=800&resize=500&classes=caption "Schematische Darstellung der Potenzialarten. Quelle: eigene Darstellung nach Thrän und Pfeiffer 2013")

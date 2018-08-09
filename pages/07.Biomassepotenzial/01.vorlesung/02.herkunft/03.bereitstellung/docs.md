@@ -16,8 +16,7 @@ Tabelle: Mögliche Chancen und Risiken der energetischen Nutzung von Biomasse
 | Umwelt- und klimaverträgliche CO2-Einsparung | Oft abhängig von Subventionen, da sonst nicht wirtschaftlich |
 | ... | ... |
 
-!! Fallen Ihnen weitere Vorteile und Risiken der energetischen Nutzung von Biomasse ein? 
-
+!! Fallen Ihnen weitere Vorteile und Risiken der energetischen Nutzung von Biomasse ein? <br> <br>
 !! Fällt Ihnen bei den Risiken etwas auf? Auf welche Art der Biomasse beziehen sich diese negativen Aspekte vorrangig?
 
 Zu Beginn dieses Kapitels wurde zwischen nachwachsenden Rohstoffe bzw. Anbaubiomassen und Rest- und Abfallstoffen unterschieden. Viele Nutzungskonkurrenzen betreffen vor allem den Anbau von nachwachsenden Rohstoffen. Zwar sind die potenziellen Nutzungskonkurrenzen bei der Betrachtung von Rest- und Abfallstoffen weniger stark ausgeprägt, jedoch müssen auch hier bestimmte Restriktionen berücksichtigt werden. Hierzu zählen z.B. mögliche oder tatsächliche Nutzung als Futtermittel, Einstreu oder Dünger. Bei Bearbeitung der GIS-Übungen werden wir daher Nutzungskonkurrenzen berücksichtigen. Am Beispiel „Kaskadennutzung“ wird nachfolgend eine mögliche Lösung zur Minimierung von Nutzungskonkurrenzen beschrieben.

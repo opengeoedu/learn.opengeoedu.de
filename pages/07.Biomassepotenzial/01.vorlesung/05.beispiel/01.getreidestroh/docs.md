@@ -15,7 +15,7 @@ Stroh kann in unterschiedlichen Konversionspfaden energetisch genutzt werden. Zu
 
 Von der Konversionstechnologie ist der Rohstoffbedarf abhängig. Kleine, dezentrale Lösungen wie Heizwerke oder Biogasanlagen mit einer Leistung zwischen 100 kW bis 2 MW, haben einen relativ geringen Rohstoffbedarf von wenigen Tausend Tonnen Stroh pro Jahr (ca. 250 - 3.000 tTM pro Jahr, je nach Anlagengröße). Heizkraftwerke und Anlagen zur Kraftstofferzeugung haben einen deutlich höheren Rohstoffbedarf von ca. 15.000 – 350.000 tTM pro Jahr. Diese zentralen Anlagen sind nur in Gebieten mit hohem Strohaufkommen möglich, da der Transport wirtschaftlich und nachhaltig sein sollte. Bei Transportdistanzen ist zu beachten, dass Stroh eine geringe Energiedichte hat und daher große Volumina transportiert werden müssen. Die CO2- und Schadstoff-Emissionen der Transportfahrzeuge müssen für eine nachhaltige Betrachtung ebenfalls berücksichtigt werden. (Zeller et al. 2011)
 
-! Weitere Informationen zu Transportdistanzen und Rohstoffbedarf einzelner Technologien finden Sie hier:
+! Weitere Informationen zu Transportdistanzen und Rohstoffbedarf einzelner Technologien finden Sie hier: <br>
 ! Schriftenreihe des BMU-Förderprogramms „[Energetische Biomassenutzung](https://www.energetische-biomassenutzung.de/publikationen/schriftenreihe/) Band 04.
 
 #### Welche Faktoren sind zur Potenzialberechnung notwendig?
