@@ -9,6 +9,26 @@ taxonomy:
 
 Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, so z.B. hinsichtlich der Voraussetzungen, der verwendeten Software und Daten, den benötigten Funktionalitäten und der erwarteten Ergebnisse.
 
+## Übungen Open XX 
+
+### Open Access Zeitschriften
+
+[Journale](OGE_Datenblatt_OpenXX_Journale.pdf)
+
+### Open Access Forschungsdaten
+
+[Daten](OGE_Datenblatt_OpenXX_Repositories.pdf)
+
+### Open Source Software
+
+[Software](OGE_Datenblatt_OpenXX_DesktopGIS.pdf)
+
+## Übungen GIS
+
+### United Nations Sustainable Development Goals (Reichweite: Global - Level: Click-by-Click)
+
+[UNSDG](OGE_Datenblatt_SDG_Global_Click.pdf)
+
 ## Fallbeispiele Elektromobilität 
 
 ### (Reichweite: Lokal - Level: Basic)
@@ -30,5 +50,13 @@ Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, s
 [Biomassepotenziale](OGE Datenblatt_DBFZ_Biogut_national_A.pdf)
 
 ## Fallbeispiele Flächenmonitoring
+
+### (Reichweite: National - Level: Advanced - Basic - Click-by-Click)
+
+[Flächenmonitoring](OGE Datenblatt_FM_dichte_vg.pdf)
+
+### (Reichweite: National - Level: Basic - Click-by-Click)
+
+[Flächenmonitoring](OGE Datenblatt_FM_verkehrsindikatoren.pdf)
 
 ## Fallbeispiele Fernerkundung 

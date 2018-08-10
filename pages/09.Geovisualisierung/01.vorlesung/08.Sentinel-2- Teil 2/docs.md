@@ -11,11 +11,13 @@ Die räumliche Auflösung beschreibt vor allem die Pixelgröße bzw. den Pixelab
 <br><br>
 
 Vergleich von Sentinel-2 und Luftbild: 
+
 <iframe src="https://h5p.org/h5p/embed/239827" width="512" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <br><br>
 
 !!!! __Aufgabe:__ Beispiele unterschiedliche räumliche Auflösungen in der Fernerkundung:
 <iframe src="https://h5p.org/h5p/embed/173319" width="100%" height="250" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
 <br><br>
 
 ## Spektrale Auflösung
@@ -28,7 +30,9 @@ Die spektrale (optische) Auflösung eines Sensors gibt an, welche Bereiche des e
 ![KanäleS2LS7LS8](BANDS_S2_LS8_LS7.png?classes=caption "Die spektralen Kanäle von Sentinel-2 im Vergleich zu Landsat 8 (OLI und TRS) und Landsat 7 ETM+.")
 
 Die Sentinel-2 Bänder werden in folgender Abbildung näher beleuchtet (Reflektanzkurven aus Kokaly et al. 2017):  
+
 <iframe src="https://h5p.org/h5p/embed/238969" width="883" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 <br><br>
 
 Die einzelnen Bänder liegen wie bei anderen Fernerkundungssensoren auch als Grauwertbilder vor. Im Fall von Sentinel-2 werden diese mit einer *radiometrischen Auflösung* von 12-bit gespeichert, was einem Kontrastvermögen von 2<sup>12</sup> Grauwerten entspricht.  
