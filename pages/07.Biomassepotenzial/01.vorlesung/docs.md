@@ -13,4 +13,4 @@ Zielgruppen der F&E-Arbeiten, der Auftragsforschung sowie der wissenschaftsbasie
 
 Mit der Arbeit des DBFZ soll das Wissen über die Möglichkeiten und Grenzen einer energetischen und integrierten stofflichen Nutzung nachwachsender Rohstoffe in einer biobasierten Wirtschaft insgesamt erweitert und die herausragende Stellung des Industriestandortes Deutschland in diesem Sektor dauerhaft abgesichert werden.
 
-! Besuchen Sie unsere Website www.dbfz.de 
+! Besuchen Sie unsere Website [www.dbfz.de](www.dbfz.de)

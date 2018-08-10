@@ -4,7 +4,7 @@ taxonomy:
   category: docs
 ---
 
-(Arnold et al. 2009) definieren Kaskadennutzung als „sequentielle Nutzung von biogenen Rohstoffen für stoffliche und energetische Anwendungen“ (S. 18). 
+Arnold et al. (2009) definieren Kaskadennutzung als „sequentielle Nutzung von biogenen Rohstoffen für stoffliche und energetische Anwendungen“ (S. 18). 
 
 ![](Skript_DBFZ_Kaskadennutzung.png?lightbox=800&resize=500&classes=caption "Kaskadennutzung von NawaRo, Quelle: eigene Darstellung nach Arnold et al. 2009")
 
