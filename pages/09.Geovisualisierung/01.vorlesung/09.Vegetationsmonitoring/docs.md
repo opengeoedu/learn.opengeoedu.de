@@ -16,7 +16,7 @@ Nehmen wir Waldbäume als Beispiel: Sie stehen mal dicht gedrängt, mal mit gro�
 
 Die Reflektanzkurve von grüner gesunder Vegetation hat eine charakteristische Form und ist geprägt von Faktoren wie Konzentration an Blattpigmenten, Wassergehalt und Blattaufbau. Die folgende Abbildung zeigt das typische Erscheinen anhand einer spektralen Kurve eines Eichenblatts (Kokaly et al. 2017) samt Haupt-Einflussfaktoren.
 
-<style>iframe{max-width: 800px; width: 100%; height: 900px; max-height;900px}</style>
+<style>iframe{max-width: 600px; width: 100%; height: 500px; max-height: 600px}</style>
 <iframe src="https://h5p.org/h5p/embed/240206" width="100%" max-width=600 max-height="600" height=400 frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <br><br>
 
