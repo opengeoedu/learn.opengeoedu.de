@@ -12,7 +12,7 @@ Das *wirtschaftliche Biomassepotenzial* (Thrän und Pfeiffer 2013; WGBU 2009) be
 ### Nachhaltiges Biomassepotenzial
 Das *nachhaltige Biomassepotenzial* (Thrän und Pfeiffer 2013; WGBU 2009) grenzt das technische Potenzial nach Aspekten der Nachhaltigkeit weiter ein. Hier werden ökologische und sozioökonomische Faktoren berücksichtigt, wie z.B. naturschutzfachliche, landschaftsästhetische oder ressourcenspezifische Aspekte. Die Abgrenzung zum technischen Potenzial ist unscharf, da in vielen Fällen – je nach Autor bzw. Projektvorgaben - Nachhaltigkeitsfaktoren bei der Bestimmung des technischen Biomassepotenzials berücksichtigt werden.  
 
-*Beispiel Holznutzung*: Zusätzlich zu den gesetzlich verankerten Restriktionen (z.B. keine Nutzung in den Kernzonen von Nationalparks) werden weitere Nutzungseinschränkungen berücksichtigt, wie das Belassen bestimmter Totholzmengen im Wald.
+**Beispiel Holznutzung**: Zusätzlich zu den gesetzlich verankerten Restriktionen (z.B. keine Nutzung in den Kernzonen von Nationalparks) werden weitere Nutzungseinschränkungen berücksichtigt, wie das Belassen bestimmter Totholzmengen im Wald.
 
 !! Überlegen Sie sich in Vorbereitung für die Übungen, in wie weit Sie Nachhaltigkeitsaspekte berücksichtigen möchten.
 
