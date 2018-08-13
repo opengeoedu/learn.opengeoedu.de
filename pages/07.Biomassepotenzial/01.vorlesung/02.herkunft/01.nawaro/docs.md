@@ -4,7 +4,7 @@ taxonomy:
   category: docs
 ---
 
-Unter „nachwachsenden Rohstoffen“ verstehen wir in diesem Lernmodul land- und forstwirtschaftliche Erzeugnisse, die nicht für die Produktion von Nahrungs- und Futtermitteln, sondern speziell für energetische („Energiepflanzen“) oder stoffliche („Industriepflanzen“) Nutzungen angebaut werden. In vielen Veröffentlichungen wird der Begriff Nachwachsende Rohstoffe nur auf die landwirtschaftlichen Erzeugnisse bezogen. Wenn Sie sich mit Zahlen zu Anbau und Nutzung von nachwachsenden Rohstoffen beschäftigen, informieren Sie sich daher, ob auch forstwirtschaftliche Erzeugnisse einbezogen wurden. 
+Unter „nachwachsenden Rohstoffen“ verstehen wir in diesem Lernmodul land- und forstwirtschaftliche Erzeugnisse, die nicht für die Produktion von Nahrungs- und Futtermitteln, sondern speziell für energetische (*Energiepflanzen*) oder stoffliche (Industriepflanzen) Nutzungen angebaut werden. In vielen Veröffentlichungen wird der Begriff Nachwachsende Rohstoffe nur auf die landwirtschaftlichen Erzeugnisse bezogen. Wenn Sie sich mit Zahlen zu Anbau und Nutzung von nachwachsenden Rohstoffen beschäftigen, informieren Sie sich daher, ob auch forstwirtschaftliche Erzeugnisse einbezogen wurden. 
 
 Seit 1990 hat die energetische Biomassenutzung in Deutschland stark zugenommen. Wie aus der nachfolgenden Abbildung ersichtlich, werden in Deutschland derzeit auf etwa 2,7 Mio. ha oder 22 % der landwirtschaftlichen Nutzfläche nachwachsende Rohstoffe angebaut. Hiervon sind etwa 90% Energiepflanzen, die überwiegend zur Biogas- und Kraftstoffproduktion verwendet werden. (Fachagentur Nachwachsende Rohstoffe e. V. (FNR) 2018)
 
