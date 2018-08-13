@@ -10,9 +10,9 @@ Wie aus nachfolgender Abbildung ersichtlich, lag der Anteil der regenerativen En
 
 Wie aus der folgenden Abbildung ersichtlich, leistet Bioenergie in den Sektoren Wärme (z.B. Scheitholzverbrennung in Kaminöfen), Strom (z.B. aus der Vergärung in Biogasanlagen) und Verkehr (z.B. Bio-Methan auf Basis von Bioabfall für die Sammelfahrzeuge) einen Beitrag zum Energiesystem. Zur Veranschaulichung kann der Beitrag von Biomasse zum Energiesystem wie folgt ins Verhältnis gesetzt werden:
 
-- Strom: die *Bruttostromerzeugung* auf Basis biogener Ressourcen beträgt ca. 54 TWh
-- Wärme: der Anteil biogener Ressourcen am *Endenergieverbrauch* beträgt ca. 139 TWh
-- Verkehr: der Anteil an Biokraftstoffen am Endenergieverbrauch beträgt ca. 33 TWh 
+- **Strom**: die *Bruttostromerzeugung* auf Basis biogener Ressourcen von ca. 54 TWh entspricht der Jahresleistung von 4 Kernkraftwerken.
+- **Wärme**: der Anteil biogener Ressourcen am *Endenergieverbrauch* beträgt ca. 139 TWh entspricht ca. 15 Milliarden Litern Heizöl.
+- **Verkehr**: der Anteil an Biokraftstoffen am Endenergieverbrauch beträgt ca. 33 TWh entspricht ca. 3,8 Milliarden Litern Benzin.
 
 Bei der Betrachtung des Endenergieverbrauchs im Verkehrssektor ist zu beachten, dass ein wesentlicher Teil des biogenen Kraftstoffs bzw. der Rohstoffe importiert wird.
 
