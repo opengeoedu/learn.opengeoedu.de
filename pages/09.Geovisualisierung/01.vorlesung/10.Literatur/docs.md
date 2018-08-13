@@ -17,6 +17,8 @@ Ewald Fassnacht, F., Latifi, H., Stereńczak, K., Modzelewska, A., Lefsky, M., W
 
 Gardiner, B., Blennow, K., Carnus, J., Fleischer, P., Ingemarson, F., Landmann, G., Lindner, M., Marzano, M., Nicoll, B., Orazio, C., Peyron, J., Schelhaas, M., Schuck, A., Usbeck, T., 2010. Destructive Storms in European Forests : Past and Forthcoming Impacts. Final Rep. to Eur. Comm. - DG Environ. 138. https://doi.org/10.13140/RG.2.1.1420.4006
 
+Heipke, C., 2017. Photogrammetrie und Fernerkundung - Handbuch der Geodäsie, herausgegeben von Willi Freeden und Reiner Rummel, 1st ed. Springer Spektrum, Berlin, Heidelberg. https://doi.org/10.1007/978-3-662-47094-7
+
 Henrich, V., Krauss, G., Götze, C., Sandow, C., 2012. Index DataBase - A database for remote sensing indices [WWW Document]. IDB - Entwicklung einer Datenbank für Fernerkundungsindizes. URL www.indexdatabase.de
 
 Huete, A.R., 2012. Vegetation Indices, Remote Sensing and Forest Monitoring. Geogr. Compass 6, 513–532.
