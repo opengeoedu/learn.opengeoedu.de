@@ -4,7 +4,6 @@ taxonomy:
     category:
         - docs
 ---
-<style>iframe{max-width: 800px; width: 100%; height: 900px; max-height;900px}</style>
 
 ## Räumliche Auflösung
 
@@ -13,7 +12,7 @@ Die räumliche Auflösung beschreibt vor allem die Pixelgröße bzw. den Pixelab
 
 Vergleich von Sentinel-2 und Luftbild: 
 <br><br>
-
+<style>iframe{max-width: 800px; width: 100%; height: 900px; max-height;900px}</style>
 <iframe iframe id="239827" src="https://h5p.org/h5p/embed/239827" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <br><br>
 
