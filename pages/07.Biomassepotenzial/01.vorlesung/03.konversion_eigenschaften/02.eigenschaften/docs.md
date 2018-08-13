@@ -6,9 +6,9 @@ taxonomy:
 
 Für die Umrechnung zwischen den einzelnen Potenzialebenen (vgl. nachfolgende Inhalte) werden verschiedene Umrechnungsfaktoren benötigt, die von der gewählten Biomasse bzw. der Konversionstechnologie abhängen. Zu den biomassespezifischen Eigenschaften zählen beispielsweise 
 
-- Wassergehalt (%) bzw. Trockensubstanz-Gehalt (%)
-- Heizwert (z.B. MJ/kgTM)
-- Brennwert (z.B. MJ/kgTM)
+- *Wassergehalt* (%) bzw. *Trockensubstanz*-Gehalt (%)
+- *Heizwert* (z.B. MJ/kgTM)
+- *Brennwert* (z.B. MJ/kgTM)
 - Biogasertrag (z.B. Nm³/tFM)
 - Methangehalt (Vol-% des Biogases)
 

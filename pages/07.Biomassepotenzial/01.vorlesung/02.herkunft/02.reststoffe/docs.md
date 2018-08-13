@@ -6,7 +6,7 @@ taxonomy:
 
 Die Gruppe der biogenen Rest- und Abfallstoffe setzt sich aus einer Vielzahl von Einzelbiomassen zusammen, die gemäß ihrer Herkunft in fünf Gruppen eingeteilt werden können (vgl. nachfolgende Tabelle).
 
-Tabelle: Aggregationsstufen biogener Rest- und Abfallstoffe mit Auswahl an Einzelbiomassen. Quelle: basierend auf Brosowski et al. 2016
+**Tabelle: Aggregationsstufen biogener Rest- und Abfallstoffe mit Auswahl an Einzelbiomassen. Quelle: basierend auf Brosowski et al. 2016**
 
 | Aggregationsstufe | Einzelbiomassen (Auswahl) |
 |-|-|

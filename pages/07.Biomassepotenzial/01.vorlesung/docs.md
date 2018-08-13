@@ -1,5 +1,5 @@
 ---
-title: Einführung
+title: 
 menu: Vorlesung
 taxonomy:
     category: docs
