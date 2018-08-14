@@ -17,6 +17,8 @@ Ewald Fassnacht, F., Latifi, H., Stereńczak, K., Modzelewska, A., Lefsky, M., W
 
 Gardiner, B., Blennow, K., Carnus, J., Fleischer, P., Ingemarson, F., Landmann, G., Lindner, M., Marzano, M., Nicoll, B., Orazio, C., Peyron, J., Schelhaas, M., Schuck, A., Usbeck, T., 2010. Destructive Storms in European Forests : Past and Forthcoming Impacts. Final Rep. to Eur. Comm. - DG Environ. 138. https://doi.org/10.13140/RG.2.1.1420.4006
 
+Heipke, C., 2017. Photogrammetrie und Fernerkundung - Handbuch der Geodäsie, herausgegeben von Willi Freeden und Reiner Rummel, 1st ed. Springer Spektrum, Berlin, Heidelberg. https://doi.org/10.1007/978-3-662-47094-7
+
 Henrich, V., Krauss, G., Götze, C., Sandow, C., 2012. Index DataBase - A database for remote sensing indices [WWW Document]. IDB - Entwicklung einer Datenbank für Fernerkundungsindizes. URL www.indexdatabase.de
 
 Huete, A.R., 2012. Vegetation Indices, Remote Sensing and Forest Monitoring. Geogr. Compass 6, 513–532.
@@ -34,10 +36,18 @@ Schwarz, M., Steinmeier, C., Holecz, F., Stebler, O., Wagner, H., 2003. Detectio
 Seitz, R., Straub, C., 2017. FastResponse - die schnelle Antwort nach dem Sturm. LWF Aktuell 4, 14–16. Steinmeier, C., Schwarz, M., Holecz, F., Stebler, O., Wagner, H., 2002. Evaluation moderner Fernerkundungsmethoden zur Sturmschadenerkennung im Wald. Eidg. Forschungsanstalt WSL, Birmensdorf.
 
 Thomas, V., 2012. Hyperspectral remote sensing for forest management, in: Thenkabail, P., Lyon, J.G., Huete, A. (Eds.), Hyperspectral Remote Sensing of Vegetation. CRC Press, Taylor & Francis Group, Boca Raton, p. 705.
+<br><br>
 
+*Weiterführende Literatur:*
 
+Albertz, J., 2009. Einführung in die Fernerkundung. Grundlagen der Interpretation von Luft- und Satellitenbildern, 4th ed. Wissenschaftliche Buchgesellschaft.
 
-...tbc
+Jensen, J.R., 2007. Remote sensing of the environment: an earth resource perspective, 2nd ed. Prentice Hall Inc., Upper Saddle, NJ.
+
+Lillesand, T.M., Kiefer, R.W., Chipman, J.W., 2008. Remote sensing and image interpretation, 6th ed. Wiley-Blackwell, John Wiley & Sons, Hoboken, NJ.
+<br><br>
+
+*Linmksammlung:*
 
 -	OpenGeoEdu:  www.opengeoedu.de 
 
