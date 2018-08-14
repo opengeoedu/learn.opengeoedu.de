@@ -1,5 +1,5 @@
 ---
-title: Geovisualisierung
+title: Fernerkundung
 taxonomy:
     category:
         - docs
