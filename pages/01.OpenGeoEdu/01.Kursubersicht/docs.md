@@ -1,16 +1,16 @@
 ---
-title: Kursteile - Kurzbeschreibung
-menu: Kurzbeschreibung der Kursteile
+title: 'Kursteile - Kurzbeschreibung'
 taxonomy:
     category:
         - docs
+menu: 'Kurzbeschreibung der Kursteile'
 anchors:
     active: false
-
 ---
+
 <div class="container">
     <div class="row flex-wrap card-deck">
-        <div class="card p-2" id="openxx">
+        <div class="card p-2 m-2" id="openxx">
             <h3 class="text-center">
                 Open XX
             </h3>
@@ -29,7 +29,7 @@ anchors:
                 </p>
             </div>
         </div>
-        <div class="card p-2" id="opendata">
+        <div class="card p-2 m-2" id="opendata">
             <h3 class="text-center">Open Data</h3>
             <a href="https://www.youtube.com/watch?v=PQ-d0F281Uo">
                 <img class="img-fluid" src="/images/videos/oge_teaser_opendata2.png">
