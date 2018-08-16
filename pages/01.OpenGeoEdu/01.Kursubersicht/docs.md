@@ -33,7 +33,7 @@ anchors:
         <div class="card m-2" id="opendata">
             <h3 class="text-center">Open Data</h3>
             <a href="https://www.youtube.com/watch?v=PQ-d0F281Uo">
-                <img class="img-fluid" src="/images/videos/oge_teaser_opendata2.png">
+                <img class="img-fluid" src="/uebersicht/kursubersicht/oge_teaser_opendata2.png">
             </a>
             <div class="card-body text-justify">
                 Ein wesentlicher Teil der offenen Bewegung ist die Verfügbarmachung offener Daten.
@@ -49,7 +49,7 @@ anchors:
         </div>
         <div class="card m-2" id="gis">
             <h3 class="text-center">GIS</h3>
-            <img class="img-fluid" src="/learn/opengeoedu/kursubersicht/EuropaAfrika.png" alt="gis">
+            <img class="img-fluid" src="/uebersicht/kursubersicht/EuropaAfrika.png" alt="gis">
             <div class="card-body text-justify">
                 Geo-Informationssysteme (GIS) sind die Werkzeuge zur Verarbeitung der offenen Geodaten in OpenGeoEdu.
                 <a href="#" data-toggle="collapse" data-target="#gisdetails">Details...</a>
@@ -85,7 +85,7 @@ anchors:
                 Elektromobilität
             </h3>
             <a href="https://youtu.be/rEB3Oti20CI?list=PL-444vjL1sW0FROQEQ1pHG1M5hl8z9fcJ">
-                <img class="img-fluid" src="../../../images/videos/teaser_emob.png">
+                <img class="img-fluid" src="../../../uebersicht/kursubersicht/teaser_emob.png">
             </a>
             <div class="card-body text-justify">
                 Der Elektromobilität wird in Deutschland für die Verwirklichung der energie- und klimapolitischen Ziele eine wichtige Rolle
