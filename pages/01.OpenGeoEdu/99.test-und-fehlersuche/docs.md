@@ -1,11 +1,11 @@
 ---
-title: Kursteile - Kurzbeschreibung
+title: 'Kursteile - Kurzbeschreibung'
 taxonomy:
     category:
         - docs
 menu: Fallbeispiele
-published: true
 ---
+
 <div class="container">
                 <h2 class="mt-3 " id="Kursteile">Kursteile - Kurzbeschreibung</h2>
                 <div class="row flex-wrap card-group">
