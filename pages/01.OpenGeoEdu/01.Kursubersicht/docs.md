@@ -1,6 +1,6 @@
 ---
 title: 'Kursteile - Kurzbeschreibung'
-media_order: 'EuropaAfrika.png,Karte.png,oge_teaser_openxx4.png,oge_teaser_opendata2.png'
+media_order: 'EuropaAfrika.png,Karte.png,oge_teaser_openxx4.png,oge_teaser_opendata2.png,teaser_emob.png'
 taxonomy:
     category:
         - docs
