@@ -16,7 +16,7 @@ anchors:
                 Open XX
             </h3>
             <a href="https://www.youtube.com/watch?v=ptBpbXDczRU">
-                <img class="img-fluid" src="/images/videos/oge_teaser_openxx4.png">
+                <img class="img-fluid" src="oge_teaser_openxx4.png">
             </a>
             <div class="card-body text-justify">
                 Aktuell findet ein Paradigmenwechsel zu mehr Offenheit in der Gesellschaft, der Verwaltung, der Wirtschaft und auch der Wissenschaft
