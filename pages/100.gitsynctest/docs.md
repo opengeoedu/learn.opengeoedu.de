@@ -1,0 +1,5 @@
+---
+title: gitsynctest
+---
+
+!!!! it works
