@@ -1,5 +1,5 @@
 ---
-title: Werkzeuge zur Kursauswahl
+title: 'Werkzeuge zur Kursauswahl'
 menu: Werkzeuge
 taxonomy:
     category:
