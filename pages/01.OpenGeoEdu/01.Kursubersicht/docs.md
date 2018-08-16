@@ -10,7 +10,7 @@ anchors:
 
 <div class="container">
     <div class="row flex-wrap card-deck">
-        <div class="card p-2 m-2" id="openxx">
+        <div class="card m-2" id="openxx">
             <h3 class="text-center">
                 Open XX
             </h3>
@@ -29,7 +29,7 @@ anchors:
                 </p>
             </div>
         </div>
-        <div class="card p-2 m-2" id="opendata">
+        <div class="card m-2" id="opendata">
             <h3 class="text-center">Open Data</h3>
             <a href="https://www.youtube.com/watch?v=PQ-d0F281Uo">
                 <img class="img-fluid" src="/images/videos/oge_teaser_opendata2.png">
@@ -46,7 +46,7 @@ anchors:
                 </p>
             </div>
         </div>
-        <div class="card p-2 m-2" id="gis">
+        <div class="card m-2" id="gis">
             <h3 class="text-center">GIS</h3>
             <img class="img-fluid" src="/learn/opengeoedu/kursubersicht/EuropaAfrika.png" alt="gis">
             <div class="card-body text-justify">
@@ -60,7 +60,7 @@ anchors:
                 </p>
             </div>
         </div>
-        <div class="card p-2 m-2" id="tutorials">
+        <div class="card m-2" id="tutorials">
             <h3 class="text-center">Tutorials</h3>
             <img class="img-fluid" src="/learn/opengeoedu/kursubersicht/Karte.png" alt="Tutorial">
             <div class="card-body text-justify">
@@ -79,7 +79,7 @@ anchors:
         </div>
     </div>
     <div class="row flex-wrap card-deck">
-        <div class="card p-2 m-2" id="eMob">
+        <div class="card m-2" id="eMob">
             <h3 class="text-center">
                 Elektromobilität
             </h3>
@@ -100,7 +100,7 @@ anchors:
                 </p>
             </div>
         </div>
-        <div class="card p-2 m-2" id="biomasse">
+        <div class="card m-2" id="biomasse">
             <h3 class="text-center">
                 Biomassepotenziale
             </h3>
@@ -119,7 +119,7 @@ anchors:
                 </p>
             </div>
         </div>
-        <div class="card p-2 m-2" id="flaechenmoni">
+        <div class="card m-2" id="flaechenmoni">
             <h3 class="text-center">
                 Flächenmonitoring
             </h3>
@@ -139,7 +139,7 @@ anchors:
                 </p>
             </div>
         </div>
-        <div class="card p-2 m-2" id="fernerkundung">
+        <div class="card m-2" id="fernerkundung">
             <h3 class="text-center">
                 Fernerkundung
             </h3>
