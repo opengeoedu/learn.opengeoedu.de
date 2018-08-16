@@ -1,5 +1,6 @@
 ---
 title: 'Kursteile - Kurzbeschreibung'
+published: false
 taxonomy:
     category:
         - docs
