@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525268477014.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4252301602",
+    "id" : "8C274B7D",
+    "lastKnownWriteTime" : 1525350953,
+    "last_content_update" : 1525350953559,
+    "path" : "~/r_timeline/timeline.R",
+    "project_path" : "timeline.R",
+    "properties" : {
+        "cursorPosition" : "51,0",
+        "scrollLine" : "26",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

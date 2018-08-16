@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1525274785068.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4151120239",
+    "id" : "AF330087",
+    "lastKnownWriteTime" : 1525352563,
+    "last_content_update" : 1525352563287,
+    "path" : "~/r_timeline/timeline.Rmd",
+    "project_path" : "timeline.Rmd",
+    "properties" : {
+        "cursorPosition" : "16,25",
+        "scrollLine" : "3",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
