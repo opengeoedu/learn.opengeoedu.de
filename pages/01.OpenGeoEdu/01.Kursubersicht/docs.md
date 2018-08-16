@@ -9,14 +9,14 @@ anchors:
     active: false
 ---
 
-<div class="container">
+<div class="container" markdown="1">
     <div class="row flex-wrap card-deck">
         <div class="card m-2" id="openxx">
             <h3 class="text-center">
                 Open XX
             </h3>
             <a href="https://www.youtube.com/watch?v=ptBpbXDczRU">
-                <img class="img-fluid" src="oge_teaser_openxx4.png">
+                ![](oge_teaser_openxx4.png)
             </a>
             <div class="card-body text-justify">
                 Aktuell findet ein Paradigmenwechsel zu mehr Offenheit in der Gesellschaft, der Verwaltung, der Wirtschaft und auch der Wissenschaft
