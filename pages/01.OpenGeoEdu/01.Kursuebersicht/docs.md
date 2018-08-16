@@ -49,7 +49,7 @@ anchors:
         </div>
         <div class="card m-2" id="gis">
             <h3 class="text-center">GIS</h3>
-            <img class="img-fluid" src="/uebersicht/kursuebersicht/EuropaAfrika.png" style="height: 100px" alt="gis">
+            <img class="img-fluid" src="/uebersicht/kursuebersicht/EuropaAfrika.png" style="height: 200px" alt="gis">
             <div class="card-body text-justify">
                 Geo-Informationssysteme (GIS) sind die Werkzeuge zur Verarbeitung der offenen Geodaten in OpenGeoEdu.
                 <a href="#" data-toggle="collapse" data-target="#gisdetails">Details...</a>
