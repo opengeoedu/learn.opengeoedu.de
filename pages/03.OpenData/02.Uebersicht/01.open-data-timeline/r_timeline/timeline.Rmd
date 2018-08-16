@@ -1,0 +1,49 @@
+---
+output:
+  html_document:
+    keep_md: yes
+  pdf_document: default
+---
+
+<style type="text/css">
+.main-container {
+  max-width: 1800px; !important;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+<style>
+  .vis-even {
+    background-color: aaaaaa;
+  }
+  
+   .vis-uneven {
+    background-color: FFFFFF;
+  }
+</style>
+
+
+</style>
+
+```{r echo=FALSE, data.width="1000"}
+library(timevis)
+options(width = 1000)
+data <- data.frame(
+  id      = 1:4,
+  content = c("Item one"  , "Item two"  ,"Ranged item", "Item four"),
+  start   = c("2016-01", "2016-01-11", "2016-01-20", "2016-02-14 15:00:00"),
+  end     = c(NA          ,           NA, "2016-02-04", NA)
+)
+
+groups <- data.frame(
+  id = 1:3,
+  content= c("FLOSS", "Geoinformation", "Open Data /<br/> Open Content"),
+  style=c("","","")
+)
+
+
+
+data <- read.csv("timeline.csv")
+timevis(data, groups = groups, options = list(zoomMax=400*365*24*60*60*60, zoomMin=100*365*24*60*60*60, orientation="both", width="100%"))
+```
+
