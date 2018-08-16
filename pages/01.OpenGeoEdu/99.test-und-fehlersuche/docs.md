@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
 menu: Fallbeispiele
-published: false
+published: true
 ---
 <div class="container">
                 <h2 class="mt-3 " id="Kursteile">Kursteile - Kurzbeschreibung</h2>
