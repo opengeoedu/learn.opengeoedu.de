@@ -63,7 +63,7 @@ anchors:
         </div>
         <div class="card m-2" id="tutorials">
             <h3 class="text-center">Tutorials</h3>
-            <img class="img-fluid" src="/uebersicht/kursuebersicht/Karte.png" alt="Tutorial">
+            <img class="img-fluid" src="/uebersicht/kursuebersicht/Karte.png" style="height: 200px" alt="Tutorial">
             <div class="card-body text-justify">
                 Tutorials stehen zu verschiedenen Themen bereit. Diese umfassen sowohl eher grundlegende Ausführungen als auch praktische
                 Anleitungen zum Arbeiten mit GIS.
