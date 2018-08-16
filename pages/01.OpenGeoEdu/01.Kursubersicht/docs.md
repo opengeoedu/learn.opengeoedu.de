@@ -63,7 +63,7 @@ anchors:
         </div>
         <div class="card m-2" id="tutorials">
             <h3 class="text-center">Tutorials</h3>
-            <img class="img-fluid" src="/learn/opengeoedu/kursubersicht/Karte.png" alt="Tutorial">
+            <img class="img-fluid" src="/uebersicht/kursubersicht/Karte.png" alt="Tutorial">
             <div class="card-body text-justify">
                 Tutorials stehen zu verschiedenen Themen bereit. Diese umfassen sowohl eher grundlegende Ausführungen als auch praktische
                 Anleitungen zum Arbeiten mit GIS.
@@ -85,7 +85,7 @@ anchors:
                 Elektromobilität
             </h3>
             <a href="https://youtu.be/rEB3Oti20CI?list=PL-444vjL1sW0FROQEQ1pHG1M5hl8z9fcJ">
-                <img class="img-fluid" src="../../../uebersicht/kursubersicht/teaser_emob.png">
+                <img class="img-fluid" src="/uebersicht/kursubersicht/teaser_emob.png">
             </a>
             <div class="card-body text-justify">
                 Der Elektromobilität wird in Deutschland für die Verwirklichung der energie- und klimapolitischen Ziele eine wichtige Rolle
