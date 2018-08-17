@@ -1,5 +1,6 @@
 ---
 title: test
+published: true
 ---
 
 [mermaid]
