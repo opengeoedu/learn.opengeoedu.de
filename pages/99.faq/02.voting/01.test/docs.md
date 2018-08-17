@@ -18,3 +18,5 @@ classDef orange fill:#f96,stroke:#333,stroke-width:4px;
 class sq,e green
 class di orange
 [/mermaid]
+
+simple paragraph
