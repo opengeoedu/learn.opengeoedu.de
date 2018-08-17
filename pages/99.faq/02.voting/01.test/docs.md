@@ -5,6 +5,7 @@ shortcode-core:
     active: false
 ---
 
+### diagram test
 [mermaid]
 graph TB
 sq[Square shape] --> ci((Circle shape))
