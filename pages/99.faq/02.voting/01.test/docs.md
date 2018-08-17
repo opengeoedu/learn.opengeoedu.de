@@ -1,10 +1,7 @@
 ---
 title: test
-external_links:
-    process: true
-    no_follow: true
-    target: _blank
-    mode: active
+shortcode-core:
+    active: false
 ---
 
 [mermaid]
