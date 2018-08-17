@@ -1,6 +1,7 @@
 ---
 title: test
 shortcode-core:
+    enabled: false
     active: false
 ---
 
