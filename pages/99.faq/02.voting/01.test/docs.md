@@ -20,3 +20,7 @@ class di orange
 [/mermaid]
 
 simple paragraph
+
+## texttest
+
+[ui-animated-text words="pizza, chips, steak" animation="clip" element="h2"]My favorite food is[/ui-animated-text]
