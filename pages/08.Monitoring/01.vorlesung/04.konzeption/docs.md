@@ -4,13 +4,12 @@ taxonomy:
     category: docs
 ---
 
-Das Fallbeispiel „Flächenmonitoring“ fokussiert dem Ziel entsprechend darauf, quantitative Beschreibungen, Daten- und Analysegrundlagen für eine gute Stadt- und Raumplanung zu schaffen. In praktischen Beispielen, Aufgaben und Übungen sollen folgende Themen beleuchtet werden: 
-
-- Bestimmung SuV-Anteil
+Das Fallbeispiel „Flächenmonitoring“ fokussiert darauf, Daten- und Analysegrundlagen für eine nachhaltige Stadt- und Raumplanung zu schaffen. In praktischen Aufgaben und Übungen sollen folgende Themen beleuchtet werden:
+- Bestimmung des Siedlungs- und Verkehrsflächen(SuV)–Anteils 
 - Bestimmung der Flächenneuinanspruchnahme
-- Bodenversiegelungsabschätzung
+- Abschätzung der Bodenversiegelung
 - Bestimmung der früheren Entwicklung
-- Messung der Veränderung der Siedlung-und Bevölkerungsdichte
-- Stadtgrün (Anteil und Erreichbarkeit)
-- Verkehrsnetzdichte
-- Ergebnisaufbereitung
+- Messung der Veränderung der Siedlungs- und Bevölkerungsdichte
+- Ableitung von Stadtgrüninformationen (Flächenanteil und Erreichbarkeit)
+- Bestimmung der Verkehrsnetzdichte
+- Ergebnisvisualisierung

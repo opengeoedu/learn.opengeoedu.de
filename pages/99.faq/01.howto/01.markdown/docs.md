@@ -657,6 +657,14 @@ Content for chapter one.
 
 
 ## Images
+
+```markdown
+![OGE-Logo](http://www.opengeoedu.de/images/logo/oge.svg?lightbox=800&resize=300&classes=caption "Diese Abbildung zeigt das OpenGeoEdu-Logo")
+```
+![](http://www.opengeoedu.de/images/logo/oge.svg?lightbox=800&resize=300&classes=caption "Diese Abbildung zeigt das OpenGeoEdu-Logo")
+
+
+
 Images have a similar syntax to links but include a preceding exclamation point.
 
 ```markdown
@@ -845,6 +853,7 @@ The **section** shortcode is a powerful way to encompass some text in your markd
 ```
 [section name="author"]
 ![](author.jpg?cropResize=100,100&classes=left)
+
 ### Johnny Appleseed
 Johnny Appleseed was an American pioneer nurseryman who introduced apple trees to large parts of Pennsylvania, Ontario, Ohio, Indiana, and Illinois, as well as the northern counties of present-day West Virginia. He became an American legend while still alive, due to his kind, generous ways, his leadership in conservation, and the symbolic importance he attributed to apples.
 [/section]

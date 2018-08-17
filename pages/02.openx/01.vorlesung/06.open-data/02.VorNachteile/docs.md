@@ -5,7 +5,7 @@ taxonomy:
 ---
 
 ## Vor- und Nachteile offener Daten
-Rössler, 2014 diskutiert auch die Vor- und Nachteile offener Daten. [in BDVI-Forum](http://bdvi-forum.de/wp-content/uploads/FORUM_2_2014.pdf)
+Rössler, 2014 diskutiert auch die Vor- und Nachteile offener Daten. [BDVI-Forum](http://bdvi-forum.de/wp-content/uploads/FORUM_2_2014.pdf)
 
 | Aspekt | PRO | CONTRA |
 | :------------- | :------------- | :------------- |
