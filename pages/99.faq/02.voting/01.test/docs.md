@@ -3,7 +3,6 @@ title: test
 ---
 
 ### diagram test
-[ui-tabs position="top-left" active="0" theme="lite"][ui-tab title="First Tab"]
 [mermaid]
 graph TB
 sq[Square shape] --> ci((Circle shape))
@@ -19,8 +18,3 @@ classDef orange fill:#f96,stroke:#333,stroke-width:4px;
 class sq,e green
 class di orange
 [/mermaid]
-[/ui-tab][/ui-tabs]
-
-[ui-tab title="First Tab"]
-Test
-[/ui-tab]
