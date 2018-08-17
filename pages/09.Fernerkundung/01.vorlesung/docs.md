@@ -5,7 +5,7 @@ taxonomy:
     category: docs
 ---
 
-![BKG_Logo](BKG_2017_Office_Farbe_de_400px.png)
+![BKG_Logo](BKG_2017_Web2x_de.png)
 <br> 
 
 Das Bundesamt für Kartographie und Geodäsie (BKG) ist der zentrale Dienstleister des Bundes für topographische Grundlagendaten, Kartographie und geodätische Referenzsysteme. Auf den Gebieten der Geodäsie und des Geoinformationswesens berät das BKG die Einrichtungen des Bundes und vertritt die einschlägigen fachlichen Interessen des Bundes auf internationaler Ebene.  
