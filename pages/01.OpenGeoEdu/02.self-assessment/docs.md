@@ -24,21 +24,16 @@ beschreibt eine Übungsaufgabe systematisch und ausführlich.
                 <small class="text-muted"></small>
             </p>
             <div markdown="1">[![](icons8-test-absolviert-64.png)](http://test.opengeoedu.de)</div>
-            <a href src="http://test.opengeoedu.de/">
-                <img class="card-img-bottom img-fluid" src="/uebersicht/self-assessment/icons8-test-absolviert-64.png" style="width:100px">
-            </a>
         </div>
     </div>
     <div class="card">
         <div class="card-body">
-            <a href src="http://test.opengeoedu.de/workload.aspx">
                 <h5 class="card-title">Workloadrechner (in Arbeit)</h5>
                 <p class="card-text"></p>
                 <p class="card-text">
                     <small class="text-muted"></small>
                 </p>
-                <img class="card-img-bottom img-fluid" src="/uebersicht/self-assessment/icons8-taschenrechner-64.png" style="width:100px">
-            </a>
+                <div markdown="1">[![](icons8-taschenrechner-64.png)](http://test.opengeoedu.de/workload.aspx)</div>
         </div>
     </div>
     <div class="card">
@@ -48,9 +43,7 @@ beschreibt eine Übungsaufgabe systematisch und ausführlich.
             <p class="card-text">
                 <small class="text-muted"></small>
             </p>
-            <a href src="https://www.opengeoedu.de/learn/uebersicht/self-assessment/OGE_Modulbeschreibung.pdf">
-                <img class="card-img-bottom img-fluid" src="/uebersicht/self-assessment/Modulbeschreibung.png" style="width:100px">
-            </a>
+            <div markdown="1">[![](Modulbeschreibung.png)](OGE_Modulbeschreibung.pdf)</div>
         </div>
     </div>
 </div>
