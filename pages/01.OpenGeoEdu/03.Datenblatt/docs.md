@@ -10,8 +10,7 @@ menu: Datenblätter
 
 Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, so z.B. hinsichtlich der Voraussetzungen, der verwendeten Software und Daten, den benötigten Funktionalitäten und der erwarteten Ergebnisse.
 
-## Übungen Open XX  
-|  |  |  |
+| ## Übungen Open XX |  |  |
 |  :-----          |  :-----          |  :-----          |
 |  Open Access Zeitschriften [Journale](OGE_Datenblatt_OpenXX_Journale.pdf) | Open Access Forschungsdaten [Daten](OGE_Datenblatt_OpenXX_Repositories.pdf) | Open Source Software [Software](OGE_Datenblatt_OpenXX_DesktopGIS.pdf) |
 <br>
