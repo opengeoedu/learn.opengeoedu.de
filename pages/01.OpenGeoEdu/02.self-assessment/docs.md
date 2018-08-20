@@ -33,7 +33,7 @@ beschreibt eine Übungsaufgabe systematisch und ausführlich.
                 <p class="card-text">
                     <small class="text-muted"></small>
                 </p>
-            <a href src="http://test.opengeoedu.de/workload.aspx"><i class="fas fa-calculator fa-4x"></i></a>
+            <div markdown="1">[![](icons8-taschenrechner-64.png?resize=200&classes=caption "Workloadrechner")](http://test.opengeoedu.de/workload.aspx)</div>
         </div>
     </div>
     <div class="card">
