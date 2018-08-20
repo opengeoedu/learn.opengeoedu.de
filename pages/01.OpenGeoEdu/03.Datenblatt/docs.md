@@ -13,7 +13,8 @@ Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, s
 | Übungen | | | |
 |  :-----          |  :-----          |  :-----          | |
 |  Open XX | Open Access Zeitschriften [Journale](OGE_Datenblatt_OpenXX_Journale.pdf) | Open Access Forschungsdaten [Daten](OGE_Datenblatt_OpenXX_Repositories.pdf) | Open Source Software [Software](OGE_Datenblatt_OpenXX_DesktopGIS.pdf) | 
-| GIS  | United Nations Sustainable Development Goals (Reichweite: Global - Level: Click-by-Click) [UNSDG](OGE_Datenblatt_SDG_Global_Click.pdf) |
+| GIS  | Reichweite: Global - Level: Click-by-Click |
+| | [United Nations Sustainable Development Goals](OGE_Datenblatt_SDG_Global_Click.pdf) |
 <br><br>
 
 | Fallbeispiele  | 
