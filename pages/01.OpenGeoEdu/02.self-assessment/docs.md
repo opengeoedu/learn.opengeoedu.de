@@ -43,7 +43,7 @@ beschreibt eine Übungsaufgabe systematisch und ausführlich.
             <p class="card-text">
                 <small class="text-muted"></small>
             </p>
-            <div markdown="1">[![](Modulbeschreibung.png)](OGE_Modulbeschreibung.pdf)</div>
+            <div markdown="1">[![](Modulbeschreibung.png?resize=150)](OGE_Modulbeschreibung.pdf)</div>
         </div>
     </div>
 </div>
