@@ -14,31 +14,21 @@ Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, s
 |  |  |  |
 |  :-----          |  :-----          |  :-----          |
 |  Open Access Zeitschriften [Journale](OGE_Datenblatt_OpenXX_Journale.pdf) | Open Access Forschungsdaten [Daten](OGE_Datenblatt_OpenXX_Repositories.pdf) | Open Source Software [Software](OGE_Datenblatt_OpenXX_DesktopGIS.pdf) |
-
+<br>
 ## Übungen GIS
 |  |
 |  :-----          |
 |  United Nations Sustainable Development Goals (Reichweite: Global - Level: Click-by-Click) [UNSDG](OGE_Datenblatt_SDG_Global_Click.pdf) |
-
+<br>
 ## Fallbeispiele Elektromobilität
 |    |
 |  :-----          |
 |  (Reichweite: Lokal - Level: Basic) [Elektromobilität](OGE_Datenblatt_EMobi_Lokal_Basic.pdf) |
-
+<br>
 ## Fallbeispiele Biomassepotenziale
 |  (Reichweite: Regional - Level: Advanced - Basic - Click-by-Click)  |  (Reichweite: National - Level: Basic und Click-by-Click) |  (Reichweite: National - Level: Advanced)  |
 |  :-----          |  :-----          |  :-----          |
 |  [Biomassepotenziale](OGE_Datenblatt_DBFZ_Quick_Scan_A_B_C.pdf) |  [Biomassepotenziale](OGE_Datenblatt_Biogut_DBFZ_national_B_C.pdf) |  [Biomassepotenziale](OGE_Datenblatt_DBFZ_Biogut_national_A.pdf) |
-
-### 
-
-
-### 
-
-
-### 
-
-
 
 ## Fallbeispiele Flächenmonitoring
 
