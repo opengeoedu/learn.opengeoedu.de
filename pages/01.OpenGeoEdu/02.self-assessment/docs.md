@@ -33,9 +33,7 @@ Um Ihnen den Einstieg in die OpenGeoEdu-Lerneinheiten zu erleichtern, bieten wir
             <p class="card-text">
                 <small class="text-muted"></small>
             </p>
-            <div  markdown="1">
             [![](icons8-test-absolviert-64.png)](http://test.opengeoedu.de)
-            </div>
             <a href src="http://test.opengeoedu.de/">
             <img class="card-img-bottom img-fluid" src="/learn/uebersicht/self-assessment/icons8-test-absolviert-64.png" style="width:100px">
             </a>
@@ -48,9 +46,7 @@ Um Ihnen den Einstieg in die OpenGeoEdu-Lerneinheiten zu erleichtern, bieten wir
             <p class="card-text">
                 <small class="text-muted"></small>
             </p>
-            <div  markdown="1">
             [![](icons8-taschenrechner-64.png)](http://test.opengeoedu.de/workload.aspx)
-            </div>
             <a href src="http://test.opengeoedu.de/workload.aspx">
             <img class="card-img-bottom img-fluid" src="/learn/uebersicht/self-assessment/icons8-taschenrechner-64.png" style="width:100px">
             </a>
@@ -63,9 +59,7 @@ Um Ihnen den Einstieg in die OpenGeoEdu-Lerneinheiten zu erleichtern, bieten wir
             <p class="card-text">
                 <small class="text-muted"></small>
             </p>
-            <div  markdown="1">
             [![](Modulbeschreibung.png)](https://www.opengeoedu.de/learn/uebersicht/self-assessment/OGE_Modulbeschreibung.pdf)
-            </div>
             <a href src="https://www.opengeoedu.de/learn/uebersicht/self-assessment/OGE_Modulbeschreibung.pdf">
             <img class="card-img-bottom img-fluid" src="/learn/uebersicht/self-assessment/Modulbeschreibung.png" style="width:100px">
             </a>
