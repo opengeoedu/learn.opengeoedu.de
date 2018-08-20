@@ -23,7 +23,7 @@ beschreibt eine Übungsaufgabe systematisch und ausführlich.
             <p class="card-text">
                 <small class="text-muted"></small>
             </p>
-            <div markdown="1">[![](icons8-test-absolviert-64.png)](http://test.opengeoedu.de)</div>
+            <div markdown="1">[![](icons8-test-absolviert-64.png?resize=200&classes=caption "Selbsteinschätzung")](http://test.opengeoedu.de)</div>
         </div>
     </div>
     <div class="card">
@@ -43,7 +43,7 @@ beschreibt eine Übungsaufgabe systematisch und ausführlich.
             <p class="card-text">
                 <small class="text-muted"></small>
             </p>
-            <div markdown="1">[![](Modulbeschreibung.png?resize=150)](OGE_Modulbeschreibung.pdf)</div>
+            <div markdown="1">[![](Modulbeschreibung.png?resize=200&classes=caption "Modulbeschreibung")](OGE_Modulbeschreibung.pdf)</div>
         </div>
     </div>
 </div>
