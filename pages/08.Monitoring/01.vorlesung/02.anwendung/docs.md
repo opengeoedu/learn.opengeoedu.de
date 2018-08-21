@@ -7,29 +7,33 @@ taxonomy:
 Der Bedarf an **kleinräumigen Informationen ist vielfältig**. Damit können **Wissenschaft und Praxis Maßnahmen und Entscheidungen optimieren**, aber auch die bisherigen Erfolge oder Fehler genauer identifizieren. Hier sollen insbesondere die Anforderungen an die Daten betrachtet werden – z. B. räumliche und zeitliche Auflösung, Objektivität, Homogenität usw. Nutzer der Daten sind Akteure von der lokalen über die regionale und nationale bis hin zur internationalen Ebene. Die Anwendungsfelder der Daten sind z. B. Grünvolumen, Stadtluftbelastungsszenarien, Bodenwerte oder das Geothermie-Potential.
 
 
-**Flächennutzung** (Grünvolumen)
 
-![abb_gruenvolumen_ua_berlin](abb_gruenvolumen_ua_berlin.png)
+| | |
+|--|--|
+|   | **Flächennutzung** <br/>(Grünvolumen)  |
+| | ![abb_gruenvolumen_ua_berlin](abb_gruenvolumen_ua_berlin.png) |
+|   |  Quelle: [Umweltatlas-Berlin](http://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=showMap&mapId=wmsk05_09_gruendvol2010@senstadt) |
 
-Quelle: [Umweltatlas-Berlin](http://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=showMap&mapId=wmsk05_09_gruendvol2010@senstadt)
 
-**Klimaanpassung** (Luftbelastung)
+| | |
+|--|--|
+|   | **Klimaanpassung** <br/>(Luftbelastung)   |
+| | ![abb_luftbelastung_lhs_sttutgart](abb_luftbelastung_lhs_sttutgart.png) |
+|   |  Quelle: [LHS Stuttgart](http://gis6.stuttgart.de/maps/index.html?karte=stadtklima&embedded=true#basemap=0&centerX=3516118.9675944396&centerY=5406021.037465078&scale=25000&layerIds=279.281) |
 
-![abb_luftbelastung_lhs_sttutgart](abb_luftbelastung_lhs_sttutgart.png)
 
-Quelle: [LHS Stuttgart](http://gis6.stuttgart.de/maps/index.html?karte=stadtklima&embedded=true#basemap=0&centerX=3516118.9675944396&centerY=5406021.037465078&scale=25000&layerIds=279.281)
+| | |
+|--|--|
+|   | **Stadtplanung** <br/>(Bodenwerte)   |
+| | ![abb_bodenwerte_lhs_dresden](abb_bodenwerte_lhs_dresden.png) |
+|   | Quelle: [LHS Dresden](http://stadtplan2.dresden.de/(S(oeqbrjpzbm5s4tydywh1vlbm))/spdd.aspx?TH=UW_WANDERWEGE)|
 
-**Stadtplanung** (Bodenwerte)
 
-![abb_bodenwerte_lhs_dresden](abb_bodenwerte_lhs_dresden.png)
-
-Quelle: [LHS Dresden](http://stadtplan2.dresden.de/(S(oeqbrjpzbm5s4tydywh1vlbm))/spdd.aspx?TH=UW_WANDERWEGE)
-
-**Energieforschung** (Geothermie-Potenzial)
-
-![abb_geotherme_irena](abb_geotherme_irena.png)
-
-Quelle: [IRENA-GlobalAtlas](https://irena.masdar.ac.ae/gallery/#map/1645)
+| | |
+|--|--|
+|   | **Energieforschung** <br/>(Geothermie-Potenzial)  |
+| | ![abb_geotherme_irena](abb_geotherme_irena.png) |
+|   | Quelle: [IRENA-GlobalAtlas](https://irena.masdar.ac.ae/gallery/#map/1645)|
 
 
 
