@@ -8,9 +8,9 @@ Fläche (Boden) ist eine begrenzte Naturressource. Nur die effiziente Allokation
 
 ![abb_uba_30zeil](abb_uba_30zeil.png)
 
-Die Grafik zeigt den jährlichen Anstieg der Siedlungs- und Verkehrsfläche sowie die Flächeneinsparziele der Bundesregierung. Zur Prüfung und Erreichung dieser Ziele benötigen wir eine kleinräumige Raumbeobachtung und Bewertung der Siedlungsentwicklung um den Anforderungen aus Politik und Gesellschaft gerecht zu werden.
+Die Grafik zeigt den jährlichen Anstieg der Siedlungs- und Verkehrsfläche im Vergleich zur Erholungsfläche sowie die Flächensparziele  der Bundesregierung. Zur Prüfung und Erreichung dieser Ziele benötigen wir eine kleinräumige Raumbeobachtung und Bewertung der Siedlungsentwicklung um den Anforderungen aus Politik und Gesellschaft gerecht zu werden.
 
 Die Bedeutung dieser Aufgabe spiegelt sich auch in der aktuellen Literatur wider.
 
 !!! Zum Beispiel in [Siedentop & Kaup (2017)](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa2-211777):
-***„Staat, Gesellschaft, Wissenschaft und Wirtschaft benötigen eine leistungsfähige Raumbeobachtung, die Entscheidungsträgern und Interessierten Informationen zu demografischen, ökonomischen, sozialen sowie siedlungs-und infrastrukturellen Zuständen und Entwicklungen bereitstellt“.*** 
+***„Staat, Gesellschaft, Wissenschaft und Wirtschaft benötigen eine leistungsfähige Raumbeobachtung, die Entscheidungsträgern und Interessierten Informationen zu demografischen, ökonomischen, sozialen sowie siedlungs-und infrastrukturellen Zuständen und Entwicklungen bereitstellt“.***
