@@ -21,7 +21,7 @@ taxonomy:
 
 ![abb_baulichenutzung_uberschwiemung](abb_baulichenutzung_uberschwiemung.png)
 
-Hier ist die bauliche Entwicklung in Überschwemmungsgebieten in den einzelnen Bundesländern dargestellt.
+Hier ist die prozentuale bauliche Entwicklung in Überschwemmungsgebieten in den einzelnen Bundesländern dargestellt.
 
 
 
@@ -35,7 +35,7 @@ Hier sehen Sie die Flächenneuinanspruchnahme auf Gemeindeebene.
 ![abb_bodenseidlung_national](abb_bodenseidlung_national.png)
 
 
-Hier wird die Bodenversieglungsgrad (2015) auf Kreisebene dargestellt.
+Hier dargestellt die Bodenversieglungsgrad (2015) auf Kreisebene bundesweit.
 
 Unten sehen Sie die Struktur der Bodenversiegelungsgrad als 100m Raster Karte.
 
@@ -60,7 +60,7 @@ Karte von Anteil Grünfläche an Gebiet Fläche (500m Raster)
 ### Entwicklung der Siedlungsdichte und Bevölkerung
 ![abb_entwicklung_sed_bev](abb_entwicklung_sed_bev.png)
 
-Hier dargestellt die Entwicklung der Siedlungsdichte und Bevölkerung und differenziert nach Gemeindegrößen (unten).
+Hier sieht man die Entwicklung der Siedlungsdichte und Bevölkerung und differenziert nach Gemeindegrößen (unten).
 
 
 ![abb_siedlungdichte_nach_typ](abb_siedlungdichte_nach_typ.png)

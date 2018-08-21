@@ -34,7 +34,7 @@ Quelle: [IRENA-GlobalAtlas](https://irena.masdar.ac.ae/gallery/#map/1645)
 
 
 - Benötigt werden z. B. Informationen zur Realsituation (Siedlungsdichte, Ausnutzungsdichte), zur Flächennutzungsänderung, zur Landschaftsqualität, zum Gebäudebestand Gebäudetyp, -alter, -nutzung), zur Verkehrsinfrastruktur (Dichte, Erreichbarkeit) (, , zum Energiebedarf,. Hier spielen auch nutzergenerierte Daten eine immer größere Rolle.
-- Das Informationspotenzial amtlicher Geobasisdaten wie Hausumrigen [(HU-DE)](https://www.ldbv.bayern.de/produkte/kataster/hausumringe.html), Gebäudeadressen [(GA)](http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=deu&gdz_akt_zeile=2&gdz_anz_zeile=6&gdz_unt_zeile=19&gdz_user_id=0) oder 3D-Gebäudemodellem [(LoD1-DE)](http://www.adv-online.de/AdV-Produkte/Weitere-Produkte/3D-Gebaeudemodelle-LoD/) ist hoch, aber noch ungenügend ausgeschöpft.
+- Dabei ist das Informationspotenzial von bestehenden amtlicher Geobasisdaten wie Hausumrigen [(HU-DE)](https://www.ldbv.bayern.de/produkte/kataster/hausumringe.html), Gebäudeadressen [(GA)](http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=deu&gdz_akt_zeile=2&gdz_anz_zeile=6&gdz_unt_zeile=19&gdz_user_id=0) oder 3D-Gebäudemodellem [(LoD1-DE)](http://www.adv-online.de/AdV-Produkte/Weitere-Produkte/3D-Gebaeudemodelle-LoD/) ist hoch, biser aber noch ungenügend ausgeschöpft.
 - Nutzergenerierte Daten spielen eine immer wichtigere Rolle neben neuen Fernerkundungsdaten und neuen und weiterentwickelten amtlichen Daten
 - Es gibt nach wie vor Datenqualitätsprobleme (mangelnde Aktualität, s. Abb.)
 - Häufig fehlen noch flächendeckende Datenangebote (z. B. zur Grünflächenausstattung, kleinräumigen Bevölkerungsverteilung)
