@@ -5,8 +5,9 @@ taxonomy:
 ---
 
 ## Autor der Lerneinheit
-
-|![](https://www.ioer.de/fileadmin/_migrated/pics/meinel002.jpg "Dr.-Ing. Gotthard Meinel")  | **Dr.-Ing. Gotthard Meinel** interessiert auf das Forschungsgebiet Geoinformatik einschließlich fernerkundlicher Bildverarbeitungsmethoden. Seit 2009 leitet er des Forschungsbereichs Monitoring der Siedlungs- und Freiraumentwicklung im Leibniz-Institut für ökologische Raumentwicklung. Seine Forschungsschwerpunkte sind automatisierte Erhebungsmethoden, Analyse und Visualisierungstechnologien des Monitorings von Flächennutzungsentwicklungen. Weitere Informationen finden Sie auf [www.ioer.de](https://www.ioer.de/ioer-im-ueberblick/beschaeftigte/meinel/) |
+| | |
+|--|--|
+|![](https://www.ioer.de/fileadmin/_migrated/pics/meinel002.jpg "Dr.-Ing. Gotthard Meinel")  | **Dr.-Ing. Gotthard Meinel** interessiert auf das Forschungsgebiet Geoinformatik einschließlich fernerkundlicher Bildverarbeitungsmethoden. Seit 2009 leitet er des Forschungsbereichs Monitoring der Siedlungs- und Freiraumentwicklung im Leibniz-Institut für ökologische Raumentwicklung. Seine Forschungsschwerpunkte sind automatisierte Erhebungsmethoden, Analyse und Visualisierungstechnologien des Monitorings von Flächennutzungsentwicklungen. <br/> Weitere Informationen finden Sie auf [www.ioer.de](https://www.ioer.de/ioer-im-ueberblick/beschaeftigte/meinel/) |
 
 
 ## Lernziele
