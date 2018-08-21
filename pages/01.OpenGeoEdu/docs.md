@@ -1,5 +1,6 @@
 ---
-title: OpenGeoEdu
+title: Übersicht
+slug: uebersicht
 taxonomy:
     category:
         - docs
@@ -15,7 +16,8 @@ interpretieren sollen.
 
 Der Vorlesungsteil ist vollständig frei verfügbar, der Übungsteil ist nur mit
 [Registrierung](https://ilias.opengeoedu.de/ilias/ilias.php?lang=de&client_id=opengeoedu&cmdClass=ilaccountregistrationgui&cmdNode=ta:y&baseClass=ilStartUpGUI) zugängig, da hierfür Leistungspunkte ermittelt werden, für die ein Zertifikat zur Anrechnung als Studienleistung vergeben wird.
-Auf dieser Übersichtsseite werden die Kursteile mit einem motivierenden Trailer und einer Kurzbeschreibung vorgestellt. Zu den einzelnen Kurs- und Übungsteilen existieren Datenblätter, die die benutzten Daten, Software, Funktionalitäten und erwartete Ergebnisse systematisch und ausführlich zusammenstellen.
+
+Auf dieser Übersichtsseite werden die Kursteile mit einem motivierenden Trailer und einer Kurzbeschreibung vorgestellt. Eine Modulbeschreibung zum offenen Online Kurs findet sich auf der nächsten Seite. Zu den einzelnen Kurs- und Übungsteilen existieren Datenblätter, die die benutzten Daten, Software, Funktionalitäten und erwartete Ergebnisse systematisch und ausführlich zusammenstellen.
 
 Zudem gibt es ein Werkzeug zur Selbsteinschätzung, aus dem Hinweise und Empfehlungen zur Bearbeitung der Kursteile in Abhängigkeit
 vom Vorwissen des Nutzers gegeben werden. Ebenso steht ein Workloadrechner zur Verfügung, mit dem sich der Nutzer eine Auswahl
