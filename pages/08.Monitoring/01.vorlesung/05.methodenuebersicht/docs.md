@@ -18,7 +18,7 @@ Das Ziel der Übungen sind Analysen auf **Grundlage offener Daten in Kombination
 In den Übung und Aufgaben werden schrittweise relevante Themenfelder der thematischen Raumanalyse vorgestellt.
 
 
-- **Datengrundlagen** zur Fläche, zum Gebäuden, zu Verkehrstrassen und zur Landbedeckung
+- **Datengrundlagen** zur Fläche, zu Gebäuden, zu Verkehrstrassen und zur Landbedeckung
 - **Flächennutzungs**-, Verkehrs- und Gebäudenomenklaturen
 - Beschreibung durch **Indikatoren (Eigenschaften)**
 - Analysen in verschiedenen **Raumauflösungen (Verwaltungsgebiete, Verkehr)**
