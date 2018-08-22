@@ -4,6 +4,9 @@ menu: Test
 taxonomy:
     category:
         - docs
-published: false
 ---
-Hier gibt's bald einen Link zur Testumgebung
+[center]
+<a href="https://ilias.opengeoedu.de" markdown="1" target="_blank">Hier geht es bald weiter zum Test (ILIAS)
+![](/images/test.png?resize=200,200)
+</a>
+[/center]
