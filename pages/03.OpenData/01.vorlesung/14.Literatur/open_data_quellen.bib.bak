@@ -111,17 +111,16 @@
 }
 
 @InProceedings{Bargh2016,
-  author        = {Mortaza S. Bargh and Sunil Choenni and Ronald Meijer},
-  title         = {Meeting Open Data Halfway: on Semi-Open Data Paradigm},
-  booktitle     = {Proceedings of the 9th International Conference on Theory and Practice of Electronic Governance, {ICEGOV} 2016, Montevideo, Uruguay, March 1-3, 2016},
-  year          = {2016},
-  editor        = {John Carlo Bertot and Elsa Estevez and Sehl Mellouli},
-  pages         = {199--206},
-  publisher     = {{ACM}},
-  __markedentry = {[matthias:]},
-  bibsource     = {dblp computer science bibliography, https://dblp.org},
-  biburl        = {https://dblp.org/rec/bib/conf/icegov/BarghCM16},
-  doi           = {10.1145/2910019.2910037},
+  author    = {Mortaza S. Bargh and Sunil Choenni and Ronald Meijer},
+  title     = {Meeting Open Data Halfway: on Semi-Open Data Paradigm},
+  booktitle = {Proceedings of the 9th International Conference on Theory and Practice of Electronic Governance, {ICEGOV} 2016, Montevideo, Uruguay, March 1-3, 2016},
+  year      = {2016},
+  editor    = {John Carlo Bertot and Elsa Estevez and Sehl Mellouli},
+  pages     = {199--206},
+  publisher = {{ACM}},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  biburl    = {https://dblp.org/rec/bib/conf/icegov/BarghCM16},
+  doi       = {10.1145/2910019.2910037},
 }
 
 @Article{Seus2015,
@@ -129,7 +128,7 @@
   title         = {Open Geo Data--grenzenlos nutzbar?},
   journal       = {zfv – Zeitschrift für Geodäsie, Geoinformation und Landmanagement},
   year          = {2015},
-  __markedentry = {[matthias:6]},
+  __markedentry = {[matthias:]},
   doi           = {10.12902/zfv-0054-2015},
   publisher     = {zfv},
 }
@@ -174,7 +173,7 @@
 
 @InBook{reinhart2012,
   pages     = {365--378},
-  title     = {Wissenschaft und Wirtschaft: Von Entdeckung zu Innovation},
+  title     = {{Wissenschaft und Wirtschaft: Von Entdeckung zu Innovation}},
   publisher = {Springer},
   year      = {2012},
   author    = {Reinhart, Martin},
@@ -194,13 +193,62 @@
   publisher = {Springer},
 }
 
-@Misc{kraftFAIR2017,
+@Article{kraftFAIR2017,
   author    = {Angelina Kraft},
   title     = {Die FAIR Data Prinzipien für Forschungsdaten (TIB)},
-  year      = {2017},
   journal   = {TIB-Blog - Weblog der Technischen Informationsbibliothek},
+  year      = {2017},
   timestamp = {2018-06-19},
   url       = {https://blogs.tib.eu/wp/tib/2017/09/12/die-fair-data-prinzipien-fuer-forschungsdaten/},
+}
+
+@Article{DCSG2014,
+  author    = {{Data Citation Synthesis Group}},
+  title     = {Joint Declaration of Data Citation Principles},
+  year      = {2014},
+  doi       = {10.25490/a97f-egyk},
+  publisher = {Force11},
+}
+
+@Article{Buneman2016,
+  author    = {Peter Buneman and Susan Davidson and James Frew},
+  title     = {Why data citation is a computational problem},
+  journal   = {Communications of the {ACM}},
+  year      = {2016},
+  volume    = {59},
+  number    = {9},
+  pages     = {50--57},
+  month     = {aug},
+  doi       = {10.1145/2893181},
+  publisher = {Association for Computing Machinery ({ACM})},
+}
+
+@Book{bill2016,
+  title     = {{Grundlagen der Geo-Informationssysteme. 6., völlig neu bearbeitete und erweiterte Auflage}},
+  publisher = {Berlin Wichmann},
+  year      = {2016},
+  author    = {Ralf Bill},
+  isbn      = {3879076073},
+}
+
+@Article{Seibel2016,
+  author        = {Seibel, Benjamin},
+  title         = {{Open Data in der Praxis}},
+  journal       = {Technologie Stiftung Berlin, Berlin},
+  year          = {2016},
+  __markedentry = {[matthias:6]},
+}
+
+@Article{Wilkinson2016,
+  author    = {Mark D. Wilkinson and Michel Dumontier and IJsbrand Jan Aalbersberg and Gabrielle Appleton and Myles Axton and Arie Baak and Niklas Blomberg and Jan-Willem Boiten and Luiz Bonino da Silva Santos and Philip E. Bourne and Jildau Bouwman and Anthony J. Brookes and Tim Clark and Merc{\`{e}} Crosas and Ingrid Dillo and Olivier Dumon and Scott Edmunds and Chris T. Evelo and Richard Finkers and Alejandra Gonzalez-Beltran and Alasdair J.G. Gray and Paul Groth and Carole Goble and Jeffrey S. Grethe and Jaap Heringa and Peter A.C 't Hoen and Rob Hooft and Tobias Kuhn and Ruben Kok and Joost Kok and Scott J. Lusher and Maryann E. Martone and Albert Mons and Abel L. Packer and Bengt Persson and Philippe Rocca-Serra and Marco Roos and Rene van Schaik and Susanna-Assunta Sansone and Erik Schultes and Thierry Sengstag and Ted Slater and George Strawn and Morris A. Swertz and Mark Thompson and Johan van der Lei and Erik van Mulligen and Jan Velterop and Andra Waagmeester and Peter Wittenburg and Katherine Wolstencroft and Jun Zhao and Barend Mons},
+  title     = {{The FAIR Guiding Principles for scientific data management and stewardship}},
+  journal   = {Scientific Data},
+  year      = {2016},
+  volume    = {3},
+  pages     = {160018},
+  month     = {mar},
+  doi       = {10.1038/sdata.2016.18},
+  publisher = {Springer Nature},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
