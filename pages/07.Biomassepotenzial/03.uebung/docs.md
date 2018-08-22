@@ -6,5 +6,8 @@ taxonomy:
         - docs
 ---
 [center]
-[Hier geht es bald weiter zur Übung (ILIAS)<br> ![](/images/exercise.png)](https://www.opengeoedu.de/)
+<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=lm_125&client_id=opengeoedu" markdown="1" target="_blank">
+Hier geht es weiter zur Übung (ILIAS)
+![](/images/exercise.png)
+</a>
 [/center]
