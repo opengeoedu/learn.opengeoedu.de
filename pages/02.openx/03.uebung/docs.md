@@ -6,5 +6,5 @@ taxonomy:
         - docs
 ---
 [center]
-[Hier geht es bald weiter zur Übung (ILIAS)<br> ![](/images/exercise.png?resize=200,200)](https://www.opengeoedu.de)
+[Hier geht es weiter zu den Open XX Übungen (ILIAS)<br> ![](/images/exercise.png?resize=200,200)](https://ilias.opengeoedu.de/ilias/goto.php?target=cat_77&client_id=opengeoedu)
 [/center]
