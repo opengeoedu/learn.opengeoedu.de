@@ -8,6 +8,8 @@ taxonomy:
 
 # Nach Auswahl sehen Sie hier Monitoring Ergebnisse
 
+<br/>
+
 ### Anteil Verkehrsfläche an Siedlungs-und Verkehrsfläche (2017)
 
 ![abb_SuV_bundeslander](abb_SuV_bundeslander.png)
@@ -15,18 +17,18 @@ taxonomy:
 
 ### Flächenumnutzungsstatistik (2011-2016)
 
-![abb_flachenutzung](abb_flachenutzung.PNG)
+![abb_flachenutzung](abb_flachenutzung.png)
 
 ### Bauliche Entwicklung in Überschwemmungsgebieten (2000-2014)
 
-![abb_baulichenutzung_uberschwiemung](abb_baulichenutzung_uberschwiemung.png)
+![abb_baulichenutzung_uberschwiemung](abb_baulichenutzung_uberschwiemung.PNG)
 
 Hier ist die prozentuale bauliche Entwicklung in Überschwemmungsgebieten in den einzelnen Bundesländern dargestellt.
 
 
 
 ### Flächenneuinanspruchnahme (2014): Gemeindeebene
-![abb_flacheneue_einspruchenahme](abb_flacheneue_einspruchenahme.PNG)
+![abb_flacheneue_einspruchenahme](abb_flacheneue_einspruchenahme.png)
 
 Hier sehen Sie die Flächenneuinanspruchnahme auf Gemeindeebene.
 
@@ -70,5 +72,7 @@ Hier sieht man die Entwicklung der Siedlungsdichte und Bevölkerung und differen
 ![abb_veranderung_siedlungdichte](abb_veranderung_siedlungdichte.png)
 
 Hier sehen Sie die Veränderung der Siedlungsdichte auf Gemeindeebene.
+
+<br/>
 
 !!! **Weitere Analyse finden Sie auf:**  http://www.ioer-monitor.de/ergebnisse
