@@ -48,6 +48,6 @@ __Sentinel-2__
 
 __Sentinel-3__ 
 
-![S3](Sentinel-3.png?classes=caption "Sentinel-3: Radar & optisch multispektral --> aktiv & passiv. &copy; ESA")
+![S3](Sentinel-3.png?classes=caption "Sentinel-3: Radar und optisch multispektral --> aktiv und passiv. &copy; ESA")
 
 
