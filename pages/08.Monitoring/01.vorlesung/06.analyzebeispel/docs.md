@@ -8,6 +8,8 @@ taxonomy:
 
 # Nach Auswahl sehen Sie hier Monitoring Ergebnisse
 
+<br/>
+
 ### Anteil Verkehrsfläche an Siedlungs-und Verkehrsfläche (2017)
 
 ![abb_SuV_bundeslander](abb_SuV_bundeslander.png)
@@ -15,18 +17,18 @@ taxonomy:
 
 ### Flächenumnutzungsstatistik (2011-2016)
 
-![abb_flachenutzung](abb_flachenutzung.PNG)
+![abb_flachenutzung](abb_flachenutzung.png)
 
 ### Bauliche Entwicklung in Überschwemmungsgebieten (2000-2014)
 
-![abb_baulichenutzung_uberschwiemung](abb_baulichenutzung_uberschwiemung.png)
+![abb_baulichenutzung_uberschwiemung](abb_baulichenutzung_uberschwiemung.PNG)
 
-Hier ist die bauliche Entwicklung in Überschwemmungsgebieten in den einzelnen Bundesländern dargestellt.
+Hier ist die prozentuale bauliche Entwicklung in Überschwemmungsgebieten in den einzelnen Bundesländern dargestellt.
 
 
 
 ### Flächenneuinanspruchnahme (2014): Gemeindeebene
-![abb_flacheneue_einspruchenahme](abb_flacheneue_einspruchenahme.PNG)
+![abb_flacheneue_einspruchenahme](abb_flacheneue_einspruchenahme.png)
 
 Hier sehen Sie die Flächenneuinanspruchnahme auf Gemeindeebene.
 
@@ -35,7 +37,7 @@ Hier sehen Sie die Flächenneuinanspruchnahme auf Gemeindeebene.
 ![abb_bodenseidlung_national](abb_bodenseidlung_national.png)
 
 
-Hier wird die Bodenversieglungsgrad (2015) auf Kreisebene dargestellt.
+Hier dargestellt die Bodenversieglungsgrad (2015) auf Kreisebene bundesweit.
 
 Unten sehen Sie die Struktur der Bodenversiegelungsgrad als 100m Raster Karte.
 
@@ -60,7 +62,7 @@ Karte von Anteil Grünfläche an Gebiet Fläche (500m Raster)
 ### Entwicklung der Siedlungsdichte und Bevölkerung
 ![abb_entwicklung_sed_bev](abb_entwicklung_sed_bev.png)
 
-Hier dargestellt die Entwicklung der Siedlungsdichte und Bevölkerung und differenziert nach Gemeindegrößen (unten).
+Hier sieht man die Entwicklung der Siedlungsdichte und Bevölkerung und differenziert nach Gemeindegrößen (unten).
 
 
 ![abb_siedlungdichte_nach_typ](abb_siedlungdichte_nach_typ.png)
@@ -70,5 +72,7 @@ Hier dargestellt die Entwicklung der Siedlungsdichte und Bevölkerung und differ
 ![abb_veranderung_siedlungdichte](abb_veranderung_siedlungdichte.png)
 
 Hier sehen Sie die Veränderung der Siedlungsdichte auf Gemeindeebene.
+
+<br/>
 
 !!! **Weitere Analyse finden Sie auf:**  http://www.ioer-monitor.de/ergebnisse
