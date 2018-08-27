@@ -29,7 +29,7 @@ Die spektrale (optische) Auflösung eines Sensors gibt an, welche Bereiche des e
 ! [FE-Lexikon](http://www.fe-lexikon.info/lexikon-s.htm#spektrale-aufloesung)
 <br><br>
 
-![KanäleS2LS7LS8](BANDS_S2_LS8_LS7.png?classes=caption "Die spektralen Kanäle von Sentinel-2 im Vergleich zu Landsat 8 (OLI und TRS) und Landsat 7 ETM+.")
+![KanäleS2LS7LS8](BANDS_S2_LS8_LS7.png?classes=caption "Die spektralen Kanäle von Sentinel-2 im Vergleich zu Landsat 8 (OLI und TRS) und Landsat 7 ETM+. Quelle: NASA")
 <br><br>
 
 Die Sentinel-2 Bänder werden in folgender Abbildung näher beleuchtet (Reflektanzkurven aus Kokaly et al. 2017):
