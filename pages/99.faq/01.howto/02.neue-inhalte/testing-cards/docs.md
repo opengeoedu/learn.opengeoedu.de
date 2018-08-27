@@ -21,7 +21,6 @@ title: testing-cards
                             Software auseinander.
                         </p>
                     </div>
-                    <a href="#" class="btn btn-primary btn-sm">Read More</a>
                 </div>
             </div>
 
@@ -46,7 +45,6 @@ title: testing-cards
                     <p>Copy paste the HTML and CSS.</p>
                     <p>Change around the content for awsomenes</p>
                     <br>
-                    <a href="#" class="btn btn-primary btn-sm float-right">Read More</a>
                 </div>
             </div>
 
