@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 ## Allgemeines 
-Hinter „Senitel-2“ verbirgt sich nicht nur ein einzelner Satellit, sondern ein Satellitenpaar. Start: 22.06.15 (2A), 07.03.17 (2B). Sie umkreisen die Erde in einem polaren Orbit in einer Höhe von ca. 786 km. Die Überflugszeiten sind dabei ähnlich zu Landsat und SPOT-5. Dadurch sind die Datensätze vergleichbarer und lassen auch Zeitreihenanalysen zu.
+Hinter „Sentinel-2“ verbirgt sich nicht nur ein einzelner Satellit, sondern ein Satellitenpaar. Start: 22.06.15 (2A), 07.03.17 (2B). Sie umkreisen die Erde in einem polaren Orbit in einer Höhe von ca. 786 km. Die Überflugszeiten sind dabei ähnlich zu Landsat und SPOT-5. Dadurch sind die Datensätze vergleichbarer und lassen auch Zeitreihenanalysen zu.
 
 ![Senitel-2](Sentinel-2_composites.png?classes=caption "Künstlerische Darstellung von Senitnel-2. Rechts: Aufnahme aus dem Taunus (Hessen), jeweils in verschiedener Kombination (rot-grün-blau, RGB) verschiedener Bänder.")
 <br><br>
