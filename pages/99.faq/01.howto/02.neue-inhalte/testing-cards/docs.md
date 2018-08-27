@@ -37,7 +37,9 @@ title: testing-cards
     <div class="card float-right">
         <div class="row">
             <div class="col-sm-5">
-                <img class="d-block w-100" src="https://picsum.photos/150?image=641" alt="">
+                <a href="https://www.youtube.com/watch?v=PQ-d0F281Uo">
+                    <img class="img-fluid" src="/uebersicht/kursuebersicht/oge_teaser_opendata2.png">
+                </a>
             </div>
             <div class="col-sm-7">
                 <div class="card-block">
