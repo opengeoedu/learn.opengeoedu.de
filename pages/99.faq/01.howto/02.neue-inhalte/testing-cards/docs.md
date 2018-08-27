@@ -2,173 +2,52 @@
 title: testing-cards
 ---
 
-<div class="container m-t-md">
-    <!-- First row -->
-    <div class="row">
-        <div class="col-xs-12 col-md-3">
-            <!-- Card -->
-            <article class="card animated fadeInLeft">
-                <img class="card-img-top img-responsive" src="https://snap-photos.s3.amazonaws.com/img-thumbs/960w/1U2EGZ07GU.jpg" alt="Deer in nature"
-                />
-
-                <div class="card-block">
-                    <h4 class="card-title">Animal Farm</h4>
-
-                    <h6 class="text-muted">George Orwell</h6>
-
-                    <p class="card-text">Tired of their servitude to man, a group of farm animals revolt and establish their own society, only
-                        to be betrayed into worse servitude by their leaders, the pigs. This satire addresses the communist
-                        philosophy the Soviet Union.</p>
-
-                    <a href="#" class="btn btn-primary">Read more</a>
-                </div>
-            </article>
-            <!-- .end Card -->
-        </div>
-        <div class="col-xs-12 col-md-3">
-            <!-- Card -->
-            <article class="card animated fadeInLeft">
-                <img class="card-img-top img-responsive" src="https://snap-photos.s3.amazonaws.com/img-thumbs/960w/1U2EGZ07GU.jpg" alt="Deer in nature"
-                />
-
-                <div class="card-block">
-                    <h4 class="card-title">Animal Farm</h4>
-
-                    <h6 class="text-muted">George Orwell</h6>
-
-                    <p class="card-text">Tired of their servitude to man, a group of farm animals revolt and establish their own society, only
-                        to be betrayed into worse servitude by their leaders, the pigs. This satire addresses the communist
-                        philosophy the Soviet Union.</p>
-
-                    <a href="#" class="btn btn-primary">Read more</a>
-                </div>
-            </article>
-            <!-- .end Card -->
-        </div>
-        <div class="col-xs-12 col-md-3">
-            <!-- Card -->
-            <article class="card animated fadeInLeft">
-                <img class="card-img-top img-responsive" src="https://snap-photos.s3.amazonaws.com/img-thumbs/960w/1U2EGZ07GU.jpg" alt="Deer in nature"
-                />
-
-                <div class="card-block">
-                    <h4 class="card-title">Animal Farm</h4>
-
-                    <h6 class="text-muted">George Orwell</h6>
-
-                    <p class="card-text">Tired of their servitude to man, a group of farm animals revolt and establish their own society, only
-                        to be betrayed into worse servitude by their leaders, the pigs. This satire addresses the communist
-                        philosophy the Soviet Union.</p>
-
-                    <a href="#" class="btn btn-primary">Read more</a>
-                </div>
-            </article>
-            <!-- .end Card -->
-        </div>
-        <div class="col-xs-12 col-md-3">
-            <!-- Card -->
-            <article class="card animated fadeInLeft">
-                <img class="card-img-top img-responsive" src="https://snap-photos.s3.amazonaws.com/img-thumbs/960w/1U2EGZ07GU.jpg" alt="Deer in nature"
-                />
-
-                <div class="card-block">
-                    <h4 class="card-title">Animal Farm</h4>
-
-                    <h6 class="text-muted">George Orwell</h6>
-
-                    <p class="card-text">Tired of their servitude to man, a group of farm animals revolt and establish their own society, only
-                        to be betrayed into worse servitude by their leaders, the pigs. This satire addresses the communist
-                        philosophy the Soviet Union.</p>
-
-                    <a href="#" class="btn btn-primary">Read more</a>
-                </div>
-            </article>
-            <!-- .end Card -->
-        </div>
+  <div class="blog-card">
+    <div class="meta">
+      <div class="photo" style="background-image: url(https://storage.googleapis.com/chydlx/codepen/blog-cards/image-1.jpg)"></div>
+      <ul class="details">
+        <li class="author"><a href="#">John Doe</a></li>
+        <li class="date">Aug. 24, 2015</li>
+        <li class="tags">
+          <ul>
+            <li><a href="#">Learn</a></li>
+            <li><a href="#">Code</a></li>
+            <li><a href="#">HTML</a></li>
+            <li><a href="#">CSS</a></li>
+          </ul>
+        </li>
+      </ul>
     </div>
-    <!-- .end First row -->
-
-    <!-- Second row -->
-    <div class="row m-t-md">
-        <div class="col-xs-12 col-md-3">
-            <!-- Card -->
-            <article class="card animated fadeInLeft">
-                <img class="card-img-top img-responsive" src="https://snap-photos.s3.amazonaws.com/img-thumbs/960w/1U2EGZ07GU.jpg" alt="Deer in nature"
-                />
-
-                <div class="card-block">
-                    <h4 class="card-title">Animal Farm</h4>
-
-                    <h6 class="text-muted">George Orwell</h6>
-
-                    <p class="card-text">Tired of their servitude to man, a group of farm animals revolt and establish their own society, only
-                        to be betrayed into worse servitude by their leaders, the pigs. This satire addresses the communist
-                        philosophy the Soviet Union.</p>
-
-                    <a href="#" class="btn btn-primary">Read more</a>
-                </div>
-            </article>
-            <!-- .end Card -->
-        </div>
-        <div class="col-xs-12 col-md-3">
-            <!-- Card -->
-            <article class="card animated fadeInLeft">
-                <img class="card-img-top img-responsive" src="https://snap-photos.s3.amazonaws.com/img-thumbs/960w/1U2EGZ07GU.jpg" alt="Deer in nature"
-                />
-
-                <div class="card-block">
-                    <h4 class="card-title">Animal Farm</h4>
-
-                    <h6 class="text-muted">George Orwell</h6>
-
-                    <p class="card-text">Tired of their servitude to man, a group of farm animals revolt and establish their own society, only
-                        to be betrayed into worse servitude by their leaders, the pigs. This satire addresses the communist
-                        philosophy the Soviet Union.</p>
-
-                    <a href="#" class="btn btn-primary">Read more</a>
-                </div>
-            </article>
-            <!-- .end Card -->
-        </div>
-        <div class="col-xs-12 col-md-3">
-            <!-- Card -->
-            <article class="card animated fadeInLeft">
-                <img class="card-img-top img-responsive" src="https://snap-photos.s3.amazonaws.com/img-thumbs/960w/1U2EGZ07GU.jpg" alt="Deer in nature"
-                />
-
-                <div class="card-block">
-                    <h4 class="card-title">Animal Farm</h4>
-
-                    <h6 class="text-muted">George Orwell</h6>
-
-                    <p class="card-text">Tired of their servitude to man, a group of farm animals revolt and establish their own society, only
-                        to be betrayed into worse servitude by their leaders, the pigs. This satire addresses the communist
-                        philosophy the Soviet Union.</p>
-
-                    <a href="#" class="btn btn-primary">Read more</a>
-                </div>
-            </article>
-            <!-- .end Card -->
-        </div>
-        <div class="col-xs-12 col-md-3">
-            <!-- Card -->
-            <article class="card animated fadeInLeft">
-                <img class="card-img-top img-responsive" src="https://snap-photos.s3.amazonaws.com/img-thumbs/960w/1U2EGZ07GU.jpg" alt="Deer in nature"
-                />
-
-                <div class="card-block">
-                    <h4 class="card-title">Animal Farm</h4>
-
-                    <h6 class="text-muted">George Orwell</h6>
-
-                    <p class="card-text">Tired of their servitude to man, a group of farm animals revolt and establish their own society, only
-                        to be betrayed into worse servitude by their leaders, the pigs. This satire addresses the communist
-                        philosophy the Soviet Union.</p>
-
-                    <a href="#" class="btn btn-primary">Read more</a>
-                </div>
-            </article>
-            <!-- .end Card -->
-        </div>
+    <div class="description">
+      <h1>Learning to Code</h1>
+      <h2>Opening a door to the future</h2>
+      <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad eum dolorum architecto obcaecati enim dicta praesentium, quam nobis! Neque ad aliquam facilis numquam. Veritatis, sit.</p>
+      <p class="read-more">
+        <a href="#">Read More</a>
+      </p>
     </div>
-</div>
+  </div>
+  <div class="blog-card alt">
+    <div class="meta">
+      <div class="photo" style="background-image: url(https://storage.googleapis.com/chydlx/codepen/blog-cards/image-2.jpg)"></div>
+      <ul class="details">
+        <li class="author"><a href="#">Jane Doe</a></li>
+        <li class="date">July. 15, 2015</li>
+        <li class="tags">
+          <ul>
+            <li><a href="#">Learn</a></li>
+            <li><a href="#">Code</a></li>
+            <li><a href="#">JavaScript</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+    <div class="description">
+      <h1>Mastering the Language</h1>
+      <h2>Java is not the same as JavaScript</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad eum dolorum architecto obcaecati enim dicta praesentium, quam nobis! Neque ad aliquam facilis numquam. Veritatis, sit.</p>
+      <p class="read-more">
+        <a href="#">Read More</a>
+      </p>
+    </div>
+  </div>
