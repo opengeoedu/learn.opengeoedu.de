@@ -6,7 +6,7 @@ title: testing-cards
     <div class="card float-left">
         <div class="row ">
 
-            <div class="col-sm-6">
+            <div class="col-md-6">
                 <div class="card-block">
                     <h3 class="text-center"> Open XX </h3>
                     <div class="card-body text-justify">
@@ -24,7 +24,7 @@ title: testing-cards
                 </div>
             </div>
 
-            <div class="col-sm-4">
+            <div class="col-md-4">
                 <a href="https://www.youtube.com/watch?v=ptBpbXDczRU">
                     <img class="img-fluid" src="/uebersicht/kursuebersicht/oge_teaser_openxx4.png">
                 </a>
@@ -35,12 +35,12 @@ title: testing-cards
 
     <div class="card float-right">
         <div class="row">
-            <div class="col-sm-4">
+            <div class="col-md-4">
                 <a href="https://www.youtube.com/watch?v=PQ-d0F281Uo">
                     <img class="img-fluid" src="/uebersicht/kursuebersicht/oge_teaser_opendata2.png">
                 </a>
             </div>
-            <div class="col-sm-6">
+            <div class="col-md-6">
                 <div class="card-block">
                     <p>Copy paste the HTML and CSS.</p>
                     <p>Change around the content for awsomenes</p>
