@@ -12,16 +12,16 @@ Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, s
 
 | Legende |
 | :---- | :-: | :-: | :-: |
-| Reichweite | lokal | regional | national |
+| Reichweite | lokal | regional | national/global |
 | | [fa=map-marked-alt] | [fa=map-marked] | [fa=fa-map] |
-| Level | [color=orange]Advanced[/color] | [color=green]Basic[/color] | [color=blue]Click-by-Click[/color] |
+| Level / Schwierigkeit | [color=orange]Advanced[/color] | [color=green]Basic[/color] | [color=blue]Click-by-Click[/color] |
 <br>
 
 | Übungen | | | |
 |  :-----          |  :-----          |  :-----          | |
 |  Open XX | Open Access Zeitschriften [Journale](OGE_Datenblatt_OpenXX_Journale.pdf) | Open Access Forschungsdaten [Daten](OGE_Datenblatt_OpenXX_Repositories.pdf) | Open Source Software [Software](OGE_Datenblatt_OpenXX_DesktopGIS.pdf) | 
-| GIS  | Reichweite: Global - Level: Click-by-Click |
-| | [United Nations Sustainable Development Goals](OGE_Datenblatt_SDG_Global_Click.pdf) |
+| GIS  | <!-- Reichweite: Global - Level: Click-by-Click --> |
+| | [United Nations Sustainable Development Goals](OGE_Datenblatt_SDG_Global_Click.pdf)  [color=blue][fa=fa-map][/color] |
 <br><br>
 
 | Fallbeispiele  | 
