@@ -23,7 +23,7 @@ Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, s
 | GIS  | [United Nations Sustainable Development Goals](OGE_Datenblatt_SDG_Global_Click.pdf)  [color=blue] [fa=fa-map][/color] |
 <br><br>
 
-| Fallbeispiele  | 
+| Fallbeispiele  | | | |
 |  :-----          |
 | Elektromobilität | [Kommunale Erreichbarkeit von Ladestationen](OGE_Datenblatt_EMobi_Lokal_Basic.pdf) [color=green] [fa=fa-map-marked-alt][/color] |
 | Biomassepotenziale | [Quick Scan auf regionaler Ebene](OGE_Datenblatt_DBFZ_Quick_Scan_A_B_C.pdf) [color=orange] [fa=map-marked-alt][/color] [color=green] [fa=map-marked-alt][/color] [color=blue] [fa=map-marked-alt][/color] | [Aufkommen von Biogut aus der braunen Tonne in Deutschland](OGE_Datenblatt_Biogut_DBFZ_national_B_C.pdf) [color=green] [fa=fa-map][/color] [color=blue] [fa=fa-map][/color] |  [Aufkommen von Biogut in Deutschland](OGE_Datenblatt_DBFZ_Biogut_national_A.pdf) [color=orange] [fa=fa-map][/color] |
