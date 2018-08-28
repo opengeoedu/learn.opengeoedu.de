@@ -924,12 +924,16 @@ Danger Will Robinson! Danger, Will Robinson!
 
 #### Anwendung der Shortcodes für die Reichweitenlegende und Level der Übung (s. [Datenblätter](/uebersicht/datenblatt))
 ##### A B C lokal
+```
 [color=orange] [fa=map-marked-alt][/color] [color=green] [fa=map-marked-alt][/color] [color=blue] [fa=map-marked-alt][/color]
-
+```
 
 ##### A B C regional
+```
 [color=orange] [fa=map-marked][/color] [color=green] [fa=map-marked][/color] [color=blue] [fa=map-marked][/color]
-
+```
 
 ##### A B C national
+```
 [color=orange] [fa=fa-map][/color] [color=green] [fa=fa-map][/color] [color=blue] [fa=fa-map][/color]
+```
