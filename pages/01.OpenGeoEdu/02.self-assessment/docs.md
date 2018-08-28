@@ -12,7 +12,7 @@ an:
 Sie Hinweise zu den Kurseinheiten, die wir für sinnvoll erachten. 
 * einen Workloadrechner: Durch Auswahl der von Ihnen für eine Bearbeitung geplanten Kursteile wird der damit verbundene Workload abgeschätzt. Der dann durch Bearbeitung nachgewiesene Workload wird im OpenGeoEdu-Zertifikat dokumentiert. 
 * eine Modulbeschreibung: Konform zu Modulbeschreibungen in Ihren Bachelor- oder Masterstudiengängen finden Sie hier eine Modulbeschreibung zum offenen online Kurs OpengeoEdu. 
-* Datenblätter: Ein Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich.
+* Datenblätter (auf der nächsten Seite): Ein Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich.
 
 
 <div class="card-deck">
