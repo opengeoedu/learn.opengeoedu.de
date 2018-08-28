@@ -11,7 +11,7 @@ menu: Datenblätter
 Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, so z.B. hinsichtlich der Voraussetzungen, der verwendeten Software und Daten, den benötigten Funktionalitäten und der erwarteten Ergebnisse.
 
 | Legende |
-| :---- |
+| :---- | :-: | :-: | :-: |
 | Reichweite | lokal | regional | national |
 | | [fa=map-marked-alt] | [fa=map-marked] | [fa=fa-map] |
 | Level | [color=orange]Advanced[/color] | [color=green]Basic[/color] | [color=blue]Click-by-Click[/color] |
