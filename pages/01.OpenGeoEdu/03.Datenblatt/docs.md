@@ -14,7 +14,7 @@ Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, s
 | :-: | :-: | :-: | :-: |
 | Reichweite | lokal | regional | national/global |
 | | [fa=map-marked-alt] | [fa=map-marked] | [fa=fa-map] |
-| Level / Schwierigkeit | [color=orange]Advanced[/color] | [color=green]Basic[/color] | [color=blue]Click-by-Click[/color] |
+| Level/Schwierigkeit | [color=orange]Advanced[/color] | [color=green]Basic[/color] | [color=blue]Click-by-Click[/color] |
 <br>
 
 | Übungen | | | |
