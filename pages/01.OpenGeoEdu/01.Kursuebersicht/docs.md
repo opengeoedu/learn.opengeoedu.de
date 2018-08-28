@@ -47,6 +47,8 @@ anchors:
                 </p>
             </div>
         </div>
+    </div>
+    <div class="row flex-wrap card-deck">
         <div class="card m-2" id="gis">
             <h3 class="text-center">GIS</h3>
             <img class="img-fluid" src="/uebersicht/kursuebersicht/EuropaAfrika.png" style="height: 200px" alt="gis">
@@ -120,6 +122,8 @@ anchors:
                 </p>
             </div>
         </div>
+    </div>
+    <div class="row flex-wrap card-deck">
         <div class="card m-2" id="flaechenmoni">
             <h3 class="text-center">
                 Flächenmonitoring
