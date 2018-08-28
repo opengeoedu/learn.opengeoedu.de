@@ -25,5 +25,6 @@ Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, s
 |   | [Quick Scan auf regionaler Ebene](OGE_Datenblatt_DBFZ_Quick_Scan_A_B_C.pdf) | [Aufkommen von Biogut aus der braunen Tonne in Deutschland](OGE_Datenblatt_Biogut_DBFZ_national_B_C.pdf) |  [Aufkommen von Biogut in Deutschland](OGE_Datenblatt_DBFZ_Biogut_national_A.pdf) |
 | Flächenmonitoring |  Reichweite: National - Level: Advanced - Basic - Click-by-Click  |  Reichweite: National - Level: Basic - Click-by-Click | 
 |   | [Messung der Veränderung der Siedlungs- und Bevölkerungsdichte](OGE_Datenblatt_FM_dichte_vg.pdf) | [Berechnung verkehrsbezogener Flächennutzungsindikatoren](OGE_Datenblatt_FM_verkehrsindikatoren.pdf) |
-| Fernerkundung |   |
+| Fernerkundung | Reichweite: National - Level: Basic  |
+|   | [Erfassung von Windwurfflächen mit Sentinel-2](OGE_Datenblatt_BKG_Fernerkundung.pdf)
 <br>
