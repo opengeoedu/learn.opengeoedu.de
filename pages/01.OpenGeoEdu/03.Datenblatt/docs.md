@@ -29,8 +29,7 @@ Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, s
 |   | [Erfassung von Windwurfflächen mit Sentinel-2](OGE_Datenblatt_BKG_Fernerkundung.pdf)
 <br>
 
-| Legende | | |
-| :---- | | |
+| Legende |
+| :---- |
 | Reichweite | [fa=map-marked-alt] | [fa=map-marked] | [fa=fa-map] |
-| Level | | |
-| 
+| Level | Advanced | [color=green]Basic[/color] | Click-by-Click |
