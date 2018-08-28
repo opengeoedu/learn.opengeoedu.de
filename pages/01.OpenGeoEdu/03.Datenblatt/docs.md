@@ -10,6 +10,12 @@ menu: Datenblätter
 
 Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, so z.B. hinsichtlich der Voraussetzungen, der verwendeten Software und Daten, den benötigten Funktionalitäten und der erwarteten Ergebnisse.
 
+| Legende |
+| :---- |
+| Reichweite | [fa=map-marked-alt] | [fa=map-marked] | [fa=fa-map] |
+| Level | [color=orange]Advanced[/color] | [color=green]Basic[/color] | [color=blue]Click-by-Click[/color] |
+<br>
+
 | Übungen | | | |
 |  :-----          |  :-----          |  :-----          | |
 |  Open XX | Open Access Zeitschriften [Journale](OGE_Datenblatt_OpenXX_Journale.pdf) | Open Access Forschungsdaten [Daten](OGE_Datenblatt_OpenXX_Repositories.pdf) | Open Source Software [Software](OGE_Datenblatt_OpenXX_DesktopGIS.pdf) | 
@@ -28,8 +34,3 @@ Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, s
 | Fernerkundung | Reichweite: National - Level: Basic  |
 |   | [Erfassung von Windwurfflächen mit Sentinel-2](OGE_Datenblatt_BKG_Fernerkundung.pdf)
 <br>
-
-| Legende |
-| :---- |
-| Reichweite | [fa=map-marked-alt] | [fa=map-marked] | [fa=fa-map] |
-| Level | Advanced | [color=green]Basic[/color] | Click-by-Click |
