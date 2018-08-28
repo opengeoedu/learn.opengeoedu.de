@@ -31,6 +31,6 @@ Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, s
 
 | Legende | | |
 | :---- | | |
-| Reichweite | [fa=map-marked-alt] | [fa=map-marked] | [fa= fas fa-map] |
+| Reichweite | [fa=map-marked-alt] | [fa=map-marked] | [fa=fa-map] |
 | Level | | |
 | 
