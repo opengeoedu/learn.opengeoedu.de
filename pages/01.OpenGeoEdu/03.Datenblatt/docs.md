@@ -28,3 +28,9 @@ Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, s
 | Fernerkundung | Reichweite: National - Level: Basic  |
 |   | [Erfassung von Windwurfflächen mit Sentinel-2](OGE_Datenblatt_BKG_Fernerkundung.pdf)
 <br>
+
+| Legende | | |
+| :---- | | |
+| Reichweite | [fa=map-marked-alt] | [fa=map-marked] | [fa= fas fa-map] |
+| Level | | |
+| 
