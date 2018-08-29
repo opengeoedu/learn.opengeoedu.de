@@ -13,7 +13,16 @@ Verfügbar sind:
 [ui-tabs position="top-left" theme="badges"]
 
 [ui-tab title="Modellierung"]
-[OGE-Tutorial_UML_Vorlesung.pdf](OGE-Tutorial_UML_Vorlesung.pdf)
+<div class="row align-items-center">
+    <div class="col-sm-9">
+        <h4>Modellierung in UML und ER</h4>
+        <p class="text-justify">In dieser Lerneinheit werden die wesentlichen Grundzüge der Modellierung vorgestellt und am Beispiel der Unified Modeling Language (UML) und des Entity-Relationship-Modells (ER) erläutert.</p>
+        <p markdown="1">Download des Tutorials [Vorlesung](OGE-Tutorial_UML_Vorlesung.pdf)</p>
+    </div>
+    <div class="col-sm-3" markdown="1"></div>
+</div>
+
+
 [OGE-Tutorial_UML_Übung.pdf](OGE-Tutorial_UML_%C3%9Cbung.pdf)
 [/ui-tab] 
 
