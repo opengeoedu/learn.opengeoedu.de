@@ -26,13 +26,10 @@ Verfügbar sind:
     <div class="col-sm-9">
         <h4>Das UML-Klassendiagramm</h4>
         <p class="text-justify">In dieser Lerneinheit sollen Sie die in dem Vorlesungstutorial erlernten Grundlagen zum UML-Klassendiagramm praktisch anwenden.</p>
-        <p markdown="1">Download des Tutorials [Klassendiagramm](OGE-Tutorial_UML_Vorlesung.pdf)</p>
+        <p markdown="1">Download des Tutorials [Klassendiagramm](OGE-Tutorial_UML_%C3%9Cbung.pdf)</p>
     </div>
     <div class="col-sm-3" markdown="1"></div>
 </div>
-
-
-[OGE-Tutorial_UML_Übung.pdf](OGE-Tutorial_UML_%C3%9Cbung.pdf)
 [/ui-tab] 
 
 [ui-tab title="KNE und Koordinaten"]
