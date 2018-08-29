@@ -24,7 +24,7 @@ Verfügbar sind:
             wir vor eine Hintergrundkarte und illustrieren welche Elemente zu einer Karte gehören und mit welchen Signaturen
             oder Farbabstufungen gearbeitet werden kann. Das Ergebnis – eine Kombination einer Übersichts- und einer Detailkarte
             – sehen Sie hier. </p>
-        <p markdown="1">Download des Tutorials [Kartengestaltung](https://www.opengeoedu.de/content/tutorials/Kartengestaltung.pdf)</p>
+        <p markdown="1">Download des Tutorials [Kartengestaltung](OGE-Tutorial_Kartengestaltung.pdf)</p>
     </div>
     <div class="col-sm-3" markdown="1">![](Kartengestaltung.PNG)</div>
 </div>
@@ -39,7 +39,6 @@ Verfügbar sind:
     </div>
     <div class="col-sm-3" markdown="1"></div>
 </div>
-<br>
 <div class="row align-items-center">
     <div class="col-sm-9">
         <h4>Das UML-Klassendiagramm</h4>
@@ -50,12 +49,12 @@ Verfügbar sind:
 </div>
 [/ui-tab] 
 
-[ui-tab title="KNE und Koordinaten"]
+[ui-tab title="Koordinaten"]
 <div class="row align-items-center">
     <div class="col-sm-9">
         <h4>Kartennetzentwürfe und Koordinatensysteme</h4>
         <p class="text-justify">In dieser Lerneinheit soll das Problem der Abbildung der gekrümmten Erdfigur auf eine Ebene oder eine andere Ersatzfigur erläutert (Kartennetzentwürfe) sowie gängige Koordinatensysteme beschrieben werden.</p>
-        <p markdown="1">Download des Tutorials [KNE & Koordinaten](OGE-Tutorial_KNE_Koordinaten.pdf)</p>
+        <p markdown="1">Download des Tutorials [Koordinaten](OGE-Tutorial_KNE_Koordinaten.pdf)</p>
     </div>
     <div class="col-sm-3" markdown="1"></div>
 </div>
@@ -89,11 +88,11 @@ Verfügbar sind:
 [/ui-tab]
 
 [ui-tab title="Lizenzen"]
-## Wir arbeiten unter Hochdruck daran weitere Tutorials bereitzustellen!
+## Wir arbeiten unter Hochdruck daran dieses Tutorial bereitzustellen!
 
 [/ui-tab] 
 [ui-tab title="WebServices"]
-## Wir arbeiten unter Hochdruck daran weitere Tutorials bereitzustellen!
+## Wir arbeiten unter Hochdruck daran dieses Tutorials bereitzustellen!
 
 [/ui-tab] 
 
