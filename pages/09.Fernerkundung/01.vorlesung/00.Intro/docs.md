@@ -6,7 +6,7 @@ taxonomy:
 
 ## Autor der Lerneinheit
 <div class="row align-items-center">
-  <div class="col-sm-3" markdown="1">![](H_Aberle.png?lightbox=800&resize=300&classes=caption "Dr. Henning Aberle")</div>
+  <div class="col-sm-3" markdown="1">![](/images/staff/H_Aberle.png?lightbox=800&resize=300&classes=caption "Dr. Henning Aberle")</div>
   <div class="col-sm-9">
     <p><br /> Henning Aberle hat Forstwissenschaften studiert mit den Schwerpunkten optische Fernerkundung und GIS sowie Waldinventuren und ist z.Zt. im Referat Fernerkundung und Entwicklung am Bundesamt für Kartographie und Geodäsie tätig. </p>
   </div>
@@ -14,7 +14,7 @@ taxonomy:
 <!--
 | | | 
 |--|--|
-|![](H_Aberle.png?lightbox=800&resize=300&classes=caption "Dr. Henning Aberle") | Henning Aberle hat Forstwissenschaften studiert mit den Schwerpunkten optische Fernerkundung und GIS sowie Waldinventuren und ist z.Zt. im Referat Fernerkundung und Entwicklung am Bundesamt für Kartographie und Geodäsie tätig. |
+|![](/images/staff/H_Aberle.png?lightbox=800&resize=300&classes=caption "Dr. Henning Aberle") | Henning Aberle hat Forstwissenschaften studiert mit den Schwerpunkten optische Fernerkundung und GIS sowie Waldinventuren und ist z.Zt. im Referat Fernerkundung und Entwicklung am Bundesamt für Kartographie und Geodäsie tätig. |
 -->
 
 ## Lernziele
