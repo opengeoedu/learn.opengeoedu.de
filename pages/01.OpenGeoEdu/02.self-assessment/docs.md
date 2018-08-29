@@ -18,7 +18,7 @@ Sie Hinweise zu den Kurseinheiten, die wir für sinnvoll erachten.
 <div class="card-deck">
     <div class="card">
         <div class="card-body">
-            <h5 class="card-title">Selbsteinschätzung (in Arbeit)</h5>
+            <h5 class="card-title">Selbsteinschätzung</h5>
             <p class="card-text"></p>
             <p class="card-text">
                 <small class="text-muted"></small>
