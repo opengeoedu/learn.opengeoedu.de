@@ -22,7 +22,7 @@ Das konkrete Kursangebot finden Sie unter dem Menüpunkt [„Übersicht“](/ueb
 ## für Lernende
 [ui-accordion independent=true open=none]
 [ui-accordion-item title="Welche technischen Voraussetzungen muss ich mitbringen?"]
-Die Bearbeitung der offenen Vorlesungsteile setzt einen gängigen Webbrowser voraus.
+Die Bearbeitung der offenen Vorlesungsteile setzt einen gängigen Webbrowser voraus. Wir empfehlen Firefox und Chrome; bei Edge und InternetExplorer kann es zu abweichender Darstellung kommen.  
 
 Für die Beantwortung von Tests und dem eigenständigen Arbeiten mit offenen Geodaten muss sich der Nutzer registrieren. Für die Tests ist wiederum nur ein Webbrowser nötig.
 
