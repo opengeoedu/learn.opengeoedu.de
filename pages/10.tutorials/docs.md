@@ -35,8 +35,17 @@ menu: Tutorials
         <p markdown="1">Download des Tutorials [Datenformate](https://www.opengeoedu.de/content/tutorials/Datenformate.pdf)</p>
     </div>
     <div class="col-sm-6" markdown="1">
-        “Person”: { "name": "John Smith", "isAlive": true, "age": 25, "address": { "cityStreet": "New York, 21 2nd Street", "postalCode":
-        "10021-3100" }, "children": [ ], "spouse": null }
+        “Person”: {
+            "name": "John Smith",
+            "isAlive": true,
+            "age": 25,
+            "address": {
+                "cityStreet": "New York, 21 2nd Street",
+                "postalCode": "10021-3100" 
+                },
+            "children": [ ],
+            "spouse": null 
+        }
     </div>
 </div>
 [/ui-tab] [ui-tab title="weitere Tutorials ..."] [center] ## Wir arbeiten unter Hochdruck daran weitere Tutorials bereitzustellen!
