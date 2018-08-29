@@ -66,9 +66,6 @@ Verfügbar sind:
 [ui-tab title="Übung UML Klassendiagramm"]
 [/ui-tab] 
 
-[ui-tab title=""]
-[/ui-tab] 
-
 [ui-tab title="weitere Tutorials ..."]
 [center]
 ## Wir arbeiten unter Hochdruck daran weitere Tutorials bereitzustellen!
