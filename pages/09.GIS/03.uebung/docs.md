@@ -1,5 +1,5 @@
 ---
-title:
+title: Übungsanleitung
 menu: Übung
 taxonomy:
     category:
