@@ -28,6 +28,15 @@ Verfügbar sind:
     </div>
     <div class="col-sm-3" markdown="1">![](Kartengestaltung.PNG)</div>
 </div>
+<div class="row align-items-center">
+    <div class="col-sm-9">
+        <h4>Tutorial Kartographie</h4>
+        <p class="text-justify">Zur Erstellung anspruchsvoller kartographischer Produkte als Visualisierungsform der GIS-Analysen sind kartographische Grundkenntnisse essentiell. Dieses Skript stellt wesentliche Aspekte der thematischen Kartographie zusammen. Dabei werden Lehrmaterialien der Professur für Geodäsie und Geoinformatik in Präsenz- und Fernstudium genutzt.
+Dies ersetzt natürlich keine Lehrveranstaltung Kartographie. Daher wird das Studium kartographischer Lehrbücher nahegelegt.</p>
+        <p markdown="1">Download des Tutorials [Kartographie](OGE-Tutorial_Kartographie.pdf)</p>
+    </div>
+    <div class="col-sm-3" markdown="1"></div>
+</div>
 [/ui-tab] 
 
 [ui-tab title="Modellierung"]
