@@ -23,7 +23,7 @@ Sie Hinweise zu den Kurseinheiten, die wir für sinnvoll erachten.
             <p class="card-text">
                 <small class="text-muted"></small>
             </p>
-            <div markdown="1">[![](notes.png?resize=200&classes=caption "Selbsteinschätzung")](http://test.opengeoedu.de/selfassessment.aspx)</div>
+            <div markdown="1">[![](notes.png?resize=200)](http://test.opengeoedu.de/selfassessment.aspx)</div>
         </div>
     </div>
     <div class="card">
@@ -33,7 +33,7 @@ Sie Hinweise zu den Kurseinheiten, die wir für sinnvoll erachten.
                 <p class="card-text">
                     <small class="text-muted"></small>
                 </p>
-            <div markdown="1">[![](workloadrechner.png?resize=200&classes=caption "Workloadrechner")](http://test.opengeoedu.de/workload.aspx)</div>
+            <div markdown="1">[![](workloadrechner.png?resize=200)](http://test.opengeoedu.de/workload.aspx)</div>
         </div>
     </div>
     <div class="card">
@@ -43,7 +43,7 @@ Sie Hinweise zu den Kurseinheiten, die wir für sinnvoll erachten.
             <p class="card-text">
                 <small class="text-muted"></small>
             </p>
-            <div markdown="1">[![](Modulbeschreibung.png?resize=200&classes=caption "Modulbeschreibung")](OGE_Modulbeschreibung.pdf)</div>
+            <div markdown="1">[![](Modulbeschreibung.png?resize=200)](OGE_Modulbeschreibung.pdf)</div>
         </div>
     </div>
 </div>
