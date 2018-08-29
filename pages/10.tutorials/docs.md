@@ -7,8 +7,11 @@ menu: Tutorials
 ---
 
 [center]Auf dieser Seite finden Sie ausführliche Hilfestellungen zu verschiedenen Themen und Aufgaben in Geo-Informationssystemen.
-[/center] ![](/images/tutorial.png) Verfügbar sind: [ui-tabs position="top-left" theme="badges"] [ui-tab title="Kartengestaltung"]
-
+[/center]
+![](/images/tutorial.png) 
+Verfügbar sind:
+[ui-tabs position="top-left" theme="badges"]
+[ui-tab title="Kartengestaltung"]
 <div class="row align-items-center">
     <div class="col-sm-9">
         <h4>Tutorial Kartengestaltung</h4>
@@ -23,8 +26,9 @@ menu: Tutorials
     </div>
     <div class="col-sm-3" markdown="1">![](Kartengestaltung.PNG)</div>
 </div>
-[/ui-tab] [ui-tab title="Datenformate"]
+[/ui-tab] 
 
+[ui-tab title="Datenformate"]
 <div class="row align-items-center">
     <div class="col-sm-6">
         <h4>Tutorial Datenformate</h4>
@@ -48,5 +52,27 @@ menu: Tutorials
         }
     </div>
 </div>
-[/ui-tab] [ui-tab title="weitere Tutorials ..."] [center] ## Wir arbeiten unter Hochdruck daran weitere Tutorials bereitzustellen!
-[/center] [/ui-tab] [/ui-tabs]
+[/ui-tab]
+
+[ui-tab title="KNE und Koordinaten"]
+[/ui-tab] 
+
+[ui-tab title="Kartographie"]
+[/ui-tab] 
+
+[ui-tab title="Modellierung in UML und ER"]
+[/ui-tab] 
+
+[ui-tab title="Übung UML Klassendiagramm"]
+[/ui-tab] 
+
+[ui-tab title=""]
+[/ui-tab] 
+
+[ui-tab title="weitere Tutorials ..."]
+[center]
+## Wir arbeiten unter Hochdruck daran weitere Tutorials bereitzustellen!
+[/center]
+[/ui-tab] 
+
+[/ui-tabs]
