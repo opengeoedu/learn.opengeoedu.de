@@ -6,6 +6,20 @@ taxonomy:
         - docs
 ---
 
+In dieser Übung lernen Sie grundlegende Schritte im Umgang mit offenen Verwaltungsdaten, insbesondere in einer GIS-Umgebung, kennen. Praktisch beschäftigen Sie sich in drei Übungseinheiten:
+
+* Recherche und Vergleich von Open Data-Angeboten mithilfe des [Portals der Open Data Portale](https://portal.opengeoedu.de)
+* Verknüpfung und Auswertung von Verwaltungsgebiete mit amtlichen Statistiken mithilfe des amtlichen Gemeindeschlüssels (AGS) bzw. Regionalschlüssels (ARS)
+* <font style="color:grey">Nutzung OpenStreetMap für eine GIS-Analyse (wird später ergänzt)</font>
+
+
+[center]
+[![](/images/exercise.png?resize=200,200)](https://ilias.opengeoedu.de/ilias/goto.php?target=cat_77&client_id=opengeoedu)
+
+[/center]
+
+
+<!--
 
 ####1. Finden Sie einen offenen Datensatz (oder Service) mit räumlichen Bezug.
 
@@ -124,12 +138,11 @@ Koordinaten / Adressen, Ortsnamen, Gemeindeschlüssel oder ID, (Luft-)bild
 Welche Maßeinheiten sind gegeben?
 
 Einordnung nach Skalenniveau: Nominal, Ordinal, Kardinalskala
---> Unterschiedliche Skalenniveaus lassen sich u. U. homogenisieren. Von Nominal > Ordinal > Kardinal nur mit zusätzlichen informationen, umgekehrt mit Informationsverlust
+ Unterschiedliche Skalenniveaus lassen sich u. U. homogenisieren. Von Nominal > Ordinal > Kardinal nur mit zusätzlichen informationen, umgekehrt mit Informationsverlust
 
 
 
 
-----
   *Basic Erläuterungen:*
 	- Kostenlose Desktop GIS-Tools:
 		- QGis
@@ -153,3 +166,4 @@ Einordnung nach Skalenniveau: Nominal, Ordinal, Kardinalskala
 ---
 
 !(%202018-01-24%2015-36-47%20OpenDataPortal-Kartenansicht.png "Portal der Open Data Portale")
+-->
