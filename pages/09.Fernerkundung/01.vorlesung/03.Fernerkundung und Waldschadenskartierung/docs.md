@@ -5,6 +5,7 @@ taxonomy:
         - docs
 ---
 Im Folgenden erfolgt eine kurze Einführung in die Fernerkundung und das Erd- bzw. Waldmonitoring.
+
 !!! Laut DIN versteht man unter Fernerkundung die Gesamtheit der Verfahren zur Gewinnung von Informationen über die Erdoberfläche durch Messung und Interpretation der von ihr ausgehenden (Energie-)Felder. Als Informationsträger dient dabei die von der Erde reflektierte oder emittierte elektromagnetische Strahlung.
 
 Fernerkundung ist somit das berührungsfreie Messen und Sammeln von Informationen mittels Sensoren über eine Distanz. Die Erdbeobachtung (Englisch: Earth observation) durch Fernerkundung wird bereits seit Jahrzehnten betrieben, und die Zahl an flugzeuggetragenen Systemen und Satelliten nimmt stetig zu (Belward & Skøien 2015; Boyd & Danson 2005; Landgrebe 1997). Dabei wurden immer neue und leistungsstärkere Sensoren und Auswertungsmöglichkeiten entwickelt. 
@@ -18,10 +19,10 @@ Grundsätzlich lassen sich Fernerkundungssensoren in zwei Gruppen einteilen:
 
 Bei den passiven optischen Sensoren, gibt es eine Reihe an unterschiedlichen Systemen. Sie unterscheiden sich z.B. in der Anzahle der Kanäle, mit denen verschiedene Wellenlängenbereiche des elektromagnetischen Spektrums wahrgenommen werden können. Unsere Augen sind im Grunde auch passive Fernerkundungssensoren, die das sichtbare Licht von etwa 400-700 nm wahrnehmen.
 
-Eine zentrale Komponente bei der Überwachung der Landbedeckung spielt die Vegetation, wobei das Waldmonitoring eine spezielle Form darstellt. Um räumlich genaue Informationen über Waldgebiete zu erhalten, wird das terrestrische Waldmonitoring durch die Fernerkundung erweitert und unterstützt (Fagan and Defries, 2009; Pause et al., 2016). Dies gilt besonders immer dann, wenn für die Erfassung des Waldzustandes aktuellste Informationen benötigt werden, die in so großer Ausdehnung nicht in-situ erfasst werden können (Lausch et al., 2016).
+Eine zentrale Komponente bei der Überwachung der Landbedeckung spielt die Vegetation, wobei das Waldmonitoring eine spezielle Form darstellt. Um räumlich genaue Informationen über Waldgebiete zu erhalten, wird das terrestrische Waldmonitoring durch die Fernerkundung erweitert und unterstützt (Ackermann et al., 2014; Fagan and Defries, 2009; Pause et al., 2016; Romijn et al., 2015). Dies gilt besonders immer dann, wenn für die Erfassung des Waldzustandes aktuellste Informationen benötigt werden, die in so großer Ausdehnung nicht in-situ erfasst werden können (Lausch et al., 2016).
 
 Die Landesfläche Deutschlands ist zu etwa 30 % mit Wald bedeckt. Die Ausdehnung der Wälder ist gut dokumentiert und lässt sich auch aus frei verfügbaren Daten mit hoher räumlicher Genauigkeit ableiten. 
-Neben Gesundheitszustand und Wuchs lassen sich aus Satelliten- oder Luftbildern zudem forstlich relevante Variablen abschätzen wie z.B.:  Waldtypen und Baumarten; Baumhöhen; Bestandesdichten bzw. Anzahl Bäume pro Hektar, [n/ha]; Bestandesgrundflächen [m²] und Holz-Volumen [m³] --> Kohlenstoffvorrat.
+Neben Gesundheitszustand und Wuchs lassen sich aus Satelliten- oder Luftbildern zudem forstlich relevante Variablen abschätzen wie z.B.:  Waldtypen und Baumarten; Baumhöhen; Bestandesdichten bzw. Anzahl Bäume pro Hektar, (n/ha); Bestandesgrundflächen (m²) und Holz-Volumen (m³); Kohlenstoffvorrat.
 
 Waldschäden sind vielfältig und werden etwa durch Insekten (Borkenkäfer), Feuer (Trockenheit & Hitze) oder Wind (Sturm & Orkan) verursacht. Um großflächig die Gesundheit der Vegetation zu beobachten und nach Sturmereignissen oder Schädlingsbefall einen schnellen Überblick über betroffene Waldflächen zu erhalten, kommt die Fernerkundung zum Einsatz. 
 
