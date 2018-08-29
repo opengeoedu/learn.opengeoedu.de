@@ -13,5 +13,5 @@ h5p ist oft kaputt
 -->
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="//slides.com/opengeoedu/deck-2/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe class="embed-responsive-item" src="https://slides.com/opengeoedu/deck-2/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
