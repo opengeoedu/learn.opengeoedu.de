@@ -11,6 +11,24 @@ menu: Tutorials
 ![](/images/tutorial.png) 
 Verfügbar sind:
 [ui-tabs position="top-left" theme="badges"]
+
+[ui-tab title="Modellierung"]
+[OGE-Tutorial_UML_Vorlesung.pdf](OGE-Tutorial_UML_Vorlesung.pdf)
+[OGE-Tutorial_UML_Übung.pdf](OGE-Tutorial_UML_%C3%9Cbung.pdf)
+[/ui-tab] 
+
+[ui-tab title="KNE und Koordinaten"]
+<div class="row align-items-center">
+    <div class="col-sm-9">
+        <h4>Kartennetzentwürfe und Koordinatensysteme</h4>
+        <p class="text-justify">In dieser Lerneinheit soll das Problem der Abbildung der gekrümmten Erdfigur auf eine Ebene oder eine andere Ersatzfigur erläutert (Kartennetzentwürfe) sowie gängige Koordinatensysteme beschrieben werden.</p>
+        <p markdown="1">Download des Tutorials [KNE & Koordinaten](OGE-Tutorial_KNE_Koordinaten.pdf)</p>
+    </div>
+    <div class="col-sm-3" markdown="1"></div>
+</div>
+
+[/ui-tab] 
+
 [ui-tab title="Thematische Kartographie"]
 <div class="row align-items-center">
     <div class="col-sm-9">
@@ -54,20 +72,6 @@ Verfügbar sind:
 </div>
 [/ui-tab]
 
-[ui-tab title="KNE und Koordinaten"]
-<div class="row align-items-center">
-    <div class="col-sm-9">
-        <h4>Kartennetzentwürfe und Koordinatensysteme</h4>
-        <p class="text-justify">In dieser Lerneinheit soll das Problem der Abbildung der gekrümmten Erdfigur auf eine Ebene oder eine andere Ersatzfigur erläutert (Kartennetzentwürfe) sowie gängige Koordinatensysteme beschrieben werden.</p>
-        <p markdown="1">Download des Tutorials [KNE & Koordinaten](OGE-Tutorial_KNE_Koordinaten.pdf)</p>
-    </div>
-    <div class="col-sm-3" markdown="1"></div>
-</div>
-
-[/ui-tab] 
-
-[ui-tab title="Kartographie"]
-[/ui-tab] 
 [ui-tab title="Lizenzen"]
 ## Wir arbeiten unter Hochdruck daran weitere Tutorials bereitzustellen!
 
@@ -80,12 +84,6 @@ Verfügbar sind:
 ## Wir arbeiten unter Hochdruck daran weitere Tutorials bereitzustellen!
 
 [/ui-tab] 
-
-[ui-tab title="Modellierung"]
-[OGE-Tutorial_UML_Vorlesung.pdf](OGE-Tutorial_UML_Vorlesung.pdf)
-[OGE-Tutorial_UML_Übung.pdf](OGE-Tutorial_UML_%C3%9Cbung.pdf)
-[/ui-tab] 
-
 
 [ui-tab title="weitere Tutorials ..."]
 [center]
