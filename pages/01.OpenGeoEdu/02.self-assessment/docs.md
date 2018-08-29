@@ -23,7 +23,7 @@ Sie Hinweise zu den Kurseinheiten, die wir für sinnvoll erachten.
             <p class="card-text">
                 <small class="text-muted"></small>
             </p>
-            <div markdown="1">[![](icons8-test-absolviert-64.png?resize=200&classes=caption "Selbsteinschätzung")](http://test.opengeoedu.de/selfassessment.aspx)</div>
+            <div markdown="1">[![](notes.png?resize=200&classes=caption "Selbsteinschätzung")](http://test.opengeoedu.de/selfassessment.aspx)</div>
         </div>
     </div>
     <div class="card">
