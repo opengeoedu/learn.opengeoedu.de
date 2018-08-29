@@ -14,7 +14,7 @@ In der Übung setzen Sie sich intensiver mit den Aspekten Open Access und Open S
 
 [center]
 
-<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=cat_77&client_id=opengeoedu" markdown="1" target="_blank">Hier geht es weiter zu den Open XX Übungen (ILIAS)
+<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=cat_77&client_id=opengeoedu" markdown="1" target="_blank">
 ![](/images/exercise.png?resize=200,200)
 </a>
 
