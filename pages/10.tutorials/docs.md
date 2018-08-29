@@ -11,7 +11,7 @@ menu: Tutorials
 ![](/images/tutorial.png) 
 Verfügbar sind:
 [ui-tabs position="top-left" theme="badges"]
-[ui-tab title="Kartengestaltung"]
+[ui-tab title="Thematische Kartographie"]
 <div class="row align-items-center">
     <div class="col-sm-9">
         <h4>Tutorial Kartengestaltung</h4>
@@ -66,6 +66,12 @@ Verfügbar sind:
 
 [/ui-tab] 
 
+[ui-tab title="Kartographie"]
+[/ui-tab] 
+[ui-tab title="Lizenzen"]
+[/ui-tab] 
+[ui-tab title="WebServices"]
+[/ui-tab] 
 [ui-tab title="Kartographie"]
 [/ui-tab] 
 
