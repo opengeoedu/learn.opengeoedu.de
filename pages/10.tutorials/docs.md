@@ -70,7 +70,7 @@ Verfügbar sind:
             In diesem Tutorial werden gängige Datenformate beschrieben und deren Nutzung bei der Verarbeitung offener Geodaten erläutert.
             Zudem werden Tipps und Tricks gesammelt, um die gemeinsame Verarbeitung der Daten zu erleichtern.
         </p>
-        <p markdown="1">Download des Tutorials [Datenformate](https://www.opengeoedu.de/content/tutorials/Datenformate.pdf)</p>
+        <p markdown="1">Download des Tutorials [Datenformate](OGE-Tutorial_Dateiformate.pdf)</p>
     </div>
     <div class="col-sm-6" markdown="1">
         “Person”: {
@@ -93,10 +93,6 @@ Verfügbar sind:
 
 [/ui-tab] 
 [ui-tab title="WebServices"]
-## Wir arbeiten unter Hochdruck daran weitere Tutorials bereitzustellen!
-
-[/ui-tab] 
-[ui-tab title="Kartographie"]
 ## Wir arbeiten unter Hochdruck daran weitere Tutorials bereitzustellen!
 
 [/ui-tab] 
