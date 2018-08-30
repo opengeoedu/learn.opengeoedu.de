@@ -21,8 +21,6 @@ taxonomy:
 
 !!!! Ziel der Lerneinheit ist es Terminologien der optischen Fernerkundung kennenzulernen und in diesem Zusammenhang die Eigenschaften von Vegetation näher zu betrachten. Dabei soll die Bedeutung von Wäldern hervorgehoben werden. Nach der Bearbeitung des Vorlesungsskripts haben Sie Kenntnisse zur Beschaffung und Verarbeitung verschiedener offener Geo- und Satellitendaten, mit dem Schwerpunkt auf dem Europäischen Copernicus-Erdbeobachtungsprogramm. 
 
-![Verschneidung der Geodaten](VerschnS2Geodaten.png?classes=caption "Workflow im Fallbeispiel")
-
 An dieser Stelle sei bereits auf folgende grundlegende Literatur verwiesen: 
 
 -	Heipke, C. (2017): Photogrammetrie und Fernerkundung. Handbuch der Geodäsie, Springer Verlag.
@@ -38,10 +36,12 @@ Englischsprachig:
 
 Zunächst erfolgt eine Einordnung der Thematik und die Bedeutung von Wäldern im globalen Kontext und im Rahmen der Fernerkundung. Zudem werden unterschiedlichste Geodaten und die Daten des EU-Copernicus-Programms vorgestellt. Zentraler Punkte sind die Sentinel-2 Satelliten. Dabei werden auch die unterschiedlichen Datenzugänge erläutert. Abschließend werden (Grund-)Kenntnisse über die optische Fernerkundung anhand des Vegetationsmonitorings vermittelt werden.
 
+![Sentinel-2](Sentinel-2.jpg?classes=caption "Sentinel-2. Quelle: ESA")
+<br><br>
+
 
 ## Inhalt der Übung
 
 In dem ersten Fallbeispiel wird ein Sturmereignis vom August 2017 untersucht, bei dem es im Taunus (Hessen) zu größeren Sturmschäden im Wald kam. Dazu wird jeweils eine Sentinel-2-Szene von vor und nach dem Ereignis aufbereitet, analysiert und Vegetationsindizes für beide Zeitpunkte berechnet. Durch die Ermittlung der Differenzen zwischen den Indizes können die Schadensflächen identifiziert und auf Basis eines Schwellenwerts extrahiert werden. Anschließend erfolgt eine Verschneidung mit Landbedeckungsdaten, um das Ergebnis hinsichtlich der betroffenen Waldtypen zu quantifizieren. Abschließend werden die ermittelten Windwurfflächen in einer dreidimensionalen Geländeansicht visualisiert.
 
-![Sentinel-2](Sentinel-2.jpg?classes=caption "Sentinel-2. Quelle: ESA")
-<br><br>
+![Verschneidung der Geodaten](VerschnS2Geodaten.png?classes=caption "Workflow im Fallbeispiel")
