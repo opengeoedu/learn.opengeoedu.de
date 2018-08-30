@@ -11,7 +11,7 @@ Im Folgenden erfolgt eine kurze Einführung in die Fernerkundung und das Erd- bz
 Fernerkundung ist somit das berührungsfreie Messen und Sammeln von Informationen mittels Sensoren über eine Distanz. Die Erdbeobachtung (Englisch: Earth observation) durch Fernerkundung wird bereits seit Jahrzehnten betrieben, und die Zahl an flugzeuggetragenen Systemen und Satelliten nimmt stetig zu (Belward & Skøien 2015; Boyd & Danson 2005; Landgrebe 1997). Dabei wurden immer neue und leistungsstärkere Sensoren und Auswertungsmöglichkeiten entwickelt. 
 
 Grundsätzlich lassen sich Fernerkundungssensoren in zwei Gruppen einteilen:
-- Aktive Sensoren senden elektromagnetische Strahlung aktiv aus und nehmen die von der Erdoberfläche zurückkommenden Signale wieder auf. Hierzu gehören etwa Lidar-Systeme (Light detection and ranging), die mit Laserstrahlen die Oberfläche abtasten, und Radar (Radio direction and ranging), die Radiowellen abgeben und aufnehmen. Hierzu gehören Satelliten wie TerraSAR-X, und Sentinel-1.
+- Aktive Sensoren senden elektromagnetische Strahlung aktiv aus und nehmen die von der Erdoberfläche zurückkommenden Signale wieder auf. Hierzu gehören etwa Lidar-Systeme (Light detection and ranging), die mit Laserstrahlen die Oberfläche abtasten, und Radar (Radio direction and ranging), die Radiowellen abgeben und aufnehmen. Hierzu gehören Satelliten wie TerraSAR-X und Sentinel-1.
 - Passive Sensoren dagegen erzeugen keine eigene Strahlung, die sie dann wieder empfangen könnten, sondern nehmen die reflektierte Strahlung anderer Quellen wie der Sonne auf. Zu diesen zählen z.B. die Satelliten der Landsat-Serie, RapidEye und Sentinel-2.
 
 ![aktiv_passiv](Aktiv_passiv.png)
