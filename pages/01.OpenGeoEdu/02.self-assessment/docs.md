@@ -33,7 +33,7 @@ Sie Hinweise zu den Kurseinheiten, die wir für sinnvoll erachten.
                 <p class="card-text">
                     <small class="text-muted"></small>
                 </p>
-            <div markdown="1">[![](workloadrechner.png?resize=200,200)](http://test.opengeoedu.de/workload.aspx)</div>
+            <div markdown="1">[![](workloadrechner.png?resize=200,250)](http://test.opengeoedu.de/workload.aspx)</div>
         </div>
     </div>
     <div class="card">
