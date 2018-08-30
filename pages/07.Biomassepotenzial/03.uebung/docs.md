@@ -12,7 +12,7 @@ Nachdem Sie sich in der Vorlesung Grundkentnisse zu Biomasse und Potenzialberech
 - Wo befinden sich die Ressourcen?
 - Welchen Beitrag kann Biomasse zur Energiewende (oder allgemein zur Bioökonomie) leisten?
 
-Anhand von Übungen auf regionaler, nationaler und internationaler Ebene, erarbeiten Sie für verschiedener Biomassen Antworten zu diesen Fragen. 
+Anhand von Übungen auf regionaler, nationaler und internationaler Ebene, erarbeiten Sie für verschiedene Biomassen Antworten zu diesen Fragen. 
 
 [center]
 <a href="https://ilias.opengeoedu.de/ilias/goto.php?target=lm_125&client_id=opengeoedu" markdown="1" target="_blank">
