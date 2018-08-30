@@ -47,6 +47,8 @@ anchors:
                 </p>
             </div>
         </div>
+    </div>
+    <div class="row flex-wrap card-deck">
         <div class="card m-2" id="gis">
             <h3 class="text-center">GIS</h3>
             <img class="img-fluid" src="/uebersicht/kursuebersicht/EuropaAfrika.png" style="height: 200px" alt="gis">
@@ -120,13 +122,15 @@ anchors:
                 </p>
             </div>
         </div>
+    </div>
+    <div class="row flex-wrap card-deck">
         <div class="card m-2" id="flaechenmoni">
             <h3 class="text-center">
                 Flächenmonitoring
             </h3>
             <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item" src="//slideshare.net/slideshow/embed_code/key/lJ8Man3VGKCR3d" width="576" height="420"
-                    scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                <iframe class="responsive-item" src="//slides.com/opengeoedu/teaser-flaechenmonitoring/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+                </iframe>
             </div>
             <div class="card-body text-justify">
                 Eine nachhaltige Siedlungsentwicklung, d.h. geringer Flächenverbrauch, Begrünung der Städte, Vermeidung von Zersiedelung

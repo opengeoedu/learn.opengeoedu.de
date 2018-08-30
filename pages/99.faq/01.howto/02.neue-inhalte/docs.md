@@ -35,7 +35,8 @@ Darin werden Titel der Seite, Menütitel und weitere Einstellungen vorgenommen.
 ```YAML
 ---
 title: Seitentitel (Überschrift und Name im Browser/Suchergebnis)
-menu: Seiten hinzufügen (Name der Seite im Navigationsmenü wenn abweichend zum Titel)
+menu: Seiten hinzufügen (optionaler Name der Seite im Navigationsmenü, falls Titel zu sperrig)
+slug: URL-Name der Seite (optional, falls Titel zu sperrig)
 taxonomy:
     category:
         - docs

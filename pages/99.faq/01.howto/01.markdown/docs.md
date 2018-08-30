@@ -921,3 +921,19 @@ Danger Will Robinson! Danger, Will Robinson!
 [fa icon=fa-camera-retro extras=fa-4x /] Explicit format with extras - [See FontAwesome Examples](https://fortawesome.github.io/Font-Awesome/examples/)
 
 [fa icon=fa-circle-o-notch extras=fa-spin,fa-3x,fa-fw,margin-bottom /] The full monty! - [See FontAwesome Examples](https://fortawesome.github.io/Font-Awesome/examples/)
+
+#### Anwendung der Shortcodes für die Reichweitenlegende und Level der Übung (s. [Datenblätter](/uebersicht/datenblatt))
+##### A B C lokal
+```
+[color=orange] [fa=map-marked-alt][/color] [color=green] [fa=map-marked-alt][/color] [color=blue] [fa=map-marked-alt][/color]
+```
+
+##### A B C regional
+```
+[color=orange] [fa=map-marked][/color] [color=green] [fa=map-marked][/color] [color=blue] [fa=map-marked][/color]
+```
+
+##### A B C national
+```
+[color=orange] [fa=fa-map][/color] [color=green] [fa=fa-map][/color] [color=blue] [fa=fa-map][/color]
+```
