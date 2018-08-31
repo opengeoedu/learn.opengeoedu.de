@@ -6,7 +6,7 @@ taxonomy:
 
 ---
 
-## Das Projektkonsortium
+# Das Projektkonsortium
 <div class="row">
     <div class="col-6 col-lg-4">
         <a href="#">
