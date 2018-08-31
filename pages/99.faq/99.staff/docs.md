@@ -9,20 +9,20 @@ external_links: false
 <div class="row">
     <div class="col-6 col-lg-4 animate-in-left">
         <a href="#">
-            <img src="/images/staff/Ralf_Bill_1335a.jpg" class="center-block img-fluid my-3 rounded-circle">
-            <h3 class="mb-0">
+            <img src="/images/staff/Ralf_Bill_1335a.jpg" class="center-block img-fluid my-3 rounded-circle" width="300">
+            <h3 class="mb-0 text-center">
                 <b>Prof. Dr.-Ing. Ralf Bill</b>
             </h3>
-            <p class="text-muted">Koordination OpenGeoEdu</p>
+            <p class="text-muted text-center">Koordination OpenGeoEdu</p>
         </a>
     </div>
     <div class="col-6 col-lg-4">
         <a href="#">
-            <img src="/images/staff/Lorenzen-Zabel_1370a.jpg" class="center-block img-fluid my-3 rounded-circle">
-            <h3 class="mb-0">
+            <img src="/images/staff/Lorenzen-Zabel_1370a.jpg" class="center-block img-fluid my-3 rounded-circle" width="300">
+            <h3 class="mb-0 text-center">
                 <b></b>
             </h3>
-            <p class="text-muted"></p>
+            <p class="text-muted text-center"></p>
         </a>
     </div>
     <div class="col-6 col-lg-4 animate-in-right">
