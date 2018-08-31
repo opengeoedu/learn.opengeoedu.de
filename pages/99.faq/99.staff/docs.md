@@ -55,4 +55,13 @@ active: false
         <p class="text-muted text-center">Konzeption, Implementation und Betrieb (<a href="learn.opengeoedu.de">learn.*</a>
             + <a href="ilias.opengeoedu.de">ilias.*</a> + <a href="www.opengeoedu.de">www.*</a>)</p>
     </div>
+        <div class="col-6 col-lg-4">
+        <img src="/images/staff/hinz.jpeg" class="center-block img-fluid my-3 rounded-circle" width="200"
+            height="200">
+        <h3 class="mb-0 text-center">
+            M.Sc.<br>
+            <b>Matthias Hinz</b>
+        </h3>
+        <p class="text-muted text-center"></p>
+    </div>
 </div>
