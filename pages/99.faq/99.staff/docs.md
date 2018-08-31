@@ -11,7 +11,8 @@ external_links: false
         <a href="#">
             <img src="/images/staff/Ralf_Bill_1335a.jpg" class="center-block img-fluid my-3 rounded-circle" width="300">
             <h3 class="mb-0 text-center">
-                <b>Prof. Dr.-Ing. Ralf Bill</b>
+                Prof. Dr.-Ing.
+                <b>Ralf Bill</b>
             </h3>
             <p class="text-muted text-center">Koordination OpenGeoEdu</p>
         </a>
@@ -20,9 +21,10 @@ external_links: false
         <a href="#">
             <img src="/images/staff/Lorenzen-Zabel_1370a.jpg" class="center-block img-fluid my-3 rounded-circle" width="300">
             <h3 class="mb-0 text-center">
-                <b></b>
+                Dipl.-Geogr.
+                <b>Axel Lorenzen-Zabel</b>               
             </h3>
-            <p class="text-muted text-center"></p>
+            <p class="text-muted text-center">Konzeption, Implementation und Betrieb (learn.* + ilias.*)</p>
         </a>
     </div>
     <div class="col-6 col-lg-4 animate-in-right">
