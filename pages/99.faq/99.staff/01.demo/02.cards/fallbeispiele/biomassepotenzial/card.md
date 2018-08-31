@@ -1,5 +1,6 @@
 ---
 title: 'Store Grand Opening'
+theme: cardstack
 publish_date: '23-01-2016 16:53'
 subtitle: 'Nanaimo, B.C'
 author:
