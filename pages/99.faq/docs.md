@@ -13,7 +13,7 @@ Offene Onlinekurse sind umfangreiche Lernangebote, die zur kostenfreien Nutzung 
 
 Der OpenGeoEdu-Kurs kann von Einsteigern wie auch Fortgeschrittenen besucht werden, da er unterschiedliche Niveaus der Bearbeitung anbietet. Große Teile des Kurses werden vollkommen offen angeboten. Erst mit dem Interesse, konkrete Fallbeispiele bearbeiten zu wollen bzw. an Tests und Übungen teilnehmen zu wollen, muss eine [Registrierung](https://ilias.opengeoedu.de/ilias/ilias.php?lang=de&client_id=opengeoedu&cmdClass=ilaccountregistrationgui&cmdNode=ta:y&baseClass=ilStartUpGUI) erfolgen, um die erzielten Ergebnisse nachvollziehbar zu machen und entsprechende Nachweise (vom Teilnahmeschein bis zum benoteten Nachweis eines bestimmten Kreditpunkteumfangs) ausstellen zu können. Studierende können diese an Ihren Hochschulen als Leistungsnachweise für ihre Studiengänge anerkennen lassen.
 
-Das konkrete Kursangebot finden Sie unter dem Menüpunkt [„Übersicht“](https://www.opengeoedu.de/learn/uebersicht/kursubersicht).
+Das konkrete Kursangebot finden Sie unter dem Menüpunkt [„Übersicht“](/uebersicht/kursuebersicht).
 
 [/ui-accordion-item]
 
@@ -22,7 +22,7 @@ Das konkrete Kursangebot finden Sie unter dem Menüpunkt [„Übersicht“](http
 ## für Lernende
 [ui-accordion independent=true open=none]
 [ui-accordion-item title="Welche technischen Voraussetzungen muss ich mitbringen?"]
-Die Bearbeitung der offenen Vorlesungsteile setzt einen gängigen Webbrowser voraus.
+Die Bearbeitung der offenen Vorlesungsteile setzt einen gängigen Webbrowser voraus. Wir empfehlen Firefox und Chrome; bei Edge und InternetExplorer kann es zu abweichender Darstellung kommen.  
 
 Für die Beantwortung von Tests und dem eigenständigen Arbeiten mit offenen Geodaten muss sich der Nutzer registrieren. Für die Tests ist wiederum nur ein Webbrowser nötig.
 

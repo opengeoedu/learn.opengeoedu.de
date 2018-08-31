@@ -47,7 +47,7 @@ Jensen, J.R., 2007. Remote sensing of the environment: an earth resource perspec
 Lillesand, T.M., Kiefer, R.W., Chipman, J.W., 2008. Remote sensing and image interpretation, 6th ed. Wiley-Blackwell, John Wiley & Sons, Hoboken, NJ.
 <br><br>
 
-*Linmksammlung:*
+*Linksammlung:*
 
 -	OpenGeoEdu:  www.opengeoedu.de 
 

@@ -1,13 +1,13 @@
 ---
-title: Interaktiv Webdienste und App
+title: Interaktive Webdienste und App
 taxonomy:
     category: docs
 ---
 
-Flächemonitoring IÖR-Monitor – eine Geoinformation dienste mit 85 Indikatoren, alles Daten sind kostenlos zugreifbar. Für diesen Kurs würden wir Daten Grundlage von IÖR-Monitor anwenden und auch die langjährige Methoden Kenntnisse.
+Flächenmonitoring mit dem IÖR-Monitor – eine Forschungsdateninfrastruktur mit mehr als 80 Indikatoren. Alle Daten stehen kostenfrei zur Verfügung. In diesem Kurs werden wir sowohl die Datengrundlagen als auch die langjährigen methodischen Erfahrungen des IÖR Monitors nutzen. 
 ![abb_ior_monitor_kartenviewer](abb_ior_monitor_kartenviewer.png)
 
-! Besuchen Sie IÖR-Monitor: [http://www.ioer-monitor.de](http://www.ioer-monitor.de)
+! Besuchen Sie den IÖR-Monitor: [http://www.ioer-monitor.de](http://www.ioer-monitor.de)
 
 <!--Eine Mobil App ist auch im Androide Apps-store verfügbar mit allen Indikator des IÖR-Monitor
 ![abb_mobil_app_](abb_mobil_app_.png)--!>

@@ -7,16 +7,20 @@ taxonomy:
 ## Autor der Lerneinheit
 | | |
 |--|--|
+<<<<<<< HEAD
 |![](https://www.ioer.de/fileadmin/_migrated/pics/meinel002.jpg "Dr.-Ing. Gotthard Meinel")   | **Dr.-Ing. Gotthard Meinel** interessiert auf das Forschungsgebiet Geoinformatik einschließlich fernerkundlicher Bildverarbeitungsmethoden. Seit 2009 leitet er des Forschungsbereichs Monitoring der Siedlungs- und Freiraumentwicklung im Leibniz-Institut für ökologische Raumentwicklung. Seine Forschungsschwerpunkte sind automatisierte Erhebungsmethoden, Analyse und Visualisierungstechnologien des Monitorings von Flächennutzungsentwicklungen. <br/> Weitere Informationen finden Sie auf [www.ioer.de](https://www.ioer.de/ioer-im-ueberblick/beschaeftigte/meinel/) |
+=======
+|![](https://www.ioer.de/fileadmin/_migrated/pics/meinel002.jpg "Dr.-Ing. Gotthard Meinel")  | **Dr.-Ing. Gotthard Meinels** Forschungsgebiet ist die Geoinformatik einschließlich fernerkundlicher Bildverarbeitungsmethoden. Seit 2009 leitet er den Forschungsbereich Monitoring der Siedlungs- und Freiraumentwicklung am Leibniz-Institut für ökologische Raumentwicklung. Seine Forschungsschwerpunkte umfassen automatisierte Erhebungsmethoden, Analyse- und Visualisierungstechnologien für das Monitoring von Flächennutzungsentwicklungen. <br/> Weitere Informationen finden Sie auf [www.ioer.de](https://www.ioer.de/ioer-im-ueberblick/beschaeftigte/meinel/) |
+>>>>>>> 7ebdfb46c8af726d3c72d2f1dbbdfd51da406066
 
 
 ## Lernziele
-!!!! <br> Die Vorlesung vermittelt die wissenschaftliche Praxis bezüglich Diskussion zum Thema Flächenmonitoring.  Damit sollten Sie für die Aufgaben d. h. Übungseinheiten für die Schaffung von Daten- und Analysegrundlagen für eine nachhaltige Stadt- und Raumentwicklung vorbereitet sein.
+!!!! <br> Die Vorlesung vermittelt die aktuelle wissenschaftliche Diskussion und Praxis zum Thema Flächenmonitoring in Deutschland. Damit sollten Sie für die Aufgaben und Übungseinheiten zur Schaffung von Daten- und Analysegrundlagen für eine nachhaltige Stadt- und Raumentwicklung vorbereitet sein.
 
 
 ### Struktur der Vorlesung
 
-Innerhalb die Vorlesung Inhalte beachten Sie folgende Elemente:
+Die Vorlesung besteht aus 7 Kapiteln. Innerhalb der Vorlesungsinhalte finden Sie folgende Elemente:
 
 ! Links und Verweise auf Literatur oder Webseiten
 
