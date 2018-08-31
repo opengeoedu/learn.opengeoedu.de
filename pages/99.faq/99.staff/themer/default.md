@@ -12,5 +12,4 @@ cards:
     pagination: true
 ---
 
----
 andere seitenweise darstellung
