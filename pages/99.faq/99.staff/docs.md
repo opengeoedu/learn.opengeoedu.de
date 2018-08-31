@@ -18,7 +18,7 @@ active: false
         <p class="text-muted text-center">Koordination OpenGeoEdu</p>
     </div>
     <div class="col-6 col-lg-4">
-        <img src="/images/staff/people_3.jpg" class="center-block img-fluid my-3 rounded-circle" width="300">
+        <img src="https://www.opengeoedu.de/images/videos/i_mein_web.PNG" class="center-block img-fluid my-3 rounded-circle" width="300">
         <h3 class="mb-0 text-center">
             Dr.-Ing. <br>
             <b>Gotthard Meinel</b>
@@ -26,7 +26,7 @@ active: false
         <p class="text-muted text-center">Wissenschaftlicher Projektpartner und Datengeber</p>
     </div>
     <div class="col-6 col-lg-4">
-        <img src="/images/staff/people_4.jpg" class="center-block img-fluid my-3 rounded-circle" width="300">
+        <img src="https://www.opengeoedu.de/images/videos/i_hov_web.PNG" class="center-block img-fluid my-3 rounded-circle" width="300">
         <h3 class="mb-0 text-center">
             Dr.-Ing. <br>
             <b>Michael Hovenbitzer</b>
@@ -34,7 +34,7 @@ active: false
         <p class="text-muted text-center">Wissenschaftlicher Projektpartner und Datengeber</p>
     </div>
     <div class="col-6 col-lg-4">
-        <img src="/images/staff/people_5.jpg" class="center-block img-fluid my-3 rounded-circle" width="300">
+        <img src="https://www.opengeoedu.de/images/videos/i_bro_web.PNG" class="center-block img-fluid my-3 rounded-circle" width="300">
         <h3 class="mb-0 text-center">
             Dipl. Geogr.<br>
             <b>Andre Brosowski</b>
