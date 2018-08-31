@@ -11,7 +11,7 @@ anchors:
     <div class="col-6 col-lg-4">
             <img src="/images/staff/Ralf_Bill_1335a.jpg" class="center-block img-fluid my-3 rounded-circle" width="200" height="200">
             <h3 class="mb-0 text-center">
-                Prof. Dr.-Ing.
+                Prof. Dr.-Ing.<br>
                 <b>Ralf Bill</b>
             </h3>
             <p class="text-muted text-center">Koordination OpenGeoEdu</p>
@@ -19,7 +19,7 @@ anchors:
     <div class="col-6 col-lg-4">
             <img src="/images/staff/Lorenzen-Zabel_1370a.jpg" class="center-block img-fluid my-3 rounded-circle" width="200" height="200">
             <h3 class="mb-0 text-center">
-                Dipl.-Geogr.
+                Dipl.-Geogr.<br>
                 <b>Axel Lorenzen-Zabel</b>               
             </h3>
             <p class="text-muted text-center">Konzeption, Implementation und Betrieb (learn.* + ilias.*)</p>
