@@ -2,13 +2,14 @@
 title: 'Die Menschen hinter OpenGeoEdu'
 taxonomy:
     category: docs
+external_links: false
 ---
 
 ## Das Projektkonsortium
 <div class="row">
     <div class="col-6 col-lg-4 animate-in-left">
         <a href="#">
-            <img src="/images/staff/people_1.jpg" class="center-block img-fluid my-3 rounded-circle" width="300">
+            <img src="/images/staff/bill.jpg" class="center-block img-fluid my-3 rounded-circle" width="300">
             <h3 class="mb-0">
                 <b></b>
             </h3>
