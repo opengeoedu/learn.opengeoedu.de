@@ -46,34 +46,28 @@ taxonomy:
 
 ##Internetquellen
 
-[Global Land Tenure Network (GLTN): Land Management and Planning][2bdb4c4a]
-[2bdb4c4a]: https://gltn.net/home/land-management-and-planning/#land-use-planning "GLTN"
+[Global Land Tenure Network (GLTN): Land Management and Planning](https://gltn.net/home/land-management-and-planning/#land-use-planning)
 
-[EU Science hub](https://ghsl.jrc.ec.europa.eu/enact.php)"EU Science hub"
+[EU Science hub](https://ghsl.jrc.ec.europa.eu/enact.php)
 
-[Hausumringe Deutschland](https://www.ldbv.bayern.de/produkte/kataster/hausumringe.html) "Hausumringe Deutschland"
+[Hausumringe Deutschland](https://www.ldbv.bayern.de/produkte/kataster/hausumringe.html)
 
-[IRENA-GlobalAtlas: Geothermie-Potenzial][7e46d99d]
-[7e46d99d]: https://irena.masdar.ac.ae/gallery/ "IRENA"
+[IRENA-GlobalAtlas: Geothermie-Potenzial](https://irena.masdar.ac.ae/gallery/)
 
-[IÖR-Monitor WebGIS Dienste und Ergebnisse ](http://www.ioer-monitor.de/ergebnisse/#c97)"IÖR-Monitor"
+[IÖR-Monitor WebGIS Dienste und Ergebnisse ](http://www.ioer-monitor.de/ergebnisse/#c97)
 
-[Luminocity3D](http://luminocity3d.org/)"Luminocity3D"
+[Luminocity3D](http://luminocity3d.org/)
 
-[LHS Dresden: Themenstadtplan Dresden; Amt für Geodaten und Kataster][504f5ee7]
-[504f5ee7]: http://stadtplan2.dresden.de "LHS-dresden"
+[LHS Dresden: Themenstadtplan Dresden; Amt für Geodaten und Kataster](http://stadtplan2.dresden.de)
 
-[LHS Stuttgart: Stadtklima][5a19488f]
-[5a19488f]: https://gis6.stuttgart.de/maps/index.html "LHS-sttutgart"
+[LHS Stuttgart: Stadtklima](https://gis6.stuttgart.de/maps/index.html)
 
-[UBA – Umweltbundesamt (2017).: Siedlungs-und Verkehrsfläche. ][86cd77d4]
-[86cd77d4]: https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/flaeche/siedlungs-verkehrsflaeche#textpart-2 "UBA"
+[UBA – Umweltbundesamt (2017).: Siedlungs-und Verkehrsfläche. ](https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/flaeche/siedlungs-verkehrsflaeche#textpart-2)
 
-[Umweltatlas Berlin- Senatsverwaltung für Stadtentwicklung und Wohnen: Grünvolumen][e5690c02]
-[e5690c02]: https://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/ke601.htm "Stadt-Berlin"
+[Umweltatlas Berlin- Senatsverwaltung für Stadtentwicklung und Wohnen: Grünvolumen](https://www.stadtentwicklung.berlin.de/umwelt/umweltatlas/ke601.htm)
 
-[Urban Data Platform](http://urban.jrc.ec.europa.eu) "Urban Data Platform"
+[Urban Data Platform](http://urban.jrc.ec.europa.eu)
 
-[OpenGeoEdu-Datenportal](https://portal.opengeoedu.de/)"OpenGeoEdu-Datenportal"
+[OpenGeoEdu-Datenportal](https://portal.opengeoedu.de/)
 
-[Zensus2011 Atlas – Deutschland](https://atlas.zensus2011.de/)"Zensus2011 Atlas – Deutschland"
+[Zensus2011 Atlas – Deutschland](https://atlas.zensus2011.de/)
