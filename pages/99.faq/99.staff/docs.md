@@ -9,7 +9,7 @@ external_links: false
 <div class="row">
     <div class="col-6 col-lg-4 animate-in-left">
         <a href="#">
-            <img src="/images/staff/bill.jpg" class="center-block img-fluid my-3 rounded-circle" width="300">
+            <img src="/images/staff/Ralf_Bill_1335a.jpg" class="center-block img-fluid my-3 rounded-circle" width="300">
             <h3 class="mb-0">
                 <b></b>
             </h3>
@@ -18,7 +18,7 @@ external_links: false
     </div>
     <div class="col-6 col-lg-4">
         <a href="#">
-            <img src="/images/staff/people_2.jpg" class="center-block img-fluid my-3 rounded-circle" width="300">
+            <img src="/images/staff/Lorenzen-Zabel_1370a.jpg" class="center-block img-fluid my-3 rounded-circle" width="300">
             <h3 class="mb-0">
                 <b></b>
             </h3>
