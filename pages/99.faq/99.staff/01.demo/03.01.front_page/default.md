@@ -1,6 +1,6 @@
 ---
 title: Index
-themer: cardstack
+theme: cardstack
 cards:
     items:
         '@page.descendants': /cards
