@@ -1,5 +1,6 @@
 ---
 title: themer
+published: true
 theme: cardstack
 ---
 
