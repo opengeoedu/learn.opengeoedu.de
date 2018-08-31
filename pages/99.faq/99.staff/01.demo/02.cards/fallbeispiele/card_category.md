@@ -1,3 +1,4 @@
 ---
 title: 'Fallbeispiele'
+theme: cardstack
 ---
