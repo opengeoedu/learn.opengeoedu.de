@@ -22,7 +22,7 @@ anchors:
                 Dipl.-Geogr.<br>
                 <b>Axel Lorenzen-Zabel</b>               
             </h3>
-            <p class="text-muted text-center">Konzeption, Implementation und Betrieb (learn.* + ilias.*)</p>
+            <p class="text-muted text-center">Konzeption, Implementation und Betrieb (<a href="learn.opengeoedu.de">learn.*</a> + <a href="ilias.opengeoedu.de">ilias.*</a> + <a href="www.opengeoedu.de">www.*</a>)</p>
     </div>
     <div class="col-6 col-lg-4">
         <a href="#">
