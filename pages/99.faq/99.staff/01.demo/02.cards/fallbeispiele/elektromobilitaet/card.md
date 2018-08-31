@@ -1,5 +1,6 @@
 ---
 title: 'Grand Milestone: 1 Year in Business'
+theme: cardstack
 publish_date: '23-01-2016 15:54'
 subtitle: 'Couldn''t do it without you.'
 author:
