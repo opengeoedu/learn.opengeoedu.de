@@ -1,8 +1,9 @@
 ---
 title: 'Die Menschen hinter OpenGeoEdu'
+external_links: false
 taxonomy:
     category: docs
-external_links: false
+
 ---
 
 ## Das Projektkonsortium
