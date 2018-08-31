@@ -10,4 +10,3 @@ cards:
     limit: 50
     pagination: true
 ---
-
