@@ -34,7 +34,7 @@ active: false
         <p class="text-muted"></p>
     </div>
     <div class="col-6 col-lg-4">
-        <img src="/images/staff/people_5.jpg" class="center-block img-fluid my-3 rounded-circle" width="300">
+        <img src="https://www.opengeoedu.de/images/videos/i_bro_web.PNG" class="center-block img-fluid my-3 rounded-circle" width="300">
         <h3 class="mb-0">
             Dipl. Geogr.<br>
             <b>Andre Brosowski</b>
