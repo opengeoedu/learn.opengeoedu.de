@@ -1,4 +1,5 @@
 ---
+title: Cards
 theme: cardstack
 ---
 
