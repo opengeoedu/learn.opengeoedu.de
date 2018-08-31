@@ -19,27 +19,27 @@ active: false
     </div>
     <div class="col-6 col-lg-4">
         <img src="/images/staff/people_3.jpg" class="center-block img-fluid my-3 rounded-circle" width="300">
-        <h3 class="mb-0">
+        <h3 class="mb-0 text-center">
             Dr.-Ing. <br>
             <b>Gotthard Meinel</b>
         </h3>
-        <p class="text-muted">Wissenschaftlicher Projektpartner und Datengeber</p>
+        <p class="text-muted text-center">Wissenschaftlicher Projektpartner und Datengeber</p>
     </div>
     <div class="col-6 col-lg-4">
         <img src="/images/staff/people_4.jpg" class="center-block img-fluid my-3 rounded-circle" width="300">
-        <h3 class="mb-0">
+        <h3 class="mb-0 text-center">
             Dr.-Ing. <br>
             <b>Michael Hovenbitzer</b>
         </h3>
-        <p class="text-muted"></p>
+        <p class="text-muted text-center">Wissenschaftlicher Projektpartner und Datengeber</p>
     </div>
     <div class="col-6 col-lg-4">
-        <img src="https://www.opengeoedu.de/images/videos/i_bro_web.PNG" class="center-block img-fluid my-3 rounded-circle" width="300">
-        <h3 class="mb-0">
+        <img src="/images/staff/people_5.jpg" class="center-block img-fluid my-3 rounded-circle" width="300">
+        <h3 class="mb-0 text-center">
             Dipl. Geogr.<br>
             <b>Andre Brosowski</b>
         </h3>
-        <p class="text-muted"></p>
+        <p class="text-muted text-center">Wissenschaftlicher Projektpartner und Datengeber</p>
     </div>
 </div>
 
