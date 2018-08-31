@@ -1,5 +1,5 @@
 ---
-title: 'Die Menschen hinter OpenGeoEdu'
+title: 'OpenGeoEdu-Team'
 taxonomy:
     category: docs
 anchors:
