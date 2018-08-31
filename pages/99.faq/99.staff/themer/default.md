@@ -1,5 +1,5 @@
 ---
-title: cards
+title: themer
 published: true
 theme: cardstack
 cards:
