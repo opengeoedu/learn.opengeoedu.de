@@ -1,10 +1,9 @@
 ---
 title: Analysebeispiele
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
-
-
 
 # Nach Auswahl sehen Sie hier Monitoring Ergebnisse
 
@@ -17,24 +16,22 @@ taxonomy:
 
 ### Flächenumnutzungsstatistik (2011-2016)
 
-![abb_flachenutzung](abb_flachenutzung.png)
+![](abb_flachenutzung.PNG)
 
 ### Bauliche Entwicklung in Überschwemmungsgebieten (2000-2014)
 
-![abb_baulichenutzung_uberschwiemung](abb_baulichenutzung_uberschwiemung.png)
+![](abb_baulichenutzung_uberschwiemung.PNG)
 
 Hier ist die prozentuale bauliche Entwicklung in Überschwemmungsgebieten in den einzelnen Bundesländern dargestellt.
 
 
-
 ### Flächenneuinanspruchnahme (2014): Gemeindeebene
-![abb_flacheneue_einspruchenahme](abb_flacheneue_einspruchenahme.png)
-
+![](abb_flacheneue_einspruchenahme.PNG)
 Hier sehen Sie die Flächenneuinanspruchnahme auf Gemeindeebene.
 
 
 ###Bodenversiegelung
-![abb_bodenseidlung_national](abb_bodenseidlung_national.png)
+![abb_bodenseidlung_national](abb_bodenseidlung_national.PNG)
 
 
 Hier dargestellt die Bodenversieglungsgrad (2015) auf Kreisebene bundesweit.
