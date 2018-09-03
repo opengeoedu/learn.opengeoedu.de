@@ -4,6 +4,20 @@ taxonomy:
   category: docs
 ---
 
+### Autoren der Lerneinheit
+<div class="row align-items-center">
+  <div class="col-sm-3" markdown="1"> BILD FOLGT </div>
+  <div class="col-sm-9">
+    <p>Jasmin Kalcher ist seit 2017 Wissenschaftlerin am DBFZ. Nach dem Studium Nachwachsende Rohstoffe an der TU München arbeite sie als wissenschaftliche Mitarbeiterin an der Universität für Bodenkultur in Wien in einem EU-Projekt an der Ermittlung von Altholzpotenzialen. Am DBFZ beschäftigt sie sich im Schwerpunkt mit der Ermittlung von Biomassepotenzialen auf nationaler und internationaler Ebene. Ihr Fokus liegt hierbei auf der GIS-basierten Analyse der räumlichen Verteilung biogener Ressourcen.</p>
+  </div>
+</div>
+
+<div class="row align-items-center">
+  <div class="col-sm-3" markdown="1"> BILD FOLGT </div>
+  <div class="col-sm-9">
+    <p>Alexandra Pfeiffer ist seit 2018 Wissenschaftlerin am DBFZ. Nach dem Master in Industrial Enterprise Management an der Aston University, England, arbeite sie dort als Wissenschaftlerin im Fachbereich Engineering Systems & Management mit Schwerpunkt Supply Chain Management. Am DBFZ beschäftigt sie sich mit der Ermittlung von Biomassepotenzialen und betreut nationale und internationale Projekte.</p>
+  </div>
+</div>
 
 ### Zielgruppe und Lernziele der Vorlesung 
 
