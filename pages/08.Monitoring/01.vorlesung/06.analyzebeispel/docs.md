@@ -59,6 +59,11 @@ Hier dargestellt die Bodenversiegelung in der Landeshauptstadt Dresden.
 
 Karte von Anteil Grünfläche an Gebiet Fläche (500m Raster)
 
+![abb_anteil_grunflache_bld_trend_berlin](abb_anteil_grunflache_bld_trend_berlin.png)
+
+
+Hier sehen Sie die Veränderung des Anteils der Grünlandfläche im Diagramm (Bundeshauptstadt Berlin, 2016)
+
 
 ### Entwicklung der Siedlungsdichte und Bevölkerung
 ![abb_entwicklung_sed_bev](abb_entwicklung_sed_bev.png)
