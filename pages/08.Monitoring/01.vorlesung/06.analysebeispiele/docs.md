@@ -16,21 +16,24 @@ taxonomy:
 
 ### Flächenumnutzungsstatistik (2011-2016)
 
-![](abb_flachenutzung.PNG)
+
+![abb_flachenutzung](abb_flachenutzung.png)
 
 ### Bauliche Entwicklung in Überschwemmungsgebieten (2000-2014)
 
-![](abb_baulichenutzung_uberschwiemung.PNG)
+![abb_baulichenutzung_uberschwiemung](abb_baulichenutzung_uberschwiemung.png)
 
 Hier ist die prozentuale bauliche Entwicklung in Überschwemmungsgebieten in den einzelnen Bundesländern dargestellt.
 
 
 ### Flächenneuinanspruchnahme (2014): Gemeindeebene
-![](abb_flacheneue_einspruchenahme.PNG)
+![abb_flacheneue_einspruchenahme](abb_flacheneue_einspruchenahme.png)
+
 Hier sehen Sie die Flächenneuinanspruchnahme auf Gemeindeebene.
 
 
 ### Bodenversiegelung
+![abb_bodenseidlung_national](abb_bodenseidlung_national.png)
 
 ![](abb_bodenseidlung_national.png)
 
@@ -43,7 +46,8 @@ Unten sehen Sie die Struktur der Bodenversiegelungsgrad als 100m Raster Karte.
 
 
 ### Bodenversiegelung in der Landeshauptstadt Dresden
-![](abb_bodenseidlung_lokal.png)
+![abb_bodenseidlung_lokal](abb_bodenseidlung_lokal.png)
+
 
 
 Hier dargestellt die Bodenversiegelung in der Landeshauptstadt Dresden.
@@ -53,6 +57,11 @@ Hier dargestellt die Bodenversiegelung in der Landeshauptstadt Dresden.
 ![abb_anteil_grunflache_raster500](abb_anteil_grunflache_raster500.png)
 
 Karte von Anteil Grünfläche an Gebiet Fläche (500m Raster)
+
+![abb_anteil_grunflache_bld_trend_berlin](abb_anteil_grunflache_bld_trend_berlin.png)
+
+
+Hier sehen Sie die Veränderung des Anteils der Grünlandfläche im Diagramm (Bundeshauptstadt Berlin, 2016)
 
 
 ### Entwicklung der Siedlungsdichte und Bevölkerung
