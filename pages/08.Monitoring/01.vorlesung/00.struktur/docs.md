@@ -7,7 +7,7 @@ category: docs
 ## Autor der Lerneinheit
 <div class="row align-items-center">
     <div class="col-sm-3" markdown="1">
-        ![](/pages/08.Monitoring/01.vorlesung/00.struktur/g.meinel_ioer.png?lightbox=800&resize=300&classes=caption
+        ![](/images/staff/g.meinel_ioer.png?lightbox=800&resize=300&classes=caption
         "Dr.-Ing. Gotthard Meinels")
     </div>
     <div class="col-sm-9">
