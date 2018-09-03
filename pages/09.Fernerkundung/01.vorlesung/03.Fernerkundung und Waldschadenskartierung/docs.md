@@ -1,25 +1,29 @@
 ---
-title: 'FE-Waldmonitoring'
+title: 'Fernerkundung+Waldmonitoring'
 taxonomy:
     category:
         - docs
 ---
+Im Folgenden erfolgt eine kurze Einführung in die Fernerkundung und das Erd- bzw. Waldmonitoring.
 
-Die Erdbeobachtung (Englisch: Earth observation) mittels Fernerkundung (FE) wird seit Jahrzehnten betrieben (...). und die Zahl an flugzeuggetragenen Systemen und Satelliten stets zu und immer neue und leistungsstärkere Sensoren und Auswertungsmöglichkeiten (...).
-Eine tragende Komponente bei der Überwachung der Landbedeckung spielt die Vegetation, wobei ist das Waldmonitoring ein. 
+!!! Laut DIN versteht man unter Fernerkundung die Gesamtheit der Verfahren zur Gewinnung von Informationen über die Erdoberfläche durch Messung und Interpretation der von ihr ausgehenden (Energie-)Felder. Als Informationsträger dient dabei die von der Erde reflektierte oder emittierte elektromagnetische Strahlung.
 
-Generell: Waldmonitoring mittels Fernerkundung
+Fernerkundung ist somit das berührungsfreie Messen und Sammeln von Informationen mittels Sensoren über eine Distanz. Die Erdbeobachtung (Englisch: Earth observation) durch Fernerkundung wird bereits seit Jahrzehnten betrieben, und die Zahl an flugzeuggetragenen Systemen und Satelliten nimmt stetig zu (Belward & Skøien 2015; Boyd & Danson 2005; Landgrebe 1997). Dabei wurden immer neue und leistungsstärkere Sensoren und Auswertungsmöglichkeiten entwickelt. 
 
-![Symbol](intro_symbols.png)
+Grundsätzlich lassen sich Fernerkundungssensoren in zwei Gruppen einteilen:
+- Aktive Sensoren senden elektromagnetische Strahlung aktiv aus und nehmen die von der Erdoberfläche zurückkommenden Signale wieder auf. Hierzu gehören etwa Lidar-Systeme (Light detection and ranging), die mit Laserstrahlen die Oberfläche abtasten, und Radar (Radio direction and ranging), die Radiowellen abgeben und aufnehmen. Hierzu gehören Satelliten wie TerraSAR-X und Sentinel-1.
+- Passive Sensoren dagegen erzeugen keine eigene Strahlung, die sie dann wieder empfangen könnten, sondern nehmen die reflektierte Strahlung anderer Quellen wie der Sonne auf. Zu diesen zählen z.B. die Satelliten der Landsat-Serie, RapidEye und Sentinel-2.
+
+![aktiv_passiv](Aktiv_passiv.png)
 <br><br>
 
-Waldschäden sind vielfältig und 
-Insekten, Waldbrände 
+Bei den passiven optischen Sensoren, gibt es eine Reihe an unterschiedlichen Systemen. Sie unterscheiden sich z.B. in der Anzahle der Kanäle, mit denen verschiedene Wellenlängenbereiche des elektromagnetischen Spektrums wahrgenommen werden können. Unsere Augen sind im Grunde auch passive Fernerkundungssensoren, die das sichtbare Licht von etwa 400-700 nm wahrnehmen.
 
-Ein spezieller Fall sind Schäden, die durch Wind und Sturm hervorgerufen werden.
+Eine zentrale Komponente bei der Überwachung der Landbedeckung spielt die Vegetation, wobei das Waldmonitoring eine spezielle Form darstellt. Um räumlich genaue Informationen über Waldgebiete zu erhalten, wird das terrestrische Waldmonitoring durch die Fernerkundung erweitert und unterstützt (Ackermann et al., 2014; Fagan and Defries, 2009; Pause et al., 2016; Romijn et al., 2015). Dies gilt besonders immer dann, wenn für die Erfassung des Waldzustandes aktuellste Informationen benötigt werden, die in so großer Ausdehnung nicht in-situ erfasst werden können (Lausch et al., 2016).
 
-Mehrere Studien zeigten bereits die Anwendbarkeit der Fernerkundung zur Erkennung von Windwurfflächen (Einzmann et al., 2017; Remelgado et al., 2014; Schwarz et al., 2003; Seitz und Straub, 2017; Steinmeier et al., 2002). Die verwendeten Daten umfassen aber auch oft kommerzielle Radargeräte und sehr hochauflösende optische Sensoren. Da diese Daten begrenzt und nicht immer verfügbar sind, ist die Verwendung offener Daten ein bevorzugter Ansatz für die Hochschulbildung und Lehre, aber auch für private oder kleine Waldbesitzer sowie für lokale Institutionen und Organisationen.
+Die Landesfläche Deutschlands ist zu etwa 30 % mit Wald bedeckt. Die Ausdehnung der Wälder ist gut dokumentiert und lässt sich auch aus frei verfügbaren Daten mit hoher räumlicher Genauigkeit ableiten. 
+Neben Gesundheitszustand und Wuchs lassen sich aus Satelliten- oder Luftbildern zudem forstlich relevante Variablen abschätzen wie z.B.:  Waldtypen und Baumarten; Baumhöhen; Bestandesdichten bzw. Anzahl Bäume pro Hektar, (n/ha); Bestandesgrundflächen (m²) und Holz-Volumen (m³); Kohlenstoffvorrat.
 
-Somit sind frei verfügbare Fernerkundungsdaten mit großer räumlicher Abdeckung nützlich und notwendig für die Waldbeobachtung wie z.B. die Erfassung von Windwurfgebieten. Dieses Fallbeispiel soll die Nutzung freier und offener Fernerkundungsdaten des Copernicus-Programms in Kombination mit weiteren offenen Geodaten demonstrieren.
+Waldschäden sind vielfältig und werden etwa durch Insekten (Borkenkäfer), Feuer (Trockenheit & Hitze) oder Wind (Sturm & Orkan) verursacht. Um großflächig die Gesundheit der Vegetation zu beobachten und nach Sturmereignissen oder Schädlingsbefall einen schnellen Überblick über betroffene Waldflächen zu erhalten, kommt die Fernerkundung zum Einsatz. 
 
-
+Mehrere Studien zeigten bereits die Anwendbarkeit der Fernerkundung zur Erkennung von Windwurfflächen (Einzmann et al., 2017; Remelgado et al., 2014; Schwarz et al., 2003; Seitz und Straub, 2017; Steinmeier et al., 2002). Die verwendeten Daten umfassen dabei auch oft kommerzielle Radarsysteme und sehr hochauflösende optische Sensoren. Da diese Daten begrenzt und nicht immer verfügbar sind, ist die Verwendung offener Daten ein bevorzugter Ansatz für Waldbesitzer sowie für Institutionen und Organisationen, aber auch für die Forschung, Bildung und Lehre. Somit sind frei verfügbare Fernerkundungsdaten mit großer räumlicher Abdeckung nützlich und notwendig für die Waldbeobachtung wie z.B. zur Erfassung von Windwurfgebieten. 
