@@ -21,7 +21,7 @@ taxonomy:
 
 ### Bauliche Entwicklung in Überschwemmungsgebieten (2000-2014)
 
-![abb_baulichenutzung_uberschwiemung](abb_baulichenutzung_uberschwiemung.PNG)
+![abb_baulichenutzung_uberschwiemung](abb_baulichenutzung_uberschwiemung.png)
 
 Hier ist die prozentuale bauliche Entwicklung in Überschwemmungsgebieten in den einzelnen Bundesländern dargestellt.
 
