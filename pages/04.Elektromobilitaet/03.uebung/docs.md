@@ -14,6 +14,7 @@ Für den Themenbereich "Elektromobilität" sind mehrere Übungsangebote verfügb
 
 [center]
 <a href="https://ilias.opengeoedu.de/ilias/goto.php?target=pg_648_129&client_id=opengeoedu" markdown="1" target="_blank">Hier geht es weiter zu den Übungen zur Elektromobilität (ILIAS)
+
 ![](/images/exercise.png?resize=200,200)
 </a>
 [/center]

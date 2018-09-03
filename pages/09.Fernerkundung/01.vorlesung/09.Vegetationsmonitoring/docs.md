@@ -14,7 +14,7 @@ Trifft Sonnenstrahlung auf ein Objekt oder Erdoberfläche, wird sie transmittier
 !!! Der Begriff der spektralen Signatur wird dabei oft als etwas Absolutes verstanden, was der Sache nicht immer gerecht wird. Zwar ist die wellenlängenabhängige Reflexion für viele Oberflächen und Landbedeckungsarten sehr typisch, allerdings spielen eine Reihe von Faktoren wie Betrachtungswinkel und Position der Sonne, Aufnahmezeitpunkt und Sensortyp entscheidende Rollen. Hinzu kommen die unterschiedlichen Ausprägungen des Zielobjekts.
 Nehmen wir Waldbäume als Beispiel: Sie stehen mal dicht gedrängt, mal mit großen Lücken, auf flacher Ebene, an steilen Hängen; Jungpflanzen erscheinen dabei anders als alte Bäume. Und obwohl Unterschiede zwischen Baumarten signifikant sein können, gibt es nicht *die eine* Signatur für Fichte oder Buche. Der (situationsbedingte) Sachverhalt ist vielfältiger und sollte von Fall zu Fall betrachtet werden. Es kann nicht schaden, dies im Hinterkopf zu behalten.  
 
-Die Reflektanzkurve von grüner gesunder Vegetation hat eine charakteristische Form und ist geprägt von Faktoren wie Konzentration an Blattpigmenten, Wassergehalt und Blattaufbau. Die folgende Abbildung zeigt das typische Erscheinen anhand einer spektralen Kurve eines Eichenblatts (Kokaly et al. 2017) samt Haupt-Einflussfaktoren.
+Die Reflektanzkurve von grüner gesunder Vegetation hat eine charakteristische Form und ist geprägt von Faktoren wie Konzentration an Blattpigmenten, Wassergehalt und Blattaufbau. Die folgende Abbildung zeigt das typische Erscheinen anhand einer spektralen Kurve einer Buchenkrone (Aberle 2017) samt Haupt-Einflussfaktoren.
 
 <style>iframe{max-width: 600px; width: 100%; height: 500px; max-height: 600px}</style>
 <iframe src="https://h5p.org/h5p/embed/240206" width="100%" max-width=600 max-height="600" height=400 frameborder="0" allowfullscreen="allowfullscreen"></iframe>
@@ -30,8 +30,7 @@ Der NDVI wird wie folgt berechnet:
 
 ![NDVI](NDVI_calculation.png)
 
-!!!! Recherche von Indizes auf der [Index Database](https://www.indexdatabase.de/) für Sentinel-2 und weitere Sensoren.
-Suchen Sie sich Beispiele heraus und stellen Sie diese einander gegenüber. Vergleichen Sie Indizes auf dem [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/?source=S2&lat=50.03619419013074&lng=8.040962219238281&zoom=13&preset=1_NATURAL_COL0R&layers=B02,B12,B08&maxcc=20&gain=1.0&gamma=1.0&time=2015-01-01|2018-05-17&atmFilter=&showDates=false).
+!!!! Recherche von Indizes auf der [Index Database](https://www.indexdatabase.de/) für Sentinel-2 und weitere Sensoren. Suchen Sie sich Beispiele heraus und stellen Sie diese einander gegenüber. Vergleichen Sie Indizes auf dem [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/?source=S2&lat=50.03619419013074&lng=8.040962219238281&zoom=13&preset=1_NATURAL_COL0R&layers=B02,B12,B08&maxcc=20&gain=1.0&gamma=1.0&time=2015-01-01|2018-05-17&atmFilter=&showDates=false).
 <br><br>
 
 ! Zum besseren Verständnis gibt es im Sentinel-Hub eine gute Übersicht über die einzelnen Kanäle, deren Kombinationsmöglichkeiten und Anwendungsbeispiele, sowie die Darstellung unterschiedlicher Vegetationsindizes: [Sentinel 2 EO products](https://www.sentinel-hub.com/develop/documentation/eo_products/Sentinel2EOproducts)
