@@ -11,7 +11,13 @@ taxonomy:
 
   ![](/pages/08.Monitoring/01.vorlesung/00.struktur/g.meinel_ioer.png?lightbox=800&resize=300&classes=caption "Dr.-Ing. Gotthard Meinels")</div>
   <div class="col-sm-9">
-  <p> **Dr.-Ing. Gotthard Meinels** Forschungsgebiet ist die Geoinformatik einschließlich fernerkundlicher Bildverarbeitungsmethoden. Seit 2009 leitet er den Forschungsbereich Monitoring der Siedlungs- und Freiraumentwicklung am Leibniz-Institut für ökologische Raumentwicklung. Seine Forschungsschwerpunkte umfassen automatisierte Erhebungsmethoden, Analyse- und Visualisierungstechnologien für das Monitoring von Flächennutzungsentwicklungen. <br/> Weitere Informationen finden Sie auf [www.ioer.de](https://www.ioer.de/ioer-im-ueberblick/beschaeftigte/meinel/) </p>
+  <p>
+
+  **Dr.-Ing. Gotthard Meinels** Forschungsgebiet ist die Geoinformatik einschließlich fernerkundlicher Bildverarbeitungsmethoden. <br /> Seit 2009 leitet er den Forschungsbereich Monitoring der Siedlungs- und Freiraumentwicklung am Leibniz-Institut für ökologische Raumentwicklung. Seine Forschungsschwerpunkte umfassen automatisierte Erhebungsmethoden, Analyse- und Visualisierungstechnologien für das Monitoring von Flächennutzungsentwicklungen. <br/> Weitere Informationen finden Sie auf
+[www.ioer.de](https://www.ioer.de/ioer-im-ueberblick/beschaeftigte/meinel/)
+<br>
+
+</p>
 
   </div>
 </div>
