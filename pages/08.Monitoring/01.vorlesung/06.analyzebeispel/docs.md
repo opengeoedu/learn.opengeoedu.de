@@ -43,8 +43,7 @@ Unten sehen Sie die Struktur der Bodenversiegelungsgrad als 100m Raster Karte.
 
 
 ### Bodenversiegelung in der Landeshauptstadt Dresden
-![abb_bodenseidlung_lokal](abb_bodenseidlung_lokal.PNG)
-
+![](abb_bodenseidlung_lokal.png)
 
 
 Hier dargestellt die Bodenversiegelung in der Landeshauptstadt Dresden.
