@@ -1,10 +1,11 @@
 ---
-title: Übungsanleitung
+title: Übungen zu Biomassepotenzialen
 menu: Übung
 taxonomy:
     category:
         - docs
 ---
+
 
 Nachdem Sie sich in der Vorlesung Grundkentnisse zu Biomasse und Potenzialberechnung angeeignet haben, gehen wir in den Übungen genauer darauf ein, die folgenden Kernfragen zu beantworten:
 

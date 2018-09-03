@@ -8,6 +8,8 @@ taxonomy:
 
 Die unzureichende öffentliche Ladeinfrastruktur stellt ein wesentliches Hindernis für den erfolgreichen Übergang zur Elektromobilität dar. Laut Berechnungen der NPE (2015) sind rund 85 Prozent der benötigten Ladeinfrastruktur private Ladepunkte. Die restlichen 15 Prozent befinden sich im öffentlich zugänglichen Bereich. Die meisten Nutzer nutzen eine private Lademöglichkeit. Wer lange Strecken fährt, lädt unterwegs an derzeit gut 10.700 öffentlich zugänglichen Ladepunkten an 4.730 Ladesäulen, davon 530 Schnellladesäulen (NPE 2017).
 
+Problem sind auch sehr divergierende Angaben zu den verfügbaren Ladestationen. So spricht eine Übersicht des Energiewirtschaftsverbands BDEW im August 2018 von rund 13.000 öffentlichen und teilöffentlichen Ladepunkten an rund 6700 Ladesäulen, immerhin ein Zuwachs von 25 % im letzten Jahr. Die Bundesnetzagentur stellt ein Ladesäulenregister mit knapp 5.500 Ladesäulen zu den im Rahmen der Ladesäulenverordnung (LSV) gemeldeten Daten zur öffentlich zugänglichen Ladeinfrastruktur in Deutschland zum Download bereit.
+
 Nachfolgende Abbildung deutet als Übersicht das verfügbare Ladenetz in Deutschland und den Benelux-Ländern an (http://maps.ladenetz.de/).
 
 [![](ladenetz.png?classes=caption "Ladenetz DACH- und Benelux-Länder (Juni 2018) [http://maps.ladenetz.de/](http://maps.ladenetz.de/)")](http://maps.ladenetz.de/)
