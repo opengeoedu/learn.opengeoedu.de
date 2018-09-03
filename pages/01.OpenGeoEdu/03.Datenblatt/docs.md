@@ -23,7 +23,7 @@ der verwendeten Software und Daten, den benötigten Funktionalitäten und der er
 | Übungen | | | |
 | :----- | :----- | :----- | :----- |
 | Open XX | Open Access Zeitschriften [Journale](OGE_Datenblatt_OpenXX_Journale.pdf) | Open Access Forschungsdaten
-[Daten](OGE_Datenblatt_OpenXX_Repositories.pdf) | Open Source Software [Software](OGE_Datenblatt_OpenXX_DesktopGIS.pdf)<br>
+[Daten](OGE_Datenblatt_OpenXX_Repositories.pdf) | Open Source Software [Software](OGE_Datenblatt_OpenXX_DesktopGIS.pdf)
 |
 | GIS | [United Nations Sustainable Development Goals](OGE_Datenblatt_SDG_Global_Click.pdf) [color=blue] [fa=fa-map
 extras=fa-2x][/color] |
@@ -31,23 +31,23 @@ extras=fa-2x][/color] |
 
 | Fallbeispiele | | | |
 | :----- | :----- | :----- | :----- |
-| Elektromobilität | [Kommunale Erreichbarkeit von Ladestationen](OGE_Datenblatt_EMobi_Lokal_ABC.pdf)<br> [color=green]
+| Elektromobilität | [Kommunale Erreichbarkeit von Ladestationen](OGE_Datenblatt_EMobi_Lokal_ABC.pdf) [color=green]
 [fa=fa-map-marked-alt extras=fa-2x][/color] | [Ladestationen und
-Bevölkerungsdichte](OGE_Datenblatt_EMobi_National_ABC.pdf)<br>[color=orange] [fa=map extras=fa-2x][/color] [color=green]
+Bevölkerungsdichte](OGE_Datenblatt_EMobi_National_ABC.pdf)[color=orange] [fa=map extras=fa-2x][/color] [color=green]
 [fa=map extras=fa-2x][/color] [color=blue] [fa=map extras=fa-2x][/color] | [Reise quer durch
-Europa](OGE_Datenblatt_EMobi_Global_ABC.pdf)<br> [color=orange] [fa=map extras=fa-2x][/color] [color=green] [fa=map
+Europa](OGE_Datenblatt_EMobi_Global_ABC.pdf) [color=orange] [fa=map extras=fa-2x][/color] [color=green] [fa=map
 extras=fa-2x][/color] [color=blue] [fa=map extras=fa-2x][/color] |
-| Biomassepotenziale | [Quick Scan auf regionaler Ebene](OGE_Datenblatt_DBFZ_Quick_Scan_A_B_C.pdf)<br> [color=orange]
+| Biomassepotenziale | [Quick Scan auf regionaler Ebene](OGE_Datenblatt_DBFZ_Quick_Scan_A_B_C.pdf) [color=orange]
 [fa=map-marked extras=fa-2x][/color] [color=green] [fa=map-marked extras=fa-2x][/color] [color=blue] [fa=map-marked
 extras=fa-2x][/color] | [Aufkommen von Biogut aus der braunen Tonne in
-Deutschland](OGE_Datenblatt_Biogut_DBFZ_national_B_C.pdf)<br> [color=green] [fa=fa-map extras=fa-2x][/color] [color=blue]
-[fa=fa-map extras=fa-2x][/color] | [Aufkommen von Biogut in Deutschland](OGE_Datenblatt_DBFZ_Biogut_national_A.pdf)<br>
+Deutschland](OGE_Datenblatt_Biogut_DBFZ_national_B_C.pdf) [color=green] [fa=fa-map extras=fa-2x][/color] [color=blue]
+[fa=fa-map extras=fa-2x][/color] | [Aufkommen von Biogut in Deutschland](OGE_Datenblatt_DBFZ_Biogut_national_A.pdf)
 [color=orange] [fa=fa-map extras=fa-2x][/color] |
-| Flächenmonitoring | [Messung der Veränderung der Siedlungs- und Bevölkerungsdichte](OGE_Datenblatt_FM_dichte_vg.pdf)<br>
+| Flächenmonitoring | [Messung der Veränderung der Siedlungs- und Bevölkerungsdichte](OGE_Datenblatt_FM_dichte_vg.pdf)
 [color=orange] [fa=fa-map extras=fa-2x][/color] [color=green] [fa=fa-map extras=fa-2x][/color] [color=blue] [fa=fa-map
 extras=fa-2x][/color] | [Berechnung verkehrsbezogener
-Flächennutzungsindikatoren](OGE_Datenblatt_FM_verkehrsindikatoren.pdf)<br> [color=green] [fa=fa-map extras=fa-2x][/color]
+Flächennutzungsindikatoren](OGE_Datenblatt_FM_verkehrsindikatoren.pdf) [color=green] [fa=fa-map extras=fa-2x][/color]
 [color=blue] [fa=fa-map extras=fa-2x][/color]|
-| Fernerkundung | [Erfassung von Windwurfflächen mit Sentinel-2](OGE_Datenblatt_BKG_Fernerkundung.pdf)<br> [color=green]
+| Fernerkundung | [Erfassung von Windwurfflächen mit Sentinel-2](OGE_Datenblatt_BKG_Fernerkundung.pdf) [color=green]
 [fa=fa-map extras=fa-2x][/color] |
 <br>
