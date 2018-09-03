@@ -6,7 +6,7 @@ category: docs
 
 ## Autor der Lerneinheit
 <div class="row align-items-center">
-    <div class="col-sm-3 image-fluid" markdown="1">
+    <div class="col-sm-3 image-fluid">
         ![](/images/staff/g.meinel_ioer.png?lightbox=800&resize=300)
     </div>
     <div class="col-sm-9">
