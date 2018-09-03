@@ -1,6 +1,6 @@
 ---
 title: Datenblätter
-media_order: 'OGE_Datenblatt_Biogut_DBFZ_national_B_C.pdf,OGE_Datenblatt_BKG_Fernerkundung.pdf,OGE_Datenblatt_DBFZ_Biogut_national_A.pdf,OGE_Datenblatt_DBFZ_Quick_Scan_A_B_C.pdf,OGE_Datenblatt_FM_dichte_vg.pdf,OGE_Datenblatt_FM_verkehrsindikatoren.pdf,OGE_Datenblatt_OpenXX_DesktopGIS.pdf,OGE_Datenblatt_OpenXX_Journale.pdf,OGE_Datenblatt_OpenXX_Repositories.pdf,OGE_Datenblatt_SDG_Global_Click.pdf,OGE_Datenblatt_EMobi_National_ABC.pdf,OGE_Datenblatt_EMobi_Global_ABC.pdf,OGE_Datenblatt_EMobi_Lokal_ABC.pdf'
+media_order: 'OGE_Datenblatt_Biogut_DBFZ_national_B_C.pdf,OGE_Datenblatt_BKG_Fernerkundung.pdf,OGE_Datenblatt_DBFZ_Biogut_national_A.pdf,OGE_Datenblatt_DBFZ_Quick_Scan_A_B_C.pdf,OGE_Datenblatt_FM_dichte_vg.pdf,OGE_Datenblatt_FM_verkehrsindikatoren.pdf,OGE_Datenblatt_OpenXX_DesktopGIS.pdf,OGE_Datenblatt_OpenXX_Journale.pdf,OGE_Datenblatt_OpenXX_Repositories.pdf,OGE_Datenblatt_EMobi_National_ABC.pdf,OGE_Datenblatt_EMobi_Global_ABC.pdf,OGE_Datenblatt_EMobi_Lokal_ABC.pdf,OGE_Datenblatt_SDG_Global_ABC.pdf'
 taxonomy:
     category:
         - docs
@@ -21,7 +21,7 @@ Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, s
 | Übungen | | | |
 |  :-----          |  :-----          |  :-----          | :----- |
 |  Open XX | Open Access Zeitschriften [Journale](OGE_Datenblatt_OpenXX_Journale.pdf) | Open Access Forschungsdaten [Daten](OGE_Datenblatt_OpenXX_Repositories.pdf) | Open Source Software [Software](OGE_Datenblatt_OpenXX_DesktopGIS.pdf) | 
-| GIS  | [United Nations Sustainable Development Goals](OGE_Datenblatt_SDG_Global_Click.pdf)  [color=blue] [fa=fa-map extras=fa-2x][/color] |
+| GIS  | [United Nations Sustainable Development Goals](OGE_Datenblatt_SDG_Global_ABC.pdf)  [color=blue] [fa=fa-map extras=fa-2x][/color] |
 <br><br>
 
 | Fallbeispiele  | | | |
