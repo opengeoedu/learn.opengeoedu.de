@@ -17,6 +17,7 @@ taxonomy:
 
 ### Flächenumnutzungsstatistik (2011-2016)
 
+
 ![abb_flachenutzung](abb_flachenutzung.png)
 
 ### Bauliche Entwicklung in Überschwemmungsgebieten (2000-2014)
