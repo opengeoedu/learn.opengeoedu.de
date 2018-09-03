@@ -10,10 +10,10 @@ Der Bedarf an **kleinräumigen Informationen ist vielfältig**. Damit können **
 
 | | |
 |--|--|
-| <center> **Flächennutzung** <br/>(Grünvolumen) </center> | <center> **Klimaanpassung** <br/>(Luftbelastung)  </center> |
+| <center> **Flächennutzung** (Grünvolumen) </center> | <center> **Klimaanpassung** (Luftbelastung)  </center> |
 | ![abb_gruenvolumen_ua_berlin](abb_gruenvolumen_ua_berlin.png)| ![abb_luftbelastung_lhs_sttutgart](abb_luftbelastung_lhs_sttutgart.png) |
 |  <center> Quelle: [Umweltatlas-Berlin](http://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=showMap&mapId=wmsk05_09_gruendvol2010@senstadt) </center> |  <center> Quelle: [LHS Stuttgart](http://gis6.stuttgart.de/maps/index.html?karte=stadtklima&embedded=true#basemap=0&centerX=3516118.9675944396&centerY=5406021.037465078&scale=25000&layerIds=279.281) </center>|
-|  <center> **Stadtplanung** <br/>(Bodenwerte) </center> | <center> **Energieforschung** <br/>(Geothermie-Potenzial) </center>  |
+|  <center> **Stadtplanung** (Bodenwerte) </center> | <center> **Energieforschung** (Geothermie-Potenzial) </center>  |
 |  ![abb_bodenwerte_lhs_dresden](abb_bodenwerte_lhs_dresden.png) |![abb_geotherme_irena](abb_geotherme_irena.png) |
 |<center> Quelle: [LHS Dresden](http://stadtplan2.dresden.de/) </center>  | <center> Quelle: [IRENA-GlobalAtlas](https://irena.masdar.ac.ae/gallery/#map/1645) </center> |
 
