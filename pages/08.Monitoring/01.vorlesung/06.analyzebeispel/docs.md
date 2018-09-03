@@ -32,8 +32,7 @@ Hier sehen Sie die Flächenneuinanspruchnahme auf Gemeindeebene.
 
 ### Bodenversiegelung
 
-![abb_bodenseidlung_national](abb_bodenseidlung_national.PNG)
-
+![](abb_bodenseidlung_national.png)
 
 Hier dargestellt die Bodenversieglungsgrad (2015) auf Kreisebene bundesweit.
 
