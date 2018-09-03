@@ -24,7 +24,7 @@ category: docs
 
 
 ## Lernziele
-!!!! <br> Die Vorlesung vermittelt die aktuelle wissenschaftliche Diskussion und Praxis zum Thema Flächenmonitoring in
+!!!! Die Vorlesung vermittelt die aktuelle wissenschaftliche Diskussion und Praxis zum Thema Flächenmonitoring in
 Deutschland. Damit sollten Sie für die Aufgaben und Übungseinheiten zur Schaffung von Daten- und Analysegrundlagen für
 eine nachhaltige Stadt- und Raumentwicklung vorbereitet sein.
 
