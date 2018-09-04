@@ -1,6 +1,5 @@
 ---
 title: Index
-theme: cardstack
 cards:
     items:
         '@page.descendants': /cards
@@ -10,3 +9,4 @@ cards:
     limit: 50
     pagination: true
 ---
+
