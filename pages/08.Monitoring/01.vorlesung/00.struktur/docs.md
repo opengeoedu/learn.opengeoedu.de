@@ -1,8 +1,7 @@
 ---
 title: 'Lernziele und Struktur der Lerneinheit'
 taxonomy:
-    category: 
-	- docs
+    category: docs
 ---
 
 ## Autor der Lerneinheit
