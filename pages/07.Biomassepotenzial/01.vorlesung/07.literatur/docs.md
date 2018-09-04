@@ -20,9 +20,9 @@ Brosowski, André (2014): Räumliche Verteilung von Reststoffpotenzialen zur ene
 
 Brosowski, André; Adler, Philipp; Erdmann, Georgia; Thrän, Daniela; Mantau, Udo; Blanke, Christian (2015): Biomassepotenziale von Rest- und Abfallstoffen - Status quo in Deutschland. Schlussbericht. Hg. v. Fachagentur Nachwachsende Rohstoffe e. V. (FNR). Leipzig (Schriftenreihe Nachwachsende Rohstoffe, Band 36). 
 
-Brosowski, André; Thrän, Daniela; Mantau, Udo; Mahro, Bernd; Erdmann, Georgia; Adler, Philipp et al. (2016): A review of biomass potential and current utilisation – Status quo for 93 biogenic wastes and residues in Germany. In: Biomass and Bioenergy 95, S. 257–272. [DOI](10.1016/j.biombioe.2016.10.017).
+Brosowski, André; Thrän, Daniela; Mantau, Udo; Mahro, Bernd; Erdmann, Georgia; Adler, Philipp et al. (2016): A review of biomass potential and current utilisation – Status quo for 93 biogenic wastes and residues in Germany. In: Biomass and Bioenergy 95, S. 257–272. [DOI](https://doi.org/10.1016/j.biombioe.2016.10.017).
 
-Creutzig, Felix; Ravindranath, N. H.; Berndes, Göran; Bolwig, Simon; Bright, Ryan; Cherubini, Francesco et al. (2015): Bioenergy and climate change mitigation: An assessment. In: GCB Bioenergy 7 (5), S. 916–944. [DOI](10.1111/gcbb.12205).
+Creutzig, Felix; Ravindranath, N. H.; Berndes, Göran; Bolwig, Simon; Bright, Ryan; Cherubini, Francesco et al. (2015): Bioenergy and climate change mitigation: An assessment. In: GCB Bioenergy 7 (5), S. 916–944. [DOI](https://doi.org/10.1111/gcbb.12205).
 
 Fachagentur Nachwachsende Rohstoffe e. V. (FNR) (Hg.) (2018): Anbau und Verwendung Nachwachsender Rohstoffe in Deutschland. Unter Mitarbeit von A. Becker, D. Peters und D. Kemnitz. [Online](https://mediathek.fnr.de/anbauflache-fur-nachwachsende-rohstoffe.html).
 
@@ -36,8 +36,7 @@ Thrän, Daniela (Hg.) (2015): Smart Bioenergy. Technologies and concepts for a m
 
 Thrän, Daniela; Pfeiffer, Diana (Hg.) (2013): Methodenhandbuch. Stoffstromorientierte Bilanzierung der Klimagaseffekte. Methoden zur Bestimmung von Technologiekennwerten, Gestehungskosten und Klimagaseffekten von Vorhaben im Rahmen des BMU-Förderprogramms „Energetische Biomassenutzung“. 4. Aufl. Leipzig: DBFZ (Schriftenreihe des BMU-Förderprogramms "Energetische Biomassenutzung“, 4). [Online](https://www.energetische-biomassenutzung.de/fileadmin/media/6_Publikationen/04_Methodenhandbuch_2013_final.pdf).
 
-Thrän, Daniela; Seitz, Stefanie; Wirkner, Ronny; Nelles, Michael (2016): Die Rolle der Bioenergie in der Energiewende – das „Smart Bioenergy“-Konzept. In: Conference proceedings of the 10. Rostocker Bioenergieforum, 16.-17.06.2016 in Rostock, S. 15–27. [DOI](
-10.1055/b-0034-97099).
+Thrän, Daniela; Seitz, Stefanie; Wirkner, Ronny; Nelles, Michael (2016): Die Rolle der Bioenergie in der Energiewende – das „Smart Bioenergy“-Konzept. In: Conference proceedings of the 10. Rostocker Bioenergieforum, 16.-17.06.2016 in Rostock, S. 15–27. 
 
 Thünen-Institut: Dritte Bundeswaldinventur - Ergebnisdatenbank. [Online](https://bwi.info).
 
