@@ -34,7 +34,7 @@ Englischsprachig:
 
 ## Struktur der Vorlesung
 
-Zunächst erfolgt eine Einordnung der Thematik und die Bedeutung von Wäldern im globalen Kontext und im Rahmen der Fernerkundung. Zudem werden unterschiedlichste Geodaten und die Daten des EU-Copernicus-Programms vorgestellt. Zentraler Punkte sind die Sentinel-2 Satelliten. Dabei werden auch die unterschiedlichen Datenzugänge erläutert. Abschließend werden (Grund-)Kenntnisse über die optische Fernerkundung anhand des Vegetationsmonitorings vermittelt werden.
+Zunächst erfolgt eine Einordnung der Thematik und die Bedeutung von Wäldern im globalen Kontext und im Rahmen der Fernerkundung. Zudem werden unterschiedlichste Geodaten und die Daten des EU-Copernicus-Programms vorgestellt. Zentraler Punkt sind die Sentinel-2 Satelliten. Dabei werden auch die unterschiedlichen Datenzugänge erläutert. Abschließend werden (Grund-)Kenntnisse über die optische Fernerkundung anhand des Vegetationsmonitorings vermittelt werden.
 
 ![Sentinel-2](Sentinel-2.jpg?classes=caption "Sentinel-2. Quelle: ESA")
 <br><br>
