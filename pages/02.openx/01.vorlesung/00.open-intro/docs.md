@@ -18,7 +18,7 @@ taxonomy:
 -->
 
 ## Lernziele 
-!!!! <br> Ziel der Lerneinheit ist es die wesentlichen Begriffe und Strömungen kennenzulernen und diese einordnen zu können. Nach Bearbeitung dieses Vorlesungsskripts im Selbststudium sollten Sie die wesentlichen Grundideen der Offenheit in Gesellschaft, der Verwaltung, der Wirtschaft und auch der Wissenschaft beherrschen.
+!!!! Ziel der Lerneinheit ist es die wesentlichen Begriffe und Strömungen kennenzulernen und diese einordnen zu können. Nach Bearbeitung dieses Vorlesungsskripts im Selbststudium sollten Sie die wesentlichen Grundideen der Offenheit in Gesellschaft, der Verwaltung, der Wirtschaft und auch der Wissenschaft beherrschen.
 
 ## Struktur 
 
