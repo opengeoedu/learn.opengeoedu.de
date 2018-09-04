@@ -23,11 +23,11 @@ Eine Auswahl dieser IÖR-Monitoring-Ergebnisse wird im Folgenden vorgestellt:
 
 ![abb_flachenutzung](abb_flachenutzung.png)
 
-### Bauliche Entwicklung in Überschwemmungsgebieten (2000-2014)
+### Anteil bauliche geprägter SuV  in Überschwemmungsgebieten: Räumlicher Trend in den Bundesländern
 
 ![abb_baulichenutzung_uberschwiemung](abb_baulichenutzung_uberschwiemung.png)
 
-Hier ist die prozentuale bauliche Entwicklung in Überschwemmungsgebieten in den einzelnen Bundesländern dargestellt.
+Hier ist die prozentuale Anteil der baulich geprägten Siedlungs- und Verkehrsfläche an den Überschwemmungsgebieten in den Bundesländern Deutschlands dargestellt.
 
 
 ### Flächenneuinanspruchnahme (2014): Gemeindeebene
