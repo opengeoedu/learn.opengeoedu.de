@@ -42,7 +42,7 @@ taxonomy:
 
 **Kurzumtriebsplantage**: Acker, auf dem schnellwachsende Hölzer wie Pappeln und Weiden angebaut werden. Diese Dauerkulturen sind nach wenigen Jahren erntereif [BMBF und BMEL 2014](https://www.bmbf.de/pub/Biooekonomie_in_Deutschland.pdf)
 
-**Mega gram oder Megagramm**: In englischsprachiger Literatur wird „mega gram“ statt Tonnen als Einheit für die Masse verwendet. Das Megagramm wird mit Mg abgekürzt, wobei M für 106 und Mg somit für 1.000.000 g steht. 
+**Mega gram oder Megagramm**: In englischsprachiger Literatur wird „mega gram“ statt Tonnen als Einheit für die Masse verwendet. Das Megagramm wird mit Mg abgekürzt, wobei M für 10<sup>6</sup> und Mg somit für 1.000.000 g steht. 
 
 **Nachhaltigkeit**: Konzeption einer dauerhaft zukunftsfähigen Entwicklung der ökonomischen, ökologischen und sozialen
 Dimension menschlicher Existenz. Eine nachhaltige Entwicklung befriedigt die Bedürfnisse der Gegenwart, ohne zu riskieren, dass künftige Generationen ihre Bedürfnisse nicht befriedigen können [BMBF und BMEL 2014](https://www.bmbf.de/pub/Biooekonomie_in_Deutschland.pdf)
