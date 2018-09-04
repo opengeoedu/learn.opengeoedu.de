@@ -7,7 +7,7 @@ taxonomy:
 ---
 
 
-Nachdem Sie sich in der Vorlesung Grundkentnisse zu Biomasse und Potenzialberechnung angeeignet haben, gehen wir in den Übungen genauer darauf ein, die folgenden Kernfragen zu beantworten:
+Nachdem Sie sich in der Vorlesung Grundkenntnisse zu Biomasse und Potenzialberechnung angeeignet haben, gehen wir in den Übungen genauer darauf ein, die folgenden Kernfragen zu beantworten:
 
 - Welche Mengen an biogenen Ressourcen können wir nachhaltig nutzen?
 - Wo befinden sich die Ressourcen?
