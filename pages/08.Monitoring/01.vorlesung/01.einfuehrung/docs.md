@@ -12,5 +12,4 @@ Die Grafik zeigt den jährlichen Anstieg der Siedlungs- und Verkehrsfläche im V
 
 Die Bedeutung dieser Aufgabe spiegelt sich auch in der aktuellen Literatur wider.
 
-!!! Zum Beispiel in [Siedentop & Kaup (2017)](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa2-211777):
-***„Staat, Gesellschaft, Wissenschaft und Wirtschaft benötigen eine leistungsfähige Raumbeobachtung, die Entscheidungsträgern und Interessierten Informationen zu demografischen, ökonomischen, sozialen sowie siedlungs-und infrastrukturellen Zuständen und Entwicklungen bereitstellt“.***
+!!! Zum Beispiel in [Siedentop & Kaup (2017)](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa2-211777): ***„Staat, Gesellschaft, Wissenschaft und Wirtschaft benötigen eine leistungsfähige Raumbeobachtung, die Entscheidungsträgern und Interessierten Informationen zu demografischen, ökonomischen, sozialen sowie siedlungs- und infrastrukturellen Zuständen und Entwicklungen bereitstellt“.***
