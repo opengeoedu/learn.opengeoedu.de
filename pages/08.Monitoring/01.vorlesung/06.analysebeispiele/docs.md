@@ -5,7 +5,11 @@ taxonomy:
         - docs
 ---
 
-# Nach Auswahl sehen Sie hier Monitoring Ergebnisse
+# Analysebeispiele von Flächenmonitoring-Ergebnissen
+
+Neben der amtlichen Flächenstatistik, der für die alten Bundesländer seit 1980 existierenden sekundärstatistischen Erhebung, bietet der IÖR-Monitor Daten zur Flächennutzungsentwicklung auf Grundlage des ATKIS Basis-DLM.
+
+Eine Auswahl dieser IÖR-Monitoring-Ergebnisse wird im Folgenden vorgestellt:
 
 <br/>
 
