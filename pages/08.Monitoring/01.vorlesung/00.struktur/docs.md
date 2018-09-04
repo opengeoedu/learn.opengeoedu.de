@@ -22,9 +22,7 @@ taxonomy:
 
 
 ## Lernziele
-!!!! Die Vorlesung vermittelt die aktuelle wissenschaftliche Diskussion und Praxis zum Thema Flächenmonitoring in
-Deutschland. Damit sollten Sie für die Aufgaben und Übungseinheiten zur Schaffung von Daten- und Analysegrundlagen für
-eine nachhaltige Stadt- und Raumentwicklung vorbereitet sein.
+!!!! Die Vorlesung vermittelt die aktuelle wissenschaftliche Diskussion und Praxis zum Thema Flächenmonitoring in Deutschland. Damit sollten Sie für die Aufgaben und Übungseinheiten zur Schaffung von Daten- und Analysegrundlagen für eine nachhaltige Stadt- und Raumentwicklung vorbereitet sein.
 
 
 ### Struktur der Vorlesung
