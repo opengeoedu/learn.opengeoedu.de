@@ -24,3 +24,6 @@ vom Vorwissen des Nutzers gegeben werden. Ebenso steht ein Workloadrechner zur V
 der zu bearbeitenden Kursteile zusammenstellen kann und die entsprechende Workload dafür abgeschätzt wird.
 
 <!-- ![cc-by-sa](cc-by-sa.png) <small>Alle Inhalte auf OpenGeoEdu - Lernen mit offenen Daten sind, sofern nicht anders angegeben, lizenziert unter einer <br/> [Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](http://creativecommons.org/licenses/by-sa/4.0/)</small> -->
+
+
+test
