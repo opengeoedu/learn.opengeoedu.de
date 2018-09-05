@@ -1,6 +1,6 @@
 ---
 title: 'Lernziele und Struktur der Lerneinheit'
-taxonomy
+taxonomy:
     category:
       - docs
 ---
