@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-Flächenmonitoring mit dem IÖR-Monitor – eine Forschungsdateninfrastruktur mit mehr als 80 Indikatoren. Alle Daten stehen kostenfrei zur Verfügung. In diesem Kurs werden wir sowohl die Datengrundlagen als auch die langjährigen methodischen Erfahrungen des IÖR Monitors nutzen. 
+Der IÖR-Monitor stellt eine Forschungsdateninfrastruktur mit mehr als 80 Indikatoren zum Flächenmonitoring für Deutschland bereit.  Alle Daten stehen kostenfrei zur Verfügung. In diesem Kurs werden wir sowohl die Datengrundlagen als auch die langjährigen methodischen Erfahrungen des IÖR-Monitors nutzen. 
 ![abb_ior_monitor_kartenviewer](abb_ior_monitor_kartenviewer.png)
 
 ! Besuchen Sie den IÖR-Monitor: [http://www.ioer-monitor.de](http://www.ioer-monitor.de)

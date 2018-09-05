@@ -9,7 +9,7 @@ taxonomy:
 
 ### Biomasse – was ist das überhaupt?
 
-„*Biomasse* umfasst die organischen Substanzen der belebten Natur, entweder als lebende oder als tote Biomasse.“ (WGBU 2009, S. 376). Somit werden unter dem Begriff Biomasse alle organischen Stoffe zusammengefasst, die nicht fossilen Ursprungs sind. Der Begriff „biogene Ressourcen“ wird in diesem Modul analog verwendet.
+„*Biomasse* umfasst die organischen Substanzen der belebten Natur, entweder als lebende oder als tote Biomasse.“ (WGBU 2009, S. 376). Somit werden unter dem Begriff Biomasse alle organischen Stoffe zusammengefasst, die nicht fossilen Ursprungs sind. Der Begriff „biogene Ressourcen“ wird in diesem Kursteil analog verwendet.
 
 ! Zum Einstieg in das Thema befassen Sie sich bitte mit folgenden Materialien: <br><br>
 ! [SuperGen Bioenergy Hub: Bioenergy a Graphic Novel](http://www.supergen-bioenergy.net/comic/) <br><br>
