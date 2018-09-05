@@ -9,7 +9,7 @@ taxonomy:
 
 Die Betrachtung von Biomasse kann man unterschiedlich strukturieren. Eine Möglichkeit der Kategorisierung richtet sich nach dem Sektor, in welchem die Biomasse den Beitrag zur Endenergie leistet (z.B. Industrie, Haushalte, Verkehr); eine andere Kategorisierung betrachtet, in welcher Form die Biomasse am Ende der Konversion zur Verfügung steht: als Strom, Wärme oder Kraftstoff.
 
-In diesem Lernmodul richtet sich die Betrachtung jedoch überwiegend nach der Herkunft der Biomasse. Wie aus nachfolgender Abbildung ersichtlich, unterscheiden wir zwischen denjenigen Biomassen, die direkt für eine energetische oder stoffliche Nutzung angebaut werden (*Nachwachsende Rohstoffe (NawaRo)*, siehe auch Kapitel „Nachhaltige Bereitstellung“) und solchen, die als Reststoffe, Nebenprodukte oder Abfälle anfallen. Im Folgenden werden diese beiden Herkunftsarten genauer beschrieben.
+In diesem Kursteil richtet sich die Betrachtung jedoch überwiegend nach der Herkunft der Biomasse. Wie aus nachfolgender Abbildung ersichtlich, unterscheiden wir zwischen denjenigen Biomassen, die direkt für eine energetische oder stoffliche Nutzung angebaut werden (*Nachwachsende Rohstoffe (NawaRo)*, siehe auch Kapitel „Nachhaltige Bereitstellung“) und solchen, die als Reststoffe, Nebenprodukte oder Abfälle anfallen. Im Folgenden werden diese beiden Herkunftsarten genauer beschrieben.
 
 ![](Skript_DBFZ_Biomassekategorien.png?lightbox=800&resize=600&classes=caption "Kategorien von Biomassen, eigene Darstellung")
 
