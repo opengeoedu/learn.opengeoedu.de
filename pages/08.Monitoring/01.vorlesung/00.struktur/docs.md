@@ -1,10 +1,9 @@
 ---
 title: 'Lernziele und Struktur der Lerneinheit'
-taxonomy
+taxonomy:
     category:
-	- docs
+      - docs
 ---
-
 ## Autor der Lerneinheit
 <div class="row align-items-center">
     <div class="col-sm-3 image-fluid" markdown="1">![](/images/staff/g.meinel_ioer.png?lightbox=800&resize=300)</div>
@@ -19,11 +18,9 @@ taxonomy
     </div>
 </div>
 
-
 ## Lernziele
 
 !!!! Die Vorlesung vermittelt die aktuelle wissenschaftliche Diskussion und Praxis zum Thema Flächenmonitoring in Deutschland. Damit sollten Sie für die Aufgaben und Übungseinheiten zur Schaffung von Daten- und Analysegrundlagen für eine nachhaltige Stadt- und Raumentwicklung vorbereitet sein.
-
 
 ### Struktur der Vorlesung
 
