@@ -39,8 +39,6 @@ Hier sehen Sie die Flächenneuinanspruchnahme auf Gemeindeebene.
 ### Bodenversiegelung auf Kreisebene (2015)
 ![abb_bodenseidlung_national](abb_bodenseidlung_national.png)
 
-![](abb_bodenseidlung_national.png)
-
 Hier ist der Bodenversiegelungsgrad (2015) auf Kreisebene bundesweit dargestellt.
 
 Nachfolgend sehen Sie die Struktur des Bodenversiegelungsgrad in einer Rasterkarte (100*100m).
@@ -64,6 +62,8 @@ Hier sehen Sie die Veränderung des Anteils der Grünlandfläche im Diagramm (Bu
 
 
 ### Entwicklung der Siedlungsdichte und Bevölkerung
+Hier ein Beispiel für die Verknüpfung von Geodaten. In diesem Fall wird die Siedungs- und Verkehrsfläche mit der Bevölkerungszahl aus der Statistik verknüpft. Die Siedlungsdichte ist ein Maß für die Effizienz der Flächennutzung im Bereich Wohnen.
+
 ![abb_entwicklung_sed_bev](abb_entwicklung_sed_bev.png)
 
 Hier sieht man die Entwicklung der Siedlungsdichte und Bevölkerung, differenziert nach Gemeindegrößen (unten).
@@ -76,7 +76,14 @@ Hier sieht man die Entwicklung der Siedlungsdichte und Bevölkerung, differenzie
 ![abb_veranderung_siedlungdichte](abb_veranderung_siedlungdichte.png)
 
 Hier sehen Sie die Veränderung der Siedlungsdichte auf Gemeindeebene.
+### Gebäudeklassifikation
+Hier ein Beispiel - aus der Größe und Anordnung von Gebäuden, abgebildet in dem Geobasisprodukt Hausumringe, kann man mittels Klassifikation auf den Gebäudetyp schließen z.B. Einfamilienhaus, Block- oder Zeilenbebauung.
+![abb_gebaudeklassificationmethoden](abb_gebaudeklassificationmethoden.png)
+
+Die Herausforderungen sind: Regionale Unterschiede, Modellierungsunterschiede, Mischnutzung, Gewinnung von Trainings- und Testdaten.
+
+![abb_regionalgeauiegkeit](abb_regionalgeauiegkeit.png)
 
 <br/>
 
-!!! **Weitere Analyse finden Sie auf:**  http://www.ioer-monitor.de/ergebnisse
+!!! **Weitere Analysebeispiele von Flächenmonitoring-Ergebnissen finden Sie auf:**  http://www.ioer-monitor.de/ergebnisse
