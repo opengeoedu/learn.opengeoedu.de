@@ -1,5 +1,6 @@
 ---
-title: Übersicht
+title: OpenGeoEdu
+menu: Übersicht
 slug: uebersicht
 taxonomy:
     category:
