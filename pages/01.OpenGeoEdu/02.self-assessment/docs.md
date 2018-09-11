@@ -43,7 +43,7 @@ Sie Hinweise zu den Kurseinheiten, die wir für sinnvoll erachten.
             <p class="card-text">
                 <small class="text-muted"></small>
             </p>
-            <div markdown="1">[![](Modulbeschreibung.png?resize=200)](OGE_Modulbeschreibung.pdf)</div>
+            <div markdown="1">[![](Modulbeschreibung.png?resize=200)](OGE_Modulbeschreibung.pdf?target=_blank)</div>
         </div>
     </div>
 </div>
