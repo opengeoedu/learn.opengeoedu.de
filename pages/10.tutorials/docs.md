@@ -8,7 +8,6 @@ menu: Tutorials
 
 [center]Auf dieser Seite finden Sie ausführliche Hilfestellungen zu verschiedenen Themen und Aufgaben in Geo-Informationssystemen.
 [/center]
-![](/images/tutorial.png) 
 Verfügbar sind:
 [ui-tabs position="top-left" theme="badges"]
 
@@ -35,7 +34,7 @@ Verfügbar sind:
 Dies ersetzt natürlich keine Lehrveranstaltung Kartographie. Daher wird das Studium kartographischer Lehrbücher nahegelegt.</p>
         <p markdown="1">Download des Tutorials [Kartographie](OGE-Tutorial_Kartographie.pdf)</p>
     </div>
-    <div class="col-sm-3" markdown="1"></div>
+    <div class="col-sm-3" markdown="1">![](/images/tutorial.png</div>
 </div>
 [/ui-tab] 
 
@@ -46,7 +45,7 @@ Dies ersetzt natürlich keine Lehrveranstaltung Kartographie. Daher wird das Stu
         <p class="text-justify">In dieser Lerneinheit werden die wesentlichen Grundzüge der Modellierung vorgestellt und am Beispiel der Unified Modeling Language (UML) und des Entity-Relationship-Modells (ER) erläutert.</p>
         <p markdown="1">Download des Tutorials [UML und ER](OGE-Tutorial_UML_Vorlesung.pdf)</p>
     </div>
-    <div class="col-sm-3" markdown="1"></div>
+    <div class="col-sm-3" markdown="1">![](/images/tutorial.png</div>
 </div>
 <div class="row align-items-center">
     <div class="col-sm-9">
@@ -65,7 +64,7 @@ Dies ersetzt natürlich keine Lehrveranstaltung Kartographie. Daher wird das Stu
         <p class="text-justify">In dieser Lerneinheit soll das Problem der Abbildung der gekrümmten Erdfigur auf eine Ebene oder eine andere Ersatzfigur erläutert (Kartennetzentwürfe) sowie gängige Koordinatensysteme beschrieben werden.</p>
         <p markdown="1">Download des Tutorials [Koordinaten](OGE-Tutorial_KNE_Koordinaten.pdf)</p>
     </div>
-    <div class="col-sm-3" markdown="1"></div>
+    <div class="col-sm-3" markdown="1">![](/images/tutorial.png</div>
 </div>
 
 [/ui-tab] 
