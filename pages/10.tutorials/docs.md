@@ -123,8 +123,9 @@ Verfügbar sind:
 [/ui-tab]
 
 [ui-tab title="Lizenzen"]
+[center]
 ## Wir arbeiten unter Hochdruck daran dieses Tutorial bereitzustellen!
-
+[/center]
 [/ui-tab]
 
 [ui-tab title="weitere Tutorials ..."]
