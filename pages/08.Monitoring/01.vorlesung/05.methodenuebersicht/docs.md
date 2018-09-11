@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-Ein kleinräumiges Flächenmonitoring benötigt Tools, Systematiken, Berechnungsvorschriften, leicht verständliche Geovisualisierung sowie Akteure auf allen Entscheidungsebenen.
+Ein kleinräumiges Flächenmonitoring benötigt Tools, Systematiken, Berechnungsvorschriften, leicht verständliche Geovisualisierungen sowie Akteure auf allen Entscheidungsebenen.
 
 Dabei kommt raumbezogenen Daten und geostatistischen Informationsangeboten eine besondere Bedeutung zu, die immer genauer sowie aktuell und kostenfrei verfügbar sein sollen.
 
