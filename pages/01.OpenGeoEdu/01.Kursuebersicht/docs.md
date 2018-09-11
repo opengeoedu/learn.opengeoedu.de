@@ -137,7 +137,7 @@ anchors:
                 durch Innen- vor Außenentwicklung usw.,
                 <a href="#" data-toggle="collapse" data-target="#monidetails">Details...</a>
                 <p id="monidetails" class="collapse text-justify">
-                    benötigt als elementare Grundlage hochgenaue, kleinräumige Informationen zur Flächennutzung, Gebäuden sowie der Verkehrsinfrastruktur.
+                    benötigt als elementare Grundlage hochgenaue, kleinräumige Informationen zur Flächennutzung, zu Gebäuden sowie zur Verkehrsinfrastruktur.
                     <br> In diesem Kursteil sollen Sie quantitative Beschreibungen, Daten- und Analysegrundlagen für eine gute
                     Stadt- und Raumplanung kennenlernen und in praktischen Beispielen, Aufgaben und Übungen auf verschiedenen
                     Skalenebenen arbeiten.
