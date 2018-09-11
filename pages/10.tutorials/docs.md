@@ -100,12 +100,12 @@ Dies ersetzt natürlich keine Lehrveranstaltung Kartographie. Daher wird das Stu
 ## Wir arbeiten unter Hochdruck daran dieses Tutorial bereitzustellen!
 
 [/ui-tab] 
-[ui-tab title="OGC-WebServices"]
+[ui-tab title="OGC-Webservices"]
 <div class="row align-items-center">
     <div class="col-sm-9">
-        <h4>Modellierung in UML und ER</h4>
+        <h4>OGC-Webservices</h4>
         <p class="text-justify">In dieser Lerneinheit sollen gängige OGC-Webservices beschrieben und deren Nutzung bei der Verarbeitung offener Geodaten erläutert werden. Zudem werden Tipps und Tricks im Umgang mit OGC-WxS gesammelt.</p>
-        <p markdown="1">Download des Tutorials [OGC-WebServices](OGE_Tutorial_OGC_WxS.pdf)</p>
+        <p markdown="1">Download des Tutorials [OGC-Webservices](OGE_Tutorial_OGC_WxS.pdf)</p>
     </div>
     <div class="col-sm-3" markdown="1"></div>
 </div>
