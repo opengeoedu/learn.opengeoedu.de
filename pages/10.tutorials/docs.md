@@ -5,7 +5,7 @@ category:
 - docs
 menu: Tutorials
 ---
-
+![](/images/tutorial.png?resize=125)
 [center]Auf dieser Seite finden Sie ausführliche Hilfestellungen zu verschiedenen Themen und Aufgaben in
 Geo-Informationssystemen.[/center]
 Verfügbar sind:
@@ -43,7 +43,7 @@ Verfügbar sind:
             Lehrbücher nahegelegt.</p>
         <p markdown="1">Download des Tutorials [Kartographie](OGE-Tutorial_Kartographie.pdf)</p>
     </div>
-    <div class="col-sm-3" markdown="1">![](/images/tutorial.png?resize=200)</div>
+    <div class="col-sm-3" markdown="1"></div>
 </div>
 [/ui-tab]
 
@@ -55,7 +55,7 @@ Verfügbar sind:
             und am Beispiel der Unified Modeling Language (UML) und des Entity-Relationship-Modells (ER) erläutert.</p>
         <p markdown="1">Download des Tutorials [UML und ER](OGE-Tutorial_UML_Vorlesung.pdf)</p>
     </div>
-    <div class="col-sm-3" markdown="1">![](/images/tutorial.png?resize=200)</div>
+    <div class="col-sm-3" markdown="1"></div>
 </div>
 <div class="row align-items-center">
     <div class="col-sm-9">
@@ -77,7 +77,7 @@ Verfügbar sind:
             beschrieben werden.</p>
         <p markdown="1">Download des Tutorials [Koordinaten](OGE-Tutorial_KNE_Koordinaten.pdf)</p>
     </div>
-    <div class="col-sm-3" markdown="1">![](/images/tutorial.png?resize=200)</div>
+    <div class="col-sm-3" markdown="1"></div>
 </div>
 
 [/ui-tab]
@@ -118,14 +118,13 @@ Verfügbar sind:
             gesammelt.</p>
         <p markdown="1">Download des Tutorials [OGC-Webservices](OGE_Tutorial_OGC_WxS.pdf)</p>
     </div>
-    <div class="col-sm-3" markdown="1">![](/images/tutorial.png?resize=200)</div>
+    <div class="col-sm-3" markdown="1"></div>
 </div>
 [/ui-tab]
 
 [ui-tab title="Lizenzen"]
-[center]
 ## Wir arbeiten unter Hochdruck daran dieses Tutorial bereitzustellen!
-[/center]
+
 [/ui-tab]
 
 [ui-tab title="weitere Tutorials ..."]
