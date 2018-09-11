@@ -9,5 +9,6 @@ Der Online-Test dient dazu das in der Vorlesung erarbeitete Wissen kurz abzufrag
 [center]
 <a href="https://ilias.opengeoedu.de/ilias/goto.php?target=tst_158&client_id=opengeoedu" markdown="1" target="_blank">
 ![](/images/test.png?resize=200,200)
+Hier geht es weiter zum Test (ILIAS)
 </a>
 [/center]
