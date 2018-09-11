@@ -96,10 +96,6 @@ Dies ersetzt natürlich keine Lehrveranstaltung Kartographie. Daher wird das Stu
 </div>
 [/ui-tab]
 
-[ui-tab title="Lizenzen"]
-## Wir arbeiten unter Hochdruck daran dieses Tutorial bereitzustellen!
-
-[/ui-tab] 
 [ui-tab title="OGC-Webservices"]
 <div class="row align-items-center">
     <div class="col-sm-9">
@@ -109,6 +105,10 @@ Dies ersetzt natürlich keine Lehrveranstaltung Kartographie. Daher wird das Stu
     </div>
     <div class="col-sm-3" markdown="1"></div>
 </div>
+[/ui-tab] 
+
+[ui-tab title="Lizenzen"]
+## Wir arbeiten unter Hochdruck daran dieses Tutorial bereitzustellen!
 
 [/ui-tab] 
 
