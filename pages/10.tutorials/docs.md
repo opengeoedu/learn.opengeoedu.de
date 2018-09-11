@@ -5,7 +5,7 @@ category:
 - docs
 menu: Tutorials
 ---
-![](/images/tutorial.png?resize=125&classes=float-left&classes=m-2) Auf dieser Seite finden Sie ausführliche Hilfestellungen zu verschiedenen Themen und Aufgaben in Geo-Informationssystemen.
+![](/images/tutorial.png?resize=125&classes="float-left m-2") Auf diser Seite finden Sie ausführliche Hilfestellungen zu verschiedenen Themen und Aufgaben in Geo-Informationssystemen.
 
 Verfügbar sind:
 [ui-tabs position="top-left" theme="badges"]
