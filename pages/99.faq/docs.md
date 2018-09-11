@@ -22,8 +22,8 @@ Das konkrete Kursangebot finden Sie unter dem Menüpunkt [„Übersicht“](/ueb
 ## für Lernende
 [ui-accordion independent=true open=none]
 [ui-accordion-item title="Wie nehme ich am teil am OpenGeoEdu-Kurs?"]
-+ Die offenen Lerninhalte finden Sie auf [learn.opengeoedu.de](https://learn.opengeoedu.de). Diese dienen als Einstieg in das jeweilige Fallbeispiel und bereiten Sie auf den zugehörigen Test und Übung vor.
-+ Für unsere Übungen und Test registrieren Sie sich bitte auf [ilias.opengeoedu.de](https://ilias.opengeoedu.de). 
+Die offenen Lerninhalte finden Sie auf [learn.opengeoedu.de](https://learn.opengeoedu.de). Diese dienen als Einstieg in das jeweilige Fallbeispiel und bereiten Sie auf den zugehörigen Test und Übung vor.
+Für unsere Übungen und Test registrieren Sie sich bitte auf [ilias.opengeoedu.de](https://ilias.opengeoedu.de). 
 [/ui-accordion-item]
 
 
