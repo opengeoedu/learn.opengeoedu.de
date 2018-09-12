@@ -77,7 +77,7 @@ Verfügbar sind:
             beschrieben werden.</p>
         <p markdown="1">Download des Tutorials [Koordinaten](OGE-Tutorial_KNE_Koordinaten.pdf?target=_blank)</p>
     </div>
-    <div class="col-sm-3" markdown="1">![](OGC_Logo_2D_Blue.png)</div>
+    <div class="col-sm-3" markdown="1"></div>
 </div>
 
 [/ui-tab]
@@ -118,7 +118,7 @@ Verfügbar sind:
             gesammelt.</p>
         <p markdown="1">Download des Tutorials [OGC-Webservices](OGE_Tutorial_OGC_WxS.pdf?target=_blank)</p>
     </div>
-    <div class="col-sm-3" markdown="1"></div>
+    <div class="col-sm-3" markdown="1">![](OGC_Logo_2D_Blue.png)</div>
 </div>
 [/ui-tab]
 
