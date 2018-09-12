@@ -15,8 +15,4 @@ In der Übung setzen Sie sich intensiver mit den Aspekten Open Access in der Fer
 + offene GIS- und Fernerkundungssoftware, um sich eine eigene offene Softwarealternative zur Bearbeitung der Fallbeispiele zu schaffen
 
 
-[center]
-<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=lm_144&client_id=opengeoedu" markdown="1" target="_blank">
-![](/images/exercise.png?resize=200,200)
-</a>
-[/center]
+[center]<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=lm_144&client_id=opengeoedu" markdown="1" target="_blank">![](/images/exercise.png?resize=200,200)Hier geht es weiter zu den Übungen (ILIAS)</a>[/center]
