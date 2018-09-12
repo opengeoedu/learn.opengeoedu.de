@@ -1,6 +1,6 @@
 ---
 title: 'Weiterführende Materialien'
-media_order: 'Kartengestaltung.PNG,OGE-Tutorial_Dateiformate.pdf,OGE-Tutorial_Kartengestaltung.pdf,OGE-Tutorial_Kartographie.pdf,OGE-Tutorial_KNE_Koordinaten.pdf,OGE-Tutorial_UML_Vorlesung.pdf,OGE-Tutorial_UML_Übung.pdf,OGE_Tutorial_OGC_WxS.pdf,OGC_Logo_2D_Blue.png'
+media_order: 'Kartengestaltung.PNG,OGE-Tutorial_Dateiformate.pdf,OGE-Tutorial_Kartengestaltung.pdf,OGE-Tutorial_Kartographie.pdf,OGE-Tutorial_KNE_Koordinaten.pdf,OGE-Tutorial_UML_Vorlesung.pdf,OGE-Tutorial_UML_Übung.pdf,OGE_Tutorial_OGC_WxS.pdf,OGC_Logo_2D_Blue.png,anwendungsfall.png'
 menu: Tutorials
 category:
     - docs
@@ -55,7 +55,7 @@ Verfügbar sind:
             und am Beispiel der Unified Modeling Language (UML) und des Entity-Relationship-Modells (ER) erläutert.</p>
         <p markdown="1">Download des Tutorials [UML und ER](OGE-Tutorial_UML_Vorlesung.pdf?target=_blank)</p>
     </div>
-    <div class="col-sm-3" markdown="1"></div>
+    <div class="col-sm-3" markdown="1">![](anwendungsfall.png)</div>
 </div>
 <div class="row align-items-center">
     <div class="col-sm-9">
