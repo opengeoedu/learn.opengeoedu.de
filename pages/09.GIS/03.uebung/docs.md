@@ -5,7 +5,7 @@ taxonomy:
     category:
         - docs
 ---
-In dieser Übung lernen Sie die Sustainable Development Goals (SDG) der United Nations kennen. Dazu werden Sie sich der Raum-zeitlichen Auswertung eines SDG-Indikators widmen. Dazu hier erste Arbeitsfragen:
+In dieser Übung lernen Sie die Sustainable Development Goals (SDG) der United Nations kennen. Dazu werden Sie sich der Raum-zeitlichen Auswertung eines SDG-Indikators widmen:
 + welche Daten gibt es hierzu von der UN?
 + wie lassen sich diese mit einer Weltkarte verknüpfen und dann kartographisch
 visualisieren?
