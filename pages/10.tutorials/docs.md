@@ -27,7 +27,7 @@ Verfügbar sind:
             oder Farbabstufungen gearbeitet werden kann. Das Ergebnis – eine Kombination einer Übersichts- und einer
             Detailkarte
             – sehen Sie hier. </p>
-        <p markdown="1">Download des Tutorials [Kartengestaltung](OGE-Tutorial_Kartengestaltung.pdf)</p>
+        <p markdown="1">Download des Tutorials [Kartengestaltung](OGE-Tutorial_Kartengestaltung.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1">![](Kartengestaltung.PNG)</div>
 </div>
@@ -40,7 +40,7 @@ Verfügbar sind:
             Geoinformatik in Präsenz- und Fernstudium genutzt.
             Dies ersetzt natürlich keine Lehrveranstaltung Kartographie. Daher wird das Studium kartographischer
             Lehrbücher nahegelegt.</p>
-        <p markdown="1">Download des Tutorials [Kartographie](OGE-Tutorial_Kartographie.pdf)</p>
+        <p markdown="1">Download des Tutorials [Kartographie](OGE-Tutorial_Kartographie.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1"></div>
 </div>
@@ -52,7 +52,7 @@ Verfügbar sind:
         <h4>Modellierung in UML und ER</h4>
         <p class="text-justify">In dieser Lerneinheit werden die wesentlichen Grundzüge der Modellierung vorgestellt
             und am Beispiel der Unified Modeling Language (UML) und des Entity-Relationship-Modells (ER) erläutert.</p>
-        <p markdown="1">Download des Tutorials [UML und ER](OGE-Tutorial_UML_Vorlesung.pdf)</p>
+        <p markdown="1">Download des Tutorials [UML und ER](OGE-Tutorial_UML_Vorlesung.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1"></div>
 </div>
@@ -61,7 +61,7 @@ Verfügbar sind:
         <h4>Das UML-Klassendiagramm</h4>
         <p class="text-justify">In dieser Lerneinheit sollen Sie die in dem Vorlesungstutorial erlernten Grundlagen zum
             UML-Klassendiagramm praktisch anwenden.</p>
-        <p markdown="1">Download des Tutorials [Klassendiagramm](OGE-Tutorial_UML_%C3%9Cbung.pdf)</p>
+        <p markdown="1">Download des Tutorials [Klassendiagramm](OGE-Tutorial_UML_%C3%9Cbung.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1"></div>
 </div>
@@ -74,7 +74,7 @@ Verfügbar sind:
         <p class="text-justify">In dieser Lerneinheit soll das Problem der Abbildung der gekrümmten Erdfigur auf eine
             Ebene oder eine andere Ersatzfigur erläutert (Kartennetzentwürfe) sowie gängige Koordinatensysteme
             beschrieben werden.</p>
-        <p markdown="1">Download des Tutorials [Koordinaten](OGE-Tutorial_KNE_Koordinaten.pdf)</p>
+        <p markdown="1">Download des Tutorials [Koordinaten](OGE-Tutorial_KNE_Koordinaten.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1"></div>
 </div>
@@ -90,7 +90,7 @@ Verfügbar sind:
             Geodaten erläutert.
             Zudem werden Tipps und Tricks gesammelt, um die gemeinsame Verarbeitung der Daten zu erleichtern.
         </p>
-        <p markdown="1">Download des Tutorials [Datenformate](OGE-Tutorial_Dateiformate.pdf)</p>
+        <p markdown="1">Download des Tutorials [Datenformate](OGE-Tutorial_Dateiformate.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-6" markdown="1">
         “Person”: {
@@ -115,7 +115,7 @@ Verfügbar sind:
         <p class="text-justify">In dieser Lerneinheit sollen gängige OGC-Webservices beschrieben und deren Nutzung bei
             der Verarbeitung offener Geodaten erläutert werden. Zudem werden Tipps und Tricks im Umgang mit OGC-WxS
             gesammelt.</p>
-        <p markdown="1">Download des Tutorials [OGC-Webservices](OGE_Tutorial_OGC_WxS.pdf)</p>
+        <p markdown="1">Download des Tutorials [OGC-Webservices](OGE_Tutorial_OGC_WxS.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1"></div>
 </div>
