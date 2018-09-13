@@ -5,7 +5,7 @@ taxonomy:
 ---
 
 Das Fallbeispiel „Flächenmonitoring“ fokussiert darauf, Daten- und Analysegrundlagen für eine nachhaltige Stadt- und Raumplanung zu schaffen. In praktischen Aufgaben und Übungen sollen folgende Themen beleuchtet werden:
-- Bestimmung des Siedlungs- und Verkehrsflächen(SuV)–Anteils 
+- Bestimmung des Siedlungs- und Verkehrsflächen–Anteils (SuV) 
 - Bestimmung der Flächenneuinanspruchnahme
 - Abschätzung der Bodenversiegelung
 - Bestimmung der früheren Entwicklung
