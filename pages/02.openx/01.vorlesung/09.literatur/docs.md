@@ -3,7 +3,7 @@ title: 'Literatur'
 taxonomy:
     category: docs
 ---
-
+[align=left]
 BMI (2012): Open Government Data Germany. Eine Studie zu Open Government in Deutschland im Auftrag des Bundesministeriums des Innern. Juli  2012. [http://www.bmi.bund.de/DE/Themen/OeffentlDienstVerwaltung/ModerneVerwaltung/OpenGovernment/op]
 
 Bundesregierung (2012): Vorsprung durch Geoinformationen. Dritter Bericht der Bundesregierung über die Fortschritte zur Entwicklung der verschiedenen Felder des Geoinformationswesens im nationalen, europäischen und internationalen Kontext. 3. Geo-Fortschrittsbericht der Bundesregierung. Bundesministerium des Innern. [https://www.bmi.bund.de/SharedDocs/downloads/Webs/IMAGI/DE/Geofortschrittsberichte/3-fortschrittsbericht.html]
