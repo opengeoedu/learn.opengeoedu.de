@@ -9,12 +9,10 @@ Open-Source-Software (OSS) hat in der Praxis große Überschneidungen mit Freier
 ## freegis
 Im Bereich der Geoinformatik finden sich umfangreiche freie Softwareangebote unter [~~www.freegis.org~~](https://www.freegis.org) **leider offline**. 
 
-! Es gibt eine [Archivierte Ansicht](https://web.archive.org/web/20180506202014/http://freegis.org/) der Seite. 
-
 Der FOSSGIS e.V., ein eingetragener und gemeinnütziger Verein, hat diese Liste zusammenstellt. FOSSGIS e.V. hat sich das Ziel gesetzt, Freie Software aus dem GIS-Bereich und Freie Geodaten zu fördern.
 
 !! Im Rahmen der Übungsaufgabe werden Sie nach offener GIS-Software suchen.
 
 ! Weiterführende Informationen unter:
 ! * [Open Source Initiative (OSI)](https://opensource.org/)
-! * [~~freegis by FOSSGIS e.V.~~](https://www.freegis.org) [Archivierte Ansicht](https://web.archive.org/web/20180506202014/http://freegis.org/)
+! * [~~freegis by FOSSGIS e.V.~~](https://www.freegis.org)   Es gibt eine [Archivierte Ansicht](https://web.archive.org/web/20180506202014/http://freegis.org/) der Seite.
