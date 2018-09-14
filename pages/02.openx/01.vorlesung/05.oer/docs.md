@@ -5,8 +5,8 @@ taxonomy:
 ---
 <!--![UNESCO OER](globaloer.png?classes=caption "Das OER Global Logo von 2012 Jonathas Mello [www.jonathasmello.com](http://www.jonathasmello.com/)steht unter der Lizenz Creative Commons Attribution 3.0 Unported [CC BY 3.0](http://creativecommons.org/licenses/by/3.0) via [UNESCO](http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/global-oer-logo/)")-->
 
-<figure class="image-caption">
-    <img title="" alt="UNESCO OER" class="" src="globaloer.png">
+<figure class="image-caption" markdown="1">
+    ![](globaloer.png)
     <figcaption class="">Das OER Global Logo von 2012 Jonathas Mello
         <a href="http://www.jonathasmello.com">www.jonathasmello.com</a>
         steht unter der Lizenz Creative Commons Attribution 3.0
