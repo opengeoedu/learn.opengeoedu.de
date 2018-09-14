@@ -10,7 +10,7 @@ Daten zum Download werden in den unterschiedlichsten Formaten angeboten. Die Abb
 
 ![](OGDFormate.png?lightbox=800&resize=300&classes=caption "Gängige Datenformate")
 
-! Verschiedene Dateiformate und Tipps zu deren Nutzung werden im Tutorial zu Dateiformaten gegeben.
+! Verschiedene Dateiformate und Tipps zu deren Nutzung werden im [Tutorial zu Dateiformaten](https://learn.opengeoedu.de/tutorials/OGE-Tutorial_Dateiformate.pdf?target=_blank) gegeben.
 
 Ein weiteres Diagramm deutet an unter welchen Lizenzen die offenen Daten in OpenGovData stehen. 
 
