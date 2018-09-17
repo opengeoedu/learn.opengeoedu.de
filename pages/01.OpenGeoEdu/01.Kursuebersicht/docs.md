@@ -108,7 +108,7 @@ anchors:
                 Biomassepotenziale
             </h3>
             <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item" src="//slides.com/al-z/deck/embed" scrolling="no" frameborder="0" webkitallowfullscreen
+                <iframe class="embed-responsive-item" src="https://slides.com/al-z/deck/embed" scrolling="no" frameborder="0" webkitallowfullscreen
                     mozallowfullscreen allowfullscreen></iframe>
             </div>
             <div class="card-body text-justify">
@@ -129,7 +129,7 @@ anchors:
                 Flächenmonitoring
             </h3>
             <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="responsive-item" src="//slides.com/opengeoedu/teaser-flaechenmonitoring/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+                <iframe class="responsive-item" src="https://slides.com/opengeoedu/teaser-flaechenmonitoring/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
                 </iframe>
             </div>
             <div class="card-body text-justify">
