@@ -2,7 +2,7 @@
 title: Beispiel Getreidestroh
 taxonomy:
   category: docs
-menu: 'Beispiel'
+menu: 'Getreidestroh'
 ---
 
 #### Welche Einzelbiomassen werden berücksichtigt? Um welche Art von Biomasse handelt es sich?
