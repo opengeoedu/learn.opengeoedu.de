@@ -2,6 +2,7 @@
 title: Berechnung von Biomassepotenzialen
 taxonomy:
   category: docs
+menu: 'Berechnung'
 ---
 
 Abhängig von der betrachteten Potenzialebene variieren die Rechenschritte und Eingangsgrößen bei der Berechnung des theoretischen Potenzials zwischen den Einzelbiomassen. Erläuterungen zu den jeweiligen Rechenschritten finden Sie in den entsprechenden Übungen. 
