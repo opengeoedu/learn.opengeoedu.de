@@ -2,7 +2,7 @@
 title: Konversionstechnologien und Rohstoffeigenschaften
 taxonomy:
   category: docs
-menu: 'Technologie'
+menu: 'Technologie & Eigenschaften'
 ---
 
 !!!! Welche drei Arten von Konversionstechnologien gibt es? <br>
