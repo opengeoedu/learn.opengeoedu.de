@@ -2,6 +2,7 @@
 title: Beispiele Kaskadennutzung
 taxonomy: 
   category: docs
+menu: 'Kaskadennutzung'
 ---
 
 Arnold et al. (2009) definieren Kaskadennutzung als „sequentielle Nutzung von biogenen Rohstoffen für stoffliche und energetische Anwendungen“ (S. 18). 
