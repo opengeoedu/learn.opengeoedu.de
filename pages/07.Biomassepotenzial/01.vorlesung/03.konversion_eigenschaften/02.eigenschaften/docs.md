@@ -2,6 +2,7 @@
 title: Biomassespezifische Eigenschaften
 taxonomy:
   category: docs
+menu: 'Eigenschaften'
 ---
 
 Für die Umrechnung zwischen den einzelnen Potenzialebenen (vgl. nachfolgende Inhalte) werden verschiedene Umrechnungsfaktoren benötigt, die von der gewählten Biomasse bzw. der Konversionstechnologie abhängen. Zu den biomassespezifischen Eigenschaften zählen beispielsweise 

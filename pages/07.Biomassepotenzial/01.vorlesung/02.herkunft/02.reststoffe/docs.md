@@ -2,6 +2,7 @@
 title: Biogene Rest- und Abfallstoffe
 taxonomy:
   category: docs
+menu: 'Reststoffe'
 ---
 
 Die Gruppe der biogenen Rest- und Abfallstoffe setzt sich aus einer Vielzahl von Einzelbiomassen zusammen, die gemäß ihrer Herkunft in fünf Gruppen eingeteilt werden können (vgl. nachfolgende Tabelle).

@@ -2,6 +2,7 @@
 title: Lernziele & Struktur der Vorlesung
 taxonomy:
   category: docs
+menu: 'Lernziele'
 ---
 
 ### Autoren der Lerneinheit

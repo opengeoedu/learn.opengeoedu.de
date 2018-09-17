@@ -2,6 +2,7 @@
 title: Hintergrund - Klimaschutz, Energiewende & Bioökonomie
 taxonomy:
   category: docs
+menu: 'Hintergrundwissen'
 ---
 
 !!!! Was versteht man unter dem Begriff Biomasse? <br> 

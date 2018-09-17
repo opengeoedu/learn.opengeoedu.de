@@ -2,6 +2,7 @@
 title: Nachwachsende Rohstoffe (Anbaubiomasse)
 taxonomy:
   category: docs
+menu: 'Anbaubiomasse'
 ---
 
 Unter „nachwachsenden Rohstoffen“ verstehen wir in diesem Kursteil land- und forstwirtschaftliche Erzeugnisse, die nicht für die Produktion von Nahrungs- und Futtermitteln, sondern speziell für energetische (*Energiepflanzen*) oder stoffliche (Industriepflanzen) Nutzungen angebaut werden. In vielen Veröffentlichungen wird der Begriff Nachwachsende Rohstoffe nur auf die landwirtschaftlichen Erzeugnisse bezogen. Wenn Sie sich mit Zahlen zu Anbau und Nutzung von nachwachsenden Rohstoffen beschäftigen, informieren Sie sich daher, ob auch forstwirtschaftliche Erzeugnisse einbezogen wurden. 

@@ -3,6 +3,7 @@ title: 'Räumliche Verteilung biogener Ressourcen'
 taxonomy:
     category:
         - docs
+menu: 'Verteilung'
 ---
 
 Kommen wir zurück zu den eingangs gestellten Schlüsselfragen:
