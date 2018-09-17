@@ -18,3 +18,4 @@ Ob Publikationen, Daten, Programmcode oder Lehrmaterialien - weltweit haben Fors
 !! Schauen Sie sich hierzu einmal folgendes [Video](https://www.youtube.com/watch?v=yspZkJQ2KLE) an. <br><span class="small"> Sollte das Video nicht mehr verfügbar sein, suchen Sie nach Alternativen.</p>
 [![](Video_OpenScience.png?resize=300&classes=caption "What is Open Science?  (Quelle: OpenScience)")](https://www.youtube.com/watch?v=yspZkJQ2KLE)
 
+! Weiterführende Informationen unter: [Open Science](https://www.ag-openscience.de/open-science/) - die Open Science AG der Open Knowledge Foundation
