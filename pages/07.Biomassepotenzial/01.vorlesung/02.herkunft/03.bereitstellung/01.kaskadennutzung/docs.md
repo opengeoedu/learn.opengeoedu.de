@@ -15,7 +15,7 @@ Das BMELV (BMELV 2008) unterscheidet zwischen zwei Arten der Kaskadennutzung (S.
 
 Typischerweise findet Kaskadennutzung im Bereich der forstwirtschaftlichen Biomassen statt: Stammholz wird nicht direkt energetisch genutzt. Stattdessen wird es als Baumaterial zur Verfügung gestellt. Nach Ende des ersten Lebenszyklus (Bauholz) folgt entweder die energetische Nutzung oder ein oder mehrere Lebenszyklen, in denen der Rohstoff erneuert stofflich genutzt wird (z.B. als Möbel, Spanplatte, in der faserbasierten oder chemischen Industrie). Als letzte Stufe erfolgt auch hier die energetische Nutzung (Höglmeier 2015). 
 
-! Siehe auch: https://www.tum.de/die-tum/aktuelles/pressemitteilungen/detail/article/34365/#group-2
+! Siehe auch: [www.tum.de](https://www.tum.de/die-tum/aktuelles/pressemitteilungen/detail/article/34365/#group-2)
 
 Bei Kaskadennutzung ist zu beachten, dass Rohstoffqualität und Energiegehalt mit Zunahme der Kaskaden sinken können und für gewöhnlich zusätzliche Sortierungs- und Aufbereitungsschritte notwendig sind (bei Altholz z.B. das Entfernen von Lack und anderen Schadstoffen). 
 
