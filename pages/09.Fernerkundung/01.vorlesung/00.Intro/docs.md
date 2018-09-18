@@ -30,7 +30,8 @@ An dieser Stelle sei bereits auf folgende grundlegende Literatur verwiesen:
 Englischsprachig:
 -	Jensen, R. (2007): Remote sensing of the environment: an earth resource perspective, 2nd ed. Prentice Hall Inc., Upper Saddle, NJ.
 - 	Lillesand, T.M., Kiefer, R.W., Chipman, J.W. (2008): Remote sensing and image interpretation, 6th ed. Wiley-Blackwell, John Wiley & Sons, Hoboken, NJ.
-- 	Jones, H.G., Vaughn, R.A., 2010. Remote Sensing of Vegetation. Principles, techniques and applications. 1st ed. Oxford University Press Inc., New York.
+- 	Jones, H.G., Vaughn, R.A., (2010): Remote Sensing of Vegetation. Principles, techniques and applications, 1st ed. Oxford University Press Inc., New York.
+-   Richards J.A. (2013): Remote Sensing Digital Image Analysis: An Introduction, 5th ed. Springer, Berlin/Heidelberg.
 
 ## Struktur der Vorlesung
 
