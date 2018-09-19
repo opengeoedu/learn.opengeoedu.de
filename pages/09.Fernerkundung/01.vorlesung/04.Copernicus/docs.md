@@ -15,10 +15,10 @@ Die Copernicus Kerndienste stellen umfangreiche Grundlageninformationen bereit, 
 Das Programm besteht aus den folgenden sechs Kerndiensten:
 -	Landüberwachung (Copernicus Land Monitoring Service, CLMS)
 -	Überwachung der Meeresumwelt (Copernicus Marine Environment Monitoring Service, CMEMS)
--	Katastrophen- und Krisenmanagement (Copernicus Emergency Management Service, Copernicus EMS)
+-	Katastrophen- und Krisenmanagement (Copernicus Emergency Management Service, EMS)
 -	Überwachung der Atmosphäre (Copernicus Atmosphere Monitoring Service, CAMS)
 -	Überwachung des Klimawandels (Copernicus Climate Change Service, C3S)
--	Sicherheit (Copernicus Security service)
+-	Sicherheit (Copernicus Security)
 
 In dieser Lerneinheit soll der Fokus auf dem Landmonitoring liegen.
 
@@ -31,8 +31,18 @@ Im Rahmen von Copernicus gibt es im Grunde vier Projektkomponenten: zum einen di
 
 ![CopernicusKomponenten](Copernicus_Komponenten.png)
 
-Innerhalb der *Weltraumkomponente* bilden die Satellitensysteme natürlich die grundlegende Basis für die Erdbeobachtung und Umweltüberwachung. Durch dauerhafte Datenlieferungen und neue Standards soll die Position Europas in der internationalen Satellitenfernerkundung gefestigt werden. Der geplante Bau von sieben Satellitensystemen/-instrumenten wird in den nächsten Jahren weitergeführt. Das bedeutet auch den Aus- und Aufbau von Bodensegmenten und Datenplattformen. NNeben den Sentinels gibt es zudem ein Abkommen mit ca. 30 beitragenden Missionen, zu denen bekannte zählen wie etwa RapidEye, Landsat, SPOT, Pleiades, WorldView, GeoEye, ALOS/PALSAR, TerraSAR-X, TanDEM-X.
+Innerhalb der *Weltraumkomponente* bilden die Satellitensysteme natürlich die grundlegende Basis für die Erdbeobachtung und Umweltüberwachung. Durch dauerhafte Datenlieferungen und neue Standards soll die Position Europas in der internationalen Satellitenfernerkundung gefestigt werden. Der geplante Bau von sieben Satellitensystemen/-instrumenten wird in den nächsten Jahren weitergeführt. Das bedeutet auch den Aus- und Aufbau von Bodensegmenten und Datenplattformen. Neben den Sentinels gibt es zudem ein Abkommen mit ca. 30 beitragenden Missionen, zu denen bekannte zählen wie etwa RapidEye, Landsat, SPOT, Pleiades, WorldView, GeoEye, ALOS/PALSAR, TerraSAR-X, TanDEM-X.
 <br><br>
+
+Die Sentinel-Flotte:
+- Sentinel-1 bietet Allwetter-, Tag- und Nachtradarbilder für Land- und Seedienste. 
+- Sentinel-2 bietet hochauflösende optische Bilder etwa für Landbedeckung und Wasser.
+- Sentinel-3 liefert hochpräzise optische, radargestützte und altimetrische Daten für die Schifffahrt und den Landverkehr.
+- Sentinel-4 und Sentinel-5 werden Daten für die Überwachung der atmosphärischen Zusammensetzung aus der geostationären Umlaufbahn bzw. der polaren Umlaufbahn liefern.
+- Sentinel-5P (Precursor) wird die Lücke zwischen Envisat und Sentinel-5 schließen.
+- Sentinel-6 wird Radar-Altimetrie-Daten zur Messung der globalen Höhe der Meeresoberfläche liefern, vor allem für die operative Ozeanographie und für Klimastudien.
+
+! Weitere Informationen zu den einzelnen Satelliten des Copernicus-Programms finden Sie auf den [deutschen](https://www.d-copernicus.de/daten/daten-sentinels/) und [englischen Copernicus-Seiten](http://www.copernicus.eu/main/sentinels) sowie bei der [ESA](https://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Overview4).
 
 ## Die ersten drei „Wächter“
 
