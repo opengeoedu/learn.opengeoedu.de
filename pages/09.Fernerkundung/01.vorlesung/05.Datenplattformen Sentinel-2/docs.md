@@ -9,8 +9,7 @@ taxonomy:
 
 Für den potentiellen Nutzer ist es zunächst wichtig zu wissen, wie man an welche Sentinel-Daten kommt. Dabei gibt es mehrere Möglichkeiten und Wege. Im Folgenden sollen die beiden gängigsten Plattformen beschrieben werden.  
 
-Der erste Datenzugang erfolgt über den __Sci-Hub__ der Europäischen Raumfahrtbehörde (European Space Agency, ESA), der zu erreichen ist unter: https://scihub.copernicus.eu/ bzw. https://scihub.copernicus.eu/dhus/#/home. Dabei handelt es sich um einen Open Access Hub, wo man nach einer Registrierung kostenlosen Zugang zu Sentinel-1 und Sentinel-2 erhält. Es gibt verschiedene Suchoptionen: AOI, Sensor, Produkt, Datum und Wolkenbedeckung. 
-Zusätzlich: Sentinel-3 PreOps Hub, API Hub.
+Der erste Datenzugang erfolgt über den __Sci-Hub__ der Europäischen Raumfahrtbehörde (European Space Agency, ESA), der zu erreichen ist unter: https://scihub.copernicus.eu/ bzw. https://scihub.copernicus.eu/dhus/#/home. Dabei handelt es sich um einen Open Access Hub, wo man nach einer Registrierung kostenlosen Zugang zu Sentinel-1, Sentinel-2 und Sentinel-3 erhält. Es gibt verschiedene Suchoptionen: AOI, Sensor, Produkt, Datum und Wolkenbedeckung. 
 <br><br>
 
 ![scihub](scihub1.png?classes=caption "Datenzugang via ESA SciHub.")
