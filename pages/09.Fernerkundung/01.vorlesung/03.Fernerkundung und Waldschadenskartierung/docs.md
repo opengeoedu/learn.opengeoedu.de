@@ -12,7 +12,7 @@ Fernerkundung (Englisch: remote sensing) ist somit das berührungsfreie Messen u
 
 Grundsätzlich lassen sich Fernerkundungssensoren in zwei Gruppen einteilen:
 - Aktive Sensoren senden elektromagnetische Strahlung aktiv aus und nehmen die von der Erdoberfläche zurückkommenden Signale wieder auf. Hierzu gehören etwa Lidar-Systeme (Light detection and ranging), die mit Laserstrahlen die Oberfläche abtasten, und Radar (Radio direction and ranging), die Radiowellen abgeben und aufnehmen. Hierzu gehören Satelliten wie TerraSAR-X und Sentinel-1.
-- Passive Sensoren dagegen erzeugen keine eigene Strahlung, die sie dann wieder empfangen könnten, sondern nehmen die reflektierte Strahlung anderer Quellen wie der Sonne auf. Zu diesen zählen z.B. die Satelliten der Landsat-Serie, RapidEye und Sentinel-2. Des weiteren gibt es passive Sensoren wie Landsat 8, die im langwelligeren thermalen Infrarot arbeiten und die von der Erde emittierte Wärmestrahlung aufnehmen können. 
+- Passive Sensoren dagegen erzeugen keine eigene Strahlung, die sie dann wieder empfangen könnten, sondern nehmen die reflektierte Strahlung anderer Quellen wie der Sonne auf. Zu diesen zählen z.B. die Satelliten der Landsat-Serie, RapidEye und Sentinel-2. Des weiteren gibt es passive Sensoren wie Landsat 8, die auch im langwelligeren thermalen Infrarot arbeiten und die von der Erde emittierte Wärmestrahlung aufnehmen können. 
 
 ![aktiv_passiv](Aktiv_passiv.png)
 <br><br>
