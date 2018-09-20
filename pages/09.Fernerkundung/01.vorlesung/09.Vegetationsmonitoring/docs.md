@@ -28,7 +28,7 @@ Der NDVI wird wie folgt berechnet:
 
 *NDVI = (NIR - rot) / (NIR + rot)* ,  [-1;1]
 
-![NDVI](NDVI_calculation_b.png)
+![NDVI](NDVII_calculation_b.png)
 
 Klares Wasser hat einen negativen NDVI-Wert nahe -1. Ein NDVI von 0 bedeutet, dass keine Vegetation vorhanden ist. Je dichter und vitaler die Vegetation ist, desto hoher werden die NDVI-Werte. Werte gegen +1 repräsentieren gesunde und sehr dichte Vegetation. In folgendem Bild-Beispiel wird der NDVI einem Normalfarbkomposit gegenübergestellt. Der Index wurde aus dem roten Kanal (Band 4) und einem NIR-Kanal (Band 8) berechnet und liegt für jedes Pixel vor. Bildelemente mit geringer oder keiner Vegetationsbedeckung wie Straßen, bebaute Flächen und Äcker erscheinen heller, ebenso wie die Windwurfflächen in der rechten unteren Bildhälfte. Die dicht bewachsenen Laubbaumflächen dagegen haben die höchsten NDVI-Werte und sind hier dunkel dargestellt.
 
