@@ -30,7 +30,16 @@ Der NDVI wird wie folgt berechnet:
 
 ![NDVI](NDVI_calculation.png)
 
-!!!! Recherche von Indizes auf der [Index Database](https://www.indexdatabase.de/) für Sentinel-2 und weitere Sensoren. Suchen Sie sich Beispiele heraus und stellen Sie diese einander gegenüber. Vergleichen Sie Indizes auf dem [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/?source=S2&lat=50.03619419013074&lng=8.040962219238281&zoom=13&preset=1_NATURAL_COL0R&layers=B02,B12,B08&maxcc=20&gain=1.0&gamma=1.0&time=2015-01-01|2018-05-17&atmFilter=&showDates=false).
+Hohe NDVI-Werte nahe 1 repräsentieren gesunde und dichte Vegetation. 
+
+In folgendem Beispiel wird der NDVI einem Normalfarbkomposit gegenübergestellt. Der Index wurrde aus dem roten Kanal (Band 4) un einem NIR-Kanal (Band 8) berechnet und liegt für jedes Pixel des bildrasters vor. Bildelemente mit geringer oder keiner Vegetationsbedeckung wie Straßen, bebaute Flächen und Äcker erscheinen heller, ebenso wie die Windwurfflächen auf der rechten unteren Bildhälfte. Die dicht bewachsenen Laubbaumflächen dagegen haben die höchsten NDVI-Werte und sind hier dunkel dargestellt.
+
+<style>iframe{max-width: 600px; width: 100%; height: 500px; max-height: 600px}</style>
+<iframe src="https://h5p.org/h5p/embed/311729" width="100%" max-width=600 max-height="600" height=400 frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<br><br>
+
+!!!! Der NDVI ist nur ein Index von vielen: Recherche von Indizes in der [Index Database](https://www.indexdatabase.de/) für Sentinel-2 und weitere Sensoren. Suchen Sie sich Beispiele heraus und stellen Sie diese einander gegenüber. Vergleichen Sie Indizes auch auf dem [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/?source=S2&lat=50.03619419013074&lng=8.040962219238281&zoom=13&preset=1_NATURAL_COL0R&layers=B02,B12,B08&maxcc=20&gain=1.0&gamma=1.0&time=2015-01-01|2018-05-17&atmFilter=&showDates=false).
 <br><br>
 
 ! Zum besseren Verständnis gibt es im Sentinel-Hub eine gute Übersicht über die einzelnen Kanäle, deren Kombinationsmöglichkeiten und Anwendungsbeispiele, sowie die Darstellung unterschiedlicher Vegetationsindizes: [Sentinel 2 EO products](https://www.sentinel-hub.com/develop/documentation/eo_products/Sentinel2EOproducts)
+<br><br>
