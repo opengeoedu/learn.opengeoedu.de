@@ -23,16 +23,14 @@ Die Reflektanzkurve von grüner gesunder Vegetation hat eine charakteristische F
 ## Vegetationsindizes
 Die in der reflektierten Strahlung (z.B. Pixelwerte der einzelnen Sentinel-2 Bänder) enthaltenen Informationen können direkt oder über neu geschaffene Indizes untersucht werden. Spektrale Indizes verfolgen dabei das Prinzip einer Neuberechnung eines künstlichen Kanals, um spezielle Features (Merkmale) hervorzuheben. Sie werden meist als einfache lineare Kombinationen oder Brüche (Ratios) berechnet. Es gibt je nach Sensor und der Anzahl der Kanäle eine Vielzahl an möglichen Kombinationen.
 Vegetationsindizes sind robuster gegenüber Beleuchtungsunterschieden oder atmosphärischen und Hintergrundeinflüssen (Bannari et al. 1995, Huete, 2012).  
-Der wohl bekannteste Vegetationsindex ist der Normalized Difference Vegetation Index (NDVI) (Rouse, 1974). Er gilt als Standard des Vegetationsmonitorings und macht sich die Unterschiede beim (Gesundheits-)Status von Vegetation besonders im NIR zu nutze.
+Der wohl bekannteste Vegetationsindex ist der Normalized Difference Vegetation Index (NDVI) (Rouse, 1974). Er gilt als Standard des Vegetationsmonitorings und macht sich die Unterschiede beim (Gesundheits-)Status von Pflanzen zunutze. Gestresste und trockene Vegetation reflektiert stärker in Rot und vor allem weniger im nahen Infrarot (NIR).
 Der NDVI wird wie folgt berechnet:
 
 *NDVI = (NIR - rot) / (NIR + rot)* ,  [-1;1]
 
-![NDVI](NDVI_calculation.png)
+![NDVI](NDVI_calculation_b.png)
 
-Hohe NDVI-Werte nahe 1 repräsentieren gesunde und dichte Vegetation. 
-
-In folgendem Beispiel wird der NDVI einem Normalfarbkomposit gegenübergestellt. Der Index wurrde aus dem roten Kanal (Band 4) un einem NIR-Kanal (Band 8) berechnet und liegt für jedes Pixel des bildrasters vor. Bildelemente mit geringer oder keiner Vegetationsbedeckung wie Straßen, bebaute Flächen und Äcker erscheinen heller, ebenso wie die Windwurfflächen auf der rechten unteren Bildhälfte. Die dicht bewachsenen Laubbaumflächen dagegen haben die höchsten NDVI-Werte und sind hier dunkel dargestellt.
+Klares Wasser hat einen negativen NDVI-Wert nahe -1. Ein NDVI von 0 bedeutet, dass keine Vegetation vorhanden ist. Je dichter und vitaler die Vegetation ist, desto hoher werden die NDVI-Werte. Werte gegen +1 repräsentieren gesunde und sehr dichte Vegetation. In folgendem Bild-Beispiel wird der NDVI einem Normalfarbkomposit gegenübergestellt. Der Index wurde aus dem roten Kanal (Band 4) und einem NIR-Kanal (Band 8) berechnet und liegt für jedes Pixel vor. Bildelemente mit geringer oder keiner Vegetationsbedeckung wie Straßen, bebaute Flächen und Äcker erscheinen heller, ebenso wie die Windwurfflächen in der rechten unteren Bildhälfte. Die dicht bewachsenen Laubbaumflächen dagegen haben die höchsten NDVI-Werte und sind hier dunkel dargestellt.
 
 <style>iframe{max-width: 600px; width: 100%; height: 500px; max-height: 600px}</style>
 <iframe src="https://h5p.org/h5p/embed/311729" width="100%" max-width=600 max-height="600" height=400 frameborder="0" allowfullscreen="allowfullscreen"></iframe>
