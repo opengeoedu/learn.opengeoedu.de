@@ -40,9 +40,7 @@ anchors:
         </div>
         <div class="card m-2" id="opendata">
             <h3 class="text-center">Open Data</h3>
-            <a href="https://www.youtube.com/watch?v=PQ-d0F281Uo">
-                <div markdown="1" class="img-fluid">![](oge_teaser_opendata2.png)</div>
-            </a>
+				<div markdown="1">[plugin:youtube](https://youtu.be/PQ-d0F281Uo)</div>
             <div class="card-body text-justify">
                 Ein wesentlicher Teil der offenen Bewegung ist die Verfügbarmachung offener Daten.
                 <a href="#" data-toggle="collapse" data-target="#oddetails">Details...</a>
@@ -94,9 +92,7 @@ anchors:
             <h3 class="text-center">
                 Elektromobilität
             </h3>
-            <a href="https://youtu.be/rEB3Oti20CI?list=PL-444vjL1sW0FROQEQ1pHG1M5hl8z9fcJ">
-                <div markdown="1" class="img-fluid">![](teaser_emob.png)</div>
-            </a>
+				<div markdown="1">[plugin:youtube](https://youtu.be/rEB3Oti20CI)</div>
             <div class="card-body text-justify">
                 Der Elektromobilität wird in Deutschland für die Verwirklichung der energie- und klimapolitischen Ziele eine wichtige Rolle
                 beigemessen.
