@@ -5,6 +5,14 @@ taxonomy:
     category:
         - docs
 menu: 'Kurzbeschreibung der Kursteile'
+twitterenable: true
+twittercardoptions: summary
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+personenabled: false
+facebookenable: true
 anchors:
     active: false
 ---
@@ -16,7 +24,7 @@ anchors:
                 Open XX
             </h3>
             <a href="https://www.youtube.com/watch?v=ptBpbXDczRU">
-                <div markdown="1" class="img-fluid">![](oge_teaser_openxx4.png)</div>
+                <div markdown="1" class="img-fluid">![](ogeteaseropenxx.png)</div>
             </a>
             <div class="card-body text-justify">
                 Aktuell findet ein Paradigmenwechsel zu mehr Offenheit in der Gesellschaft, der Verwaltung, der Wirtschaft und auch der Wissenschaft
