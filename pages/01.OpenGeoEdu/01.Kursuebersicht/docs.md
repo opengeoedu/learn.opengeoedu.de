@@ -17,17 +17,6 @@ anchors:
     active: false
 ---
 
----
-title: 'Kursteile - Kurzbeschreibung'
-media_order: 'EuropaAfrika.png,Karte.png,oge_teaser_openxx4.png,oge_teaser_opendata2.png,teaser_emob.png'
-taxonomy:
-    category:
-        - docs
-menu: 'Kurzbeschreibung der Kursteile'
-anchors:
-    active: false
----
-
 <div class="container">
     <div class="row flex-wrap card-deck">
         <div class="card m-2" id="openxx">
