@@ -57,8 +57,6 @@ anchors:
                 </p>
             </div>
         </div>
-    </div>
-    <div class="row flex-wrap card-deck">
         <div class="card m-2" id="gis">
             <h3 class="text-center">GIS</h3>
             <div markdown="1" class="img-fluid">![GIS](EuropaAfrika.png)</div>
@@ -97,8 +95,6 @@ anchors:
                 </p>
             </div>
         </div>
-    </div>
-    <div class="row flex-wrap card-deck">
         <div class="card m-2" id="eMob">
             <h3 class="text-center">Elektromobilität</h3>
             <div markdown="1">[plugin:youtube](https://youtu.be/rEB3Oti20CI)</div>
@@ -144,8 +140,6 @@ anchors:
                 </p>
             </div>
         </div>
-    </div>
-    <div class="row flex-wrap card-deck">
         <div class="card m-2" id="flaechenmoni">
             <h3 class="text-center">
                 Flächenmonitoring
