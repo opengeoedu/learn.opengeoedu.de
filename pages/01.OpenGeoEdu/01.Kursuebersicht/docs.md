@@ -29,7 +29,7 @@ anchors:
                 Wirtschaft und auch der Wissenschaft
                 statt.
                 <a href="#" data-toggle="collapse" data-target="#openxdetails">Details...</a>
-                <p id="openxdetails" class="collapse text-justify">
+                <div class=card-footer id="openxdetails" class="collapse text-justify">
                     Diese neue Form der Offenheit ist durch Begriffsbildungen mit dem Wort Open geprägt, weshalb wir in
                     diesem Kursteil namens
                     Open XX ausgewählte Facetten solcher Begriffsbildungen betrachten.
@@ -37,7 +37,7 @@ anchors:
                     einordnen
                     zu können. In der Übung setzen Sie sich intensiver mit Open Access und Open Source Software
                     auseinander.
-                </p>
+                </div>
             </div>
         </div>
         <div class="card m-2" id="opendata">
@@ -46,7 +46,7 @@ anchors:
             <div class="card-body text-justify"> Ein wesentlicher Teil der offenen Bewegung ist die Verfügbarmachung
                 offener Daten.
                 <a href="#" data-toggle="collapse" data-target="#oddetails">Details...</a>
-                <p id="oddetails" class="collapse text-justify">
+                <div class=card-footer id="oddetails" class="collapse text-justify">
                     In diesem Kursteil betrachten wir verschiedene Aspekte offener Daten, so z.B. aus dem Bereich der
                     Verwaltung (Open Government Data), der Wissenschaft (Open Science) oder der Zivilgesellschaft
                     (OpenStreetMap oder Citizen
@@ -54,7 +54,7 @@ anchors:
                     <br> Ziel der Lerneinheit ist es offene Daten und deren Nutzbarkeit einschätzen zu können. In der
                     Übung betrachten und vergleichen Sie offene Datenportale und lernen wie offene Daten aufbereitet
                     und einer Nutzung, zumeist in einem Geo-Informationssystem (GIS) zugeführt werden.
-                </p>
+                </div>
             </div>
         </div>
     </div>
@@ -66,14 +66,14 @@ anchors:
                 Geo-Informationssysteme (GIS) sind die Werkzeuge zur Verarbeitung der offenen Geodaten in
                 OpenGeoEdu.
                 <a href="#" data-toggle="collapse" data-target="#gisdetails">Details...</a>
-                <p id="gisdetails" class="collapse text-justify">
+                <div class=card-footer id="gisdetails" class="collapse text-justify">
                     Dieser Kursteil stellt die wesentlichen Grundbegriffe und die Prozessierungskette in GIS vor.
                     <br> Mit kleinen Fallbeispielen werden verschiedene Schritte der GIS-Verarbeitungskette
                     verdeutlicht, die in den sonstigen Kursteilen ebenfalls genutzt werden. Dieser Kursteil ist
                     besonders Nutzern nahezulegen, die noch nicht über genügend theoretisches Fundament und
                     praktische
                     Fertigkeiten zu GIS verfügen.
-                </p>
+                </div>
             </div>
         </div>
         <div class="card m-2" id="tutorials">
@@ -84,7 +84,7 @@ anchors:
                 Ausführungen als auch praktische
                 Anleitungen zum Arbeiten mit GIS.
                 <a href="#" data-toggle="collapse" data-target="#tutdetails">Details...</a>
-                <p id="tutdetails" class="collapse text-justify">
+                <div class=card-footer id="tutdetails" class="collapse text-justify">
                     Somit werden zentrale Aspekte und Vorgehensweise, die in vielen unserer Fallbeispiele benötigt
                     werden, an dieser Stelle nur
                     einmal präsentiert.
@@ -95,7 +95,7 @@ anchors:
                     Kursteil ist besonders Nutzern nahezulegen, die ausgewählte Aspekte schnell nachlesen oder
                     praktisch
                     bearbeiten wollen.
-                </p>
+                </div>
             </div>
         </div>
     </div>
@@ -109,7 +109,7 @@ anchors:
                 Ziele eine wichtige Rolle
                 beigemessen.
                 <a href="#" data-toggle="collapse" data-target="#emobdetails">Details...</a>
-                <p id="emobdetails" class="collapse text-justify">
+                <div class=card-footer id="emobdetails" class="collapse text-justify">
                     Jedoch kommt der Ausbau der Elektromobilität in Deutschland nur langsam voran. In diesem
                     Kursteil wollen wir uns mit ausgewählten
                     räumlichen Aspekten der Elektromobilität beschäftigen.
@@ -122,7 +122,7 @@ anchors:
                     unterschiedlichen
                     Skalenebenen
                     an.
-                </p>
+                </div>
             </div>
         </div>
         <div class="card m-2" id="biomasse">
@@ -137,7 +137,7 @@ anchors:
                 Die Nutzung fossiler Brennstoffe kann durch den effizienten Einsatz von biogenen Ressourcen
                 nachhaltig reduziert werden.
                 <a href="#" data-toggle="collapse" data-target="#biomdetails">Details...</a>
-                <p id="biomdetails" class="collapse text-justify">
+                <div class=card-footer id="biomdetails" class="collapse text-justify">
                     Ein besonderer Fokus liegt dabei auf der Verwendung von Nebenprodukten aus der Land- und
                     Forstwirtschaft, Siedlungsabfällen,
                     industriellen Abfällen und Reststoffen von sonstigen Flächen.
@@ -145,7 +145,7 @@ anchors:
                     Energiesystem und deren
                     räumlichen Verteilung befassen und mittels GIS-Analysen vorhandene Biomassepotenziale
                     abschätzen lernen.
-                </p>
+                </div>
             </div>
         </div>
     </div>
@@ -166,7 +166,7 @@ anchors:
                 Vermeidung von Zersiedelung
                 durch Innen- vor Außenentwicklung usw.,
                 <a href="#" data-toggle="collapse" data-target="#monidetails">Details...</a>
-                <p id="monidetails" class="collapse text-justify">
+                <div class=card-footer id="monidetails" class="collapse text-justify">
                     benötigt als elementare Grundlage hochgenaue, kleinräumige Informationen zur
                     Flächennutzung, zu
                     Gebäuden sowie zur Verkehrsinfrastruktur.
@@ -177,7 +177,7 @@ anchors:
                     auf
                     verschiedenen
                     Skalenebenen arbeiten.
-                </p>
+                </div>
             </div>
         </div>
         <div class="card m-2" id="fernerkundung">
@@ -193,7 +193,7 @@ anchors:
                 aktuell
                 Fahrt auf.
                 <a href="#" data-toggle="collapse" data-target="#geovisdetails">Details...</a>
-                <p id="geovisdetails" class="collapse text-justify">
+                <div class=card-footer id="geovisdetails" class="collapse text-justify">
                     Insbesondere mit der Nutzung operationeller und kostenfreier Dienste aus dem
                     europäischen
                     Copernicus-Programm ergeben sich
@@ -202,7 +202,7 @@ anchors:
                     einfachen
                     Indexberechnung
                     bis zur komplexeren Klassifikation - und Nutzung von Satellitenbilddaten beschäftigen.
-                </p>
+                </div>
             </div>
         </div>
     </div>
