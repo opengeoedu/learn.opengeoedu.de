@@ -23,9 +23,7 @@ anchors:
             <h3 class="text-center">
                 Open XX
             </h3>
-            <a href="https://www.youtube.com/watch?v=ptBpbXDczRU">
                <div markdown="1">[plugin:youtube](https://youtu.be/ptBpbXDczRU)</div>
-            </a>
             <div class="card-body text-justify">
                 Aktuell findet ein Paradigmenwechsel zu mehr Offenheit in der Gesellschaft, der Verwaltung, der Wirtschaft und auch der Wissenschaft
                 statt.
