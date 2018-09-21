@@ -23,6 +23,7 @@ anchors:
             <h3 class="text-center">
                 Open XX
             </h3>
+[plugin:youtube](https://youtu.be/ptBpbXDczRU)            
             <a href="https://www.youtube.com/watch?v=ptBpbXDczRU">
                 <img class="img-fluid" src="/uebersicht/kursuebersicht/oge_teaser_openxx4.png">
             </a>
