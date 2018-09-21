@@ -17,6 +17,7 @@ anchors:
     active: false
 ---
 
+<div class="container">
 <div class="row flex-wrap card-deck">
     <div class="card m-2" id="openxx">
         <h3 class="text-center">
@@ -199,4 +200,5 @@ anchors:
             </p>
         </div>
     </div>
+</div>
 </div>
