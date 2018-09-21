@@ -63,7 +63,7 @@ anchors:
     <div class="row flex-wrap card-deck">
         <div class="card m-2" id="gis">
             <h3 class="text-center">GIS</h3>
-            ![](EuropaAfrika.png)
+            <div class=img-fluid> ![](EuropaAfrika.png)</div>
             <div class="card-body text-justify">
                 Geo-Informationssysteme (GIS) sind die Werkzeuge zur Verarbeitung der offenen Geodaten in OpenGeoEdu.
                 <a href="#" data-toggle="collapse" data-target="#gisdetails">Details...</a>
