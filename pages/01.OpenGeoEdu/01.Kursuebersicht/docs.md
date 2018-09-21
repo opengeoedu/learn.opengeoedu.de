@@ -90,9 +90,7 @@ anchors:
             <h3 class="text-center">
                 Elektromobilität
             </h3>
-            <a href="https://youtu.be/rEB3Oti20CI?list=PL-444vjL1sW0FROQEQ1pHG1M5hl8z9fcJ">
-                <img class="img-fluid" src="/uebersicht/kursuebersicht/teaser_emob.png">
-            </a>
+[plugin:youtube](https://youtu.be/rEB3Oti20CI?list=PL-444vjL1sW0FROQEQ1pHG1M5hl8z9fcJ)
             <div class="card-body text-justify">
                 Der Elektromobilität wird in Deutschland für die Verwirklichung der energie- und klimapolitischen Ziele eine wichtige Rolle
                 beigemessen.
