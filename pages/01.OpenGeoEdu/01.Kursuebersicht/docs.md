@@ -18,7 +18,7 @@ anchors:
 ---
 
 <div class="container">
-    <div class="row flex-wrap card-deck">
+    <div class="card-deck">
         <div class="card m-2" id="openxx">
             <h3 class="text-center">
                 Open XX
@@ -57,6 +57,8 @@ anchors:
                 </p>
             </div>
         </div>
+    </div>
+    <div class="card-deck">
         <div class="card m-2" id="gis">
             <h3 class="text-center">GIS</h3>
             <div markdown="1" class="img-fluid">![GIS](EuropaAfrika.png)</div>
@@ -68,7 +70,8 @@ anchors:
                     Dieser Kursteil stellt die wesentlichen Grundbegriffe und die Prozessierungskette in GIS vor.
                     <br> Mit kleinen Fallbeispielen werden verschiedene Schritte der GIS-Verarbeitungskette
                     verdeutlicht, die in den sonstigen Kursteilen ebenfalls genutzt werden. Dieser Kursteil ist
-                    besonders Nutzern nahezulegen, die noch nicht über genügend theoretisches Fundament und praktische
+                    besonders Nutzern nahezulegen, die noch nicht über genügend theoretisches Fundament und
+                    praktische
                     Fertigkeiten zu GIS verfügen.
                 </p>
             </div>
@@ -95,11 +98,14 @@ anchors:
                 </p>
             </div>
         </div>
+    </div>
+    <div class="card-deck">
         <div class="card m-2" id="eMob">
             <h3 class="text-center">Elektromobilität</h3>
             <div markdown="1">[plugin:youtube](https://youtu.be/rEB3Oti20CI)</div>
             <div class="card-body text-justify">
-                Der Elektromobilität wird in Deutschland für die Verwirklichung der energie- und klimapolitischen
+                Der Elektromobilität wird in Deutschland für die Verwirklichung der energie- und
+                klimapolitischen
                 Ziele eine wichtige Rolle
                 beigemessen.
                 <a href="#" data-toggle="collapse" data-target="#emobdetails">Details...</a>
@@ -109,9 +115,11 @@ anchors:
                     räumlichen Aspekten der Elektromobilität beschäftigen.
                     <br> Ziel der Lerneinheit ist es die öffentliche Ladeinfrastruktur zu analysieren und mit
                     verschiedenen räumlichen
-                    Kriterien wie Reichweiten oder Käuferpotenzialen von E-Fahrzeugen zu kombinieren. So schauen
+                    Kriterien wie Reichweiten oder Käuferpotenzialen von E-Fahrzeugen zu kombinieren. So
+                    schauen
                     wir uns
-                    in der Übung die Verteilung der Ladestationen und deren Erreichbarkeiten auf unterschiedlichen
+                    in der Übung die Verteilung der Ladestationen und deren Erreichbarkeiten auf
+                    unterschiedlichen
                     Skalenebenen
                     an.
                 </p>
@@ -140,6 +148,8 @@ anchors:
                 </p>
             </div>
         </div>
+    </div>
+    <div class="card-deck">
         <div class="card m-2" id="flaechenmoni">
             <h3 class="text-center">
                 Flächenmonitoring
@@ -151,16 +161,20 @@ anchors:
                 </iframe>
             </div>
             <div class="card-body text-justify">
-                Eine nachhaltige Siedlungsentwicklung, d.h. geringer Flächenverbrauch, Begrünung der Städte,
+                Eine nachhaltige Siedlungsentwicklung, d.h. geringer Flächenverbrauch, Begrünung der
+                Städte,
                 Vermeidung von Zersiedelung
                 durch Innen- vor Außenentwicklung usw.,
                 <a href="#" data-toggle="collapse" data-target="#monidetails">Details...</a>
                 <p id="monidetails" class="collapse text-justify">
-                    benötigt als elementare Grundlage hochgenaue, kleinräumige Informationen zur Flächennutzung, zu
+                    benötigt als elementare Grundlage hochgenaue, kleinräumige Informationen zur
+                    Flächennutzung, zu
                     Gebäuden sowie zur Verkehrsinfrastruktur.
-                    <br> In diesem Kursteil sollen Sie quantitative Beschreibungen, Daten- und Analysegrundlagen
+                    <br> In diesem Kursteil sollen Sie quantitative Beschreibungen, Daten- und
+                    Analysegrundlagen
                     für eine gute
-                    Stadt- und Raumplanung kennenlernen und in praktischen Beispielen, Aufgaben und Übungen auf
+                    Stadt- und Raumplanung kennenlernen und in praktischen Beispielen, Aufgaben und Übungen
+                    auf
                     verschiedenen
                     Skalenebenen arbeiten.
                 </p>
@@ -175,14 +189,17 @@ anchors:
                     webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
             </div>
             <div class="card-body text-justify">
-                Die Erkundung der Erde aus der Luft, sei dies vom Satelliten bis zu Flugdrohnen, nimmt aktuell
+                Die Erkundung der Erde aus der Luft, sei dies vom Satelliten bis zu Flugdrohnen, nimmt
+                aktuell
                 Fahrt auf.
                 <a href="#" data-toggle="collapse" data-target="#geovisdetails">Details...</a>
                 <p id="geovisdetails" class="collapse text-justify">
-                    Insbesondere mit der Nutzung operationeller und kostenfreier Dienste aus dem europäischen
+                    Insbesondere mit der Nutzung operationeller und kostenfreier Dienste aus dem
+                    europäischen
                     Copernicus-Programm ergeben sich
                     vielfältige neue Anwendungsmöglichkeiten.
-                    <br> In diesem Kursteil sollen Sie sich mit der Recherche, Aufbereitung - von der einfachen
+                    <br> In diesem Kursteil sollen Sie sich mit der Recherche, Aufbereitung - von der
+                    einfachen
                     Indexberechnung
                     bis zur komplexeren Klassifikation - und Nutzung von Satellitenbilddaten beschäftigen.
                 </p>
