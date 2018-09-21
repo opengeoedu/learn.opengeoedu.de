@@ -38,9 +38,7 @@ anchors:
         </div>
         <div class="card m-2" id="opendata">
             <h3 class="text-center">Open Data</h3>
-            <a href="https://www.youtube.com/watch?v=PQ-d0F281Uo">
-                <img class="img-fluid" src="/uebersicht/kursuebersicht/oge_teaser_opendata2.png">
-            </a>
+[plugin:youtube](https://youtu.be/PQ-d0F281Uo)
             <div class="card-body text-justify">
                 Ein wesentlicher Teil der offenen Bewegung ist die Verfügbarmachung offener Daten.
                 <a href="#" data-toggle="collapse" data-target="#oddetails">Details...</a>
