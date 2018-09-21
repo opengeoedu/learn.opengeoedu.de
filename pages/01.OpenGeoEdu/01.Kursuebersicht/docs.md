@@ -43,19 +43,17 @@ anchors:
         <div class="card m-2" id="opendata">
             <h3 class="text-center">Open Data</h3>
             <div markdown="1">[plugin:youtube](https://youtu.be/PQ-d0F281Uo)</div>
-            <div class="card-body text-justify">
-                Ein wesentlicher Teil der offenen Bewegung ist die Verfügbarmachung offener Daten.
+            <div class="card-body text-justify"> Ein wesentlicher Teil der offenen Bewegung ist die Verfügbarmachung
+                offener Daten.
                 <a href="#" data-toggle="collapse" data-target="#oddetails">Details...</a>
                 <p id="oddetails" class="collapse text-justify">
                     In diesem Kursteil betrachten wir verschiedene Aspekte offener Daten, so z.B. aus dem Bereich der
-                    Verwaltung (Open Government
-                    Data), der Wissenschaft (Open Science) oder der Zivilgesellschaft (OpenStreetMap oder Citizen
+                    Verwaltung (Open Government Data), der Wissenschaft (Open Science) oder der Zivilgesellschaft
+                    (OpenStreetMap oder Citizen
                     Science).
                     <br> Ziel der Lerneinheit ist es offene Daten und deren Nutzbarkeit einschätzen zu können. In der
-                    Übung betrachten
-                    und vergleichen Sie offene Datenportale und lernen wie offene Daten aufbereitet und einer Nutzung,
-                    zumeist
-                    in einem Geo-Informationssystem (GIS) zugeführt werden.
+                    Übung betrachten und vergleichen Sie offene Datenportale und lernen wie offene Daten aufbereitet
+                    und einer Nutzung, zumeist in einem Geo-Informationssystem (GIS) zugeführt werden.
                 </p>
             </div>
         </div>
@@ -71,11 +69,9 @@ anchors:
                 <p id="gisdetails" class="collapse text-justify">
                     Dieser Kursteil stellt die wesentlichen Grundbegriffe und die Prozessierungskette in GIS vor.
                     <br> Mit kleinen Fallbeispielen werden verschiedene Schritte der GIS-Verarbeitungskette
-                    verdeutlicht, die
-                    in den sonstigen Kursteilen ebenfalls genutzt werden. Dieser Kursteil ist besonders Nutzern
-                    nahezulegen,
-                    die noch nicht über genügend theoretisches Fundament und praktische Fertigkeiten zu GIS
-                    verfügen.
+                    verdeutlicht, die in den sonstigen Kursteilen ebenfalls genutzt werden. Dieser Kursteil ist
+                    besonders Nutzern nahezulegen, die noch nicht über genügend theoretisches Fundament und praktische
+                    Fertigkeiten zu GIS verfügen.
                 </p>
             </div>
         </div>
