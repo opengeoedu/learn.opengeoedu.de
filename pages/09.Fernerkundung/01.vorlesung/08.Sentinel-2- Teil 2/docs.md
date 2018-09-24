@@ -37,7 +37,9 @@ Die Sentinel-2 Bänder werden in folgender Abbildung näher beleuchtet (Reflekta
 <iframe iframe id="238969" src="https://h5p.org/h5p/embed/238969" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <br><br>
 
-Die einzelnen Bänder liegen wie bei anderen Fernerkundungssensoren auch als Grauwertbilder vor. Im Fall von Sentinel-2 werden diese mit einer *radiometrischen Auflösung* von 12-bit gespeichert, was einem Kontrastvermögen von 2<sup>12</sup> Grauwerten entspricht.
+Die einzelnen Bänder liegen wie bei anderen Fernerkundungssensoren auch als Grauwertbilder vor. Im Fall von Sentinel-2 werden diese mit einer *radiometrischen Auflösung* von 12-bit gespeichert, was einem Kontrastvermögen von 2<sup>12</sup> (also 4069) Grauwerten entspricht. 
+
+! Hier sei noch einmal auf den [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/?source=S2&lat=50.00067775723633&lng=8.155975341796875&zoom=9&preset=1_NATURAL_COL0R&layers=B01,B02,B03&maxcc=20&gain=1.0&gamma=1.0&time=2015-01-01%7C2018-09-20&atmFilter=&showDates=false) verwiesen. 
 
 Image-Slider:
 <br><br>
@@ -51,5 +53,5 @@ Die Grauwertbilder können nach Bedarf kombiniert werden (standardmäßig drei, 
 
 !!!! __Aufgabe:__ Eigenschaften verschiedener Fernerkundungssensoren:
 <br><br>
-<iframe iframe id="172678" src="https://h5p.org/h5p/embed/172678" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe iframe id="172678" src="https://h5p.org/h5p/embed/311234" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <br><br>

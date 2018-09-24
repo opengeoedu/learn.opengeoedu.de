@@ -26,7 +26,6 @@ Ist es zu einem größeren Windwurf im Wald gekommen, gilt es die Schäden schne
 
 ! Die Seite [waldwissen.net](https://www.waldwissen.net)[^1] bietet zudem viel Wissenswertes zum Thema Wald im Allgemeinen und zu vertiefenden Themen wie [Sturmschadensbewältigung](https://www.waldwissen.net/waldwirtschaft/schaden/sturm_schnee_eis/fva_sturmhandbuch/index_DE) oder zur Anwendung von Fernerkundung für die Waldschadenserfassung mittels [Luftbilder](https://www.waldwissen.net/technik/inventur/wuh_luftbilder_kyrill/index_DE). 
 
- 
 ![vorOrtSatellit](vor_Ort_vs_Satellit.png?classes=caption "Eine Frage der Perspektive: Windwurf wie er sich vor Ort am Boden darstellt und vom Weltraum aus gesehen. Foto links: G. Lobinger, LWF (https://www.stmelf.bayern.de), rechts: Sentinel-2 Echtfarbaufnahme, ESA")
 <!-- *Eine Frage der Perspektive: Windwurf wie er sich vor Ort am Boden darstellt und vom Weltraum aus gesehen.* -->
 
