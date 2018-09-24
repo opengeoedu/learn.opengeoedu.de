@@ -49,7 +49,7 @@ Rouse, J.W., Haas, R.H., Scheel, J.A., Deering, D.W., 1974. Monitoring Vegetatio
 
 Schelhaas, M.-J., 2008. Impacts of Natural Disturbances on the Development of European Forest Resources: Application of Model Approaches from Tree and Stand Levels to Large-scale Scenarios.
 
-Schwarz, M., Steinmeier, C., Holecz, F., Stebler, O., Wagner, H., 2003. Detection of Windthrow in Mountainous Regions with Different Remote Sensing Data and Classification Methods. Scand. J. For. Res. 18, 525–536. https://doi.org/https://doi.org/10.1080/02827580310018023
+Schwarz, M., Steinmeier, C., Holecz, F., Stebler, O., Wagner, H., 2003. Detection of Windthrow in Mountainous Regions with Different Remote Sensing Data and Classification Methods. Scand. J. For. Res. 18, 525–536. https://doi.org/10.1080/02827580310018023
 
 Seitz, R., Straub, C., 2017. FastResponse - die schnelle Antwort nach dem Sturm. LWF Aktuell 4, 14–16.
 
