@@ -1,12 +1,10 @@
 ---
 title: Datenblätter
-media_order: 'OGE_Datenblatt_BKG_Fernerkundung.pdf,OGE_Datenblatt_FM_dichte_vg.pdf,OGE_Datenblatt_FM_verkehrsindikatoren.pdf,OGE_Datenblatt_OpenXX_DesktopGIS.pdf,OGE_Datenblatt_OpenXX_Journale.pdf,OGE_Datenblatt_OpenXX_Repositories.pdf,OGE_Datenblatt_EMobi_National_ABC.pdf,OGE_Datenblatt_EMobi_Global_ABC.pdf,OGE_Datenblatt_EMobi_Lokal_ABC.pdf,OGE_Datenblatt_SDG_Global_ABC.pdf,OGE_Datenblatt_DBFZ_regional.pdf,OGE_Datenblatt_DBFZ_Biogut_national_A.pdf,OGE_Datenblatt_DBFZ_Biogut_national_B_C.pdf'
 taxonomy:
     category:
         - docs
 menu: Datenblätter
 ---
-
 ## Datenblätter (in Arbeit)
 
 Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, so z.B. hinsichtlich der Voraussetzungen, der verwendeten Software und Daten, der benötigten Funktionalitäten und der erwarteten Ergebnisse.
@@ -20,14 +18,14 @@ Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, s
 
 | Übungen | | | |
 |  :-----          |  :-----          |  :-----          | :----- |
-|  Open XX | Open Access-Zeitschriften [Journale](OGE_Datenblatt_OpenXX_Journale.pdf) | Open Access-Repositories [Daten](OGE_Datenblatt_OpenXX_Repositories.pdf) | Open Source Software [Software](OGE_Datenblatt_OpenXX_DesktopGIS.pdf) |
-| GIS  |  [color=orange] [fa=fa-globe extras=fa-2x][/color] [color=green] [fa=fa-globe extras=fa-2x][/color] [color=blue] [fa=fa-globe extras=fa-2x][/color] SDG [United Nations Sustainable Development Goals](OGE_Datenblatt_SDG_Global_ABC.pdf) |
+|  Open XX | Open Access-Zeitschriften [Journale](OGE_Datenblatt_OpenXX_Journale.pdf?target=_blank) | Open Access-Repositories [Daten](OGE_Datenblatt_OpenXX_Repositories.pdf?target=_blank) | Open Source Software [Software](OGE_Datenblatt_OpenXX_DesktopGIS.pdf?target=_blank) |
+| GIS  | [color=orange] [fa=fa-street-view extras=fa-2x][/color] [color=green] [fa=fa-street-view extras=fa-2x][/color] [color=blue] [fa=fa-street-view extras=fa-2x][/color] [Geocoding](OGE_Datenblatt_Geocoding.pdf?target=_blank) |  [color=orange] [fa=fa-globe extras=fa-2x][/color] [color=green] [fa=fa-globe extras=fa-2x][/color] [color=blue] [fa=fa-globe extras=fa-2x][/color] SDG [United Nations Sustainable Development Goals](OGE_Datenblatt_SDG_Global_ABC.pdf?target=_blank) |
 <br><br>
 
 | Fallbeispiele  | | | |
 |  :-----        | :----- | :----- | :----- |
-| Elektromobilität | [color=orange] [fa=fa-street-view extras=fa-2x][/color] [color=green] [fa=fa-street-view extras=fa-2x][/color] [color=blue] [fa=fa-street-view extras=fa-2x][/color] [Kommunale Erreichbarkeit von Ladestationen](OGE_Datenblatt_EMobi_Lokal_ABC.pdf) | [color=orange] [fa=fa-globe extras=fa-2x][/color] [color=green] [fa=fa-globe extras=fa-2x][/color] [color=blue] [fa=fa-globe extras=fa-2x][/color] [Ladestationen und Bevölkerungsdichte](OGE_Datenblatt_EMobi_National_ABC.pdf) | [color=orange] [fa=fa-globe extras=fa-2x][/color] [color=green] [fa=fa-globe extras=fa-2x][/color] [color=blue] [fa=fa-globe extras=fa-2x][/color] [Reise quer durch Europa](OGE_Datenblatt_EMobi_Global_ABC.pdf) |
-| Biomassepotenziale | [color=orange] [fa=map-marked extras=fa-2x][/color] [color=green] [fa=map-marked extras=fa-2x][/color] [color=blue] [fa=map-marked extras=fa-2x][/color] [Quick Scan auf regionaler Ebene](OGE_Datenblatt_DBFZ_regional.pdf) | [color=green] [fa=fa-globe extras=fa-2x][/color] [color=blue] [fa=fa-globe extras=fa-2x][/color] [Aufkommen von Biogut aus der braunen Tonne in Deutschland](OGE_Datenblatt_DBFZ_Biogut_national_B_C.pdf) | [color=orange] [fa=fa-globe extras=fa-2x][/color] [Bioenergiepotenziale in Europa](OGE_Datenblatt_DBFZ_Biogut_national_A.pdf) |
-| Flächenmonitoring | [color=orange] [fa=fa-globe extras=fa-2x][/color] [color=green] [fa=fa-globe extras=fa-2x][/color] [color=blue] [fa=fa-globe extras=fa-2x][/color] [Messung der Veränderung der Siedlungs- und Bevölkerungsdichte](OGE_Datenblatt_FM_dichte_vg.pdf) | [color=green] [fa=fa-globe extras=fa-2x][/color] [color=blue] [fa=fa-globe extras=fa-2x][/color] [Berechnung verkehrsbezogener Flächennutzungsindikatoren](OGE_Datenblatt_FM_verkehrsindikatoren.pdf) |
-| Fernerkundung | [color=green] [fa=fa-globe extras=fa-2x][/color] [Erfassung von Windwurfflächen mit Sentinel-2](OGE_Datenblatt_BKG_Fernerkundung.pdf) |
+| Elektromobilität | [color=orange] [fa=fa-street-view extras=fa-2x][/color] [color=green] [fa=fa-street-view extras=fa-2x][/color] [color=blue] [fa=fa-street-view extras=fa-2x][/color] [Kommunale Erreichbarkeit von Ladestationen](OGE_Datenblatt_EMobi_Lokal_ABC.pdf?target=_blank) | [color=orange] [fa=fa-globe extras=fa-2x][/color] [color=green] [fa=fa-globe extras=fa-2x][/color] [color=blue] [fa=fa-globe extras=fa-2x][/color] [Ladestationen und Bevölkerungsdichte](OGE_Datenblatt_EMobi_National_ABC.pdf?target=_blank) | [color=orange] [fa=fa-globe extras=fa-2x][/color] [color=green] [fa=fa-globe extras=fa-2x][/color] [color=blue] [fa=fa-globe extras=fa-2x][/color] [Reise quer durch Europa](OGE_Datenblatt_EMobi_Global_ABC.pdf?target=_blank) |
+| Biomassepotenziale | [color=orange] [fa=map-marked extras=fa-2x][/color] [color=green] [fa=map-marked extras=fa-2x][/color] [color=blue] [fa=map-marked extras=fa-2x][/color] [Quick Scan auf regionaler Ebene](OGE_Datenblatt_DBFZ_regional.pdf?target=_blank) | [color=green] [fa=fa-globe extras=fa-2x][/color] [color=blue] [fa=fa-globe extras=fa-2x][/color] [Aufkommen von Biogut aus der braunen Tonne in Deutschland](OGE_Datenblatt_DBFZ_Biogut_national_B_C.pdf?target=_blank) | [color=orange] [fa=fa-globe extras=fa-2x][/color] [Bioenergiepotenziale in Europa](OGE_Datenblatt_DBFZ_Biogut_national_A.pdf?target=_blank) |
+| Flächenmonitoring | [color=orange] [fa=fa-globe extras=fa-2x][/color] [color=green] [fa=fa-globe extras=fa-2x][/color] [color=blue] [fa=fa-globe extras=fa-2x][/color] [Messung der Veränderung der Siedlungs- und Bevölkerungsdichte](OGE_Datenblatt_FM_dichte_vg.pdf?target=_blank) | [color=green] [fa=fa-globe extras=fa-2x][/color] [color=blue] [fa=fa-globe extras=fa-2x][/color] [Berechnung verkehrsbezogener Flächennutzungsindikatoren](OGE_Datenblatt_FM_verkehrsindikatoren.pdf?target=_blank) |
+| Fernerkundung | [color=green] [fa=fa-globe extras=fa-2x][/color] [Erfassung von Windwurfflächen mit Sentinel-2](OGE_Datenblatt_BKG_Fernerkundung.pdf?target=_blank) |
 <br>
