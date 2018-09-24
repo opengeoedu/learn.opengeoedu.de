@@ -2,6 +2,7 @@
 title: Nachhaltige Bereitstellung
 taxonomy: 
   category: docs
+menu: 'Bereitstellung'
 ---
 
 In diesem Lernmodul soll die Potenzialbetrachtung für die energetische Nutzung von Biomasse im Vordergrund stehen. Wie jede Art der Energieerzeugung, ist die energetische Nutzung von Biomasse mit Chancen und Risiken verbunden (siehe nachfolgende Tabelle). Die nachhaltige Bereitstellung ist grundlegende Voraussetzung für den bereits angesprochenen Beitrag zum Energiesystem und zur Reduktion von Treibhausgasemissionen. Bei der Nutzung biogener Ressourcen sollte daher generell der Grundsatz „food first“ gelten, d.h. der Anbau von Nahrungsmitteln hat Vorrang vor einer energetischen Nutzung. Zugleich muss Biomassenutzung mit einem nachhaltigen Kohlenstoffhaushalt (z.B. Erhalt wertvoller Lebensräume), einer nachhaltigen Bewirtschaftung land- und forstwirtschaftlicher Flächen und nachhaltigem Konsum einhergehen (Thrän et al. 2016). Wie diese Faktoren berücksichtigt werden können, wird in diesem Kapitel exemplarisch am Beispiel einiger Nutzungspfade beschrieben. Informationen, wie Fragen der Nachhaltigkeit in Potenzialrechnungen einfließen können, finden Sie zudem im weiteren Verlauf der Vorlesung und den jeweiligen Übungen.

@@ -2,6 +2,7 @@
 title: Biomasse - Herkunft und aktuelle Nutzung
 taxonomy:
   category: docs
+menu: 'Biomasse'
 ---
 
 !!!! Welche Arten von Biomasse gibt es und wie können diese energetisch und/oder stofflich genutzt werden? <br>

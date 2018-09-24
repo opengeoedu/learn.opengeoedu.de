@@ -36,5 +36,5 @@ Die [Sunlight Foundation](https://sunlightfoundation.com/wp-content/uploads/2016
 <p>Daten werden dauerhaft zur Verfügung gestellt, gegebenenfalls auf Basis einer geeigneten Versionierung, d.h. einer Kennzeichnung der Daten, dass sie lediglich einem bestimmten Stand entsprechen.</p>
 
 1. Nutzungskosten (Usage Costs)
-<p>Nutzungskosten stellen eine Barriere für den Zugriff auf öffentlich verfügbare Informationen dar. Verwaltungen verwenden derzeit verschiedene Ansätze für die Bepreisung: die Kosten für die Erstellung der Daten, Kosten für die Abfrage der Daten, Kosten für jede einzelne Abfrage, Kosten auf Basis eines Mengengerüsts (z. B. Seitenumfang) oder Vervielfältigungskosten. Die Bepreisung des Zugangs reduziert die Häufigkeit der Nutzung und hat dadurch über nicht realisiertes Wirtschaftswachstum unter Umständen einen Einfluss auf Steuereinnahmen.</p>
+<p>Nutzungskosten sollten kein Hemmnis darstellen. Sie sind daher gering zu halten bzw. wenn immer möglich sollte ein kostenfreier Zugang zu den Daten gegeben sein. </p>
 

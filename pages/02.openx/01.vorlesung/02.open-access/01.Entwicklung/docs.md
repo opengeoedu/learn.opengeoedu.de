@@ -4,8 +4,6 @@ taxonomy:
     category: docs
 ---
 
-Auszugsweise wird hier die Entstehung reflektiert.
-
 Im Dezember 2001 entstand die Budapest Open Access Initiative ([BOAI](http://www.budapestopenaccessinitiative.org/)), ein Zusammenschluss verschiedener nationaler und internationaler Wissenschaftlerinnen und Wissenschaftler aus den Geistes- und Naturwissenschaften, mit der Forderung nach freiem unentgeltlichen Zugang zur wissenschaftlichen Fachzeitschriftenliteratur in allen akademischen Feldern.
 
 Diese forderte im Jahr 2002:
