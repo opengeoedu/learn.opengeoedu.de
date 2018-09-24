@@ -1,10 +1,8 @@
 ---
-title: 'Open Science'
+title: 'Begriffe im Kontext der Offenheit'
 taxonomy:
     category: docs
 ---
-
-## Begriffe im Kontext der Offenheit
 
 Eine Auswahl von Begriffskombinationen mit Open mit einer kurzen Erläuterung finden Sie hier. Ausführlicher werden diese auf den nächsten Seiten dargelegt:
 * Open Science: offener Zugang zu bewährtem Wissen und aktuellen Informationen, auch im Sinne von Reproduzierbarkeit, Transparenz und Wiederverwendbarkeit wissenschaftlicher Arbeiten.

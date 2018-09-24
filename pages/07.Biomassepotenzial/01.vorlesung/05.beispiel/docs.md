@@ -2,6 +2,7 @@
 title: Vorarbeiten bei der Potenzialberechnung
 taxonomy:
   category: docs
+menu: 'Beispiel'
 ---
 
 !!!! Welche Kernfragen und Bearbeitungsschritte muss ich vor der Berechnung eines Biomassepotenzials berücksichtigen? <br>

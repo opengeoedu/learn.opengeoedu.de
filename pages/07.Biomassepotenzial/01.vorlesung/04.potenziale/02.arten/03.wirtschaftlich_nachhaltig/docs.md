@@ -2,6 +2,7 @@
 title: Wirtschaftliches und nachhaltiges Biomassepotenzial
 taxonomy:
   category: docs
+menu: 'Wirtschaftlich & nachhaltig'
 ---
 
 ### Wirtschaftliches Biomassepotenzial

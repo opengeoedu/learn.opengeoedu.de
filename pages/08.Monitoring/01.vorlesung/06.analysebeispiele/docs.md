@@ -4,9 +4,6 @@ taxonomy:
     category:
         - docs
 ---
-
-# Analysebeispiele von Flächenmonitoring-Ergebnissen
-
 Neben der amtlichen Flächenstatistik, der für die alten Bundesländer seit 1980 existierenden sekundärstatistischen Erhebung, bietet der IÖR-Monitor Daten zur Flächennutzungsentwicklung auf Grundlage des ATKIS Basis-DLM.
 
 Eine Auswahl dieser IÖR-Monitoring-Ergebnisse wird im Folgenden vorgestellt:
@@ -39,8 +36,6 @@ Hier sehen Sie die Flächenneuinanspruchnahme auf Gemeindeebene.
 ### Bodenversiegelung auf Kreisebene (2015)
 ![abb_bodenseidlung_national](abb_bodenseidlung_national.png)
 
-![](abb_bodenseidlung_national.png)
-
 Hier ist der Bodenversiegelungsgrad (2015) auf Kreisebene bundesweit dargestellt.
 
 Nachfolgend sehen Sie die Struktur des Bodenversiegelungsgrad in einer Rasterkarte (100*100m).
@@ -53,18 +48,20 @@ Nachfolgend sehen Sie die Struktur des Bodenversiegelungsgrad in einer Rasterkar
 Hier ist die Bodenversiegelung in der Landeshauptstadt Dresden dargestellt.
 
 ### Grünlandfläche an Gebietsfläche
-![abb_anteil_grunflache_raster500](abb_anteil_grunflache_raster500.png)
+![abb_anteil_grunflache_raster5000](abb_anteil_grunflache_raster5000.png)
 
-Die Karte zeigt den Anteil der Grünfläche an der Gebietsfläche (500*500m Raster)
+Die Karte zeigt den Anteil der Grünfläche an der Gebietsfläche (5000*5000m Raster)
 
 ![abb_anteil_grunflache_bld_trend_berlin](abb_anteil_grunflache_bld_trend_berlin.png)
 
 
-Hier sehen Sie die Veränderung des Anteils der Grünlandfläche im Diagramm (Bundeshauptstadt Berlin, 2016)
+Hier sehen Sie die Veränderung des Anteils der Grünlandfläche in % (Bundeshauptstadt Berlin, 2016)
 
 
 ### Entwicklung der Siedlungsdichte und Bevölkerung
-![abb_entwicklung_sed_bev](abb_entwicklung_sed_bev.png)
+Hier ein Beispiel für die Verknüpfung von Geodaten. In diesem Fall wird die Siedungs- und Verkehrsfläche mit der Bevölkerungszahl aus der Statistik verknüpft. Die Siedlungsdichte ist ein Maß für die Effizienz der Flächennutzung im Bereich Wohnen.
+
+![abb_entwicklung_sed_bev_neu](abb_entwicklung_sed_bev_neu.png)
 
 Hier sieht man die Entwicklung der Siedlungsdichte und Bevölkerung, differenziert nach Gemeindegrößen (unten).
 
@@ -76,7 +73,14 @@ Hier sieht man die Entwicklung der Siedlungsdichte und Bevölkerung, differenzie
 ![abb_veranderung_siedlungdichte](abb_veranderung_siedlungdichte.png)
 
 Hier sehen Sie die Veränderung der Siedlungsdichte auf Gemeindeebene.
+### Gebäudeklassifikation
+Hier ein Beispiel - aus der Größe und Anordnung von Gebäuden, abgebildet in dem Geobasisprodukt Hausumringe, kann man mittels Klassifikation auf den Gebäudetyp schließen z.B. Einfamilienhaus, Block- oder Zeilenbebauung.
+![abb_gebaudeklassificationmethoden](abb_gebaudeklassificationmethoden.png)
+
+Die Herausforderungen sind: Regionale Unterschiede, Modellierungsunterschiede, Mischnutzung, Gewinnung von Trainings- und Testdaten.
+
+![abb_regionalgeauiegkeit](abb_regionalgeauiegkeit.png)
 
 <br/>
 
-!!! **Weitere Analyse finden Sie auf:**  http://www.ioer-monitor.de/ergebnisse
+!!! **Weitere Analysebeispiele von Flächenmonitoring-Ergebnissen finden Sie auf:**  http://www.ioer-monitor.de/ergebnisse

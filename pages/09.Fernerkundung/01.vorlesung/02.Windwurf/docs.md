@@ -9,7 +9,7 @@ Jeder, der einmal einen schweren Sturm oder Orkan miterlebt hat, kennt die unbä
 
 ! Die Bezirksregierung Arnsberg (NRW) zeigt eindrucksvolle Impressionen ein Jahrzehnt nach Kyrill, und gibt Einblicke darauf, was so ein Sturmereignis wirklich bedeutet: [Kyrill - 10 Jahre danach](https://www.bezreg-arnsberg.nrw.de/kyrill/)
 
-! Die Redaktion der TV-Sendung Planet Wissen ([www.planet-wissen.de](www.planet-wissen.de)) von WDR, SWR und ARD-Alpha bietet [hier](https://www.planet-wissen.de/natur/naturgewalten/stuerme/pwiewinterstuermelotharmartinkyrillundklaus100.html) und [hier](https://www.planet-wissen.de/natur/umwelt/waldsterben/pwieorkanlothar100.html) kleine Überblicke über einige Winterstürme und deren Schäden im Wald an.
+! Die Redaktion der [TV-Sendung Planet Wissen](https://www.planet-wissen.de) von WDR, SWR und ARD-Alpha bietet [hier](https://www.planet-wissen.de/natur/naturgewalten/stuerme/pwiewinterstuermelotharmartinkyrillundklaus100.html) und [hier](https://www.planet-wissen.de/natur/umwelt/waldsterben/pwieorkanlothar100.html) kleine Überblicke über einige Winterstürme und deren Schäden im Wald an.
 
 Reine Fichtenbestände (*Picea abies*) sind besonders durch ihre flachen Tellerwurzeln, die bei Stürmen einen geringeren Halt geben, und ihre geringere Bruch- und Wurffestigkeit gegenüber Laubbäumen betroffen. Zudem wurden sie in der Vergangenheit oft auf für sie ungünstigen Standorten angepflanzt, was die Anfälligkeit erhöht. Darüber hinaus bieten immergrüne Nadelbäume wie Fichten und Tannen (*Abies spec.*) vor allem im Winter eine größere Angriffsfläche für Wind als Laubbaumarten.
 
@@ -22,12 +22,11 @@ Ist es zu einem größeren Windwurf im Wald gekommen, gilt es die Schäden schne
 ![Holzeinschlag2017](Holzeinschlag2017.png?classes=caption "Erstellt aus: Statistisches Bundesamt (2018): Land- und Forstwirtschaft, Fischerei. Forstwirtschaftliche Bodennutzung – Holzeinschlagsstatistik. Fachserie 3, Reihe 3.3.1, Holzeinschlag.")
 <!-- *Erstellt aus: Statistisches Bundesamt (2018): Land- und Forstwirtschaft, Fischerei. Forstwirtschaftliche Bodennutzung – Holzeinschlagsstatistik. Fachserie 3, Reihe 3.3.1, Holzeinschlag.* -->
 
-! Informationen, etwa dazu wie man Sturmholz richtig aufarbeitet, finden sich u.a.  auf den Seiten des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten [StMELF](www.stmelf.bayern.de/wald/waldschutz/sturm/104090/index.php).
+! Informationen, etwa dazu wie man Sturmholz richtig aufarbeitet, finden sich u.a.  auf den Seiten des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten [StMELF](https://www.stmelf.bayern.de/wald/waldschutz/sturm/104090/index.php).
 
 ! Die Seite [waldwissen.net](https://www.waldwissen.net)[^1] bietet zudem viel Wissenswertes zum Thema Wald im Allgemeinen und zu vertiefenden Themen wie [Sturmschadensbewältigung](https://www.waldwissen.net/waldwirtschaft/schaden/sturm_schnee_eis/fva_sturmhandbuch/index_DE) oder zur Anwendung von Fernerkundung für die Waldschadenserfassung mittels [Luftbilder](https://www.waldwissen.net/technik/inventur/wuh_luftbilder_kyrill/index_DE). 
 
- 
-![vorOrtSatellit](vorOrt_S2.png?classes=caption "Eine Frage der Perspektive: Windwurf wie er sich vor Ort am Boden darstellt und vom Weltraum aus gesehen. Foto links: G. Lobinger, LWF (http://www.stmelf.bayern.de), rechts: Sentinel-2 Echtfarbaufnahme, ESA")
+![vorOrtSatellit](vor_Ort_vs_Satellit.png?classes=caption "Eine Frage der Perspektive: Windwurf wie er sich vor Ort am Boden darstellt und vom Weltraum aus gesehen. Foto links: G. Lobinger, LWF (https://www.stmelf.bayern.de), rechts: Sentinel-2 Echtfarbaufnahme, ESA")
 <!-- *Eine Frage der Perspektive: Windwurf wie er sich vor Ort am Boden darstellt und vom Weltraum aus gesehen.* -->
 
 Eine generelle Herausforderung ist es, nach einem Sturm die Situation richtig einzuschätzen und betroffene Flächen aufzufinden. Die folgende Abbildung zeigt einen beschädigten Waldbestand einmal wie er sich vor Ort darstellt (links) und einmal wie er und die Umgebung in einem Satellitenbild aussieht (rechts). Die Zuordnung und Verortung der Flächen ist ein zentraler Punkt von Kartierung und Monitoring.
