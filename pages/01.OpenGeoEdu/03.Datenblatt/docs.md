@@ -16,7 +16,7 @@ Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, s
 | Level/ Schwierigkeit | [color=orange]Advanced[/color] | [color=green]Basic[/color] | [color=blue]Click-by-Click[/color] |
 <br>
 
-| Übungen | | | |
+| Grundlagen | | | |
 |  :-----          |  :-----          |  :-----          | :----- |
 |  Open XX | Open Access-Zeitschriften [Journale](OGE_Datenblatt_OpenXX_Journale.pdf?target=_blank) | Open Access-Repositories [Daten](OGE_Datenblatt_OpenXX_Repositories.pdf?target=_blank) | Open Source Software [Software](OGE_Datenblatt_OpenXX_DesktopGIS.pdf?target=_blank) |
 | GIS  | [color=orange] [fa=fa-street-view extras=fa-2x][/color] [color=green] [fa=fa-street-view extras=fa-2x][/color] [color=blue] [fa=fa-street-view extras=fa-2x][/color] [Geocoding](OGE_Datenblatt_Geocoding.pdf?target=_blank) |  [color=orange] [fa=fa-globe extras=fa-2x][/color] [color=green] [fa=fa-globe extras=fa-2x][/color] [color=blue] [fa=fa-globe extras=fa-2x][/color] SDG [United Nations Sustainable Development Goals](OGE_Datenblatt_SDG_Global_ABC.pdf?target=_blank) |
