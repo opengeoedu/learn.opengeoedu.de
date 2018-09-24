@@ -80,7 +80,7 @@ Richards, J.A., 2013. Remote Sensing Digital Image Analysis: An Introduction 494
     -	Copernicus Open Access Hub (Sci-Hub):  https://scihub.copernicus.eu  
 
 -	Sentinel Hub:  
-    -	Sentinel 2 EO products (Bsp. Farbkompositen, Vegetationsindizes): https://www.sentinel-hub.com/develop/documentation/eo_products/Sentinel2EOproducts 
+    -	Sentinel 2 EO products (Bsp. Farbkompositen, Vegetationsindizes): [sentinel-hub.com](https://www.sentinel-hub.com/develop/documentation/eo_products/Sentinel2EOproducts) 
     -	Playground:  https://apps.sentinel-hub.com/sentinel-playground/ 
     -	EO Browser:  https://apps.sentinel-hub.com/eo-browser/ 
 
