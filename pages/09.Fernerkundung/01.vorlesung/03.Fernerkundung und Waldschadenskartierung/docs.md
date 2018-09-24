@@ -27,10 +27,7 @@ Grundsätzlich lassen sich Fernerkundungssensoren in zwei Gruppen einteilen:
 
 Bei den passiven optischen Sensoren, gibt es eine Reihe an unterschiedlichen Systemen. Sie unterscheiden sich z.B. in der Anzahl der Kanäle, mit denen verschiedene Wellenlängenbereiche des elektromagnetischen Spektrums wahrgenommen werden können. Unsere Augen sind im Grunde auch passive Fernerkundungssensoren, die das sichtbare Licht von etwa 400-700 nm wahrnehmen. Für die Ansprache von Vegetation ist der sichtbare spektrale Bereich ebenso wichtig wie das nahe und kurzwellige Infrarot. Vor allem im roten und blauen Licht wird ein Großteil durch Blattpigmente und Chlorophyll absorbiert. Im NIR dagegen reflektieren gesunde Pflanzen stark (s. Vorlesungsteil Vegetationsmonitoring).
 
-![Elektromegnetisches Spektrum](Albertz_EMS.jpg)
-<!--
-*Das Elektromagnetische Spektrum. Das menschliche Auge kann nur den sichtbaren Bereich von etwa 400-700 nm wahrnehmen. (Quelle: Albert, 2001)*
--->
+![Elektromegnetisches Spektrum](Albertz_EMS.jpg?classes=caption "Das Elektromagnetische Spektrum. Das menschliche Auge kann nur den sichtbaren Bereich von etwa 400-700 nm wahrnehmen. Quelle: Albertz, 2001.")
 <br><br>
 
 Eine zentrale Komponente bei der Überwachung der Landbedeckung spielt die Vegetation, wobei das Waldmonitoring eine spezielle Form darstellt. Die charakteristischen Reflexionseigenschaften von Vegetation kann man sich beim Waldmonitoring zu nutzen mach. Um räumlich genaue Informationen über Waldgebiete zu erhalten, wird das terrestrische Waldmonitoring durch die Fernerkundung erweitert und unterstützt (Ackermann et al., 2014; Fagan and Defries, 2009; Pause et al., 2016; Romijn et al., 2015). Dies gilt besonders immer dann, wenn für die Erfassung des Waldzustandes aktuellste Informationen benötigt werden, die in so großer Ausdehnung nicht in-situ erfasst werden können (Lausch et al., 2016).
