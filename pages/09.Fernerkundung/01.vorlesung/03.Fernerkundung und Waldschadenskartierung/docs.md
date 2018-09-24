@@ -1,5 +1,5 @@
 ---
-title: 'Fernerkundung+Waldmonitoring'
+title: 'Fernerkundung + Waldmonitoring'
 taxonomy:
     category:
         - docs
