@@ -22,6 +22,7 @@ Eckdaten Sentinel-2:
 
 Globale Abdeckung von Sentinel-2 in der Videoanimation (ESA):
 <iframe src="https://www.esa.int/spaceinvideos/content/view/embedjw/473937" width=100% max-width=640 max-height="360" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<br><br>
 
 ![Rostock](Senitnel-2_Rostock.png?classes=caption "Rostock von oben... Sentinel-2 Color Infrarot (CIR) Falschfarbkomposit, RGB: 8-4-3. Der Pfeil markiert (ungefähr) den Campusbereich der Universität Rostock.")
 <br><br>
