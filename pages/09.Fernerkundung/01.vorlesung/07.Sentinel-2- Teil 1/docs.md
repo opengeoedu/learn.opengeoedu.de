@@ -20,6 +20,9 @@ Eckdaten Sentinel-2:
 ! Zum Kennenlernen bietet sich der [Sentinel Playground](http://apps.sentinel-hub.com/sentinel-playground/?source=S2&lat=40.34366578968397&lng=-3.6512374877929688&zoom=11&preset=1_NATURAL_COL0R&layers=B04,B03,B02&maxcc=20&gain=1.0&gamma=1.0&time=2015-01-01|2018-01-17&atmFilter=&showDates=false) an.
 <br><br> 
 
+Globale Abdeckung von Sentinel-2 in der Videoanimation (ESA):
+<iframe src="https://www.esa.int/spaceinvideos/content/view/embedjw/473937" width=100% max-width=640 max-height="360" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
 ![Rostock](Senitnel-2_Rostock.png?classes=caption "Rostock von oben... Sentinel-2 Color Infrarot (CIR) Falschfarbkomposit, RGB: 8-4-3. Der Pfeil markiert (ungefähr) den Campusbereich der Universität Rostock.")
 <br><br>
 
