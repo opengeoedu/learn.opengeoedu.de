@@ -6,5 +6,5 @@ taxonomy:
         - docs
 ---
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://learn.opengeoedu.de/faq/staff/embedilias" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe class="embed-responsive-item" src="https://ilias.opengeoedu.de/ilias/goto.php?target=lm_118&client_id=opengeoedu" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
