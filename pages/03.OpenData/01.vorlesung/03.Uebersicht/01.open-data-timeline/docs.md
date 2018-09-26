@@ -3,6 +3,7 @@ title: 'Open Data Timeline'
 taxonomy:
     category:
         - docs
+published: false
 ---
 !!!! Wesentliche Daten im Zusammenhang mit Open Data sind [HIER](http://www.opengeoedu.de/timeline) in einer interaktiven Timeline zusammengefasst
 
