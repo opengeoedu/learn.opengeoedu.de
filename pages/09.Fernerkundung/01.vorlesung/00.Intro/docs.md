@@ -8,13 +8,13 @@ taxonomy:
 <div class="row align-items-center">
   <div class="col-sm-3" markdown="1">![](/images/staff/H_Aberle.png?lightbox=800&resize=300&classes=caption "Dr. Henning Aberle")</div>
   <div class="col-sm-9">
-    <p><br /> Henning Aberle hat Forstwissenschaften studiert mit den Schwerpunkten optische Fernerkundung und GIS sowie Waldinventuren und ist z.Zt. im Referat Fernerkundung und Entwicklung am Bundesamt für Kartographie und Geodäsie tätig. </p>
+    <p><br />  Dr. Henning Aberle hat Forstwissenschaften studiert und beschäftigt sich seit 2018 am Bundesamt für Kartographie und Geodäsie mit den Satelliten des Copernicus-Programms sowie deren Anwendungsmöglichkeiten für Lehre und Forschung. Seine Expertise liegt neben der multi- und hyperspektralen Fernerkundung und Feldspektroskopie in Geographischen-Informationssystemen und Waldinventuren. </p>
   </div>
 </div>
 <!--
 | | | 
 |--|--|
-|![](/images/staff/H_Aberle.png?lightbox=800&resize=300&classes=caption "Dr. Henning Aberle") | Henning Aberle hat Forstwissenschaften studiert mit den Schwerpunkten optische Fernerkundung und GIS sowie Waldinventuren und ist z.Zt. im Referat Fernerkundung und Entwicklung am Bundesamt für Kartographie und Geodäsie tätig. |
+|![](/images/staff/H_Aberle.png?lightbox=800&resize=300&classes=caption "Dr. Henning Aberle") | Dr. Henning Aberle hat Forstwissenschaften studiert und beschäftigt sich seit 2018 am Bundesamt für Kartographie und Geodäsie mit den Satelliten des Copernicus-Programms sowie deren Anwendungsmöglichkeiten für Lehre und Forschung. Seine Expertise liegt neben der multi- und hyperspektralen Fernerkundung und Feldspektroskopie in Geographischen-Informationssystemen und Waldinventuren. |
 -->
 
 ## Lernziele
