@@ -29,11 +29,9 @@ Wichtige Themen im Zusammenhang von Open Data werden hier im Detail behandelt. D
 - Lizenzen und Nutzungsbedingungen
 - Open Data und Open Government Data
   - im deutschsprachigen Raum
-  - im wissenschaftlichen Bereich
-  - in der Wirtschaft
-  - in der Gesellschaft
-  - in gemeinnützigen Projekten
-Die Teilkapitel sind mit offenen Fragen und Literaturverweisen versehen, um die Lernenden zu ermuntern, sich weitergehend mit den Themen auseinanderzusetzen und sie ggf. in Gruppen zu diskutieren.
+  - verschiedenen Teilen der Gesellschaft (Wissenschaft, Wirtschaft, gemeinnützige und ehrenamtliche Projekte)
+
+Die Teilkapitel sind mit offenen Fragen und Literaturverweisen versehen, welche die Lernenden ermuntern, sich weitergehend mit den Themen auseinanderzusetzen und darüber zu diskutieren.
 
 ## Inhalte der Übungen
 
