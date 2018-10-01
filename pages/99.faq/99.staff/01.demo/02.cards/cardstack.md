@@ -1,4 +1,0 @@
----
-title: Cards
-theme: cardstack
----
