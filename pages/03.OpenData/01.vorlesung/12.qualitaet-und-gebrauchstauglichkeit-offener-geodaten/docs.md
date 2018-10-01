@@ -3,6 +3,7 @@ title: 'Qualität und Gebrauchstauglichkeit offener Geodaten'
 taxonomy:
     category:
         - docs
+published: false
 ---
 
 !! Diese Seite ist noch im Entwurfsstadium!

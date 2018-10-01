@@ -3,6 +3,7 @@ title: 'Nutzungsbeschränkte Geodaten und Services'
 taxonomy:
     category:
         - docs
+published: false
 ---
 
 !! Diese Seite ist noch im Entwurfsstadium!
