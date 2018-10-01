@@ -4,9 +4,6 @@ taxonomy:
     category:
         - docs
 ---
-
-# Analysebeispiele von Flächenmonitoring-Ergebnissen
-
 Neben der amtlichen Flächenstatistik, der für die alten Bundesländer seit 1980 existierenden sekundärstatistischen Erhebung, bietet der IÖR-Monitor Daten zur Flächennutzungsentwicklung auf Grundlage des ATKIS Basis-DLM.
 
 Eine Auswahl dieser IÖR-Monitoring-Ergebnisse wird im Folgenden vorgestellt:
@@ -51,20 +48,20 @@ Nachfolgend sehen Sie die Struktur des Bodenversiegelungsgrad in einer Rasterkar
 Hier ist die Bodenversiegelung in der Landeshauptstadt Dresden dargestellt.
 
 ### Grünlandfläche an Gebietsfläche
-![abb_anteil_grunflache_raster500](abb_anteil_grunflache_raster500.png)
+![abb_anteil_grunflache_raster5000](abb_anteil_grunflache_raster5000.png)
 
-Die Karte zeigt den Anteil der Grünfläche an der Gebietsfläche (500*500m Raster)
+Die Karte zeigt den Anteil der Grünfläche an der Gebietsfläche (5000*5000m Raster)
 
 ![abb_anteil_grunflache_bld_trend_berlin](abb_anteil_grunflache_bld_trend_berlin.png)
 
 
-Hier sehen Sie die Veränderung des Anteils der Grünlandfläche im Diagramm (Bundeshauptstadt Berlin, 2016)
+Hier sehen Sie die Veränderung des Anteils der Grünlandfläche in % (Bundeshauptstadt Berlin, 2016)
 
 
 ### Entwicklung der Siedlungsdichte und Bevölkerung
 Hier ein Beispiel für die Verknüpfung von Geodaten. In diesem Fall wird die Siedungs- und Verkehrsfläche mit der Bevölkerungszahl aus der Statistik verknüpft. Die Siedlungsdichte ist ein Maß für die Effizienz der Flächennutzung im Bereich Wohnen.
 
-![abb_entwicklung_sed_bev](abb_entwicklung_sed_bev.png)
+![abb_entwicklung_sed_bev_neu](abb_entwicklung_sed_bev_neu.png)
 
 Hier sieht man die Entwicklung der Siedlungsdichte und Bevölkerung, differenziert nach Gemeindegrößen (unten).
 

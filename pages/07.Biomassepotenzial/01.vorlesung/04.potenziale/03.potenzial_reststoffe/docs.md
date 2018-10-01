@@ -2,6 +2,7 @@
 title: Potenzialstudien Rest- und Abfallstoffe, Stand des Wissens
 taxonomy:
   category: docs
+menu: 'Potenzialstudien'
 ---
 
 In den vorigen Kapiteln haben Sie gelernt, dass Biomasse sich als Rohstoff für vielfältige energetische Konversionspfade eignet und somit einen wichtigen Beitrag zum erneuerbaren Energiesystem leisten kann. Gleichzeitig sollen biogene Reststoffe, Nebenprodukte und Abfälle in der angestrebten Kreislaufwirtschaft möglichst vollständig und effizient genutzt werden. So ist es nicht weiter verwunderlich, dass sich unterschiedliche Studien mit der Frage beschäftigen, welche Mengen an biogenen Ressourcen heute und zukünftig für energetische Nutzungen zur Verfügung stehen. Die Unterschiede zwischen diesen Studien sind teilweise sehr groß (vgl. Creutzig et al. 2015). Dies ist unter anderem darauf zurückzuführen, dass es bisher keine standardisierte Methode für die Berechnung von Biomassepotenzialen gibt und es daher aufgrund der uneinheitlichen Verwendung von Begriffszuordnungen, Umrechnungsfaktoren, Datenquellen, Restriktionen usw. zu Abweichungen kommt. 

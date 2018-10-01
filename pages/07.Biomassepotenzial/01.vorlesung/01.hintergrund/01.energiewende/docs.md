@@ -2,6 +2,7 @@
 title: Bioökonomie, Energiewende und Klimaziele
 taxonomy:
   category: docs
+menu: 'Bioökonomie'
 ---
 
 Pflanzliche Biomasse dient direkt (als Nahrungsmittel) oder indirekt (als Futtermittel) unserer Ernährung und trägt durch eine ganze Reihe von Ökosystemdienstleistungen (z.B. Biodiversität, Bodenbildung, Erholung) wesentlich zu unserem Leben bei. Biomasse kann zudem für vielfältige stoffliche Nutzungen verwendet werden. Sei es in Form „klassischer“ Anwendungen, wie die Nutzung von Holz als Baumaterial oder in Form vergleichsweise neuer und innovativer Entwicklungen, wie Plattformen-Chemikalien und Biokunststoffe. Unter dem Aspekt der *Bioökonomie* erlangt Biomasse als Grundstoff einer biobasierten Wirtschaft einen besonderen Stellenwert. (BMBF und BMEL 2014)

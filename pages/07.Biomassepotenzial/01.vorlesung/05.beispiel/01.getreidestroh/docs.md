@@ -2,6 +2,7 @@
 title: Beispiel Getreidestroh
 taxonomy:
   category: docs
+menu: 'Getreidestroh'
 ---
 
 #### Welche Einzelbiomassen werden berücksichtigt? Um welche Art von Biomasse handelt es sich?
@@ -19,7 +20,7 @@ Von der Konversionstechnologie ist der Rohstoffbedarf abhängig. Kleine, dezentr
 ! Schriftenreihe des BMU-Förderprogramms [Energetische Biomassenutzung](https://www.energetische-biomassenutzung.de/publikationen/schriftenreihe/) Band 04.
 
 #### Welche Faktoren sind zur Potenzialberechnung notwendig?
-Das theoretische Potenzial wird indirekt über die Anbaufläche des Hauptprodukts, z.B. Getreide, berechnet. Das Verhältnis von Korn zu Stroh ist abhängig von der Getreideart (siehe [DBFZ-Datenblatt Getreidestroh](https://www.dbfz.de/index.php?id=989&L=0)). Zusätzlich ist der Wassergehalt zu berücksichtigen; in der Literatur wird von einem Wassergehalt von 14% ausgegangen. Für die Berechnung des technischen Biomassepotenzials werden Abzüge für die Humusbilanzierung sowie die technische Bergungsrate berücksichtigt. Beide Faktoren sind abhängig von den Bodenverhältnissen, der Witterung und der Art der Bewirtschaftung und Bergung. Werte für die Faktoren können ebenfalls dem Datenblatt Getreidestroh entnommen werden.
+Das theoretische Potenzial wird indirekt über die Anbaufläche des Hauptprodukts, z.B. Getreide, berechnet. Das Verhältnis von Korn zu Stroh ist abhängig von der Getreideart (siehe <a href="https://www.dbfz.de/index.php?id=989&L=0" target="_blank">Datenblatt Getreidestroh</a>). Zusätzlich ist der Wassergehalt zu berücksichtigen; in der Literatur wird von einem Wassergehalt von 14% ausgegangen. Für die Berechnung des technischen Biomassepotenzials werden Abzüge für die Humusbilanzierung sowie die technische Bergungsrate berücksichtigt. Beide Faktoren sind abhängig von den Bodenverhältnissen, der Witterung und der Art der Bewirtschaftung und Bergung. Werte für die Faktoren können ebenfalls dem Datenblatt Getreidestroh entnommen werden.
 
 #### Wie können die Ergebnisse so kartographisch aufbereitet werden, dass auch Laien diese gut interpretieren können?
-Das Getreidestrohaufkommen und das damit verbundene nachhaltige Biomassepotenzial wurden für Deutschland in unterschiedlichen Auflösungen (Bundesland, Landkreis, km²) berechnet und räumlich dargestellt. Sie können [Karten](https://www.dbfz.de/index.php?id=987&L=0) zum Strohpotenzial und den interaktiven [Bioenergieatlas](https://www.dbfz.de/index.php?id=1061&L=0) auf den Mikroseiten des DBFZ finden.
+Das Getreidestrohaufkommen und das damit verbundene nachhaltige Biomassepotenzial wurden für Deutschland in unterschiedlichen Auflösungen (Bundesland, Landkreis, km²) berechnet und räumlich dargestellt. Sie können <a href="https://www.dbfz.de/index.php?id=987&L=0" target="_blank">Karten</a> zum Strohpotenzial und den interaktiven <a href="https://www.dbfz.de/index.php?id=1061&L=0" target="_blank">Bioenergieatlas</a> auf den Mikroseiten des DBFZ finden.

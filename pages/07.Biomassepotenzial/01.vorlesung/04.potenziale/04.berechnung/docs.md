@@ -2,6 +2,7 @@
 title: Berechnung von Biomassepotenzialen
 taxonomy:
   category: docs
+menu: 'Berechnung'
 ---
 
 Abhängig von der betrachteten Potenzialebene variieren die Rechenschritte und Eingangsgrößen bei der Berechnung des theoretischen Potenzials zwischen den Einzelbiomassen. Erläuterungen zu den jeweiligen Rechenschritten finden Sie in den entsprechenden Übungen. 
@@ -16,8 +17,8 @@ Wenn Sie mit vorhandenen Potenzialzahlen arbeiten bzw. eigene Berechnungen durch
 - Welche Restriktionen werden in welchem Umfang berücksichtigt (Nachhaltigkeitsaspekte, Naturschutzbelange, stoffliche Nutzungen, usw.)?
 - Bei der Abschätzung zukünftiger Potenziale: Welche Annahmen und Rahmenbedingungen liegen den Szenarien zu Grunde?
 
-Eine gute Möglichkeit die Berechnungsschritte transparent und nachvollziehbar darzustellen sind Organigramme:
+Eine gute Möglichkeit die Berechnungsschritte transparent und nachvollziehbar darzustellen sind Flowcharts:
 
-![](Skript_DBFZ_Organigramm.png?lightbox=800&resize=,500&classes=caption "Organigramm zur Berechnung von Potenzialen, eigene Darstellung")
+![](Skript_DBFZ_Organigramm.png?lightbox=800&resize=,500&classes=caption "Flowchart zur Berechnung von Potenzialen, eigene Darstellung")
 
-In den [Biomasse-Datenblättern](https://www.dbfz.de/index.php?id=989&L=0) auf der DBFZ-Webseite sind ähnliche Organigramme zur Berechnung des theoretischen Biomassepotenzials enthalten.
+In den <a href="https://www.dbfz.de/index.php?id=989&L=0" target="_blank">Biomasse-Datenblättern</a> auf der DBFZ-Webseite sind ähnliche Organigramme zur Berechnung des theoretischen Biomassepotenzials enthalten.
