@@ -23,7 +23,7 @@ Weitere Beispiele für Datenanbieter:
 |     |     |
 
 -->
-!! Im Alltag benutzen wir oft täglich Kartenanwendungen, Navigations-Apps und Standort-basierte Services, die von großen Unternehmen wie Google, Microsoft, Yahoo und ESRI (ArcGIS Online) bereitgestellt werden. Die meisten dieser Angebote sind jedoch nicht *offen* im der [Sinne der Open- Bewegung](https://opendefinition.org/), da sie privat zwar i.d.R. kostenlos genutzt werden dürfen, ansonsten aber an Nutzungsbedingungen und -beschränkungen geknüpft sind. Dieser Unterschied zwischen *offen* und *kostenlos* wird im Abschnitt [Nutzungsbeschränkte Geodaten und Services](nutzungsbeschraenkte-geodaten-und-services) behandelt.
+!! Im Alltag benutzen wir oft täglich Kartenanwendungen, Navigations-Apps und Standort-basierte Services, die von großen Unternehmen wie Google, Microsoft, Yahoo und ESRI (ArcGIS Online) bereitgestellt werden. Die meisten dieser Angebote sind jedoch nicht *offen* im der [Sinne der Open- Bewegung](https://opendefinition.org/), da sie privat zwar i.d.R. kostenlos genutzt werden dürfen, ansonsten aber an Nutzungsbedingungen und -beschränkungen geknüpft sind. <!--Dieser Unterschied zwischen *offen* und *kostenlos* wird im Abschnitt [Nutzungsbeschränkte Geodaten und Services](nutzungsbeschraenkte-geodaten-und-services) behandelt.-->
 
 ! Weitere Datenportale von Unternehmen können auf unserem [Open Data Suchportal](https://portal.opengeoedu.de) eingesehen und ergänzt werden.
 

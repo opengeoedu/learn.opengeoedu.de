@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-Offene Geodaten sind im Web vielen verschiedenen Quellen zu finden. Bei einer Recherche empfiehlt es sich, sowohl allgemeine Open Date Portale als auch Umwelt- und Geoportale zu durchsuchen. Diese Portaltypen gibt können auf [https://portal.opengeoedu.de](https://portal.opengeoedu.de) gezielt über die Filtereinstellungen ausfindig gemacht werden.
+Offene Geodaten sind in vielen verschiedenen Quellen zu finden. Bei einer Onlinerecherche empfiehlt es sich, sowohl allgemeine Open Date Portale als auch Umwelt- und Geoportale zu durchsuchen. Diese Portaltypen können auf [https://portal.opengeoedu.de](https://portal.opengeoedu.de) gezielt über die Filtereinstellungen ausfindig gemacht werden.
 
 ## Geodateninfrastrukturen
 
