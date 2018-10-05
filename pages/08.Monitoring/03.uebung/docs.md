@@ -13,4 +13,4 @@ Das Fallbeispiel fokussiert darauf, Daten- und Analysegrundlagen für eine nachh
 *	**Messung der Veränderung der Siedlungs- und Bevölkerungsdichte** (Nutzung Global Human Settlement Layer: GHSL und ArcGIS-online)
 
 
-[center]<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=cat_130&client_id=opengeoedu" markdown="1" target="_blank">![](/images/exercise.png?resize=200,200)Hier geht es weiter zu den Übungen (ILIAS)</a>[/center]
+[center]<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=crs_283&client_id=opengeoedu" markdown="1" target="_blank">![](/images/exercise.png?resize=200,200)Hier geht es weiter zu den Übungen (ILIAS)</a>[/center]
