@@ -1,5 +1,6 @@
 ---
 title: 'Motivation'
+slug: motivation
 taxonomy:
     category:
         - docs
