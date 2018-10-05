@@ -1,5 +1,6 @@
 ---
 title: 'Land Monitoring Service'
+slug: LandMonitoringService
 taxonomy:
     category:
         - docs
