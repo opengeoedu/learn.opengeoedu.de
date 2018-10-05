@@ -13,7 +13,7 @@ In dieser Übung lernen Sie grundlegende Schritte im Umgang mit offenen Verwaltu
 * <font style="color:grey">Nutzung OpenStreetMap für eine GIS-Analyse (wird später ergänzt)</font>
 
 
-[center]<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=lm_184&client_id=opengeoedu" markdown="1" target="_blank">![](/images/exercise.png?resize=200,200)Hier geht es weiter zur Übung (ILIAS)</a>[/center]
+[center]<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=crs_249&client_id=opengeoedu" markdown="1" target="_blank">![](/images/exercise.png?resize=200,200)Hier geht es weiter zur Übung (ILIAS)</a>[/center]
 
 
 <!--
