@@ -3,7 +3,17 @@ title: 'Fernerkundung + Waldmonitoring'
 taxonomy:
     category:
         - docs
+slug: waldmonitoring
+twitterenable: true
+twittercardoptions: summary
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+personenabled: false
+facebookenable: true
 ---
+
 Im Folgenden erfolgt eine kurze Einführung in die Fernerkundung und das Erd- bzw. Waldmonitoring.
 
 !!! Laut DIN 18716/3 versteht man unter Fernerkundung die Gesamtheit der Verfahren zur Gewinnung von Informationen über die Erdoberfläche durch Messung und Interpretation der von ihr ausgehenden (Energie-)Felder. Als Informationsträger dient dabei die von der Erde reflektierte oder emittierte elektromagnetische Strahlung.
