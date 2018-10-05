@@ -1,5 +1,6 @@
 ---
 title: 'Sentinel-Datenplattformen'
+slug: Sentinel-Datenplattformen
 taxonomy:
     category:
         - docs
