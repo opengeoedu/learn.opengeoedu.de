@@ -11,4 +11,4 @@ In dieser Übung lernen Sie die Sustainable Development Goals (SDG) der United N
 visualisieren?
 + wie entwickelt sich der Indikator in einem Land über die Zeit?
 
-[center]<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=lm_149&client_id=opengeoedu" markdown="1" target="_blank">![](/images/exercise.png?resize=200)Hier geht es weiter zu den Übungen (ILIAS)</a>[/center]
+[center]<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=crs_242&client_id=opengeoedu" markdown="1" target="_blank">![](/images/exercise.png?resize=200)Hier geht es weiter zu den Übungen (ILIAS)</a>[/center]
