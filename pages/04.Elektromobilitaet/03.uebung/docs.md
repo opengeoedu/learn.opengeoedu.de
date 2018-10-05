@@ -12,4 +12,4 @@ Für den Themenbereich "Elektromobilität" sind mehrere Übungsangebote verfügb
 + Angebot 2: national: Analysieren Sie das Angebot der nationalen Ladeinfrastruktur im Hinblick auf das Käuferpotenzial für E-Autos.
 + Angebot 3: Europaweit: Planen Sie eine Reise quer durch Europa und prüfen entlang der Strecke die Ladestationenverfügbarkeit.
 
-[center]<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=pg_648_129&client_id=opengeoedu" markdown="1" target="_blank">![](/images/exercise.png?resize=200,200)Hier geht es weiter zu den Übungen zur Elektromobilität (ILIAS)</a>[/center]
+[center]<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=crs_270&client_id=opengeoedu" markdown="1" target="_blank">![](/images/exercise.png?resize=200,200)Hier geht es weiter zu den Übungen zur Elektromobilität (ILIAS)</a>[/center]
