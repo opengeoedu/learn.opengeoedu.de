@@ -1,5 +1,6 @@
 ---
 title: 'Fernerkundung + Waldmonitoring'
+slug: fernerkundung+waldmonitoring
 taxonomy:
     category:
         - docs
