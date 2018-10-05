@@ -1,5 +1,6 @@
 ---
 title: 'Sentinel-2, Teil 1'
+slug: Sentinel-2-Teil-1
 taxonomy:
     category:
         - docs
