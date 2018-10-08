@@ -28,7 +28,7 @@ Die meisten Open Data Richtlinien beinhalten ähnliche Vorgaben wie die Open Def
 
 ![](5-star-steps.png?width=600)
 
-Das 5-Sterne-Modell für Offene Daten definiert die Qualität von offen Daten insbesondere hinsichtlich der technischen Offenheit. Danach gibt es fünf aufeinander aufbauende Stufen der Offenheit, denen jeweils Kriterien zugeordnet sind, welche ein Datensatz zu erfüllen hat. Für jede erfüllte Stufe erlangt der Datensatz einen Stern. Eine gute Lektüre lesen Sie dazu bitte die Informationen auf [5stardata](https://5stardata.info/de/).
+Das 5-Sterne-Modell für Offene Daten definiert die Qualität von Daten, insbesondere hinsichtlich ihrer technischen Offenheit. Danach gibt es fünf aufeinander aufbauende Stufen, denen jeweils Kriterien zugeordnet sind, welche ein Datensatz zu erfüllen hat. Für jede erfüllte Stufe erlangt der Datensatz einen Stern. Weitere Informationen dazu können auf [5stardata.info](https://5stardata.info/de/) nachlesen.
 
 <!--
 ------------------------------
