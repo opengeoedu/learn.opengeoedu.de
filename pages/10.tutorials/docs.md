@@ -123,18 +123,15 @@ Verfügbar sind:
 [/ui-tab]
 
 [ui-tab title="Lizenzen"]
-[center]
-## Lizenzen
 <div class="row align-items-center">
     <div class="col-sm-6">
         <h4>Tutorial Lizenzen</h4>
-        <p class="text-justify">
-            In diesem Tutorial werden gängige Lizenzen für offene Daten und Software beschrieben und deren Bedeutung bei der Verarbeitung offener Geodaten erläutert.
-        </p>
+        <p class="text-justify">In diesem Tutorial werden gängige Lizenzen für offene Daten und Software beschrieben und 
+            deren Bedeutung bei der Verarbeitung offener Geodaten erläutert.</p>
         <p markdown="1">Download des Tutorials [Lizenzen](OGE-Tutorial_Lizenzen.pdf)</p>
     </div>
     <div class="col-sm-3" markdown="1">![](cc-logo-white.PNG)</div>
-</div>[/center]
+</div>
 [/ui-tab]
 
 [ui-tab title="weitere Tutorials ..."]
