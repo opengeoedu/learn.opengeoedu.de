@@ -130,7 +130,7 @@ Verfügbar sind:
             deren Bedeutung bei der Verarbeitung offener Geodaten erläutert.</p>
         <p markdown="1">Download des Tutorials [Lizenzen](OGE-Tutorial_Lizenzen.pdf?target=_blank)</p>
     </div>
-    <div class="col-sm-3" markdown="1">![](cc-logo-white.png)</div>
+    <div class="col-sm-3" markdown="1">![](cc_logo_white.png)</div>
 </div>
 [/ui-tab]
 
