@@ -5,8 +5,6 @@ taxonomy:
         - docs
 menu: Datenblätter
 ---
-## Datenblätter (in Arbeit)
-
 Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, so z.B. hinsichtlich der Voraussetzungen, der verwendeten Software und Daten, der benötigten Funktionalitäten und der erwarteten Ergebnisse.
 
 | Legende | | | |
