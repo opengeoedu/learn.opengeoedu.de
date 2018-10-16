@@ -154,12 +154,7 @@ anchors:
             <h3 class="text-center">
                 Flächenmonitoring
             </h3>
-            <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="responsive-item" src="https://slides.com/opengeoedu/teaser-flaechenmonitoring/embed?style=light"
-                    width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen
-                    allowfullscreen>
-                </iframe>
-            </div>
+           [plugin:youtube](https://youtu.be/fwrLTp219pA)
             <div class="card-body text-justify">
                 Eine nachhaltige Siedlungsentwicklung, d.h. geringer Flächenverbrauch, Begrünung der Städte, Vermeidung
                 von Zersiedelung
