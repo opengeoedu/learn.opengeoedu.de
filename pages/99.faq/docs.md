@@ -2,6 +2,7 @@
 title: 'Fragen und Antworten'
 external_links:
     no_follow: false
+    target: _blank
 menu: FAQ
 twitterenable: true
 twittercardoptions: summary
