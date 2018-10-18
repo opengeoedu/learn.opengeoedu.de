@@ -1,7 +1,18 @@
 ---
-title: Fragen und Antworten
+title: 'Fragen und Antworten'
+external_links:
+    no_follow: false
 menu: FAQ
+twitterenable: true
+twittercardoptions: summary
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+personenabled: false
+facebookenable: true
 ---
+
 ## zum Projekt und Kursangebot
 [ui-accordion independent=true open=none]
 [ui-accordion-item title="Was bietet OpenGeoEdu?"]
