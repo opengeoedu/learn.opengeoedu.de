@@ -17,7 +17,7 @@ Aus Sicht der den Geo-Informationssystemen zu Grunde liegenden Datenbanksysteme 
 
 Die Datenanalyse ist das Herzstück eines GIS. Hierzu gehören Funktionen wie die Flächenverschneidung, die Netzwerkanalyse, digitale Geländeanalysen, Berichtsgenerierungen, statistische Analysen sowie sehr viele aus den Anwendungsanforderungen abgeleitete spezielle Funktionen, die vermehrt auch bereitgestellt werden. So können zum Beispiel die Informationen bereitgestellt werden, um mittels der kürzesten Wegeberechnung Fahrzeugfahrer über die an Bord befindlichen Fahrzeugnavigationssysteme gezielt von einem Startpunkt zu einem Zielpunkt zu führen.
 
-![](Folie1_25.png?classes=caption "Gruppierung und Auswahl gängiger GIS-Analysemethoden")
+![](Folie1_25.png?lightbox=800&resize=300&classes=caption "Gruppierung und Auswahl gängiger GIS-Analysemethoden")
 
 Analysemethoden lassen sich grob in 6 Gruppen einteilen (zu Details vergleiche Bill, 2016, Kapitel 7):
 
