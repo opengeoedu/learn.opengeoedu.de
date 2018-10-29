@@ -49,8 +49,8 @@ Nach Abschluss der Bearbeitung dieses Vorlesungsskripts im Selbststudium werden 
 
 Die Vorlesung besteht aus 5 Kapiteln inklusive Beispielen die Ihnen die oben genannten Lernziele vermitteln. Wörter in *kursiv* sind im Glossar beschrieben. Innerhalb eines Kapitels finden Sie folgende Elemente:
 
-! 
+! <p>
 
-!! 
+!! <p>
 
-!!!! 
+!!!! <p>
