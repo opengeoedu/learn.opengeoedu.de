@@ -1,5 +1,5 @@
 ---
-title: 'Open Street Map'
+title: 'OpenStreetMap'
 taxonomy:
     category: docs
 ---

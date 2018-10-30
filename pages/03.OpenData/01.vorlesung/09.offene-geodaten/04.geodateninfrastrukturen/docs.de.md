@@ -14,3 +14,5 @@ Wichtige nationale GDI-Einstiegspunkte im deutschsprachigen Raum sind:
 - [geo.admin.ch/](https://www.geo.admin.ch/) für die Schweiz [^1]
 
 Auf diesen Portalen sind jeweils auch die Portale der darunterliegenden, regionalen Einstiegspunkte verlinkt.
+
+[^1]: Die Schweiz ist kein Teilnehmer der INSPIRE-Direktive, verfügt aber über ähnliche Geodateninfrastrukturen wie die EU
