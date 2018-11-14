@@ -19,7 +19,7 @@ Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, s
 | Legende | | | |
 | :-: | :-: | :-: | :-: |
 | Reichweite | lokal | regional | national/global |
-| | [fa=fa-street-view extras=fa-2x] | [fa=map-marked extras=fa-2x] | [fa=fa-globe extras=fa-2x] |
+| | [fa=fa-street-view extras=fa-2x] | [fa=map-marked extras=fa-2x] | [fa=fa-globe-africa extras=fa-2x] |
 | Level/ Schwierigkeit | [color=orange]Advanced[/color] | [color=green]Basic[/color] | [color=blue]Click-by-Click[/color] |
 <br>
 
