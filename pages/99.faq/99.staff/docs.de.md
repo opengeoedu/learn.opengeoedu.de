@@ -3,7 +3,9 @@ title: 'OpenGeoEdu-Team'
 taxonomy:
 category: docs
 anchors:
-active: false
+    active: false
+visible: false
+
 ---
 
 # Das Projektkonsortium
