@@ -3,7 +3,6 @@ title: 'Was ist Umgebungslärm?'
 taxonomy:
     category:
         - docs
-published: false
 ---
 
 Unter „Umgebungslärm“ werden die, durch menschliche Aktivitäten induzierte, **belästigende** oder **gesundheitsschädliche** **Geräusche im Freien** subsummiert.
