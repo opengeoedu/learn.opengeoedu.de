@@ -1,5 +1,5 @@
 ---
-title: 'Platzhalter'
+title: 'Vorgeschichte'
 taxonomy:
     category:
         - docs

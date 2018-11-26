@@ -1,5 +1,5 @@
 ---
-title: 'Ziel'
+title: 'Schallausbreitung'
 taxonomy:
     category:
         - docs

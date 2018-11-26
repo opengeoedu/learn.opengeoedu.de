@@ -1,5 +1,5 @@
 ---
-title: 'Ziel'
+title: 'Schallmessung'
 taxonomy:
     category:
         - docs

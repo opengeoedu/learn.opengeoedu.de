@@ -1,5 +1,5 @@
 ---
-title: 'Platzhalter'
+title: 'Lärm'
 taxonomy:
     category:
         - docs

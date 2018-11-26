@@ -1,5 +1,5 @@
 ---
-title: 'Platzhalter'
+title: 'Methodik'
 taxonomy:
     category:
         - docs
