@@ -1,5 +1,6 @@
 ---
 title: Lernziele und Struktur der Lerneinheit
+menu: Lernziele
 taxonomy:
     category:
         - docs
@@ -29,8 +30,8 @@ In diesem Modul sind folgende inhaltliche Fragestellungen zu erwarten:
 
 ### Struktur der Vorlesung
 
-!  
+! <p></p>
 
-!!  
+!! <p></p>
 
-!!!!  
+!!!! <p></p>
