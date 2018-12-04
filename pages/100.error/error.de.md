@@ -10,3 +10,5 @@ process:
 ---
 
 {{ 'PLUGIN_ERROR.ERROR_MESSAGE'|t }}
+
+![](404.jpg)
