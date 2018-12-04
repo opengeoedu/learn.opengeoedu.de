@@ -1,8 +1,17 @@
 ---
 title: 'Was ist Umgebungslärm?'
+published: false
 taxonomy:
     category:
         - docs
+twitterenable: true
+twittercardoptions: summary
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+personenabled: false
+facebookenable: true
 ---
 
 !!! Unter „Umgebungslärm“ werden die, durch menschliche Aktivitäten induzierte, **belästigende** oder **gesundheitsschädliche** **Geräusche im Freien** subsummiert. Explizit handelt es sich hierbei um Schallemissionen von Verkehrsmitteln, also Lärm, ausgehend vom **Straßen-, Schienen-** und **Flugverkehr** sowie Lärm, der von **Industrie–** und **Gewerbeanlagen** ausgeht.
