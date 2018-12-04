@@ -1,12 +1,22 @@
 ---
 title: 'Page not Found'
-robots: 'noindex,nofollow'
-template: error
-routable: false
-http_response_code: 404
-twig_first: true
+media_order: 404.jpg
 process:
+    markdown: true
     twig: true
+twig_first: true
+routable: false
+template: error
+twitterenable: true
+twittercardoptions: summary
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+personenabled: false
+facebookenable: true
+robots: 'noindex,nofollow'
+http_response_code: 404
 ---
 
 {{ 'PLUGIN_ERROR.ERROR_MESSAGE'|t }}
