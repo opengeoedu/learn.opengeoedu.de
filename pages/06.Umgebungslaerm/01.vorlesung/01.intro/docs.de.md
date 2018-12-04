@@ -1,10 +1,20 @@
 ---
-title: Lernziele und Struktur der Lerneinheit
-menu: Lernziele
+title: 'Lernziele und Struktur der Lerneinheit'
+published: false
 taxonomy:
     category:
         - docs
+menu: Lernziele
+twitterenable: true
+twittercardoptions: summary
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+personenabled: false
+facebookenable: true
 ---
+
 ## Autor der Lerneinheit
 <div class="row align-items-center">
   <div class="col-sm-3" markdown="1">![Lorenzen-Zabel](..\..\..\images\staff\Lorenzen-Zabel_1370a.jpg?lightbox=800&resize=300&classes=caption "Dipl.-Geograph Axel Lorenzen-Zabel")</div>
