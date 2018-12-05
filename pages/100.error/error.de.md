@@ -6,6 +6,7 @@ process:
     twig: true
 twig_first: true
 routable: false
+visible: false
 template: error
 twitterenable: true
 twittercardoptions: summary
