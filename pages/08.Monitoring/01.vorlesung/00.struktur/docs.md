@@ -26,8 +26,8 @@ taxonomy:
 
 Die Vorlesung besteht aus 7 Kapiteln. Innerhalb der Vorlesungsinhalte finden Sie folgende Elemente:
 
-! Links und Verweise auf Literatur oder Webseiten
+! 
 
-!! Gedankenanstöße
+!! 
 
-!!!! Fragen zum Selbsttest zu Beginn jedes Kapitels
+!!!
