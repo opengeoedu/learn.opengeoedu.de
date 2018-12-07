@@ -14,7 +14,7 @@ personenabled: false
 facebookenable: true
 ---
 
-# Einführung in Geo-Informationssysteme
+# Einführung in <br>Geo-Informationssysteme
 
 [owl-carousel items=1 loop=false autoplay=true autoplayHoverPause=true margin=10 responsive=false]
 [plugin:youtube](https://youtu.be/BEttcbmRMvE)
