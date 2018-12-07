@@ -30,7 +30,7 @@ Analysemethoden lassen sich grob in 6 Gruppen einteilen (zu Details vergleiche B
 <br>
 1. Topologische Methoden bauen auf Nachbarschaftsbeziehungen auf; sie nutzen im Wesentlichen die Graphentheorie als mathematische Grundlage. Mit ihnen lassen sich Nachbarschaftsbeziehungen (zwei Flurstücke grenzen aneinander) ohne Nutzung von Koordinaten ausdrücken. Bekannte Funktion ist die Berechnung der kürzesten Wege in einem Netz (z. B. einem Leitungsnetz).
 1. Mengenmethoden setzen auf der Booleschen und relationalen Algebra auf. Sie dienen der Eingrenzung selektiver Abfragen auf dem Datenbestand (z. B. alle Flurstücke größer als 1.000qm und zur Bebauung geeignet). Typische Funktionen sind aber auch die Sortierung von Daten (z. B. der Größe oder dem Alphabet nach) zur Listenausgabe.<br>
-[div class="text-center]style="width:300px"[plugin:youtube](https://youtu.be/VrKVnoOtX5g)[center]Aggregation[/center][/div]<br>
+[div class="text-center" style="width:300px"][plugin:youtube](https://youtu.be/VrKVnoOtX5g)[center]Aggregation[/center][/div]<br>
 1. Statistische Methoden sind in der Wahrscheinlichkeitstheorie und Stochastik begründet. Die angebotenen Funktionen reichen von der einfachen beschreibenden Statistik (z. B. mittlere Größe der Flurstücke im Gemeindegebiet) über die induktive Statistik bis hin zur Geostatistik (z. B. Interpolation von Grundwasserständen in einer Gemeinde mittels Kriging).
 <br>
 [plugin:youtube](https://youtu.be/cq7MHmDq4a8)[center]Boxploterstellung[/center]
