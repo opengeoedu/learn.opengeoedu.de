@@ -9,6 +9,7 @@ taxonomy:
 [center]
 ![](/images/exercise.png?resize=200,200)
 [/center]
+-->
 
 
 # Sorry!
