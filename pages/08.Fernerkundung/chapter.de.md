@@ -4,6 +4,7 @@ taxonomy:
     category:
         - docs
 ---
+
 ### OpenGeoEdu Fallbeispiel
 
 # Fernerkundung
