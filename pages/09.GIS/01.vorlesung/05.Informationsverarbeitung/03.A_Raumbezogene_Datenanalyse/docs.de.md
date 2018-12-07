@@ -23,6 +23,11 @@ Analysemethoden lassen sich grob in 6 Gruppen einteilen (zu Details vergleiche B
 
 1. Geometrische Methoden beruhen im Wesentlichen auf mathematischen Grundlagen der Geometrie. Sie sind durch das Rechnen mit Koordinaten ausgezeichnet. Wichtige Funktionen sind die Abstands- und Flächenberechnung (z. B. für Flurstücke einer Kommune), die Zonengenerierung (z. B. um eine geplante Trasse), die Punkt-im-Polygon-Prüfung (z. B. Messstellen in einem Ortsteil), die Flächenverschneidung (z. B. Flurstücke mit Realnutzung) und die Dreiecksvermaschung (z. B. Digitale Geländemodelle).<br>
 <br>
+[owl-carousel items=1 loop=true autoplay=true autoplayHoverPause=true margin=15 responsive={0:{items:1},640:{items:2},1900:{items:3}}]
+[plugin:youtube](https://youtu.be/BEttcbmRMvE)[center]Point-in-Polygon[/center]
+[plugin:youtube](https://youtu.be/zW0w5CVujUs)[center]Flächenverschneidung[/center]
+[/owl-carousel]
+
 [div style="width:300px"][plugin:youtube](https://youtu.be/BEttcbmRMvE)[center]Point-in-Polygon[/center][/div][div style="width:300px"][plugin:youtube](https://youtu.be/zW0w5CVujUs)[center]Flächenverschneidung[/center][/div]<br>
 1. Topologische Methoden bauen auf Nachbarschaftsbeziehungen auf; sie nutzen im Wesentlichen die Graphentheorie als mathematische Grundlage. Mit ihnen lassen sich Nachbarschaftsbeziehungen (zwei Flurstücke grenzen aneinander) ohne Nutzung von Koordinaten ausdrücken. Bekannte Funktion ist die Berechnung der kürzesten Wege in einem Netz (z. B. einem Leitungsnetz).
 1. Mengenmethoden setzen auf der Booleschen und relationalen Algebra auf. Sie dienen der Eingrenzung selektiver Abfragen auf dem Datenbestand (z. B. alle Flurstücke größer als 1.000qm und zur Bebauung geeignet). Typische Funktionen sind aber auch die Sortierung von Daten (z. B. der Größe oder dem Alphabet nach) zur Listenausgabe.<br>
