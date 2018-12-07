@@ -22,15 +22,10 @@ Die Datenanalyse ist das Herzstück eines GIS. Hierzu gehören Funktionen wie di
 Analysemethoden lassen sich grob in 6 Gruppen einteilen (zu Details vergleiche Bill, 2016, Kapitel 7):
 
 1. Geometrische Methoden beruhen im Wesentlichen auf mathematischen Grundlagen der Geometrie. Sie sind durch das Rechnen mit Koordinaten ausgezeichnet. Wichtige Funktionen sind die Abstands- und Flächenberechnung (z. B. für Flurstücke einer Kommune), die Zonengenerierung (z. B. um eine geplante Trasse), die Punkt-im-Polygon-Prüfung (z. B. Messstellen in einem Ortsteil), die Flächenverschneidung (z. B. Flurstücke mit Realnutzung) und die Dreiecksvermaschung (z. B. Digitale Geländemodelle).<br>
-<br>
-[div style="width:400px"]
-
 [owl-carousel items=1 loop=false autoplay=true autoplayHoverPause=true margin=15 responsive={0:{items:1},640:{items:2}}]
 [div][plugin:youtube](https://youtu.be/BEttcbmRMvE)Point-in-Polygon[/div]
 [div][plugin:youtube](https://youtu.be/zW0w5CVujUs)Flächenverschneidung[/div]
 [/owl-carousel]
-
-[/div]
 <br>
 1. Topologische Methoden bauen auf Nachbarschaftsbeziehungen auf; sie nutzen im Wesentlichen die Graphentheorie als mathematische Grundlage. Mit ihnen lassen sich Nachbarschaftsbeziehungen (zwei Flurstücke grenzen aneinander) ohne Nutzung von Koordinaten ausdrücken. Bekannte Funktion ist die Berechnung der kürzesten Wege in einem Netz (z. B. einem Leitungsnetz).
 [div class="mx-auto" style="width:300px"][plugin:youtube](https://youtu.be/VrKVnoOtX5g)[center]Aggregation[/center][/div]<br>
