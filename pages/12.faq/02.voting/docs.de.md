@@ -13,8 +13,8 @@ personenabled: false
 facebookenable: true
 ---
 
-----
 ### [center]Hier werden Ideen für weitere Fallbeispiele gesammelt und zur Abstimmung gestellt[/center]
+___
 
 
 
