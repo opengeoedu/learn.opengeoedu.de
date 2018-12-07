@@ -24,8 +24,8 @@ Analysemethoden lassen sich grob in 6 Gruppen einteilen (zu Details vergleiche B
 1. Geometrische Methoden beruhen im Wesentlichen auf mathematischen Grundlagen der Geometrie. Sie sind durch das Rechnen mit Koordinaten ausgezeichnet. Wichtige Funktionen sind die Abstands- und Flächenberechnung (z. B. für Flurstücke einer Kommune), die Zonengenerierung (z. B. um eine geplante Trasse), die Punkt-im-Polygon-Prüfung (z. B. Messstellen in einem Ortsteil), die Flächenverschneidung (z. B. Flurstücke mit Realnutzung) und die Dreiecksvermaschung (z. B. Digitale Geländemodelle).<br>
 <br>
 [owl-carousel items=1 loop=true autoplay=true autoplayHoverPause=true margin=15 responsive={0:{items:1},640:{items:2},1900:{items:3}}]
-[plugin:youtube](https://youtu.be/BEttcbmRMvE)[center]Point-in-Polygon[/center]
-[plugin:youtube](https://youtu.be/zW0w5CVujUs)[center]Flächenverschneidung[/center]
+[plugin:youtube](https://youtu.be/BEttcbmRMvE)Point-in-Polygon
+[plugin:youtube](https://youtu.be/zW0w5CVujUs)Flächenverschneidung
 [/owl-carousel]
 
 [div style="width:300px"][plugin:youtube](https://youtu.be/BEttcbmRMvE)[center]Point-in-Polygon[/center][/div][div style="width:300px"][plugin:youtube](https://youtu.be/zW0w5CVujUs)[center]Flächenverschneidung[/center][/div]<br>
