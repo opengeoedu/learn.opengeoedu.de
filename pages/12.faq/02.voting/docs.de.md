@@ -17,6 +17,7 @@ facebookenable: true
 ! [center]Hier werden Ideen für weitere Fallbeispiele gesammelt und zur Abstimmung gestellt[/center]
 
 
+
 {{ thumbs(1) }}
 Anpassung der Seite für Voting
 
