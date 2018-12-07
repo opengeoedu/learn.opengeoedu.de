@@ -11,7 +11,4 @@ personenabled: false
 facebookenable: true
 ---
 
-# test2
-! test
-
-!! bla
+<p># test2 ! test !! bla</p>
