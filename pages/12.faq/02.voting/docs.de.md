@@ -14,7 +14,7 @@ facebookenable: true
 ---
 
 ----
-! [center]Hier werden Ideen für weitere Fallbeispiele gesammelt und zur Abstimmung gestellt[/center]
+### [center]Hier werden Ideen für weitere Fallbeispiele gesammelt und zur Abstimmung gestellt[/center]
 
 
 
