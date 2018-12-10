@@ -36,10 +36,10 @@ Die Inhalte des Online-Kurses sind mit der CreativeCommons-Lizenz <code>cc-by-sa
 <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">CC BY-SA 4.0</a>.
 
 Bitte beachten Sie: 
-* den Urheber bennenen 
-* Link zum Inhalt (<i>Geo-Informationssysteme</i> verweist als Link auf den Inhalt <code>https://learn.opengeoedu.de/gis/vorlesung</code>)
-* und <i>CC&nbsp;BY-SA&nbsp;4.0</i> als Link auf die allgemeinverständliche Zusammenfassung
-<code>https://creativecommons.org/licenses/by-sa/4.0/</code>
+* Urheber bennenen (<i>OpenGeoEdu</i> ist ein Link auf `https://www.opengeoedu.de`)
+* Link zum Inhalt (<i>Geo-Informationssysteme</i> verweist als Link auf den Inhalt `https://learn.opengeoedu.de/gis/vorlesung`)
+* Lizenz (<i>CC&nbsp;BY-SA&nbsp;4.0</i> als Link auf die allgemeinverständliche Zusammenfassung
+`https://creativecommons.org/licenses/by-sa/4.0/`)
 [/ui-accordion-item]
 [/ui-accordion]
 
