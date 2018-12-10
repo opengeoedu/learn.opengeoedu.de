@@ -1,6 +1,6 @@
 ---
 title: vorlesung
-published: true
+published: false
 twitterenable: true
 twittercardoptions: summary
 orgaenabled: false
