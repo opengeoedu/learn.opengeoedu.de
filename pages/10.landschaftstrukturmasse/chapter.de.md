@@ -1,5 +1,5 @@
 ---
-title: landschaftstrukturmasse
+title: Landschaftstrukturmasse
 twitterenable: true
 twittercardoptions: summary
 orgaenabled: false
