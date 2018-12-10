@@ -31,6 +31,7 @@ Das konkrete Kursangebot finden Sie unter dem Menüpunkt [„Übersicht“](/ueb
 
 [ui-accordion-item title="Wie zitiere ich OpenGeoEdu korrekt?"]
 Die Inhalte des Online-Kurses sind mit der CreativeCommons-Lizenz <code>cc-by-sa</code> freigegeben und wie folgt (z.B. für den Kursteil „Geo-Informationssysteme“) zu zitieren:
+
 <a href="https://www.opengeoedu.de">OpenGeoEdu</a>, 
 <a href="https://learn.opengeoedu.de/gis">Geo-Informationssysteme</a>, 
 <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">CC BY-SA 4.0</a>.
