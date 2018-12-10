@@ -30,11 +30,10 @@ Das konkrete Kursangebot finden Sie unter dem Menüpunkt [„Übersicht“](/ueb
 [/ui-accordion-item]
 
 [ui-accordion-item title="Wie zitiere ich OpenGeoEdu korrekt?"]
-Die Inhalte des Online-Kurses sind mit der CreativeCommons-Lizenz <code>cc-by-sa</code> freigegeben und wie folgt (z.B. für den Kursteil „Geo-Informationssysteme“) zu zitieren:
+Die Inhalte des Online-Kurses sind mit der CreativeCommons-Lizenz <code>cc-by-sa</code> freigegeben und wie folgt zu zitieren: <a href="https://www.opengeoedu.de">OpenGeoEdu</a>, <a href="https://learn.opengeoedu.de/gis/vorlesung/informationsverarbeitung/a_raumbezogene_datenanalyse">Geo-Informationssysteme</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">CC BY-SA 4.0</a>.
 
-> Topologische Methoden bauen auf Nachbarschaftsbeziehungen auf; sie nutzen im Wesentlichen die Graphentheorie als mathematische Grundlage. 
-<cite><a href="https://www.opengeoedu.de">OpenGeoEdu</a>, <a href="https://learn.opengeoedu.de/gis/vorlesung/informationsverarbeitung/a_raumbezogene_datenanalyse">Geo-Informationssysteme</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">CC BY-SA 4.0</a>.</cite>
-
+Dazu Ein Beispiel:
+> Topologische Methoden bauen auf Nachbarschaftsbeziehungen auf; sie nutzen im Wesentlichen die Graphentheorie als mathematische Grundlage.  <cite><a href="https://www.opengeoedu.de">OpenGeoEdu</a>, <a href="https://learn.opengeoedu.de/gis/vorlesung/informationsverarbeitung/a_raumbezogene_datenanalyse">Geo-Informationssysteme</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">CC BY-SA 4.0</a>.</cite>
 
 Bitte beachten Sie: 
 * Urheber bennenen (<i>OpenGeoEdu</i> ist ein Link auf `https://www.opengeoedu.de`)
