@@ -20,8 +20,8 @@ facebookenable: true
 Das Projekt OpenGeoEdu soll die Nutzung offener Datenangebote in raumbezogenen Studiengängen anhand von Best-practice-Beispielen illustrieren und darauf aufbauend e-Learning-Angebote für die Integration in solchen Studiengängen bereitstellen. Im Sinne der data-driven-science sollen unterschiedlichste Datenquellen miteinander fusioniert werden und mittels GIS-Analyse- und Visualisierungsmethoden verarbeitet werden. Somit dient das Projekt dazu, den offenen Datenschatz für die Wissenschaft zu heben und vielfältige Anwendungs- und Vernetzungsmöglichkeiten für Forschung und Lehre zu identifizieren. Neben verschiedenen Produkten wie dem [Datenportal zu offenen Daten](https://portal.opengeoedu.de/) ist ein wesentlicher Baustein von OpenGeoEdu der [offene Onlinekurs](https://www.opengeoedu.de/learn/). Dieser richtet sich an Studierende, Nachwuchswissenschaftler, Lehrende und Praktiker, die sich mit offenen Geodaten für raumbezogene Fragestellungen vertraut machen wollen.
 [/ui-accordion-item]
 
-[ui-accordion-item title="Was sind offene Onlinekurse?"]
-Offene Onlinekurse sind umfangreiche Lernangebote, die zur kostenfreien Nutzung bereitgestellt werden. Üblicherweise werden solche Kurse über einen definierten Zeitraum von Fachdozenten betreut – wir nennen dies den aktiven Kurszeitraum. Im Anschluss daran stehen die Inhalte für das individuelle Selbststudium zur Verfügung – eine fachliche Betreuung findet dann nicht mehr statt. Die Kurse dienen der Diskussion wissenschaftlicher und gesellschaftlich relevanter Themenkomplexe für eine breite Zielgruppe. Die Lerninhalte sind in Form von Videovorlesungen, Skripten und multimedialen Inhalten aufbereitet. Im aktiven Kurszeitraum bieten wir für den fachlichen Austausch Diskussionsforen und Online-Sprechstunden mit den Lehrenden an. Lernende können Ihren Lernfortschritt über Lerntests nachvollziehen und sich die Teilnahme während des aktiven Kurszeitraums bescheinigen lassen.
+[ui-accordion-item title="Was sind offene Online-Kurse?"]
+Offene Online-Kurse sind umfangreiche Lernangebote, die zur kostenfreien Nutzung bereitgestellt werden. Üblicherweise werden solche Kurse über einen definierten Zeitraum von Fachdozenten betreut – wir nennen dies den aktiven Kurszeitraum. Im Anschluss daran stehen die Inhalte für das individuelle Selbststudium zur Verfügung – eine fachliche Betreuung findet dann nicht mehr statt. Die Kurse dienen der Diskussion wissenschaftlicher und gesellschaftlich relevanter Themenkomplexe für eine breite Zielgruppe. Die Lerninhalte sind in Form von Videovorlesungen, Skripten und multimedialen Inhalten aufbereitet. Im aktiven Kurszeitraum bieten wir für den fachlichen Austausch Diskussionsforen und Online-Sprechstunden mit den Lehrenden an. Lernende können Ihren Lernfortschritt über Lerntests nachvollziehen und sich die Teilnahme während des aktiven Kurszeitraums bescheinigen lassen.
 
 Der OpenGeoEdu-Kurs kann von Einsteigern wie auch Fortgeschrittenen besucht werden, da er unterschiedliche Niveaus der Bearbeitung anbietet. Große Teile des Kurses werden vollkommen offen angeboten. Erst mit dem Interesse, konkrete Fallbeispiele bearbeiten zu wollen bzw. an Tests und Übungen teilnehmen zu wollen, muss eine [Registrierung](https://ilias.opengeoedu.de/ilias/ilias.php?lang=de&client_id=opengeoedu&cmdClass=ilaccountregistrationgui&cmdNode=ta:y&baseClass=ilStartUpGUI) erfolgen, um die erzielten Ergebnisse nachvollziehbar zu machen und entsprechende Nachweise (vom Teilnahmeschein bis zum benoteten Nachweis eines bestimmten Kreditpunkteumfangs) ausstellen zu können. Studierende können diese an Ihren Hochschulen als Leistungsnachweise für ihre Studiengänge anerkennen lassen.
 
@@ -35,8 +35,10 @@ Die Inhalte des Online-Kurses sind mit der CreativeCommons-Lizenz <code>cc-by-sa
 <a href="https://learn.opengeoedu.de/gis">Geo-Informationssysteme</a>, 
 <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">CC BY-SA 4.0</a>.
 
-Bitte beachten Sie: <i>Geo-Informationssysteme</i> verweist als Link auf den Inhalt <code>https://learn.opengeoedu.de/gis/vorlesung</code>
-und <i>CC&nbsp;BY-SA&nbsp;4.0</i> als Link auf die allgemeinverständliche Zusammenfassung
+Bitte beachten Sie: 
+* den Urheber bennenen 
+* Link zum Inhalt (<i>Geo-Informationssysteme</i> verweist als Link auf den Inhalt <code>https://learn.opengeoedu.de/gis/vorlesung</code>)
+* und <i>CC&nbsp;BY-SA&nbsp;4.0</i> als Link auf die allgemeinverständliche Zusammenfassung
 <code>https://creativecommons.org/licenses/by-sa/4.0/</code>
 [/ui-accordion-item]
 [/ui-accordion]
