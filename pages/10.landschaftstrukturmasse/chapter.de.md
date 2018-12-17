@@ -1,5 +1,6 @@
 ---
 title: Landschaftstrukturmasse
+menu: Landschaftsstrukturmaße
 twitterenable: true
 twittercardoptions: summary
 orgaenabled: false
