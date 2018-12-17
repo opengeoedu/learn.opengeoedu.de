@@ -12,6 +12,7 @@ orga:
 orgaratingenabled: false
 personenabled: false
 facebookenable: true
+
 ---
 
 ## GRAV Grundlagen
