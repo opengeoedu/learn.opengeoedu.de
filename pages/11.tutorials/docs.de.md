@@ -59,9 +59,8 @@ Verfügbar sind:
 </div>
 <div class="row align-items-center">
     <div class="col-sm-9">
-        <h4>Das UML-Klassendiagramm</h4>
-        <p class="text-justify">In dieser Lerneinheit sollen Sie die in dem Vorlesungstutorial erlernten Grundlagen zum
-            UML-Klassendiagramm praktisch anwenden.</p>
+        <h4>UML-Klassen- und Aktivitätsdiagramm</h4>
+        <p class="text-justify">In dieser Lerneinheit sollen Sie die in dem Vorlesungstutorial erlernten Grundlagen zum UML-Klassen- und UML-Aktivitätsdiagramm praktisch anwenden.</p>
         <p markdown="1">Download des Tutorials [Klassendiagramm](OGE-Tutorial_UML_%C3%9Cbung.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1"></div>
