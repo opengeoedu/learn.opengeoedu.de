@@ -12,4 +12,7 @@ Zum anderen führt sie europaweit einheitliche Methoden für die Berechnung und 
 So sollen die Ergebnisse vergleichbar werden, damit Maßnahmen besser abgestimmt werden können.
 
 
-[^1]: https://www.umweltbundesamt.de/publikationen/laerm-unterschaetzte-risiko
+[^1]: https://www.umweltbundesamt.de/publikationen/laerm-unterschaetzte-risiko 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NjU5MzE3NzJdfQ==
+-->
