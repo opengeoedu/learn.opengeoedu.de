@@ -12,12 +12,3 @@ Da das Ohr mit seinen nachgeschalteten Verarbeitungsebenen im Gehirn immer, selb
 Einerseits soll der Belastung der Bevölkerung durch den Verkehrslärm mit all seinen negativen Auswirkungen, insbesondere Gesundheitsschäden, entgegengewirkt werden.
 Zum anderen führt sie europaweit einheitliche Methoden für die Berechnung und Bewertung von Umgebungslärm ein.
 So sollen die Ergebnisse vergleichbar werden, damit Maßnahmen besser abgestimmt werden können.
-<<<<<<< HEAD
-=======
-
-
-[^1]: https://www.umweltbundesamt.de/publikationen/laerm-unterschaetzte-risiko 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjU5MzE3NzJdfQ==
--->
->>>>>>> 21e24654dc3a2b4d5775a00f9e286f5545a93363
