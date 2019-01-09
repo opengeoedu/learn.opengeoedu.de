@@ -13,4 +13,6 @@ LEMnet Europe e. V. betreibt seit 2013 eine umfangreiche und qualitativ hochwert
 
 Aber auch in OpenStreetMap sind Ladestationen zu finden, in OpenChargeMap sogar noch etwas mehr.
 
-!!! Schauen Sie sich auf den Seiten von Lemnet um. Suchen Sie nach weiteren Webseiten, in denen Daten zu Ladestationen angeboten werden. Warum unterscheiden sich die Zahlen zwischen den Angeboten so stark?
+!! Schauen Sie sich auf den Seiten von Lemnet um. Suchen Sie nach weiteren Webseiten, in denen Daten zu Ladestationen angeboten werden.
+
+!!!! Warum unterscheiden sich die Zahlen zwischen den Angeboten so stark?
