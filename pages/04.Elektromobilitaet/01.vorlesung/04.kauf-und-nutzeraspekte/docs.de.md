@@ -47,4 +47,4 @@ Stationsanbieter arbeiten an der Verbesserung der Kundenorientierung, z.B. durch
 ! - https://www.goingelectric.de/stromtankstellen/routenplaner/
 ! - https://www.plugfinder.de/
 
-!!! Finden Sie weitere Ladestationen-Apps?
+!! Finden Sie weitere Ladestationen-Apps?
