@@ -16,7 +16,9 @@ Nachfolgende Abbildung deutet als Übersicht das verfügbare Ladenetz in Deutsch
 
 !! Erkunden Sie auf der Seite von Ladenetz.de einmal Ihre lokale Umgebung.
 
-!!!! Welche Daten werden zu den Ladestationen geboten? Ist diese Liste vollständig oder wissen Sie weitere Ladestationen in Ihrer Umgebung, die hier nicht enthalten sind? Woran liegt dies wohl?
+!!!! Welche Daten werden zu den Ladestationen geboten? 
+!!!! Ist diese Liste vollständig oder wissen Sie weitere Ladestationen in Ihrer Umgebung, die hier nicht enthalten sind? 
+!!!! Woran liegt dies wohl?
 
 Anderson u.a. (2016) ermitteln einen Ladeinfrastrukturbedarf für die anvisierten eine Million Elektrofahrzeuge in Deutschland im Jahr 2020 von ca. 33.000 öffentlichen und halböffentlichen Ladepunkte für den Alltagsverkehr, sowie circa 2.600 öffentlichen Ladepunkten für den Fernverkehr. Je nach Ausgestaltung der Normalladeinfrastruktur und angestrebter Versorgungssicherheit sind zusätzlich bis zu etwa 4.000 Schnellladepunkte sinnvoll.
 Forschungen zur Ladeinfrastruktur fokussieren sich nach Anderson, 2016, S. 7 vorzugsweise auf die drei Bereiche Optimierung, Analysen zur räumlichen Verteilung und Empfehlungen zur Aufstellung von Ladestationen. Viele Einflussfaktoren sind nach Anderson, 2016, S. 14 noch nicht ausreichend bekannt, so technische Faktoren (z.B. elektrische Reichweite und Ladegeschwindigkeit), Charakteristika von Nutzern (z.B. Verfügbarkeit von privater Ladeinfrastruktur) oder das Nutzerverhalten in Bezug auf Fahrverhalten und Ladepräferenzen.
