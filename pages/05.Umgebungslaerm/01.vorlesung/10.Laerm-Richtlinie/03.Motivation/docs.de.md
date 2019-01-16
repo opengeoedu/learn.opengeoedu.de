@@ -1,5 +1,6 @@
 ---
 title: 'Motivation'
+published: false
 taxonomy:
     category:
         - docs

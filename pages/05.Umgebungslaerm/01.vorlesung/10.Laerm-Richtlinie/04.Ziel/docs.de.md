@@ -1,5 +1,6 @@
 ---
 title: 'Ziel'
+published: false
 taxonomy:
     category:
         - docs

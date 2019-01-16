@@ -1,11 +1,12 @@
 ---
 title: 'Methodik'
+published: false
 taxonomy:
     category:
         - docs
 ---
 
-## Ausweitung des Umfangs der Umgebungslärmkartierung  
+## Ausweitung des Umfangs der Umgebungslärmkartierung
 |      | 1. Berichtsrunde (2005-2009) | 2. Berichtsrunde (2010-2014) |
 | :------------- | :------------- | :------------- |
 | **Ballungsräume** | >&nbsp;250.000&nbsp;EW | > 100.000 EW |
