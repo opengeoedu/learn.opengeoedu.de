@@ -1,5 +1,6 @@
 ---
 title: 'Was ist Umgebungslärm?'
+published: false
 taxonomy:
     category:
         - docs
