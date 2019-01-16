@@ -4,6 +4,16 @@ taxonomy:
     category:
         - docs
 menu: Umgebungslärm
+googledesc: 'Videos zum Fallbeispiel Umgebungslärm'
+twitterenable: true
+twittercardoptions: summary
+twitterdescription: 'Videos zum Fallbeispiel Umgebungslärm'
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+personenabled: false
+facebookenable: true
 ---
 
 ### OpenGeoEdu Fallbeispiel
