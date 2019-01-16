@@ -5,6 +5,7 @@ taxonomy:
     category:
         - docs
 ---
+
 Einleitend eine Definition im Sinne der "Richtlinie des Europäischen Parlaments und des Rates über die Bewertung und die Bekämpfung von Umgebungslärm":
 
 !!! Unter „Umgebungslärm“ werden die, durch menschliche Aktivitäten induzierte, **belästigende** oder **gesundheitsschädliche** **Geräusche im Freien** subsummiert. Explizit handelt es sich hierbei um Schallemissionen von Verkehrsmitteln, also Lärm, ausgehend vom **Straßen-, Schienen-** und **Flugverkehr** sowie Lärm, der von **Industrie–** und **Gewerbeanlagen** ausgeht.
