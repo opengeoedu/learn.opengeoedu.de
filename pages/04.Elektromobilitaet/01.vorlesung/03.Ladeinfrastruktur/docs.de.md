@@ -8,13 +8,17 @@ taxonomy:
 
 Die unzureichende öffentliche Ladeinfrastruktur stellt ein wesentliches Hindernis für den erfolgreichen Übergang zur Elektromobilität dar. Laut Berechnungen der NPE (2015) sind rund 85 Prozent der benötigten Ladeinfrastruktur private Ladepunkte. Die restlichen 15 Prozent befinden sich im öffentlich zugänglichen Bereich. Die meisten Nutzer nutzen eine private Lademöglichkeit. Wer lange Strecken fährt, lädt unterwegs an derzeit gut 10.700 öffentlich zugänglichen Ladepunkten an 4.730 Ladesäulen, davon 530 Schnellladesäulen (NPE 2017).
 
-Problem sind auch sehr divergierende Angaben zu den verfügbaren Ladestationen. So spricht eine Übersicht des Energiewirtschaftsverbands BDEW im August 2018 von rund 13.000 öffentlichen und teilöffentlichen Ladepunkten an rund 6700 Ladesäulen, immerhin ein Zuwachs von 25 % im letzten Jahr. Die Bundesnetzagentur stellt ein Ladesäulenregister mit knapp 5.500 Ladesäulen zu den im Rahmen der Ladesäulenverordnung (LSV) gemeldeten Daten zur öffentlich zugänglichen Ladeinfrastruktur in Deutschland zum Download bereit.
+Problem sind auch sehr divergierende Angaben zu den verfügbaren Ladestationen. So spricht eine Übersicht des Energiewirtschaftsverbands BDEW im August 2018 von rund 13.000 öffentlichen und teilöffentlichen Ladepunkten an rund 6700 Ladesäulen, immerhin ein Zuwachs von 25 % im letzten Jahr. Die Bundesnetzagentur stellt ein <a href="https://netzausbau.maps.arcgis.com/apps/webappviewer/index.html?id=0b5ca416de8445e4b68666a202f0f833">Ladesäulenregister</a> mit knapp 7.343 Ladesäulen (Stand Januar 2019) zu den im Rahmen der Ladesäulenverordnung (LSV) gemeldeten Daten zur öffentlich zugänglichen Ladeinfrastruktur in Deutschland zum [Download](https://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/HandelundVertrieb/Ladesaeulenkarte/Ladesaeulenkarte_node.html)(CC-BY 4.0) bereit.
 
+[![Ladesäulenregister (BNetzA)](ladesaeulenregister_BNetzA.jpg?classes=caption "Ladesäulenregister der BNetzA (Januar 2019)")]((https://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/HandelundVertrieb/Ladesaeulenkarte/Ladesaeulenkarte_node.html))
+
+<!-- 
 Nachfolgende Abbildung deutet als Übersicht das verfügbare Ladenetz in Deutschland und den Benelux-Ländern an (http://maps.ladenetz.de/).
 
 [![](ladenetz.png?classes=caption "Ladenetz DACH- und Benelux-Länder (Juni 2018) [http://maps.ladenetz.de/](http://maps.ladenetz.de/)")](http://maps.ladenetz.de/)
+-->
 
-!! Erkunden Sie auf der Seite von Ladenetz.de einmal Ihre lokale Umgebung.
+!! Erkunden Sie einmal Ihre lokale Umgebung.
 
 
 !!!! Welche Daten werden zu den Ladestationen geboten? <br> 
