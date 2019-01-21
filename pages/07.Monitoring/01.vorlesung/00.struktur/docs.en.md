@@ -1,5 +1,5 @@
 ---
-title: 'Leaning Objective and Structure'
+title: 'Learning Objective and Structure'
 taxonomy:
     category:
       - docs
