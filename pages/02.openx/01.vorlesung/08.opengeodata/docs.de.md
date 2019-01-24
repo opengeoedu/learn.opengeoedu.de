@@ -3,6 +3,8 @@ title: 'Offene Geodaten'
 taxonomy:
     category:
         - docs
+anchors:
+    active: false
 ---
 Da sich OpenGeoEdu überwiegend mit der Behandlung von Geodaten auseinandersetzt, sollen an dieser Stelle kurz zwei Aspekte der Offenheit bei Geodaten angedeutet werden, die an anderen Stellen im Kurs vertieft werden.
 
