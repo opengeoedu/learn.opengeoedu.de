@@ -22,9 +22,9 @@ function frame() {
     else
      e1.innerHTML = "<b>"+adetext[5 - pos ]+"</b> - "+captiontext[5 - pos ];
     var img1 = document.getElementById("vwgeb_de");
-    img1.src="/images/opendata_vwg/vwgeb_de/Rplot"+(pos+1)+".png";
+    img1.src="/images/vwgeb_de/Rplot"+(pos+1)+".png";
     var img2 = document.getElementById("vwgl_de");
-    img2.src="/images/opendata_vwg/vwgl_de/ags"+(pos)+".png";
+    img2.src="/images/vwgl_de/ags"+(pos)+".png";
     var array = document.getElementsByClassName("division_"+pos);
     for (var index = 0; index < array.length; index++) {
         var textElement = array[index];

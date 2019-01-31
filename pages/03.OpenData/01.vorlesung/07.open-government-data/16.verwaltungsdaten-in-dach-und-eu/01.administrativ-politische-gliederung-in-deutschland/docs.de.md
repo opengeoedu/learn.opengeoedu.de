@@ -22,7 +22,8 @@ slug: adm_de
     }
 
 </style>
-{assets:js order:10}animate.js{/assets}
+
+
 
 Die administrativ-politische Gliederung in Deutschland ist hierarchisch aufgebaut ([https://www.haushaltssteuerung.de/lexikon.html](https://www.haushaltssteuerung.de/lexikon.html)).
 
@@ -33,8 +34,9 @@ Die administrativ-politische Gliederung in Deutschland ist hierarchisch aufgebau
   <div class="col" markdown="1">
   ![](vwgl_de/ags_all.png?id=vwgl_de)
   </div>
-  <div id="description">&nbsp;</div>
+
 </div>
+  <div id="description" align="middle">Politisch-administrative Gliederung Deutschlands</div>
 
 [ui-accordion independent=true open=none classes="figureattributes, figure-left"]
 [ui-accordion-item title="Bundesländer"]
@@ -110,3 +112,7 @@ Gnädiger, Anreas & Gnädinger, Marc: Haushaltssteuerung.de – Portal zur öffe
 Statistisches Bundesamt (2013)[Hrsg.]: Glossar statistischer Fachbegriffe - Glossary of  statistical terms. Wiesbaden. (online unter: [https://www.destatis.de/GPStatistik/servlets/MCRFileNodeServlet/DEMonografie_derivate_00000180/GlossarStatFachbegriffeDE.pdf](https://www.destatis.de/GPStatistik/servlets/MCRFileNodeServlet/DEMonografie_derivate_00000180/GlossarStatFachbegriffeDE.pdf))
 
 EUROSTAT (online unter: [http://ec.europa.eu/eurostat/de](http://ec.europa.eu/eurostat/de))
+
+
+<script src="animate.js"></script>
+<!--{assets:js order:10}animate.js{/assets}-->
