@@ -5,7 +5,6 @@ taxonomy:
         - docs
 ---
 
-
 Es gibt viele positive Aspekte von Open Data, die unsere Gesellschaft bereichern, aber auch kritische Bedenken, die immer wieder geäußert werden. Außerdem gibt es viele Hürden für Einrichtungen, die ihre Daten öffnen wollen. Im Folgenden werden die wichtigsten Positionen zusammengefasst.
 
 
