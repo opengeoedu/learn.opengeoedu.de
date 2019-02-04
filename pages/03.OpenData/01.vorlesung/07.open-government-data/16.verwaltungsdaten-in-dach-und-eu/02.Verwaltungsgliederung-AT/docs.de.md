@@ -26,10 +26,13 @@ slug: adm_at
 Österreich ist ein Bundesstaat, der aus neun Bundesländern besteht. Der Staat hat eine typisch republikanisch-demokratische Verfassung mit einer (gemäßigten) föderalistischen Struktur. Dabei werden vom Gesamtstaat (staatsrechtlich: Oberstaat, umgangssprachlich: "Bund") so wesentliche Aufgaben besorgt wie beispielsweise die Bundesgesetzgebung, die Außen- und Verteidigungspolitik oder die ordentliche Gerichtsbarkeit. Als Gebietskörperschaften fungieren zudem die 9 Bundesstaaten und - als kleinste organisatorische Einheit des Staates - die Gemeinden. Zur eindeutigen Identifizierung der Verwaltungseinheiten dient die 5-stellige Gemeindekennziffer (GKZ) (z.B. Wien 90001). Ihre Vergabe obliegt der Behörde Statistik Austria.
 
 <div class="row align-items-center">
-   <div class="col" markdown="1">
+   <div class="col-md-6"  style="padding:0px">
+   <figure markdown="1" class="image-caption">
   ![](vwgeb_at/Rplot_all.png?id=vwgeb_at)
+  <figcaption>© <a href="http://www.bev.gv.at/">BEV</a> 2018, Verwaltungsgrenzen (VGD)</figcaption>
+  <figure>
   </div>
-  <div class="col" markdown="1">
+  <div class="col-md-6" markdown="1">
   ![](vwgl_at/vwgl_at_all.png?id=vwgl_at)
   </div>
 

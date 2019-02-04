@@ -29,11 +29,15 @@ Die Schweiz ist seit 1948 ein föderalistischer Bundesstaat, bezeichnet auch als
 
 
 <div class="row align-items-center">
-   <div class="col" markdown="1">
+   <div class="col-md-6 image-caption" style="padding:0px">
+   <figure class="image-caption" markdown="1">
   ![](vwgeb_ch/Rplot_all.png?id=vwgeb_ch)
+    <figcaption>Quelle: <a href="https://www.swisstopo.admin.ch/">Bundesamt für Landestopografie</a>, 2018 (swissBoundaries3D)</figcaption>
+    </figure>
   </div>
-  <div class="col" markdown="1">
+  <div class="col-md-6" markdown="1">
   ![](vwgl_ch/ch_vwgl_all.png?id=vwgl_ch)
+
   </div>
 
 </div>

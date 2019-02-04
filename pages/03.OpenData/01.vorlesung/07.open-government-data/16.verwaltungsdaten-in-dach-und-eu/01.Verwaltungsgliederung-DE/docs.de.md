@@ -30,10 +30,13 @@ Die administrativ-politische Gliederung in Deutschland ist hierarchisch aufgebau
 Die Verwaltungsebenen sind mit Ausnahme der Regierungsbezirksebene flächendeckend aufgebaut. Hierfür sind die kreisfreien Städte zusätzlich in die Gemeinde- und Verwaltungsgemeinschaftsebene und die gemeinschaftsfreien Gemeinden in die Verwaltungsgemeinschaftsebene aufgenommen worden (schrafierte Elemente).
 
 <div class="row align-items-center">
-   <div class="col-5" markdown="1">
+   <div class="col-md-5" style="padding:0">
+      <figure class="image-caption" markdown="1">
   ![](vwgeb_de/Rplot1.png?id=vwgeb_de)
+  <figcaption>© GeoBasis-DE / <a href="http://www.bkg.bund.de">BKG</a> 2018 (Produkt VG250)</figcaption>
+  </figure>
   </div>
-  <div class="col" markdown="1">
+  <div class="col-md-7" markdown="1">
   ![](vwgl_de/ags_all.png?id=vwgl_de)
   </div>
 
