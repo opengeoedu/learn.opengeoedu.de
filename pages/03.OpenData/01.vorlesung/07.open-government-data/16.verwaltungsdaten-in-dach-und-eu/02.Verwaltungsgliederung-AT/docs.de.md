@@ -1,12 +1,12 @@
 ---
-title: 'Verwaltunggliederung in Österreichs'
+title: 'Verwaltungsgliederung Österreichs'
 taxonomy:
     category:
         - docs
 menu: 'Verwaltungsliederung AT'
 slug: adm_at
 ---
-
+<!-- Farbgebung Österreich "Yellow1": #ffff00-->
 <style>
     .figureattributes{
         max-width:600px;
@@ -23,21 +23,14 @@ slug: adm_at
 
 </style>
 
-5-stellige Gemeindekennziffer (GKZ)
-(z.B. Wien 90001)
-
-Die administrativ-politische Gliederung in Österreich ist hierarchisch aufgebaut ([https://www.haushaltssteuerung.de/lexikon.html](https://www.haushaltssteuerung.de/lexikon.html)).
-
-Die Verwaltungsebenen sind mit Ausnahme der Regierungsbezirksebene flächendeckend aufgebaut.
-Hierfür sind die kreisfreien Städte zusätzlich in die Gemeinde- und Verwaltungsgemeinschaftsebene und
-die gemeinschaftsfreien Gemeinden in die Verwaltungsgemeinschaftsebene aufgenommen worden.
+Österreich ist ein Bundesstaat, der aus neun Bundesländern besteht. Der Staat hat eine typisch republikanisch-demokratische Verfassung mit einer (gemäßigten) föderalistischen Struktur. Dabei werden vom Gesamtstaat (staatsrechtlich: Oberstaat, umgangssprachlich: "Bund") so wesentliche Aufgaben besorgt wie beispielsweise die Bundesgesetzgebung, die Außen- und Verteidigungspolitik oder die ordentliche Gerichtsbarkeit. Als Gebietskörperschaften fungieren zudem die 9 Bundesstaaten und - als kleinste organisatorische Einheit des Staates - die Gemeinden. Zur eindeutigen Identifizierung der Verwaltungseinheiten dient die 5-stellige Gemeindekennziffer (GKZ) (z.B. Wien 90001). Ihre Vergabe obliegt der Behörde Statistik Austria.
 
 <div class="row align-items-center">
-   <div class="col-5" markdown="1">
-  ![](vwgeb_de/Rplot1.png?id=vwgeb_at)
+   <div class="col" markdown="1">
+  ![](vwgeb_at/Rplot_all.png?id=vwgeb_at)
   </div>
   <div class="col" markdown="1">
-  ![](vwgl_de/ags_all.png?id=vwgl_at)
+  ![](vwgl_at/vwgl_at_all.png?id=vwgl_at)
   </div>
 
 </div>
@@ -50,17 +43,26 @@ die gemeinschaftsfreien Gemeinden in die Verwaltungsgemeinschaftsebene aufgenomm
   [/ui-accordion-item]
 
   [ui-accordion-item title="Länder"]
-
+  Österreich hat 9 Bundesländer, welche eine je Aufgaben der Gesetzgebung und Volziehung besorgen sowie eigene Verfassung haben. Die Länder sind Oberösterreich, Niederösterreich, Wien,  Burgenland,  Steiermark, Kärnten, Salzburg, Tirol, Vorarlberg
   [/ui-accordion-item]
 
   [ui-accordion-item title="Bezirke"]
+  Das Bundesgebiet gliedert sich in 94 Politische Bezirke und zwar 15 Statutarstädte und 79 Landbezirke. Die Politischen Bezirke stellen die unterste Verwaltungseinheit der staatlichen Verwaltung dar.
 
+  (vgl. http://statistik.at/web_de/klassifikationen/regionale_gliederungen/politische_bezirke/index.html)
   [/ui-accordion-item]
 
   [ui-accordion-item title="Gemeinden"]
+  Die Gemeinde in Österreich gilt als eine Gebietskörperschaft mit dem Recht auf Selbstverwaltung und zugleich Verwaltungssprengel. 
+  Die Struktur der österreichischen Gemeinden ist eher klein aufgebaut. Nur wenige Gemeinden österreichweit haben mehr als ein paar tausend Einwohner, die kleinen Gemeinden des ländlichen Raumes dominieren markant die Landschaft.
 
-
+  Die Gemeinden haben - als kleinste organisatorische Einheiten des Staates - keine Gesetzgebungsbefugnis. Sie können aber allgemeine Vorschriften (Verordnungen) erlassen und besorgen viele staatliche Verwaltungsaufgaben. Die Gemeinden sind Selbstverwaltungskörper. Das bedeutet, sie haben einen durch die Bundesverfassung klar definierten und "geschützten" eigenen Wirkungsbereich, in dem die Aufgabenbesorgung weisungsfrei erfolgt. Die Weisungsfreiheit wird durch eine staatliche Aufsicht über die Selbstverwaltungseinrichtung nicht beeinträchtigt.
   [/ui-accordion-item]
+
+<!--  [ui-accordion-item title="Katastralgemeinden"]
+
+
+  [/ui-accordion-item]-->
 
 
   [/ui-accordion]
@@ -68,49 +70,40 @@ die gemeinschaftsfreien Gemeinden in die Verwaltungsgemeinschaftsebene aufgenomm
 
 
   [/ui-tab]
-  [ui-tab title="Gemeindekennzivver (GKS)"]
-  Der **Amtliche Gemeindeschlüssel (AGS)** (früher Amtliche Gemeindekennkennziffer (GKZ) genannt) ist ein von den Statistischen Ämtern der Bundesländer vergebener 8-stelliger Schlüssel zur eindeutigen Identifizierung einer Gemeinde. Alle Statistiken mit regionalem Bezug verwenden in Deutschland diesen Schlüssel, aber auch die Verwaltung nutzt den AGS, z. B. bei der Suche nach der zuständigen Meldebehörde. Der AGS ist systematisch aufgebaut und setzt sich wie folgt zusammen:
+  [ui-tab title="Gemeindekennziffer (GKS) / Gemeindecode (GCD)"]
+Die Gemeindekennziffer besteht jeweils aus 5 Ziffern und sind wie folgt zusammengesetzt:
 
-  <pre style="white-space: pre-wrap;">Bundesland&#160;(2 Stellen), Regierungsbezirk&#160;(1 Stelle), Kreis&#160;(2 Stellen) und Gemeinde&#160;(3 Stellen)</pre>
+<pre style="white-space: pre-wrap;">Bundesland&#160;(1 Stelle), Regierungsbezirk&#160;(2 Stellen), und Gemeinde&#160;(2 Stellen)</pre>
 
-  Die ersten beiden Schlüssel bezeichnen das Bundesland (13=Mecklenburg-Vorpommern, 07=Rheinland-Pfalz). Der dritte bis fünfte Schlüssel identifiziert den Landkreis bzw. die kreisfreie Stadt, dem die Gemeinde angehört. Die ersten fünf Stellen werden daher auch als Kreisschlüssel bezeichnet. Dabei zeigt die dritte Schlüsselstelle bei Ländern, in denen Regierungsbezirke bestehen oder in der Vergangenheit bestanden haben, in der Regel den Bezirk an, während sie in anderen Ländern 0 ist. In Baden-Württemberg zeigt die vierte Schlüsselstelle außerdem an, zu welchem Regionalverband die Gemeinde gehört. Bei den echten Stadtstaaten Hamburg und Berlin stehen an dieser Stelle drei Nullen. Die letzten drei Schlüssel schließlich unterscheiden die Gemeinden innerhalb eines Landkreises. Bei kreisfreien Städten stehen an dieser Stelle drei Nullen.
+Die erste Ziffer der Gemeindekennziffer steht dabei für das Bundesland, die nächsten zwei Ziffern bezeichnen den Bezirk und die letzten beiden Ziffern bezeichnen die Gemeinde. (z.B. Wien 90001, Eisenstadt 10101)
+
+Für statistische Erhebungen ist jeder Gemeinde ein Gemeindecode (GCD) zugeordnet, sowie ein Status (SR = Statutarstadt, ST = Stadtgemeinde, M = Marktgemeinde und blank = Gemeinde ohne Status).
+
+Die 3-stellige Kennziffer des Politischen Bezirkes setzt sich zusammen aus einer Stelle für das Bundesland (1 für Burgenland, 2 für Kärnten, 3 für NÖ, 4 für OÖ, 5 für Salzburg, 6 für Steiermark, 7 für Tirol, 8 für Vorarlberg und 9 für Wien) plus 2-stelliger Laufnummer, wobei die Statutarstädte den Landbezirken vorangestellt sind. 
+
+(vgl. http://statistik.at/web_de/klassifikationen/regionale_gliederungen/politische_bezirke/index.html)
+
 
   [/ui-tab]
-  [ui-tab title="Amtlicher Regionalschlüssel (ARS)"]
+  [ui-tab title="NUTS-Einheiten"]
+  Die NUTS Regionen der Europäischen Statistik sind in Österreich wie folgt aufgebaut:
+  - NUTS 0 entspricht dem Staat Österreichweich (Kürzel AT)
+  - NUTS 1 sind die drei Einheiten Westösterreich, Ostösterreich und Südösterreich
+  - NUTS 2 entspricht den 9 Österreichischen Bundesländern
+  - NUTS 3 besteht innerhalb Österreichs aus 35 Einheiten, welche je mehrere Gemeinden zusammenfassen. Jeder Gemeinde ist einde NUTS 3 Region zugeteilt.
 
-  Außerdem gibt es den zwölfstelligen **Amtlichen Regionalschlüssel (ARS)**, der ähnlich aufgebaut ist, in den aber im Vergleich zum AGS vor den letzten drei Ziffern vier Stellen zur Verschlüsselung der Gemeindeverbände eingefügt sind. Der AGS ist also in den ARS integriert. Angaben auf der Gemeindeverbandsebene (in der EU: LAU 1-Ebene) werden zunehmend für den innereuropäischen und internationalen Vergleich von Eurostat benötigt und von den Statistischen Ämtern des Bundes und der Länder eingefordert. Die Amtliche Statistik in Deutschland strebt langfristig die Ablösung des achtstelligen AGS durch den zwölfstelligen Regionalschlüssel an.
-
-
-  Der Amtliche Regionalschlüssel gliedert sich wie folgt:
-  <pre style="white-space: pre-wrap;">
-  1.–2. Stelle	= Kennzahl des Bundeslandes
-  3. Stelle      	= Kennzahl des Regierungsbezirks; wenn nicht vorhanden: 0
-  4.–5. Stelle   	= Kennzahl des Landkreises oder der kreisfreien Stadt
-  6.–9. Stelle   	= Verbandsschlüssel
-  10.–12. Stelle 	= Gemeindekennzahl
-  </pre>
-
-
-  Die Schlüsselstelle 6 im Verbandsschlüssel (das sogenannte t-Kennzeichen) weist durch die führende Ziffer auf die Art der Gemeinde hin:
-  <pre style="white-space: pre-wrap;">
-  0 - verbandsfreie Gemeinde
-  5 - verbandsangehörige Gemeinde
-  9 - gemeindefreies Gebiet.
-  </pre>
-
-  Bei verbandsfreien Gemeinden wird im Verbandsschlüssel nach der 0 der 3-stellige Gemeindeschlüssel angegeben.
+  Der Stadtstaat Wien entspricht sowohl einer einer eigenen NUTS2-Einheit (AT13) als auch einer eigenen NUTS 3-Einheit (AT130).
 
   [/ui-tab]
+
+
   [/ui-tabs]
 
 ## Literatur
 
-Gnädiger, Anreas & Gnädinger, Marc: Haushaltssteuerung.de – Portal zur öffentlichen Haushalts- und Finanzwirtschaft (online unter: https://www.haushaltssteuerung.de/lexikon.html)
-
-Statistisches Bundesamt (2013)[Hrsg.]: Glossar statistischer Fachbegriffe - Glossary of  statistical terms. Wiesbaden. (online unter: [https://www.destatis.de/GPStatistik/servlets/MCRFileNodeServlet/DEMonografie_derivate_00000180/GlossarStatFachbegriffeDE.pdf](https://www.destatis.de/GPStatistik/servlets/MCRFileNodeServlet/DEMonografie_derivate_00000180/GlossarStatFachbegriffeDE.pdf))
-
-EUROSTAT (online unter: [http://ec.europa.eu/eurostat/de](http://ec.europa.eu/eurostat/de))
+Gemeindebund Österreich: Struktur der Gemeinden (online unter: https://gemeindebund.at/struktur-der-gemeinden/)
+Bundesanstalt Statistik Österreich: Statistik Austria (online unter: http://statistik.at)
 
 
-<!--<script src="animate.js"></script>-->
+<script src="adm_at/animate.js"></script>
 <!--{assets:js order:10}animate.js{/assets}-->

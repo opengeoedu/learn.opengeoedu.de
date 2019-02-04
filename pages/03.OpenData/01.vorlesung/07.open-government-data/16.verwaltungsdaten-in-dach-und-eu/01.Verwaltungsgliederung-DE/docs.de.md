@@ -38,7 +38,8 @@ Die Verwaltungsebenen sind mit Ausnahme der Regierungsbezirksebene flächendecke
   </div>
 
 </div>
-  <div id="description" align="middle">Politisch-administrative Gliederung Deutschlands</div>
+  <div align="middle">Politisch-administrative Gliederung Deutschlands</div>
+  <div id="description" align="middle">&nbsp;</div>
 
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title=" Administrative Einheiten"]

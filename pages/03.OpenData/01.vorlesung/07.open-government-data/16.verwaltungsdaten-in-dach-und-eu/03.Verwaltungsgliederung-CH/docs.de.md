@@ -1,11 +1,13 @@
 ---
-title: 'Verwaltunggliederung in der Schweiz'
+title: 'Verwaltungsgliederung in der Schweiz'
 taxonomy:
     category:
         - docs
 menu: 'Verwaltungsliederung CH'
 slug: adm_ch
 ---
+
+<!-- Farbgebung Schweiz "Forestgreen": #228b22-->
 
 <style>
     .figureattributes{
@@ -23,102 +25,77 @@ slug: adm_ch
 
 </style>
 
+Die Schweiz ist seit 1948 ein föderalistischer Bundesstaat, bezeichnet auch als 'Eidgenossenachaft' oder 'Bund'.  Die Macht ist unter zwischen Bund, Kantonen und Gemeinden aufgeteilt, wobei Kantone und Gemeinden großen Spielraum haben, um ihre aufgaben zu erfüllen. Auf diese Weise ist es möglich, dass die Schweiz trotz vieler Sprachen und regionaler Eigenheiten als einheit bestehen kann. In der Administrativ-hierararchischen Ordnung wird im Allgemeinen zwischen 4 Ebenen unterschieden: Bund, Kantone, Bezirke und Gemeinden. Die eindeutige Identifizierung administrativer einheiten erfolgt durch die sog. BFS- oder Code-Nummer (BFS = Bundesamt für Statistik).
 
-
-Die administrativ-politische Gliederung in Deutschland ist hierarchisch aufgebaut ([https://www.haushaltssteuerung.de/lexikon.html](https://www.haushaltssteuerung.de/lexikon.html)).
 
 <div class="row align-items-center">
-   <div class="col-5" markdown="1">
+   <div class="col" markdown="1">
   ![](vwgeb_ch/Rplot_all.png?id=vwgeb_ch)
   </div>
   <div class="col" markdown="1">
-  ![](vwgl_ch/ags_all.png?id=vwgl_ch)
+  ![](vwgl_ch/ch_vwgl_all.png?id=vwgl_ch)
   </div>
 
 </div>
-  <div id="description" align="middle">Politisch-administrative Gliederung in der Schweiz</div>
-
-  Siehe auch: https://www.atlas.bfs.admin.ch/maps/13/map/mapIdOnly/22541_de.html
-
-
-##Gemeindegebiet
-Kommunale administrative Einheiten
-
-##Kantonsgebiet
-Gebiete, die der Oberhoheit eines Kantons unterstehen.
-
-##Kommunanz
-  Gebiete, die der Oberhoheit mehrerer politischer Gemeinden
-  unterstehen (sog. Kommunanzen oder Gemeinschafts-
-  areale)
-
-# BFS_NUMMER
-
-
-5-stellige Gemeindenummer (Code-NR, BFS-Nr)
-(z.B. Kantonsnummer 2 Stellen, dann 4-stelliger Nummernbereich für Gemeinden
-z.B. Kanton Zürich, Bezirk Affoltern, Gemeinde Affoltern am Albis 0002-0002)
+  <div id="description" align="middle">Politisch-administrative Gliederung in der Schweiz (Stand 1.1.2019)</div>
 
 
 [ui-tabs position="top-left" active="0" theme="lite"]
-[ui-tab title=" Administrative Einheiten"]
+[ui-tab title="Administrative Einheiten"]
 
 [ui-accordion independent=true open=none classes="figureattributes, figure-left"]
+
+[ui-accordion-item title="Kantone"]
+Die Kantone sind die föderativen Glieder des Bundesstaates mit weitgender Autonomie. Unter den 26 gleichberechtigten Kantonen werden 6 auch als Halbkantone gerechnet (Basel-Stadt und Basel-Landschaft; Ob- und Nidwalden; Appenzell A. Rh. und I. Rh.). In der Bundesverfassung ist somit von 23 Kantonen die Rede. Grundsätzlich üben die Kantone alle Rechte aus, die nicht gemäß Bundesverfassung dem Bund übertragen sind. Das bedeutet auch, das neue Aufgaben zuerst Sache der Kantone sind und nur dann dem Bund übertragen werden, wenn sie einer einheitlichen Regelung bedürfen. (vgl. https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/raeumliche-analysen/raeumliche-gliederungen/Institutionelle-gliederungen.html, http://www.hls-dhs-dss.ch/textes/d/D26414.php)
 [/ui-accordion-item]
 
 [ui-accordion-item title="Bezirke"]
+Bezirke sind keine politische Körperschaften, sondern, mit wenigen Ausnahmen, reine Verwaltungs- und Gerichtseinheinheiten sowie Wahlkreise ohne Autonomie. In einigen Kantonen werden somit auch Bezeichnungen wie Verwaltungsregion oder -kreis, Wahlkreis, Amtei oder Distrikt verwendet. Als Zwischenebene zwischen Kanton und Gemeinden spielt der Berzirk auch eine Rolle in der Statistik. Die kleinflächigen Kantone ohne Bezirksunterteilung werden i.d.R. je als ein Bezirk dargestellt. In Graubünden, Thurgau, Tessin und Waadt sind die Bezirke weiter in Kreise unterteilt.
 
+Die Bezirke in Appenzell Innerrhodens entsprechen in ihren Funktionen eher politischen Gemeinden, während jene in Schwyz zugleich öffentliche Korporationen mit eigener Rechtspersönlichkeit darstellen. Korporativen Charakter hatten bzw. haben auch die Bezirke in Uri und Nidwalden. Einige Kantone verfügen über Exklaven.
+
+(vgl. http://www.hls-dhs-dss.ch/textes/d/D10358.php)
 [/ui-accordion-item]
 
 [ui-accordion-item title="Gemeinden"]
+Die **Gemeinden** sind in der Schweiz die unterste und kleinste, mit zahlreichen politischen Kompetenzen ausgestattete Verwaltungseinheit. Da die politische Organisation auf lokaler ebene den Kantonen obliegt, varrieren die Gemeinden sowohl hinsichtlich ihrer Größe, als auch hinsichtlich ihrer Aufgabenbereiche, sowie ihres administrativen und politischen Aufbaus von Kanton zu Kanton. Oft stellen sie auch deas niedrigste statistische Erfassungsniveau da. Aufgrund ihrer heterogenität und der jährlich schwankenden Zahl bedingt durch Gebietsreformen eignen sie sich, nach Auskunft des Bundesamttes für Statistik (BFS), nur begrenzt für räumliche und zeitliche Analysen. (Siehe https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/raeumliche-analysen/raeumliche-gliederungen/Institutionelle-gliederungen.html)
 
-
+Für eine interaktive Kartendarstellung aller Gemeinden der Schweiz siehe auch: https://www.atlas.bfs.admin.ch/maps/13/map/mapIdOnly/22541_de.html
 [/ui-accordion-item]
 
-[ui-accordion-item title="Gemeindeverbände"]
-**Gemeindeverbände**
+[ui-accordion-item title="Kreise"]
+**Kreise** in der Schweiz Bezeichenen administrative Einheiten, die zumeist auf bestimmte Funktionen sind beschränkt sind und auf unterschiedlichen staatlichen Ebenen existieren, d.h. auf Bundes-, Kantons- und vereinzelt auch auf Gemeindeebene. Sie erlauben es, Verwaltungsaufgaben jenseits der traditionellen Gliederung in Kantone, Bezirke und Gemeinden wahrzunehmen. (vgl. http://www.hls-dhs-dss.ch/textes/d/D10361.php)
 [/ui-accordion-item]
 
-[ui-accordion-item title="Gemeinden"]
-Die **Gemeinden** stellen im politischen System Deutschlands die unterste Verwaltungs- und Gebietskörperschaftsebene im Staat. Sie sind Träger der kommunalen Selbstverwaltung. Städte sind (zumeist einwohnerstarke) Gemeinden mit Stadtrecht.
+[ui-accordion-item title="Kantonsgebiet"]
+Gebiete, die der Oberhoheit eines Kantons unterstehen.
+[/ui-accordion-item]
+
+[ui-accordion-item title="Kommunanz"]
+Gebiete, die der Oberhoheit mehrerer politischer Gemeinden unterstehen (sog. Kommunanzen oder Gemeinschafts- areale)
 [/ui-accordion-item]
 [/ui-accordion]
 
-
-
 [/ui-tab]
-[ui-tab title="Amtlicher Gemeindeschlüssel (AGS)"]
-Der **Amtliche Gemeindeschlüssel (AGS)** (früher Amtliche Gemeindekennkennziffer (GKZ) genannt) ist ein von den Statistischen Ämtern der Bundesländer vergebener 8-stelliger Schlüssel zur eindeutigen Identifizierung einer Gemeinde. Alle Statistiken mit regionalem Bezug verwenden in Deutschland diesen Schlüssel, aber auch die Verwaltung nutzt den AGS, z. B. bei der Suche nach der zuständigen Meldebehörde. Der AGS ist systematisch aufgebaut und setzt sich wie folgt zusammen:
+[ui-tab title="Code- / BFS- Nummer"]
 
-<pre style="white-space: pre-wrap;">Bundesland&#160;(2 Stellen), Regierungsbezirk&#160;(1 Stelle), Kreis&#160;(2 Stellen) und Gemeinde&#160;(3 Stellen)</pre>
+Zur eindeutigen Identifizierung von Verwaltungseinheiten vergibt das Bundesamt für Statistik (BFS) die sogenannten Code- oder BFS- Nummern. Neben einer 1-4-stelligen BFS-Gemeindenummer existieren auch BFS-Seenummern und auf den jeweils höheren Verwaltungsebenen eine 2-stellige Kantonsnummern und eine 3-4-stellige Bezirksnummern sowie Seenummern. Die ersten 1 bzw. 2 Stellen der Berzirksnummer entprechen jeweils der Kantonsnummer. Kantone, welche nicht in Bezirke eingeteilt werden erhalten eine Bezirksnummer die auf zweil Nullen endet, z.B. 400 für Kanton Uri oder 600 für Kanton Nidwalden.
 
-Die ersten beiden Schlüssel bezeichnen das Bundesland (13=Mecklenburg-Vorpommern, 07=Rheinland-Pfalz). Der dritte bis fünfte Schlüssel identifiziert den Landkreis bzw. die kreisfreie Stadt, dem die Gemeinde angehört. Die ersten fünf Stellen werden daher auch als Kreisschlüssel bezeichnet. Dabei zeigt die dritte Schlüsselstelle bei Ländern, in denen Regierungsbezirke bestehen oder in der Vergangenheit bestanden haben, in der Regel den Bezirk an, während sie in anderen Ländern 0 ist. In Baden-Württemberg zeigt die vierte Schlüsselstelle außerdem an, zu welchem Regionalverband die Gemeinde gehört. Bei den echten Stadtstaaten Hamburg und Berlin stehen an dieser Stelle drei Nullen. Die letzten drei Schlüssel schließlich unterscheiden die Gemeinden innerhalb eines Landkreises. Bei kreisfreien Städten stehen an dieser Stelle drei Nullen.
+Im Datenprodukt swissBoundaries3D, herausgegeben durch das BFS, werden Hoheitsgebiete eindeutig mit einem Schlüssel der Bezeichnung SHN identifiziert, der sich aus ICC (internationaler Country-Code), Bezirksnummer und BFS-Gemeindenummer zusammensetzt.
 
-[/ui-tab]
-[ui-tab title="Amtlicher Regionalschlüssel (ARS)"]
-
-Außerdem gibt es den zwölfstelligen **Amtlichen Regionalschlüssel (ARS)**, der ähnlich aufgebaut ist, in den aber im Vergleich zum AGS vor den letzten drei Ziffern vier Stellen zur Verschlüsselung der Gemeindeverbände eingefügt sind. Der AGS ist also in den ARS integriert. Angaben auf der Gemeindeverbandsebene (in der EU: LAU 1-Ebene) werden zunehmend für den innereuropäischen und internationalen Vergleich von Eurostat benötigt und von den Statistischen Ämtern des Bundes und der Länder eingefordert. Die Amtliche Statistik in Deutschland strebt langfristig die Ablösung des achtstelligen AGS durch den zwölfstelligen Regionalschlüssel an.
+Beispiel:
+Die Gemeinde Lindau mit der BFS-Gemeindenummer 176 liegt im Bezirk Pfäffikon mit der Nummer 108, welcher Teil des Kantons Zürich (ZH) mit der Nummer 1 ist. Der zusammengesetzte im SHN-Schlüssel swissBoundaries3D ist CH01080176.
 
 
-Der Amtliche Regionalschlüssel gliedert sich wie folgt:
-<pre style="white-space: pre-wrap;">
-1.–2. Stelle	= Kennzahl des Bundeslandes
-3. Stelle      	= Kennzahl des Regierungsbezirks; wenn nicht vorhanden: 0
-4.–5. Stelle   	= Kennzahl des Landkreises oder der kreisfreien Stadt
-6.–9. Stelle   	= Verbandsschlüssel
-10.–12. Stelle 	= Gemeindekennzahl
-</pre>
 
 
-Die Schlüsselstelle 6 im Verbandsschlüssel (das sogenannte t-Kennzeichen) weist durch die führende Ziffer auf die Art der Gemeinde hin:
-<pre style="white-space: pre-wrap;">
-0 - verbandsfreie Gemeinde
-5 - verbandsangehörige Gemeinde
-9 - gemeindefreies Gebiet.
-</pre>
+<!--Die BFS-Nummer ist ein von den Statistischen Ämtern der Bundesländer vergebener 5-stelliger Schlüssel zur eindeutigen Identifizierung einer Gemeinde. Er setzt sich wie folgt zusammen zusammen:
 
-Bei verbandsfreien Gemeinden wird im Verbandsschlüssel nach der 0 der 3-stellige Gemeindeschlüssel angegeben.
+<pre style="white-space: pre-wrap;">Kanton&#160;(2 Stellen), Regierungsbezirk&#160;(1 Stelle), Kreis&#160;(2 Stellen) und Gemeinde&#160;(3 Stellen)</pre>
 
+5-stellige Gemeindenummer (Code-NR, BFS-Nr)
+(z.B. Kantonsnummer 2 Stellen, dann 4-stelliger Nummernbereich für Gemeinden
+z.B. Kanton Zürich, Bezirk Affoltern, Gemeinde Affoltern am Albis 0002-0002)-->
 [/ui-tab]
 [/ui-tabs]
 
@@ -128,5 +105,24 @@ Bundeskanzlei BK (2019): Der Bund kurz erklärt (online unter: https://www.bk.ad
 
 Bundesamt für Statistik: Institutionelle Gliederungen (online unter: https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/raeumliche-analysen/raeumliche-gliederungen/Institutionelle-gliederungen.html)
 
-<!--<script src="animate.js"></script>-->
-<!--{assets:js order:10}animate.js{/assets}-->
+
+Administrative Regionen der Schweiz: https://www.regiograph-schweiz.ch/download/administrative-gebiete/
+
+Raumgliederung der Schweiz:
+https://www.bfs.admin.ch/bfs/de/home/grundlagen/raumgliederungen.html
+
+Regionalstatistik:
+https://www.bfs.admin.ch/bfs/de/home/statistiken/regionalstatistik.html
+
+Bundesamt für statistik: Raumgliederung
+https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/raeumliche-analysen/raeumliche-gliederungen.html
+
+Bundesamt für statistik: Institutionelle Gliederung:
+https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/raeumliche-analysen/raeumliche-gliederungen/Institutionelle-gliederungen.html
+
+BFS: regionalpolitische Gliederung
+https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/raeumliche-analysen/raeumliche-gliederungen/regionalpolitische-gliederungen.html
+
+Historisches Lexikon der Schweiz (HLS)(online unter http://www.hls-dhs-dss.ch/)
+
+<script src="adm_ch/animate.js"></script>

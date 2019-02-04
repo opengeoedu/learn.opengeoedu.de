@@ -14,8 +14,10 @@ adetext = [
 "ADE 2: Länder",
 "ADE 1: Staat"];
 
-vwgeb_path = "/images/vwgeb_de/Rplot";
-vwgl_path = "/images/vwgl_de/ags";
+var id_vwgeb = "vwgeb_de";
+var id_vwgl = "vwgl_de";
+var vwgeb_path = "adm_de/vwgeb_de/Rplot";
+var vwgl_path = "adm_de/vwgl_de/ags";
 
 //preload images
 var images_vwgeb = new Array();
@@ -26,7 +28,7 @@ function preloadImages (){
     images_vwgeb[i] = new Image();
     images_vwgeb[i].src = vwgeb_path+(i+1)+".png";
     images_vwgl[i] = new Image();
-    images_vwgl[i].src = vwgeb_path+(i+1)+".png";
+    images_vwgl[i].src = vwgl_path+(i+1)+".png";
   }
 }
 preloadImages();
@@ -55,12 +57,12 @@ function frame() {
       return;
     imageLoaded = 1;
     console.log("pos: " + pos +" imageLoaded: "+imageLoaded);
-    var img1 = document.getElementById("vwgeb_de");
+    var img1 = document.getElementById(id_vwgeb);
     img1.onload = imageOnload;
-    img1.src="/images/vwgeb_de/Rplot"+(pos+1)+".png";
-    var img2 = document.getElementById("vwgl_de");
+    img1.src=vwgeb_path+(pos+1)+".png";
+    var img2 = document.getElementById(id_vwgl);
     img2.onload = imageOnload;
-    img2.src="/images/vwgl_de/ags"+(pos)+".png";
+    img2.src=vwgl_path+(pos)+".png";
 
 
 
