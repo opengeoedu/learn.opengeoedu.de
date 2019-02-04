@@ -32,7 +32,7 @@ Die Verwaltungsebenen sind mit Ausnahme der Regierungsbezirksebene flächendecke
 <div class="row align-items-center">
    <div class="col-md-5" style="padding:0">
       <figure class="image-caption" markdown="1">
-  ![](vwgeb_de/Rplot1.png?id=vwgeb_de)
+  ![](vwgeb_de/Rplot_all.png?id=vwgeb_de)
   <figcaption>© GeoBasis-DE / <a href="http://www.bkg.bund.de">BKG</a> 2018 (Produkt VG250)</figcaption>
   </figure>
   </div>
