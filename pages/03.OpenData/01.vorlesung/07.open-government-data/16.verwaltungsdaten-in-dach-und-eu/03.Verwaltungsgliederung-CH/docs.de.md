@@ -83,14 +83,14 @@ Gebiete, die der Oberhoheit mehrerer politischer Gemeinden unterstehen (sog. Kom
 [/ui-tab]
 [ui-tab title="Code- / BFS- Nummer"]
 
-Zur eindeutigen Identifizierung von Verwaltungseinheiten vergibt das Bundesamt für Statistik (BFS) die sogenannten Code- oder BFS- Nummern. Neben einer 1-4-stelligen BFS-Gemeindenummer existieren auch BFS-Seenummern und auf den jeweils höheren Verwaltungsebenen eine 2-stellige Kantonsnummern und eine 3-4-stellige Bezirksnummern sowie Seenummern. Die ersten 1 bzw. 2 Stellen der Berzirksnummer entprechen jeweils der Kantonsnummer. Kantone, welche nicht in Bezirke eingeteilt werden erhalten eine Bezirksnummer die auf zweil Nullen endet, z.B. 400 für Kanton Uri oder 600 für Kanton Nidwalden.
+Zur eindeutigen Identifizierung von Verwaltungseinheiten vergibt das Bundesamt für Statistik (BFS) die sogenannten Code- oder BFS- Nummern. Unabhängig von der 1 bis 4-stelligen BFS-Gemeindenummer existieren auch BFS-Seenummern sowie den höheren Verwaltungsebenen eine 2-stellige Kantonsnummern und eine 3-4-stellige Bezirksnummern sowie Seenummern. Die ersten 1 bzw. 2 Stellen der Berzirksnummer entprechen jeweils der Kantonsnummer. Kantone, welche nicht in Bezirke eingeteilt werden, wird im amtlichen Gemeindeverzeichnis eine Bezirksnummer  zugeordnet, welche auf zwei Nullen endet, z.B. 400 für Kanton Uri oder 600 für Kanton Nidwalden.
 
-Im Datenprodukt swissBoundaries3D, herausgegeben durch das BFS, werden Hoheitsgebiete eindeutig mit einem Schlüssel der Bezeichnung SHN identifiziert, der sich aus ICC (internationaler Country-Code), Bezirksnummer und BFS-Gemeindenummer zusammensetzt.
+Im Gegensatz zur Österreichischen und Deutschen wird also kein durchgängiger Verwaltungsschlüssel verwendet, der die jeweiligen Kennzahlen aller administrativen Ebenen enthält - der Gemeindeschlüssel wird unabhängig von den übergeordnetten Kantons- und Bezirksnummern gebildet und reicht aus, um Gemeinden eindeutig zu identifiziern. Aus der Bezirksnummer kann jedoch die Kantonsnummer abgeleitet werden.
+
+Im Datenprodukt swissBoundaries3D, herausgegeben durch das BFS, werden Hoheitsgebiete eindeutig mit einem zusammengesetzten Schlüssel der Bezeichnung SHN identifiziert, der sich aus ICC (internationaler Country-Code), Bezirksnummer und BFS-Gemeindenummer zusammensetzt.
 
 Beispiel:
 Die Gemeinde Lindau mit der BFS-Gemeindenummer 176 liegt im Bezirk Pfäffikon mit der Nummer 108, welcher Teil des Kantons Zürich (ZH) mit der Nummer 1 ist. Der zusammengesetzte im SHN-Schlüssel swissBoundaries3D ist CH01080176.
-
-
 
 
 <!--Die BFS-Nummer ist ein von den Statistischen Ämtern der Bundesländer vergebener 5-stelliger Schlüssel zur eindeutigen Identifizierung einer Gemeinde. Er setzt sich wie folgt zusammen zusammen:
@@ -105,27 +105,17 @@ z.B. Kanton Zürich, Bezirk Affoltern, Gemeinde Affoltern am Albis 0002-0002)-->
 
 ## Literatur
 
+Regiograph Schweiz: Administrative Regionen der Schweiz (online unter: https://www.regiograph-schweiz.ch/download/administrative-gebiete/)
+
+Bundesamt für Statistik: Amtliches Gemeindeverzeichnis der Schweiz (online unter: https://www.bfs.admin.ch/bfs/de/home/grundlagen/agvch.html)
+
+Bundesamt für Statistik: Raumgliederung der Schweiz (online unter:https://www.bfs.admin.ch/bfs/de/home/grundlagen/raumgliederungen.html)
+
+Bundesamt für Statistik: Regionalstatistik (online unter: https://www.bfs.admin.ch/bfs/de/home/statistiken/regionalstatistik.html)
+
+Bundesamt für Statistik: Räumliche Analysen. Räumliche Gliederung (online unter: https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/raeumliche-analysen/raeumliche-gliederungen.html)
+
 Bundeskanzlei BK (2019): Der Bund kurz erklärt (online unter: https://www.bk.admin.ch/bk/de/home/dokumentation/der-bund-kurz-erklaert.html)
-
-Bundesamt für Statistik: Institutionelle Gliederungen (online unter: https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/raeumliche-analysen/raeumliche-gliederungen/Institutionelle-gliederungen.html)
-
-
-Administrative Regionen der Schweiz: https://www.regiograph-schweiz.ch/download/administrative-gebiete/
-
-Raumgliederung der Schweiz:
-https://www.bfs.admin.ch/bfs/de/home/grundlagen/raumgliederungen.html
-
-Regionalstatistik:
-https://www.bfs.admin.ch/bfs/de/home/statistiken/regionalstatistik.html
-
-Bundesamt für statistik: Raumgliederung
-https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/raeumliche-analysen/raeumliche-gliederungen.html
-
-Bundesamt für statistik: Institutionelle Gliederung:
-https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/raeumliche-analysen/raeumliche-gliederungen/Institutionelle-gliederungen.html
-
-BFS: regionalpolitische Gliederung
-https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/raeumliche-analysen/raeumliche-gliederungen/regionalpolitische-gliederungen.html
 
 Historisches Lexikon der Schweiz (HLS)(online unter http://www.hls-dhs-dss.ch/)
 
