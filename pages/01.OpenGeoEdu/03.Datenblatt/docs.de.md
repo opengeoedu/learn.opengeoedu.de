@@ -17,7 +17,7 @@ facebookenable: true
 Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, so z.B. hinsichtlich der Voraussetzungen, der verwendeten Software und Daten, der benötigten Funktionalitäten und der erwarteten Ergebnisse.
 
 | Legende | | | |
-| :-: | :-: | :-: | :-: |
+| :- | :-: | :-: | :-: |
 | Reichweite | lokal | regional | national/global |
 | | [fa=fa-street-view extras=fa-2x] | [fa=map-marked extras=fa-2x] | [fa=fa-globe-africa extras=fa-2x] |
 | Level/ Schwierigkeit | [color=orange]Advanced[/color] | [color=green]Basic[/color] | [color=blue]Click-by-Click[/color] |
