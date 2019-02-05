@@ -60,14 +60,9 @@ slug: adm_at
   Die Struktur der österreichischen Gemeinden ist eher klein aufgebaut. Nur wenige Gemeinden österreichweit haben mehr als ein paar tausend Einwohner, die kleinen Gemeinden des ländlichen Raumes dominieren markant die Landschaft.
 
   Die Gemeinden haben - als kleinste organisatorische Einheiten des Staates - keine Gesetzgebungsbefugnis. Sie können aber allgemeine Vorschriften (Verordnungen) erlassen und besorgen viele staatliche Verwaltungsaufgaben. Die Gemeinden sind Selbstverwaltungskörper. Das bedeutet, sie haben einen durch die Bundesverfassung klar definierten und "geschützten" eigenen Wirkungsbereich, in dem die Aufgabenbesorgung weisungsfrei erfolgt. Die Weisungsfreiheit wird durch eine staatliche Aufsicht über die Selbstverwaltungseinrichtung nicht beeinträchtigt.
+
+  Als Interessenvertretungen der Gemeinden und Städte sowie als Ansprechpartner für die Regierung auf Bundes- und Landesebene fungieren der Österreichische Gemeindebund und der Östereichische Städtebund. Die Mitgliedschaft ist jeweils freiwillig, jedoch sind praktisch alle Gemeinden mit über 10.000 Einwohnern Mitglied des Städtebundes und die 2.085 der insgesamt 2.095 Gemeinden Teil des Gemeindebundes sind. Es gibt Doppelmitgliedschaften.
   [/ui-accordion-item]
-
-<!--  [ui-accordion-item title="Katastralgemeinden"]
-
-
-  [/ui-accordion-item]-->
-
-
   [/ui-accordion]
 
 
@@ -95,8 +90,7 @@ Die 3-stellige Kennziffer des Politischen Bezirkes setzt sich zusammen aus einer
   - NUTS 2 entspricht den 9 Österreichischen Bundesländern
   - NUTS 3 besteht innerhalb Österreichs aus 35 Einheiten, welche je mehrere Gemeinden zusammenfassen. Jeder Gemeinde ist einde NUTS 3 Region zugeteilt.
 
-  Der Stadtstaat Wien entspricht sowohl einer einer eigenen NUTS2-Einheit (AT13) als auch einer eigenen NUTS 3-Einheit (AT130).
-
+  Der Stadtstaat Wien entspricht sowohl einer einer eigenen NUTS2-Einheit (AT13) als auch einer eigenen NUTS 3-Einheit (AT130). Unterhalb der NUTS-Ebenen entspricht die LAU-Ebene (Lokale Verwaltungseinheiten) den Österreichischen Gemeinden.
   [/ui-tab]
 
 
@@ -106,6 +100,8 @@ Die 3-stellige Kennziffer des Politischen Bezirkes setzt sich zusammen aus einer
 
 Gemeindebund Österreich: Struktur der Gemeinden (online unter: https://gemeindebund.at/struktur-der-gemeinden/)
 Bundesanstalt Statistik Österreich: Statistik Austria (online unter: http://statistik.at)
+Bundesministerium für Digitalisierung und Wirtschaftsstandort: HELP.gv.at (online unter: https://www.help.gv.at/)
+Österreichischer Städtebund (online unter: https://www.staedtebund.gv.at/)
 
 
 <script src="adm_at/animate.js"></script>
