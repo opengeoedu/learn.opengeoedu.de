@@ -25,7 +25,7 @@ slug: adm_ch
 
 </style>
 
-Die Schweiz ist seit 1948 ein föderalistischer Bundesstaat, bezeichnet auch als 'Eidgenossenachaft' oder 'Bund'.  Die Macht ist unter zwischen Bund, Kantonen und Gemeinden aufgeteilt, wobei Kantone und Gemeinden großen Spielraum haben, um ihre aufgaben zu erfüllen. Auf diese Weise ist es möglich, dass die Schweiz trotz vieler Sprachen und regionaler Eigenheiten als einheit bestehen kann. In der Administrativ-hierararchischen Ordnung wird im Allgemeinen zwischen 4 Ebenen unterschieden: Bund, Kantone, Bezirke und Gemeinden. Die eindeutige Identifizierung administrativer einheiten erfolgt durch die sog. BFS- oder Code-Nummer (BFS = Bundesamt für Statistik).
+Die Schweiz ist seit 1948 ein föderalistischer Bundesstaat, bezeichnet auch als 'Eidgenossenachaft' oder 'Bund'. Die Macht ist zwischen Bund, Kantonen und Gemeinden aufgeteilt, wobei Kantone und Gemeinden großen Spielraum haben, um ihre Aufgaben zu erfüllen. Auf diese Weise ist es möglich, dass die Schweiz trotz vieler Sprachen und regionaler Eigenheiten als Einheit bestehen kann. In der administrativ-hierararchischen Ordnung wird im Allgemeinen zwischen 4 Ebenen unterschieden: Bund, Kantone, Bezirke und Gemeinden. Die eindeutige Identifizierung administrativer Einheiten erfolgt durch die sogenannten BFS- oder Code-Nummern (BFS = Bundesamt für Statistik).
 
 
 <div class="row align-items-center">
@@ -50,11 +50,11 @@ Die Schweiz ist seit 1948 ein föderalistischer Bundesstaat, bezeichnet auch als
 [ui-accordion independent=true open=none classes="figureattributes, figure-left"]
 
 [ui-accordion-item title="Kantone"]
-Die Kantone sind die föderativen Glieder des Bundesstaates mit weitgender Autonomie. Unter den 26 gleichberechtigten Kantonen werden 6 auch als Halbkantone gerechnet (Basel-Stadt und Basel-Landschaft; Ob- und Nidwalden; Appenzell A. Rh. und I. Rh.). In der Bundesverfassung ist somit von 23 Kantonen die Rede. Grundsätzlich üben die Kantone alle Rechte aus, die nicht gemäß Bundesverfassung dem Bund übertragen sind. Das bedeutet auch, das neue Aufgaben zuerst Sache der Kantone sind und nur dann dem Bund übertragen werden, wenn sie einer einheitlichen Regelung bedürfen. (vgl. https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/raeumliche-analysen/raeumliche-gliederungen/Institutionelle-gliederungen.html, http://www.hls-dhs-dss.ch/textes/d/D26414.php)
+Die Kantone sind die föderativen Glieder des Bundesstaates mit weitgender Autonomie. Unter den 26 gleichberechtigten Kantonen werden 6 auch als Halbkantone gerechnet (Basel-Stadt und Basel-Landschaft; Ob- und Nidwalden; Appenzell A. Rh. und I. Rh.). In der Bundesverfassung ist somit von 23 Kantonen die Rede. Grundsätzlich üben die Kantone alle Rechte aus, die nicht gemäß Bundesverfassung dem Bund übertragen sind. Das bedeutet auch, dass neue Aufgaben zuerst Sache der Kantone sind und nur dann dem Bund übertragen werden, wenn sie einer einheitlichen Regelung bedürfen. (vgl. https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/raeumliche-analysen/raeumliche-gliederungen/Institutionelle-gliederungen.html, http://www.hls-dhs-dss.ch/textes/d/D26414.php)
 [/ui-accordion-item]
 
 [ui-accordion-item title="Bezirke"]
-Bezirke sind keine politische Körperschaften, sondern, mit wenigen Ausnahmen, reine Verwaltungs- und Gerichtseinheinheiten sowie Wahlkreise ohne Autonomie. In einigen Kantonen werden somit auch Bezeichnungen wie Verwaltungsregion oder -kreis, Wahlkreis, Amtei oder Distrikt verwendet. Als Zwischenebene zwischen Kanton und Gemeinden spielt der Berzirk auch eine Rolle in der Statistik. Die kleinflächigen Kantone ohne Bezirksunterteilung werden i.d.R. je als ein Bezirk dargestellt. In Graubünden, Thurgau, Tessin und Waadt sind die Bezirke weiter in Kreise unterteilt.
+Bezirke sind keine politische Körperschaften, sondern, mit wenigen Ausnahmen, reine Verwaltungs- und Gerichtseinheiten sowie Wahlkreise ohne Autonomie. In einigen Kantonen werden somit auch Bezeichnungen wie Verwaltungsregion oder -kreis, Wahlkreis, Amtei oder Distrikt verwendet. Als Zwischenebene zwischen Kanton und Gemeinden spielt der Berzirk auch eine Rolle in der Statistik. Die kleinflächigen Kantone ohne Bezirksunterteilung werden i.d.R. je als ein Bezirk dargestellt. In Graubünden, Thurgau, Tessin und Waadt sind die Bezirke weiter in Kreise unterteilt.
 
 Die Bezirke in Appenzell Innerrhodens entsprechen in ihren Funktionen eher politischen Gemeinden, während jene in Schwyz zugleich öffentliche Korporationen mit eigener Rechtspersönlichkeit darstellen. Korporativen Charakter hatten bzw. haben auch die Bezirke in Uri und Nidwalden. Einige Kantone verfügen über Exklaven.
 
@@ -62,13 +62,13 @@ Die Bezirke in Appenzell Innerrhodens entsprechen in ihren Funktionen eher polit
 [/ui-accordion-item]
 
 [ui-accordion-item title="Gemeinden"]
-Die **Gemeinden** sind in der Schweiz die unterste und kleinste, mit zahlreichen politischen Kompetenzen ausgestattete Verwaltungseinheit. Da die politische Organisation auf lokaler ebene den Kantonen obliegt, varrieren die Gemeinden sowohl hinsichtlich ihrer Größe, als auch hinsichtlich ihrer Aufgabenbereiche, sowie ihres administrativen und politischen Aufbaus von Kanton zu Kanton. Oft stellen sie auch deas niedrigste statistische Erfassungsniveau da. Aufgrund ihrer heterogenität und der jährlich schwankenden Zahl bedingt durch Gebietsreformen eignen sie sich, nach Auskunft des Bundesamttes für Statistik (BFS), nur begrenzt für räumliche und zeitliche Analysen. (Siehe https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/raeumliche-analysen/raeumliche-gliederungen/Institutionelle-gliederungen.html)
+Die **Gemeinden** sind in der Schweiz die unterste und kleinste, mit zahlreichen politischen Kompetenzen ausgestattete Verwaltungseinheit. Da die politische Organisation auf lokaler Ebene den Kantonen obliegt, varrieren die Gemeinden sowohl hinsichtlich ihrer Größe, als auch hinsichtlich ihrer Aufgabenbereiche, sowie ihres administrative-politischen Aufbaus von Kanton zu Kanton. Oft stellen sie auch deas niedrigste statistische Erfassungsniveau da. Aufgrund ihrer heterogenität und der jährlich schwankenden Zahl bedingt durch Gebietsreformen eignen sie sich, nach Auskunft des Bundesamttes für Statistik (BFS), nur begrenzt für räumliche und zeitliche Analysen. (Siehe https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/raeumliche-analysen/raeumliche-gliederungen/Institutionelle-gliederungen.html)
 
 Für eine interaktive Kartendarstellung aller Gemeinden der Schweiz siehe auch: https://www.atlas.bfs.admin.ch/maps/13/map/mapIdOnly/22541_de.html
 [/ui-accordion-item]
 
 [ui-accordion-item title="Kreise"]
-**Kreise** in der Schweiz Bezeichenen administrative Einheiten, die zumeist auf bestimmte Funktionen sind beschränkt sind und auf unterschiedlichen staatlichen Ebenen existieren, d.h. auf Bundes-, Kantons- und vereinzelt auch auf Gemeindeebene. Sie erlauben es, Verwaltungsaufgaben jenseits der traditionellen Gliederung in Kantone, Bezirke und Gemeinden wahrzunehmen. (vgl. http://www.hls-dhs-dss.ch/textes/d/D10361.php)
+**Kreise** in der Schweiz bezeichnen administrative Einheiten, die zumeist auf bestimmte Funktionen beschränkt sind und auf unterschiedlichen staatlichen Ebenen existieren, d.h. auf Bundes-, Kantons- und vereinzelt auch auf Gemeindeebene. Sie erlauben es, Verwaltungsaufgaben jenseits der traditionellen Gliederung in Kantone, Bezirke und Gemeinden wahrzunehmen. (vgl. http://www.hls-dhs-dss.ch/textes/d/D10361.php)
 [/ui-accordion-item]
 
 [ui-accordion-item title="Kantonsgebiet"]
@@ -83,11 +83,11 @@ Gebiete, die der Oberhoheit mehrerer politischer Gemeinden unterstehen (sog. Kom
 [/ui-tab]
 [ui-tab title="Code- / BFS- Nummer"]
 
-Zur eindeutigen Identifizierung von Verwaltungseinheiten vergibt das Bundesamt für Statistik (BFS) die sogenannten Code- oder BFS- Nummern. Unabhängig von der 1 bis 4-stelligen BFS-Gemeindenummer existieren auch BFS-Seenummern sowie den höheren Verwaltungsebenen eine 2-stellige Kantonsnummern und eine 3-4-stellige Bezirksnummern sowie Seenummern. Die ersten 1 bzw. 2 Stellen der Berzirksnummer entprechen jeweils der Kantonsnummer. Kantone, welche nicht in Bezirke eingeteilt werden, wird im amtlichen Gemeindeverzeichnis eine Bezirksnummer  zugeordnet, welche auf zwei Nullen endet, z.B. 400 für Kanton Uri oder 600 für Kanton Nidwalden.
+Zur eindeutigen Identifizierung von Verwaltungseinheiten vergibt das Bundesamt für Statistik (BFS) die sogenannten Code- oder BFS- Nummern. Unabhängig von der 1 bis 4-stelligen BFS-Gemeindenummer existieren auch BFS-Seenummern und auf den höheren Verwaltungsebenen eine 1- bis 2-stellige Kantonsnummer und eine 3- bis 4-stellige Bezirksnummer. Die ersten 1 bzw. 2 Stellen der Berzirksnummer entprechen jeweils der Kantonsnummer. Kantone, welche nicht in Bezirke eingeteilt werden, wird im amtlichen Gemeindeverzeichnis eine Bezirksnummer  zugeordnet, die auf zwei Nullen endet, z.B. 400 für Kanton Uri oder 600 für Kanton Nidwalden.
 
-Im Gegensatz zur Österreichischen und Deutschen wird also kein durchgängiger Verwaltungsschlüssel verwendet, der die jeweiligen Kennzahlen aller administrativen Ebenen enthält - der Gemeindeschlüssel wird unabhängig von den übergeordnetten Kantons- und Bezirksnummern gebildet und reicht aus, um Gemeinden eindeutig zu identifiziern. Aus der Bezirksnummer kann jedoch die Kantonsnummer abgeleitet werden.
+Im Gegensatz zu den Österreichischen und Deutschen Systematiken wird also kein durchgängiger Verwaltungsschlüssel verwendet - der Gemeindeschlüssel wird unabhängig von den übergeordnetten Kantons- und Bezirksnummern gebildet und reicht für sich aus, um Gemeinden eindeutig zu identifiziern. Aus der Bezirksnummer kann jedoch die Kantonsnummer abgeleitet werden.
 
-Im Datenprodukt swissBoundaries3D, herausgegeben durch das BFS, werden Hoheitsgebiete eindeutig mit einem zusammengesetzten Schlüssel der Bezeichnung SHN identifiziert, der sich aus ICC (internationaler Country-Code), Bezirksnummer und BFS-Gemeindenummer zusammensetzt.
+Im Datenprodukt swissBoundaries3D, herausgegeben durch das BFS, werden Hoheitsgebiete zudem eindeutig mit einem zusammengesetzten Schlüssel-Attribut der Bezeichnung 'SHN' identifiziert, der sich aus ICC (internationaler Country-Code), Bezirksnummer und BFS-Gemeindenummer zusammensetzt.
 
 Beispiel:
 Die Gemeinde Lindau mit der BFS-Gemeindenummer 176 liegt im Bezirk Pfäffikon mit der Nummer 108, welcher Teil des Kantons Zürich (ZH) mit der Nummer 1 ist. Der zusammengesetzte im SHN-Schlüssel swissBoundaries3D ist CH01080176.
