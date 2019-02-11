@@ -88,9 +88,9 @@ Die 3-stellige Kennziffer des Politischen Bezirkes setzt sich zusammen aus einer
   - NUTS 0 entspricht dem Staat Österreichweich (Kürzel AT)
   - NUTS 1 sind die drei Einheiten Westösterreich, Ostösterreich und Südösterreich
   - NUTS 2 entspricht den 9 Österreichischen Bundesländern
-  - NUTS 3 besteht innerhalb Österreichs aus 35 Einheiten, welche je mehrere Gemeinden zusammenfassen. Jeder Gemeinde ist einde NUTS 3 Region zugeteilt.
+  - NUTS 3 besteht innerhalb Österreichs aus 35 Einheiten, welche je mehrere Gemeinden zusammenfassen. Jeder Gemeinde ist eine NUTS 3 Region zugeteilt.
 
-  Der Stadtstaat Wien entspricht sowohl einer einer eigenen NUTS2-Einheit (AT13) als auch einer eigenen NUTS 3-Einheit (AT130). Unterhalb der NUTS-Ebenen entspricht die LAU-Ebene (Lokale Verwaltungseinheiten) den Österreichischen Gemeinden.
+  Der Stadtstaat Wien entspricht sowohl einer einer eigenen NUTS2-Einheit (AT13) als auch einer eigenen NUTS 3-Einheit (AT130). Unterhalb der NUTS-Ebenen entspricht die **LAU-Ebene (Lokale Verwaltungseinheiten)** den Österreichischen Gemeinden.
   [/ui-tab]
 
 
