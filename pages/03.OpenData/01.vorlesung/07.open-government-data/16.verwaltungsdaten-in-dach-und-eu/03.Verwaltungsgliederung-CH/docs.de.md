@@ -118,6 +118,6 @@ Bundeskanzlei BK (2019): Der Bund kurz erklärt (online unter: https://www.bk.ad
 Historisches Lexikon der Schweiz (HLS)(online unter http://www.hls-dhs-dss.ch/)
 
 
-! Mit dem **Statistischen Atlas der Schweiz** des BFS können Sie sich unter anderem die Verwaltungsgebiete der Schweiz auf unterschiedlichen administrativ-politischen Ebenen anzeigen lassen, siehe: [Kantone der Schweiz](https://www.atlas.bfs.admin.ch/maps/13/de/234_233_228_227/134.html), [Bezirke 2019](https://www.atlas.bfs.admin.ch/maps/13/de/14046_231_228_227/22542.html), [Gemeinden 2019](https://www.atlas.bfs.admin.ch/maps/13/de/14045_229_228_227/22541.html)
+! Mit dem **Statistischen Atlas der Schweiz** des BFS können Sie sich unter anderem interaktiv die Verwaltungsgebiete der Schweiz auf unterschiedlichen administrativ-politischen Ebenen anzeigen lassen, siehe: [Kantone der Schweiz](https://www.atlas.bfs.admin.ch/maps/13/de/234_233_228_227/134.html), [Bezirke 2019](https://www.atlas.bfs.admin.ch/maps/13/de/14046_231_228_227/22542.html), [Gemeinden 2019](https://www.atlas.bfs.admin.ch/maps/13/de/14045_229_228_227/22541.html)
 
 <script src="adm_ch/animate.js"></script>
