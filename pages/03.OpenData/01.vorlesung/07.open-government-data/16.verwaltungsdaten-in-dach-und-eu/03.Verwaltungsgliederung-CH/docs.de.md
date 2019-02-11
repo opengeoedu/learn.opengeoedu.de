@@ -63,8 +63,6 @@ Die Bezirke in Appenzell Innerrhodens entsprechen in ihren Funktionen eher polit
 
 [ui-accordion-item title="Gemeinden"]
 Die **Gemeinden** sind in der Schweiz die unterste und kleinste, mit zahlreichen politischen Kompetenzen ausgestattete Verwaltungseinheit. Da die politische Organisation auf lokaler Ebene den Kantonen obliegt, varrieren die Gemeinden sowohl hinsichtlich ihrer Größe, als auch hinsichtlich ihrer Aufgabenbereiche, sowie ihres administrative-politischen Aufbaus von Kanton zu Kanton. Oft stellen sie auch deas niedrigste statistische Erfassungsniveau da. Aufgrund ihrer heterogenität und der jährlich schwankenden Zahl bedingt durch Gebietsreformen eignen sie sich, nach Auskunft des Bundesamttes für Statistik (BFS), nur begrenzt für räumliche und zeitliche Analysen. (Siehe https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/raeumliche-analysen/raeumliche-gliederungen/Institutionelle-gliederungen.html)
-
-Für eine interaktive Kartendarstellung aller Gemeinden der Schweiz siehe auch: https://www.atlas.bfs.admin.ch/maps/13/map/mapIdOnly/22541_de.html
 [/ui-accordion-item]
 
 [ui-accordion-item title="Kreise"]
@@ -118,5 +116,8 @@ Bundesamt für Statistik: Räumliche Analysen. Räumliche Gliederung (online unt
 Bundeskanzlei BK (2019): Der Bund kurz erklärt (online unter: https://www.bk.admin.ch/bk/de/home/dokumentation/der-bund-kurz-erklaert.html)
 
 Historisches Lexikon der Schweiz (HLS)(online unter http://www.hls-dhs-dss.ch/)
+
+
+! Mit dem **Statistischen Atlas der Schweiz** des BFS können Sie sich unter anderem die Verwaltungsgebiete der Schweiz auf unterschiedlichen administrativ-politischen Ebenen anzeigen lassen, siehe: [Kantone der Schweiz](https://www.atlas.bfs.admin.ch/maps/13/de/234_233_228_227/134.html), [Bezirke 2019](https://www.atlas.bfs.admin.ch/maps/13/de/14046_231_228_227/22542.html), [Gemeinden 2019](https://www.atlas.bfs.admin.ch/maps/13/de/14045_229_228_227/22541.html)
 
 <script src="adm_ch/animate.js"></script>
