@@ -1,12 +1,21 @@
 ---
-title: 'Geräusch'
+title: Geräusch
 taxonomy:
     category:
         - docs
+twitterenable: true
+twittercardoptions: summary
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+personenabled: false
+facebookenable: true
 ---
+
 <figure>
 <a title="cogdogblog [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:2012-366-25_Drop_a_Needle_(6763970597).jpg"><img width="320" alt="2012-366-25 Drop a Needle (6763970597)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/2012-366-25_Drop_a_Needle_%286763970597%29.jpg/320px-2012-366-25_Drop_a_Needle_%286763970597%29.jpg"></a>
-<figcaption><a href="https://www.flickr.com/people/37996646802@N01">cogdogblog</a>, <a href="https://commons.wikimedia.org/wiki/File:2012-366-25_Drop_a_Needle_(6763970597).jpg">2012-366-25 Drop a Needle (6763970597)</a>, <a href="https://creativecommons.org/licenses/by/2.0/legalcode" rel="license">CC BY 2.0</a></figcaption>
+<figcaption><small><a href="https://www.flickr.com/people/37996646802@N01">cogdogblog</a>, <a href="https://commons.wikimedia.org/wiki/File:2012-366-25_Drop_a_Needle_(6763970597).jpg">2012-366-25 Drop a Needle (6763970597)</a>, <a href="https://creativecommons.org/licenses/by/2.0/legalcode" rel="license">CC BY 2.0</a></small></figcaption>
 </figure>
 Definitionen zum Geräusch
 1.	im physikalischen Sinne eine Schallform, deren Frequenzspektrum – im Unterschied zu Tönen und Klängen – kontinuierlich ist oder Frequenzen aufweist, die nicht im Verhältnis kleiner ganzer Zahlen zueinanderstehen. 
