@@ -1,13 +1,22 @@
 ---
-title: 'Berechnungsmethoden'
+title: Berechnungsmethoden
 taxonomy:
     category:
         - docs
+twitterenable: true
+twittercardoptions: summary
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+personenabled: false
+facebookenable: true
 ---
+
 Hier wird eine kleine Auswahl an Berechnungsmethoden vorgestellt.
 
 ## VBUS Vorläufige Berechnungsmethode für den Umgebungslärm an Straßen
-![](Lden_vbus.jpg)
+![](Lden_vbus.jpg?lightbox=600,400)
 Mit der Vorläufigen Berechnungsmethode für den Umgebungslärm an Straßen (VBUS) können die Lärmindizes, die für die Lärmkartierung erforderlich sind, berechnet werden.
 Für jeden Zeitraum wird ein [Dauerschallpegel](http://www.umweltbundesamt.at/umweltschutz/laerm/schalldruckpegel) berechnet. 
 Zusätzlich wird ein gewichteter 24-Stundenwert, der Tag-Abend-Nacht-Lärmindex LDEN ermittelt.
