@@ -16,7 +16,7 @@ facebookenable: true
 Die Vergleichbarkeit von Lärm ist nicht nur aufgrund der subjektiven Wahrnehmung erschwert. Unterschiedliche Gewichtungen und Sonderregelungen zwischen den Mitgliedsstaaten erschweren zusätzlich die angestrebte Vergleichbarkeit.
 
 <figure markdown="1">
-![](Schallpegelmesser_modern.jpg?resize=150,400)
+![](Schallpegelmesser_modern.jpg?resize=400,150)
 <figcaption>
 <a title="Beccandcal [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Schallpegelmesser_modern.jpg"></a>
 </figcaption>
