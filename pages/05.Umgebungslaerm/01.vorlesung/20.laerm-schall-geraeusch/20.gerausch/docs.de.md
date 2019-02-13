@@ -1,5 +1,5 @@
 ---
-title: Geräusch
+title: 'Geräusch'
 taxonomy:
     category:
         - docs
