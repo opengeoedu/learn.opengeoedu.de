@@ -27,6 +27,6 @@ Zur Verdeutlichung ein Hinweis auf diese [Quelle](http://www.laermorama.ch/m1_ak
 ! * [Virtuelles Oszilloskop](https://www.bildungsserver.de/onlineressource.html?onlineressourcen_id=16715) (Adobe Shockwave Plugin erforderlich)
 ! * [Oszilloskop: Online-Simulation](https://www.oszilloskope.net/oszilloskop/) (Javascript)
 
-! Diverse, _vom Aussterben bedrohte,_ Geräusche sind hier konserviert <br> 
+! Diverse, _vom Aussterben bedrohte,_ Geräusche sind hier konserviert &nbsp;&nbsp;&nbsp;<i class="far fa-smile"></i><br> 
 ! * https://www.conservethesound.de/ 
-! * http://savethesounds.info/  &nbsp;&nbsp;&nbsp;<i class="far fa-smile"></i>
+! * http://savethesounds.info/ 
