@@ -14,9 +14,10 @@ facebookenable: true
 ---
 
 ![](Schallpegelmesser_modern.jpg?resize=100,150)
+[center]<a title="Beccandcal [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Schallpegelmesser_modern.jpg"></a>
+[/center]
 Die Vergleichbarkeit von Lärm ist nicht nur aufgrund der subjektiven Wahrnehmung erschwert. Unterschiedliche Gewichtungen und Sonderregelungen zwischen den Mitgliedsstaaten erschweren zusätzlich die angestrebte Vergleichbarkeit.
 
-<a title="Beccandcal [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Schallpegelmesser_modern.jpg"></a>
 
 ## Warum wird Umgebungslärm berechnet statt gemessen? 
 
