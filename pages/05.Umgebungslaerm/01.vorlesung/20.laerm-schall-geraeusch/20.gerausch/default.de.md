@@ -21,9 +21,7 @@ Verschiedene Geräusche, z.B. ein Knall, können ganz charakteristische Spektren
 ## Was unterscheidet Ton, Klang und Geräusch?
 
 ![Ton-Klang-Geräusch](ton-klang-geraeusch.png?lightbox=800,600&resize=400,200)
-
-Die zusammensetzung von Tönen erzeugt Klang. Die Überlagerung von Tönen erzeugt Geräusche.
-Zur Verdeutlichung der Hinweis auf diese [Quelle](http://www.laermorama.ch/m1_akustik/tonklang_w.html#tonklang)
+Zur Verdeutlichung ein Hinweis auf diese [Quelle](http://www.laermorama.ch/m1_akustik/tonklang_w.html#tonklang) mit Hörbeispielen.
 
 ! Hands on! Hier modulieren Sie Töne:
 ! * [Virtuelles Oszilloskop](https://www.bildungsserver.de/onlineressource.html?onlineressourcen_id=16715) (Adobe Shockwave Plugin erforderlich)
