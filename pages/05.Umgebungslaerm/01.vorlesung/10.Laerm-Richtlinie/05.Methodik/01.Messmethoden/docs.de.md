@@ -24,7 +24,7 @@ Die Vergleichbarkeit von Lärm ist nicht nur aufgrund der subjektiven Wahrnehmun
 Die RL sieht vor den Dauerschallpegel in einer Höhe von 4 m zu kartieren. Messungen unter diesen Voraussetzungen sind unter Berücksichtigung des immensen Aufwands schlichtweg nicht umsetzbar.
 In der RL festgelegte Vergleichsgröße des **A-Bewerteten _Dauerschallpegels_ für die Tag-Abend- und Nachtzeit** müssten Messungen im Dauerbetrieb, sprich 365d 24h erfolgen.
 
-<figure>
+<figure markdown="1">
 ![](Schallpegelmesser_modern.jpg)
 <figcaption>
 <a title="Beccandcal [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Schallpegelmesser_modern.jpg"></a>
