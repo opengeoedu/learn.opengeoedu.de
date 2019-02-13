@@ -20,7 +20,7 @@ Verschiedene Geräusche, z.B. ein Knall, können ganz charakteristische Spektren
 
 ## Was unterscheidet Ton, Klang und Geräusch?
 
-![Ton-Klang-Geräusch](ton-klang-geraeusch.png?resize=300,200)
+![Ton-Klang-Geräusch](ton-klang-geraeusch.png?resize=250,200)
 (http://www.laermorama.ch/m1_akustik/tonklang_w.html#tonklang)
 
 ! Hands on! Hier modulieren Sie Töne:
