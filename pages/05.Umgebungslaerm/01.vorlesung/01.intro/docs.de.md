@@ -3,7 +3,7 @@ title: 'Einleitung'
 taxonomy:
     category:
         - docs
-menu: Lernziele
+menu: Einleitung
 ---
 Verkehrslärm beeinträchtigt das Leben vieler Menschen in Deutschland. Der von Straßen-, Schienen- oder Flugverkehr verursachte Schall kann die Gesundheit und das Wohlbefinden auf vielfältige Weise negativ beeinflussen. Lärm beeinträchtigt die Lebensqualität, so kommt es beispielsweise zu veränderten Schlafstrukturen, Lärm-Betroffene wachen häufiger auf und es werden verstärkt Stresshormone produziert. Insgesamt erhöht sich das Risiko für Herz-Kreislauf-Erkrankungen. ´
 

@@ -1,6 +1,5 @@
 ---
 title: EU-Umgebungslärmrichtlinie
-published: false
 taxonomy:
     category:
         - docs
