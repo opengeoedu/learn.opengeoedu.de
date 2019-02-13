@@ -10,6 +10,4 @@ Mit der EG-Umgebungslärm-Richtlinie 2002/49/EG, im englischen: „Environmental
 2.	**Lärmaktionsplanung**: Die Beteiligung der Öffentlichkeit an der Lärmaktionsplanung erfolgt auf Grundlage der Lärmkarten, es werden gemeinsam Lärmaktionspläne erstellt. Die Lärmaktionspläne beinhalten Maßnahmen zur Lärmbekämpfung, sowie zum Schutz Ruhiger Gebiete.
 3.	**Information**: Die Mitgliedstaaten informieren die Öffentlichkeit bestmöglich über Lärmbelastungen und Lärmauswirkungen.
 
-![Richtlinie 2002/49/EG](richtlinie.png?resize=,300)
-
-! [RICHTLINIE 2002/49/EG DES EUROPÄISCHEN PARLAMENTS UND DES RATES vom 25. Juni 2002 über die Bewertung und Bekämpfung von Umgebungslärm (Deutscher Text)](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A32002L0049&from=DE)
+> In Deutschland werden diese Aufgaben nicht von einer einzigen Behörde wahrgenommen, sondern von weit über 1.000 Behörden: eine Handvoll Bundesbehörden, Dutzende Landesbehörden und viele tausend Gemeindebehörden. <cite><a href=“http://ruhige-gebiete.de/downloads/Dissertation_MARTIN_JAESCHKE_aktualisierte_Zusammenfassung_050814.pdf“>Martin Jaeske</a></cite>
