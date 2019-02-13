@@ -12,10 +12,4 @@ In der Übung setzen Sie sich intensiver mit den Aspekten Open Access und Open S
 + mit der Offenheit von Forschungsdaten, in dem Sie in gängigen Datenrepositorien suchen (Repositories) und
 + mit offener GIS-Software zusammensuchen, um sich eine eigene offene Softwarealternative zur Bearbeitung unserer Fallbeispiele zu schaffen (Software DesktopGIS).
 
-[center]
-
-<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=cat_77&client_id=opengeoedu" markdown="1" target="_blank">
-![](/images/exercise.png?resize=200,200)
-</a>
-
-[/center]
+[center]<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=crs_250&client_id=opengeoedu" markdown="1" target="_blank">![](/images/exercise.png?resize=200,200)Hier geht es weiter zur Übung (ILIAS)</a>[/center]

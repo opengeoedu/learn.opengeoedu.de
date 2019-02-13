@@ -19,4 +19,3 @@ Eine der zentralen Herausforderungen von Open Science ist, die langfristige Nutz
 [![](Video_OpenScience.png?resize=300&classes=caption "What is Open Science?  (Quelle: OpenScience)")](https://www.youtube.com/watch?v=yspZkJQ2KLE)
 
 ! Weiterführende Informationen unter: [Open Science](https://www.ag-openscience.de/open-science/) - die Open Science AG der Open Knowledge Foundation
-
