@@ -1,5 +1,5 @@
 ---
-title: 3Berechnungsmethoden
+title: Berechnungsmethoden
 taxonomy:
     category:
         - docs
