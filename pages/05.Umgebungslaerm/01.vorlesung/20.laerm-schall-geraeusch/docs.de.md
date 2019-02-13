@@ -15,7 +15,7 @@ facebookenable: true
 
 Schall bezeichnet allgemein mechanische Schwingungen in einem elastischen Medium (Gas, Flüssigkeit, Festkörper). Diese Schwingungen pflanzen sich in Form von Schallwellen als Druck- und Dichteschwankungen fort ([Lexikon der Physik. 1998](https://de.wikipedia.org/wiki/Schall))
  
-![](schalluebertragung.jpg?lightbox=800,600&resize=300,200)
+![](schalluebertragung.jpg?lightbox=800,600&resize=400,200)
 
 
 ! http://www.laermorama.ch/m1_akustik/schall_w.html#schalldefinition (hier auch Schallbeispiele!)<br>
