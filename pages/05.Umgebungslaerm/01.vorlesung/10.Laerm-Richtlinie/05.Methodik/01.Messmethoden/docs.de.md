@@ -17,6 +17,7 @@ Die Vergleichbarkeit von Lärm ist nicht nur aufgrund der subjektiven Wahrnehmun
 
 ## Warum wird Umgebungslärm berechnet statt gemessen? 
 
+![](Mittlungspegel-HESSENmobil.jpg)
 ![Mittlungspegel](Mittlungspegel-HESSENmobil.jpg?classes=caption "<a href="https://mobil.hessen.de/planung/l%C3%A4rmschutz/der-mittelungspegel">Hessen Mobil</a>")
 
 Die RL sieht vor den Dauerschallpegel in einer Höhe von 4 m zu kartieren. Messungen unter diesen Voraussetzungen sind unter Berücksichtigung des immensen Aufwands schlichtweg nicht umsetzbar.
