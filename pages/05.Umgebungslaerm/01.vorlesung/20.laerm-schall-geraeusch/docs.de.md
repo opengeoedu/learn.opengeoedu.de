@@ -18,6 +18,6 @@ Schall bezeichnet allgemein mechanische Schwingungen in einem elastischen Medium
 ![](schalluebertragung.jpg?lightbox=800,600&resize=400,200)
 
 
-! *[Schallbeispiele](http://www.laermorama.ch/m1_akustik/schall_w.html#schalldefinition) <br>
-! *[Physikalische Grundlagen von Schall](https://www1.deutschebahn.com/laerm/grundlagen/physikalische_grundlagen-1097050) <br>
-! https://de.wikipedia.org/wiki/Schall
+! * [Schallbeispiele](http://www.laermorama.ch/m1_akustik/schall_w.html#schalldefinition) <br>
+! * [Physikalische Grundlagen von Schall](https://www1.deutschebahn.com/laerm/grundlagen/physikalische_grundlagen-1097050) <br>
+! * https://de.wikipedia.org/wiki/Schall
