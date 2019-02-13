@@ -25,7 +25,7 @@ Die RL sieht vor den Dauerschallpegel in einer Höhe von 4 m zu kartieren. Messu
 In der RL festgelegte Vergleichsgröße des **A-Bewerteten _Dauerschallpegels_ für die Tag-Abend- und Nachtzeit** müssten Messungen im Dauerbetrieb, sprich 365d 24h erfolgen.
 
 <figure markdown="1">
-![](Schallpegelmesser_modern.jpg)
+![](Schallpegelmesser_modern.jpg?resize=150,400)
 <figcaption>
 <a title="Beccandcal [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Schallpegelmesser_modern.jpg"></a>
 </figcaption>
