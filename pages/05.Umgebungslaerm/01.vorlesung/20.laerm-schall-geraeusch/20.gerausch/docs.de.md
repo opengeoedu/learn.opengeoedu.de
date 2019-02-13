@@ -4,8 +4,10 @@ taxonomy:
     category:
         - docs
 ---
-<a href="https://www.flickr.com/people/37996646802@N01">cogdogblog</a>, <a href="https://commons.wikimedia.org/wiki/File:2012-366-25_Drop_a_Needle_(6763970597).jpg">2012-366-25 Drop a Needle (6763970597)</a>, <a href="https://creativecommons.org/licenses/by/2.0/legalcode" rel="license">CC BY 2.0</a>
-
+<figure>
+<a title="cogdogblog [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:2012-366-25_Drop_a_Needle_(6763970597).jpg"><img width="320" alt="2012-366-25 Drop a Needle (6763970597)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/2012-366-25_Drop_a_Needle_%286763970597%29.jpg/320px-2012-366-25_Drop_a_Needle_%286763970597%29.jpg"></a>
+<figcaption><a href="https://www.flickr.com/people/37996646802@N01">cogdogblog</a>, <a href="https://commons.wikimedia.org/wiki/File:2012-366-25_Drop_a_Needle_(6763970597).jpg">2012-366-25 Drop a Needle (6763970597)</a>, <a href="https://creativecommons.org/licenses/by/2.0/legalcode" rel="license">CC BY 2.0</a></figcaption>
+</figure>
 Definitionen zum Geräusch
 1.	im physikalischen Sinne eine Schallform, deren Frequenzspektrum – im Unterschied zu Tönen und Klängen – kontinuierlich ist oder Frequenzen aufweist, die nicht im Verhältnis kleiner ganzer Zahlen zueinanderstehen. 
 
@@ -15,12 +17,15 @@ Verschiedene Geräusche, z.B. ein Knall, können ganz charakteristische Spektren
 <a href="https://commons.wikimedia.org/wiki/User:Kdkeller">Klaus-Dieter Keller</a>, <a href="https://commons.wikimedia.org/wiki/File:Oszi_Geräusch.svg">Oszi Geräusch</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode" rel="license">CC BY-SA 3.0</a>
 
 
-## [Was unterscheidet Ton, Klang und Geräusch?](http://www.laermorama.ch/m1_akustik/tonklang_w.html)
+## Was unterscheidet Ton, Klang und Geräusch?
 
-![Ton-Klang-Geräusch](ton-klang-geraeusch.png)
+![Ton-Klang-Geräusch](ton-klang-geraeusch.png?resize=,300)
+(http://www.laermorama.ch/m1_akustik/tonklang_w.html#tonklang)
 
-! Hands on!:
+! Hands on! Hier modulieren Sie Töne:
 ! * [Virtuelles Oszilloskop](https://www.bildungsserver.de/onlineressource.html?onlineressourcen_id=16715) (Adobe Shockwave Plugin erforderlich)
 ! * [Oszilloskop: Online-Simulation](https://www.oszilloskope.net/oszilloskop/) (Javascript)
 
-! Diverse (vom Aussterben bedrohte) Geräusche sind hier konserviert https://www.conservethesound.de/ hier auch http://savethesounds.info/ <i class="far fa-smile"></i>
+! Diverse, _vom Aussterben bedrohte,_ Geräusche sind hier konserviert <br> 
+! * https://www.conservethesound.de/ 
+! * http://savethesounds.info/  <i class="far fa-smile"></i>
