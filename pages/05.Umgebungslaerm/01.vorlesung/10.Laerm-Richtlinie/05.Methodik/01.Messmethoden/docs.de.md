@@ -17,7 +17,7 @@ Die Vergleichbarkeit von Lärm ist nicht nur aufgrund der subjektiven Wahrnehmun
 
 ## Warum wird Umgebungslärm berechnet statt gemessen? 
 
-![](Mittlungspegel-HESSENmobil.jpg)
+![](Mittlungspegel-HESSENmobil.jpg?resize=,300)
 [center]<a href="https://mobil.hessen.de/planung/l%C3%A4rmschutz/der-mittelungspegel">Hessen Mobil</a>[/center]
 
 
