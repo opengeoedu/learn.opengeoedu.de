@@ -10,7 +10,7 @@ Die Umgebungslärmrichtlinie wurde durch die Änderung des Bundes-Immissionsschu
 ![](bimschg-text.png)
 
 und dem darauffolgendem Erlass der Vierunddreißigsten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes ([Verordnung über die Lärmkartierung](http://www.gesetze-im-internet.de/bimschv_34/index.html)) 
-![](bimschv-text.png)
+![](bimschv-text_2.png)
 
 vom 06. März. 2006 in Deutsches Recht überführt.
 
