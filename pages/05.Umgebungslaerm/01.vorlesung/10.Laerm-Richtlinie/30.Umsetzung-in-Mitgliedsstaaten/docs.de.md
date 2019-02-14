@@ -4,6 +4,11 @@ taxonomy:
     category:
         - docs
 ---
+## Bericht der Kommission zur EU-Umgebungslärmrichtlinie
+Gemäß der END erstellt die Europäische Kommission alle fünf Jahre einen Bericht zu dessen Durchführung. In dem hier vorliegenden Bericht werden die ersten beiden Berichtsrunden berücksichtigt und Empfehlungen für kommende Berichtsrunden ausgesprochen.
+
+! [Bericht der Kommission zur EU-Umgebungslärmrichtlinie (2017)](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A52017DC0151)
+
 
 ## Umsetzung der END in Deutschland
 Die Umgebungslärmrichtlinie wurde durch die Änderung des Bundes-Immissionsschutzgesetzes ([BImSchG](http://www.gesetze-im-internet.de/bimschg/index.html)) vom 24. Juni 2005 
