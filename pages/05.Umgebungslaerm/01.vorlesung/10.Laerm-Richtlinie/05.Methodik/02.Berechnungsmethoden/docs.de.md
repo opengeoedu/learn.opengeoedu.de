@@ -1,13 +1,22 @@
 ---
-title: 'Berechnungsmethoden'
+title: Berechnungsmethoden
 taxonomy:
     category:
         - docs
+twitterenable: true
+twittercardoptions: summary
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+personenabled: false
+facebookenable: true
 ---
+
 Hier wird eine kleine Auswahl an Berechnungsmethoden vorgestellt.
 
 ## VBUS Vorläufige Berechnungsmethode für den Umgebungslärm an Straßen
-![](Lden_vbus.jpg)
+![](Lden_vbus.jpg?lightbox=800,400&resize=600,300&classes=caption "Vorläufigen Berechnungsmethode für den Umgebungslärm an Straßen")
 Mit der Vorläufigen Berechnungsmethode für den Umgebungslärm an Straßen (VBUS) können die Lärmindizes, die für die Lärmkartierung erforderlich sind, berechnet werden.
 Für jeden Zeitraum wird ein [Dauerschallpegel](http://www.umweltbundesamt.at/umweltschutz/laerm/schalldruckpegel) berechnet. 
 Zusätzlich wird ein gewichteter 24-Stundenwert, der Tag-Abend-Nacht-Lärmindex LDEN ermittelt.
@@ -18,7 +27,7 @@ Nach einigen (vorläufigen) nationalen Alleingängen und Übergangsvorschriften,
 
 ! [Text der Richtlinie 2015/996](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L0996)
 
-Die RL sowie das Bewertungsmodell sind Gegenstand eines intensiven [wissenschaftlichen Diskurses](https://www.researchgate.net/search.Search.html?type=publication&query=cnossos-eu) (Vgl. https://www.researchgate.net/search.Search.html?type=publication&query=cnossos-eu)
+Die Richtlinie sowie das Bewertungsmodell sind Gegenstand eines intensiven [wissenschaftlichen Diskurses](https://www.researchgate.net/search.Search.html?type=publication&query=cnossos-eu) (Vgl. https://www.researchgate.net/search.Search.html?type=publication&query=cnossos-eu)
 
 ! [Bundesamt für Straßenwesen mit Bewertungen zu dem Modell](https://www.bast.de/BASt_2017/DE/Verkehrstechnik/Fachthemen/cnossos.html) <br>
 ! [Common Noise Assessment Methods in Europe (CNOSSOS-EU)](https://ec.europa.eu/jrc/en/publication/reference-reports/common-noise-assessment-methods-europe-cnossos-eu)
