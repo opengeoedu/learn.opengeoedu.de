@@ -45,6 +45,5 @@ Stationsanbieter arbeiten an der Verbesserung der Kundenorientierung, z.B. durch
 ! - https://www.lemnet.org/de
 ! - https://www.plugsurfing.com
 ! - https://www.goingelectric.de/stromtankstellen/routenplaner/
-! - https://www.plugfinder.de/
 
 !! Finden Sie weitere Ladestationen-Apps?

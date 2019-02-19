@@ -11,7 +11,7 @@ LEMnet Europe e. V. betreibt seit 2013 eine umfangreiche und qualitativ hochwert
 
 ![Ladestationen in Mecklenburg-Vorpommern](ladestationen-mv.png?classes=caption "Ladestationen in Mecklenburg-Vorpommern und angrenzenden Regionen ([Quelle: https://lemnet.org/de/map/](https://lemnet.org/de/map/))")
 
-Aber auch in OpenStreetMap sind Ladestationen zu finden, in OpenChargeMap sogar noch etwas mehr.
+Aber auch in OpenStreetMap sind Ladestationen zu finden, in OpenChargeMap sogar noch etwas mehr. In der Übung zur nationalen Situation der Ladeinfrastruktur finden Sie eine umfangreichere Übersicht zu Anbietern von Webkarten und Daten zu Ladestationen.
 
 !! Schauen Sie sich auf den Seiten von Lemnet um. Suchen Sie nach weiteren Webseiten, in denen Daten zu Ladestationen angeboten werden.
 
