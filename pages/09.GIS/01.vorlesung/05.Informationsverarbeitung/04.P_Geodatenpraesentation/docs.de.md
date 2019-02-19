@@ -7,7 +7,13 @@ taxonomy:
 ---
 Während der Bearbeitung am Bildschirm spielt die interaktiv-graphische Präsentationsform unter modernen graphischen Benutzerschnittstellen (GUI – Graphical User Interface) die entscheidende Basis zur Kommunikation zwischen Nutzer und System. Die wichtigsten Grundfunktionen wie Displaymanagement, Anzeigen, Verschieben (Pan), Vergrößern/Verkleinern (Zoom), Fenstertechnik (Windowmanagement) sind hier bereitzustellen.
 
-Die Ergebnisse räumlicher Abfragen und Analysen lassen sich dann in unterschiedlichster Form darstellen. Kartographische Ausgabeformen sind neben Karten auch eine Vielzahl anderer Darstellungen wie Perspektiven, Längsschnitte, Sichtbarkeitskarten, Kartodiagramme, Überlagerungen von Rasterdaten und Vektordaten usw. (vgl. Hake et al., 2001). Datenpräsentation schließt neben der Kartenausgabe aber vielfältige andere Ausgabeformen wie Tabellen, Berichte sowie multimediale Komponenten ein. Zur alphanumerischen Ausgabe können Berichte und Listen generiert werden, die Datenbankauszüge und thematische Übersichten präsentieren. Ad hoc Anfragen in SQL zur Untersuchung des Datenbestandes nach bestimmten Kriterien sind ebenso wichtig wie permanent wiederkehrende Anfragen, die als Makros abgelegt das tägliche Arbeiten mit dem System vereinfachen.
+Die Ergebnisse räumlicher Abfragen und Analysen lassen sich dann in unterschiedlichster Form darstellen. Neben Karten sind eine Vielzahl anderer Darstellungen wie Perspektiven, Längsschnitte, Sichtbarkeitskarten, Kartodiagramme, Überlagerungen von Rasterdaten und Vektordaten usw. (vgl. Hake et al., 2001) möglich. 
+
+![](FinaleKarte.png?lightbox=800&resize=300&classes=caption "Thematische Karte zum Thema Sustainable Development Goals, einer Übungsaufgabe im GIS-Übungsteil).")
+
+Datenpräsentation schließt neben der Kartenausgabe aber vielfältige andere Ausgabeformen wie Tabellen, Diagramme, Berichte sowie multimediale Komponenten ein. Zur alphanumerischen Ausgabe können Berichte und Listen generiert werden, die Datenbankauszüge und thematische Übersichten präsentieren. Ad hoc Anfragen in SQL zur Untersuchung des Datenbestandes nach bestimmten Kriterien sind ebenso wichtig wie permanent wiederkehrende Anfragen, die als Makros abgelegt das tägliche Arbeiten mit dem System vereinfachen.
+
+![](Diagramm.png?lightbox=800&resize=300&classes=caption "Diagrammdarstellung zum zeitlichen Verlauf eines SDG-Indikators).")
 
 Gerade durch die Möglichkeiten, Kartenausgaben durch Bilder, Video- oder Audiosequenzen anzureichern oder die in den Geodaten gespeicherte Welt virtuell im Rechner begehbar (Virtual Reality) oder durch Kombination der virtuellen mit der realen Welt mittels Augmented Reality erlebbar zu machen, lassen sich z. B. Planungen den betroffenen Bürgern deutlich besser kommunizieren.
 
