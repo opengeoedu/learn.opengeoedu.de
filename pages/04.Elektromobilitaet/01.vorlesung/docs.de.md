@@ -16,17 +16,16 @@ Die Nutzung elektrisch angetriebener Fahrzeuge kann zur Reduzierung der Treibhau
 
 Die Bundesregierung strebt im Rahmen des „Nationalen Entwicklungsplans Elektromobilität“ an, bis zum Jahr 2020 eine Million Elektrofahrzeuge und bis zum Jahr 2030 sechs Millionen Elektrofahrzeuge auf deutsche Straßen zu bringen. Im Jahr 2020 soll Deutschland Leitanbieter und Leitmarkt für Elektromobilität sein: Das ist das gemeinsame Ziel von Industrie, Politik, Wissenschaft, Zivilgesellschaft und Gewerkschaften. Über die gesamte Wertschöpfungskette hinweg, von den Batterien bis zu internetbasierten Dienstleistungen rund um die Elektromobilität, sind die deutschen Hersteller technologische Vorreiter. Die Komponenten Fahrzeug, Energieversorgung und Verkehrsinfrastruktur greifen bei der Elektromobilität ineinander (NPE, 2011).
 
-Um diese Ziele zu erreichen wurde die Nationale Plattform Elektromobilität (NPE) gegründet. Diese bietet umfangreiche Informationsmaterialien unter www.nationale-plattform-elektromobilitaet.de. Ein Besuch dieser Plattform lohnt sich zur Vertiefung, eine Vielzahl von Berichten und Publikationen ist zu finden unter http://nationale-plattform-elektromobilitaet.de/die-npe/publikationen/
-
-
-! Schauen Sie sich die Publikationen der Nationale Plattform Elektromobilität (NPE) an.
+Um diese Ziele zu erreichen wurde die Nationale Plattform Elektromobilität (NPE) gegründet. 
 
 ![Logo der NPE](NPE.png?classes=caption "Logo der NPE [http://nationale-plattform-elektromobilitaet.de](http://nationale-plattform-elektromobilitaet.de)")
+
+! Schauen Sie sich die umfangreichen Informationsmaterialien, Publikationen und Berichte der Nationale Plattform Elektromobilität (NPE) unter http://nationale-plattform-elektromobilitaet.de/die-npe/publikationen/ an und extrahieren für sich wesentliche Kenndaten zur Ladeinfrastruktur und zu Käuferpotenzialen heraus.
 
 Um den Erwerb von Elektrofahrzeugen attraktiver zu machen, wurden verschiedene Maßnahmen wie die Befreiung von der Kfz-Steuer für einen Zeitraum von zehn Jahren und eine Änderung der Dienstwagenbesteuerung umgesetzt. Im April 2016 wurden durch die Bundesregierung Kaufprämien von 4000 Euro für Elektroautos und 3000 Euro für Plug-in-Hybridautos beschlossen.
 
 Die Entwicklung der Elektromobilität wird nicht nur in Deutschland politisch aktiv vorangetrieben, China und USA sind treibende Kräfte. In Europa ist Norwegen führend, dort sind bereits heute ein Viertel aller Neuzulassungen Elektrofahrzeuge.
 
-Der Ausbau der Elektromobilität kommt in Deutschland dennoch nur langsam voran. Der eigentliche Boom der Elektromobilität scheint sich eher im Bereich der zweirädrigen E-Fahrzeuge abzuzeichnen. Während der Absatz bei Elektrofahrrädern (E-Bikes) stark zunimmt, entwickelt sich der Vertrieb von Elektro-PKWs eher schleppend.  Anfang 2017 waren nur etwa 35.000 Elektrofahrzeuge angemeldet. Der Anteil von Elektroautos an den Neuzulassungen lag damit etwa bei 1%. Klarer Vorreiter in Sachen Elektromobilität in Deutschland ist der öffentliche Dienst mit 4,7 % aller neuen Pkw im ersten Halbjahr 2017.
+Der Ausbau der Elektromobilität kommt in Deutschland dennoch nur langsam voran. Der eigentliche Boom der Elektromobilität scheint sich eher im Bereich der zweirädrigen E-Fahrzeuge abzuzeichnen. Während der Absatz bei Elektrofahrrädern (E-Bikes) stark zunimmt, entwickelt sich der Vertrieb von Elektro-PKWs eher schleppend.  Anfang 2018 waren gut 50.000 Elektrofahrzeuge angemeldet. Klarer Vorreiter in Sachen Elektromobilität in Deutschland ist der öffentliche Dienst mit 4,7 % aller neuen Pkw im ersten Halbjahr 2017.
 
 ![Neuzulassungen an Elektrofahrzeugen](zulassung_e-auto.PNG?classes=caption "Neuzulassungen an Elektrofahrzeugen (Eigene Darstellung, Quelle: Kraftfahrtbundesamt)")
