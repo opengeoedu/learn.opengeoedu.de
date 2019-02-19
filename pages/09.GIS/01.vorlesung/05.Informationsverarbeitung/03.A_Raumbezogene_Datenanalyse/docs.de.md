@@ -31,10 +31,10 @@ Analysemethoden lassen sich grob in 6 Gruppen einteilen (zu Details vergleiche B
 <br>
 ![](BesterWeg.png?lightbox=800&resize=300&classes=caption "Kürzester Weg vo Rostock nach Madrid (eine Übungsuafgabe zur Elektromobilität).")
 1. Mengenmethoden setzen auf der Booleschen und relationalen Algebra auf. Sie dienen der Eingrenzung selektiver Abfragen auf dem Datenbestand (z. B. alle Flurstücke größer als 1.000qm und zur Bebauung geeignet). Typische Funktionen sind aber auch die Sortierung von Daten (z. B. der Größe oder dem Alphabet nach) zur Listenausgabe.<br><br>
-[div class="text-center mx-auto" style="width:400px"][plugin:youtube](https://youtu.be/VrKVnoOtX5g)[center]Aggregation[/center][/div]
+[div class="text-center mx-auto" style="max-width:400px"][plugin:youtube](https://youtu.be/VrKVnoOtX5g)[center]Aggregation[/center][/div]
 1. Statistische Methoden sind in der Wahrscheinlichkeitstheorie und Stochastik begründet. Die angebotenen Funktionen reichen von der einfachen beschreibenden Statistik (z. B. mittlere Größe der Flurstücke im Gemeindegebiet) über die induktive Statistik bis hin zur Geostatistik (z. B. Interpolation von Grundwasserständen in einer Gemeinde mittels Kriging).
 <br>
-<div class="grav-youtube" markdown="1">[plugin:youtube](https://youtu.be/cq7MHmDq4a8)[center]Boxploterstellung[/center]</div>
+[div class="text-center mx-auto" style="max-width:400px"][plugin:youtube](https://youtu.be/cq7MHmDq4a8)[center]Boxploterstellung[/center][/div]
 1. Temporale Methoden gestatten raum-zeitliche Auswertungen. Dies reicht von einfachen Zeitoperationen in selektiven Abfragen bis zu Interpolationen oder Extrapolationen sowie Zeitreihenanalysen.<br><br>
 ![](Erreichbarkeit.gif?resize=600&classes=caption "Erreichbarkeiten im Straßennetz von San Diego von einem zentralen Punkt aus in vier, acht und zwölf Minuten für unterschiedliche Tageszeiten (animiert mit ArcGIS Pro unter Einsatz eines ESRI-Straßendatensatzes")
 1. Modelle und Simulationen als komplexe Methoden sind aus den jeweiligen Fachdisziplinen speziell zusammengestellte Abläufe, die bestimmte Phänomene und Verhaltensweisen der realen Welt mathematisch nachbilden. Als Methode bietet sich hierfür z. B. die sogenannte Map Algebra an. Die Lärmausbreitung oder die Schadstoffausbreitung in Gewässer kann z. B. mittels GIS-Unterstützung modelliert und berechnet werden, wobei hier meist eine Kombination großer Simulationsmodelle mit GIS erfolgt. Geodaten werden dem Simulationsmodell zugeführt, die Ergebnisse der Simulation können in Form von Isolinien im GIS visualisiert werden.
