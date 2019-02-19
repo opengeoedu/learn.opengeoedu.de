@@ -23,8 +23,8 @@ Analysemethoden lassen sich grob in 6 Gruppen einteilen (zu Details vergleiche B
 
 1. Geometrische Methoden beruhen im Wesentlichen auf mathematischen Grundlagen der Geometrie. Sie sind durch das Rechnen mit Koordinaten ausgezeichnet. Wichtige Funktionen sind die Abstands- und Flächenberechnung (z. B. für Flurstücke einer Kommune), die Zonengenerierung (z. B. um eine geplante Trasse), die im Video erklärte Punkt-im-Polygon-Prüfung (z. B. Messstellen in einem Ortsteil), die nachfolgend animiert erläuterte Flächenverschneidung (z. B. Flurstücke mit Realnutzung) und die Dreiecksvermaschung (z. B. Digitale Geländemodelle).<br>
 [owl-carousel items=1 loop=false autoplay=true autoplayHoverPause=true margin=15 responsive={0:{items:1},640:{items:2}}]
-[div class="text-center mx-auto" style="width:400px"][plugin:youtube](https://youtu.be/BEttcbmRMvE)Point-in-Polygon[/div]
-[div class="text-center mx-auto" style="width:400px"][plugin:youtube](https://youtu.be/zW0w5CVujUs)Flächenverschneidung[/div]
+[div class="text-center mx-auto" style="max-width:400px"][plugin:youtube](https://youtu.be/BEttcbmRMvE)Point-in-Polygon[/div]
+[div class="text-center mx-auto" style="max-width:400px"][plugin:youtube](https://youtu.be/zW0w5CVujUs)Flächenverschneidung[/div]
 [/owl-carousel]
 <br>
 1. Topologische Methoden bauen auf Nachbarschaftsbeziehungen auf; sie nutzen im Wesentlichen die Graphentheorie als mathematische Grundlage. Mit ihnen lassen sich Nachbarschaftsbeziehungen (zwei Flurstücke grenzen aneinander) ohne Nutzung von Koordinaten ausdrücken. Bekannte Funktion ist die Berechnung der kürzesten Wege in einem Netz (z. B. einem Leitungsnetz).
