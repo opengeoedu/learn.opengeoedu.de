@@ -18,7 +18,7 @@ Nachfolgende Abbildung deutet als Übersicht das verfügbare Ladenetz in Deutsch
 [![](ladenetz.png?classes=caption "Ladenetz DACH- und Benelux-Länder (Juni 2018) [http://maps.ladenetz.de/](http://maps.ladenetz.de/)")](http://maps.ladenetz.de/)
 -->
 
-!! Suchen Sie einma selbst nach Daten zur Ladeinfrastruktur. Wodurch entstehen die unterschiedlichen Angaben? Erkunden Sie dabei z.B. einmal Ihre lokale Umgebung.
+!! Suchen Sie einmal selbst nach Daten zur Ladeinfrastruktur. Wodurch entstehen die unterschiedlichen Angaben? Erkunden Sie dabei z.B. einmal Ihre lokale Umgebung.
 
 
 !!!! Welche Daten werden zu den Ladestationen geboten? <br> 
