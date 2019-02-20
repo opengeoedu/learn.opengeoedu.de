@@ -656,13 +656,30 @@ Content for chapter one.
 <br>
 
 
-## Images
+## Bilder 
+Die folgende Syntax fügt dem Bild `oge.svg` mit dem Zusatz 
+* `?lightbox=800` ein anklickbare Vergrößerung (mit Breite 800px) hinzu
+* `&resize=300` eine Größenänderung auf 300px
+* `&classes=caption "Text der Bildunterschrift"` die eigentliche Bildunterschrift
 
 ```markdown
 ![OGE-Logo](http://www.opengeoedu.de/images/logo/oge.svg?lightbox=800&resize=300&classes=caption "Diese Abbildung zeigt das OpenGeoEdu-Logo")
 ```
+
+Vorschau:
+
 ![](http://www.opengeoedu.de/images/logo/oge.svg?lightbox=800&resize=300&classes=caption "Diese Abbildung zeigt das OpenGeoEdu-Logo")
 
+!!!!! Zu beachten ist der **erste** Zusatz erfordert **immer** ein `?` weitere Parameter ein `&`
+
+
+## Bild mit Link im Bild **und** der Bildunterschrift
+```markdown
+[![OGE-Logo](http://www.opengeoedu.de/images/logo/oge.svg?resize=300&classes=caption "Diese Abbildung zeigt das OpenGeoEdu-Logo")](https://www.opengeoedu.de)
+```
+Vorschau:
+
+[![OGE-Logo](http://www.opengeoedu.de/images/logo/oge.svg?resize=300&classes=caption "Diese Abbildung zeigt das OpenGeoEdu-Logo")](https://www.opengeoedu.de)
 
 
 Images have a similar syntax to links but include a preceding exclamation point.
