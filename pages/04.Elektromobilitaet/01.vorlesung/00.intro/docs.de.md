@@ -16,14 +16,7 @@ Die Bundesregierung strebt im Rahmen des „Nationalen Entwicklungsplans Elektro
 
 Um diese Ziele zu erreichen wurde die Nationale Plattform Elektromobilität (NPE) gegründet. 
 
-<figure>
-<div markdown="1" class="caption">
-![Logo der NPE](NPE.png)
-</div>
-<figcaption>
-Logo der <a href="http://nationale-plattform-elektromobilitaet.de">NPE</a>
-</figcaption>
-</figure>
+[![Logo der NPE](NPE.png?classes=caption "Logo der NPE")(http://nationale-plattform-elektromobilitaet.de)
 
 ! Schauen Sie sich die umfangreichen Informationsmaterialien, Publikationen und Berichte der Nationale Plattform Elektromobilität (NPE) unter http://nationale-plattform-elektromobilitaet.de/die-npe/publikationen/ an und extrahieren für sich wesentliche Kenndaten zur Ladeinfrastruktur und zu Käuferpotenzialen heraus.
 
