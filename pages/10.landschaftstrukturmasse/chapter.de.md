@@ -9,6 +9,7 @@ orga:
 orgaratingenabled: false
 personenabled: false
 facebookenable: true
+published: false
 ---
 
 # test
