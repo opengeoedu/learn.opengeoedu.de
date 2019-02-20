@@ -10,7 +10,7 @@ Die unzureichende öffentliche Ladeinfrastruktur stellt ein wesentliches Hindern
 
 Problem sind auch sehr divergierende Angaben zu den verfügbaren Ladestationen. So spricht eine Übersicht des Energiewirtschaftsverbands BDEW Anfang 2019 von rund 13.000 öffentlichen. Die Bundesnetzagentur stellt ein <a href="https://netzausbau.maps.arcgis.com/apps/webappviewer/index.html?id=0b5ca416de8445e4b68666a202f0f833">Ladesäulenregister</a> mit  7.7000 Ladesäulen (Stand Februar 2019) zu den im Rahmen der Ladesäulenverordnung (LSV) gemeldeten Daten zur öffentlich zugänglichen Ladeinfrastruktur in Deutschland zum [Download](https://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/HandelundVertrieb/Ladesaeulenkarte/Ladesaeulenkarte_node.html) (CC-BY 4.0) bereit.
 
-[![Ladesäulenregister (BNetzA)](ladesaeulenregister_BNetzA.jpg?classes=caption "Ladesäulenregister der BNetzA (Januar 2019)")]((https://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/HandelundVertrieb/Ladesaeulenkarte/Ladesaeulenkarte_node.html))
+[![Ladesäulenregister (BNetzA)](ladesaeulenregister_BNetzA.jpg?classes=caption "Ladesäulenregister der BNetzA (Januar 2019)")](https://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/HandelundVertrieb/Ladesaeulenkarte/Ladesaeulenkarte_node.html)
 
 <!-- 
 Nachfolgende Abbildung deutet als Übersicht das verfügbare Ladenetz in Deutschland und den Benelux-Ländern an (http://maps.ladenetz.de/).
