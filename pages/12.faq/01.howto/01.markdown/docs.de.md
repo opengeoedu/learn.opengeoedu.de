@@ -656,13 +656,30 @@ Content for chapter one.
 <br>
 
 
-## Images
+## Bilder 
+Die folgende Syntax fügt dem Bild `oge.svg` mit dem Zusatz 
+* `?lightbox=800` ein anklickbare Vergrößerung (mit Breite 800px) hinzu
+* `&resize=300` eine Größenänderung auf 300px
+* `&classes=caption "Text der Bildunterschrift"` die eigentliche Bildunterschrift
 
 ```markdown
 ![OGE-Logo](http://www.opengeoedu.de/images/logo/oge.svg?lightbox=800&resize=300&classes=caption "Diese Abbildung zeigt das OpenGeoEdu-Logo")
 ```
+
+Vorschau:
+
 ![](http://www.opengeoedu.de/images/logo/oge.svg?lightbox=800&resize=300&classes=caption "Diese Abbildung zeigt das OpenGeoEdu-Logo")
 
+!!!!! Zu beachten ist der **erste** Zusatz erfordert **immer** ein `?` weitere Parameter ein `&`
+
+
+## Bild mit Link im Bild **und** der Bildunterschrift
+```markdown
+[![OGE-Logo](http://www.opengeoedu.de/images/logo/oge.svg?resize=300&classes=caption "Diese Abbildung zeigt das OpenGeoEdu-Logo")](https://www.opengeoedu.de)
+```
+Vorschau:
+
+[![OGE-Logo](http://www.opengeoedu.de/images/logo/oge.svg?resize=300&classes=caption "Diese Abbildung zeigt das OpenGeoEdu-Logo")](https://www.opengeoedu.de)
 
 
 Images have a similar syntax to links but include a preceding exclamation point.
@@ -734,18 +751,24 @@ Left align the text between this shortcode
 ```
 [left]This text is left aligned[/left]
 ```
+[left]This text is left aligned[/left]
+
 
 Center a selection of text between this shortcode
 
 ```
 [center]This text is centered[/center]
 ```
+[center]This text is centered[/center]
+
 
 Right align the text between this shortcode
 
 ```
 [right]This text is right aligned[/right]
 ```
+[right]This text is right aligned[/right]
+
 
 
 #### Div
@@ -807,6 +830,24 @@ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat.
 [/columns]
 ```
+[columns]
+### Headline
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat.
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat.
+[/columns]
+
 
 Defaults to 2 columns.  You can also explicitly set the number of `columns`, `width`, `gap`, and `rule` styling for the column divider:
 
@@ -829,6 +870,24 @@ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat.
 [/columns]
 ```
+[columns count=3 width=200px gap=30px rule="1px dotted #930"]
+### Headline
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat.
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat.
+[/columns]
+
 
 #### Raw
 
@@ -837,6 +896,8 @@ Do not process the shortcodes between these raw shortcode tags
 ```
 [raw]This is some [u]bb style underline[/u] and not much else[/raw]
 ```
+[raw]This is some [u]bb style underline[/u] and not much else[/raw]
+
 
 #### Safe-Email
 
@@ -845,6 +906,8 @@ Encode an email address so that it's not so easily 'scrapable' by nefarious scri
 ```
 Safe-Email Address: [safe-email autolink="true" icon="envelope-o"]user@domain.com[/safe-email]
 ```
+Safe-Email Address: [safe-email autolink="true" icon="envelope-o"]user@domain.com[/safe-email]
+
 
 #### Section
 
@@ -888,24 +951,6 @@ You can even retrieve a section from another page utilizing the shortcodes as th
 
 ```
 <div id="author">{{ page.find('/my/custom/page').contentMeta.shortcodeMeta.shortcode.section.author }}</div>
-```
-
-#### Notice
-
-A useful shortcode that performs a similar job to the [markdown-notices](https://github.com/getgrav/grav-plugin-markdown-notices) plugins, allows you to easily create simple notice blocks as seen on http://learn.getgrav.org and http://getgrav.org.  To use simply use the following syntax:
-
-```
-[notice]
-Your **Markdown** text that will appear in the notice
-[/notice]
-```
-
-You can also specifically choose from `note`, `info`, `warning`, `tip` types which provide unique color options:
-
-```
-[notice=warning]
-Danger Will Robinson! Danger, Will Robinson!
-[/notice]
 ```
 
 #### FontAwesome
