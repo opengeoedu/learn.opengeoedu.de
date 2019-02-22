@@ -10,4 +10,4 @@ personenabled: false
 facebookenable: true
 ---
 
-[plugin:page-inject](/tutorials?template=oge-learn)
+[plugin:page-inject](/tutorials)
