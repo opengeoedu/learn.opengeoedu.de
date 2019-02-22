@@ -21,5 +21,5 @@ http_response_code: 404
 ---
 
 {{ 'PLUGIN_ERROR.ERROR_MESSAGE'|t }}
-
+! Verwenden sie unsere [Suchfunktion](https://learn.opengeoedu.de/tntsearch)
 ![](404.jpg)
