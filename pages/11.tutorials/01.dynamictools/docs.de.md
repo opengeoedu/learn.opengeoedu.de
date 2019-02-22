@@ -10,4 +10,4 @@ personenabled: false
 facebookenable: true
 ---
 
-[plugin:page-inject](/tutorials?template=chapter)
+{% include 'partials/taxonomylist.html.twig' with {base_url: my_url, taxonomy: 'tag', children_only: true} %}
