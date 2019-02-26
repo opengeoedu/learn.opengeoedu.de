@@ -3,27 +3,12 @@ title: 'Merkmale offener Daten'
 taxonomy:
     category:
         - docs
+slug: merkmale
 ---
 
-<style>
-  #schaubild_offenheit g:hover path {
-    fill: #bcd16f !important;
-    cursor: pointer;
-  }
-
-  #schaubild_offenheit g:hover text {
-       font-weight: bold;
-  }
-
-  .schaubild_offenheit_hovered{
-    fill: #bcd16f !important;
-    background: #bcd16f !important;;
-  }
-
-  #schaubild_offenheit{
-    text-align: center;
-  }
-</style>
+{assets:css}
+schaubild_offenheit.css
+{/assets}
 
 !!! Offene Daten sind Daten, die von jedem und zu jedem Zweck genutzt, verändert und weitergegeben werden können.
 
@@ -53,15 +38,8 @@ Die Daten sollten *als Ganzes* verfügbar sein, bevorzugt zum kostenlosen Downlo
 </p>
 </div>
 
-**Fortgeschrittenes Wissen:**
 
-Die meisten Open Data Richtlinien beinhalten ähnliche Vorgaben wie die Open Definition, fügen dem aber noch weitere Kriterien an die "Offenheit" hinzu oder konkretisieren diese. So setzt **technische Offenheit** Interoperabilität der Daten voraus, d.h. die Möglichkeit, gemeinsam verschiedenartige Daten und Systeme in einen einzigen Arbeitsablauf zu integrieren. Dabei wird zwischen technischer, syntaktischer und semantischer Interoperabilität unterschieden, die jeweils separat und oft branchenspezifisch durch standardisierte Schnittstellen, Webservice-Spezifikationen, Datenformate und Datenmodelle adressiert werden müssen. Ist Interoperabilität nicht gegeben, ist es mitunter unmöglich oder sehr aufwändig, verschiedene Datensätze miteinander zu verknüpfen oder mit einer besonderen Software zu verarbeiten.
 
-#### Interoperabilität im Kontext des 5-Star-Open Data Modells
-
-![](5-star-steps.png?width=600)
-
-Das 5-Sterne-Modell für Offene Daten definiert die Qualität von Daten, insbesondere hinsichtlich ihrer technischen Offenheit. Danach gibt es fünf aufeinander aufbauende Stufen, denen jeweils Kriterien zugeordnet sind, welche ein Datensatz zu erfüllen hat. Für jede erfüllte Stufe erlangt der Datensatz einen Stern. Weitere Informationen dazu können auf [5stardata.info](https://5stardata.info/de/) nachlesen.
 
 <!--
 ------------------------------
