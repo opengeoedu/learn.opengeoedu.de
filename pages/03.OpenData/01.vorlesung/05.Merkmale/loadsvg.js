@@ -34,6 +34,8 @@ function loadSvg(selector, url, afterFun) {
   afterFun;
 }
 after = function(){
+  document.querySelector("#schaubild_offenheit svg").setAttribute("width","100%");
+
   document.querySelector("#schaubild_offenheit #rechtl").onclick = function(){
     document.querySelectorAll("#schaubild_offenheit input")[0].checked=true;
     document.querySelectorAll("#schaubild_offenheit input")[1].checked=false;

@@ -6,15 +6,18 @@ taxonomy:
 ---
 
 <style>
-  #schaubild_offenheit g:hover * {
+  #schaubild_offenheit g:hover path {
     fill: #bcd16f !important;
-    color: #bcd16f !important;
     cursor: pointer;
+  }
+
+  #schaubild_offenheit g:hover text {
+       font-weight: bold;
   }
 
   .schaubild_offenheit_hovered{
     fill: #bcd16f !important;
-    color: #bcd16f !important;
+    background: #bcd16f !important;;
   }
 
   #schaubild_offenheit{
@@ -30,22 +33,21 @@ Diese Definition fasst das Verständnis von offenen Daten und Inhalten zusammen,
 
 Da jede technische oder rechtliche Einschränkung der Datennutzung ihren potentiellen Wert für die Gesellschaft verringert, wird diesbezüglich größtmögliche Freizügigkeit angestrebt. Entsprechend können die Vorgaben der Open Definition in technische und rechtliche Aspekte unterteilt werden:
 
-
 <div id="schaubild_offenheit">
     <noscript>
-        <img src="schaubild_offenheit.png">
+        <img src="merkmale/schaubild_offenheit.png">
     </noscript>
 
   <p markdown="1">
 
 [ui-accordion independent=true open=none classes="figureattributes, figure-left"]
-[ui-accordion-item title="Technische Offenheit" classes="of_tech"]
-Die Daten sollten *als Ganzes* verfügbar sein, bevorzugt zum kostenlosen Download. Sie sollten *maschinenlesbar* sein, sodass sie einem Computer verarbeitet werden können und dabei für jedes einzelne Datenelement Zugriff und Veränderung möglich sind. Daten sollten in einem *offenem Format* vorliegen, das mit wenigstem einen Free/Libre/Open Source Software Tool verarbeitet werden kann.
-[/ui-accordion-item]
 [ui-accordion-item title="Rechtliche Offenheit"]
 Nutzungsbedingung von Open Data werden durch Lizenzen geregelt, welche die kostenlose Nutzung (auch kommerziell), Weitergabe, Veränderung, Verknüpfung und Veredelung der Daten erlaubt. Lediglich für die Bereitstellung der Daten kann allerdings ein einmaliges geringfügiges Entgelt verlangt werden.
 Akzeptabel sind lediglich solche Nutzungseinschränkungen, die zur Kenntlichmachung der Urheberschaft des Werkes verpflichten oder der Erhaltung des "offenen" Charakters der Daten, auch bei deren Weitergabe, dienen. Dazu zählen u.a. die Nennung der Urheber und Mitwirkenden (Attribution), Weitergabe unter gleichen oder ähnlichen Bedingungen (Share alike) und die Kenntlichmachung von Änderungen bei der Weitergabe der Daten (Integrity).
 Die Open Definition legt hierfür ausführliche Konventionen fest und führt eine Liste existierender Standard-Lizenzen an, die konform sind ([http://opendefinition.org/licenses/](http://opendefinition.org/licenses/)).
+[/ui-accordion-item]
+[ui-accordion-item title="Technische Offenheit" classes="of_tech"]
+Die Daten sollten *als Ganzes* verfügbar sein, bevorzugt zum kostenlosen Download. Sie sollten *maschinenlesbar* sein, sodass sie einem Computer verarbeitet werden können und dabei für jedes einzelne Datenelement Zugriff und Veränderung möglich sind. Daten sollten in einem *offenem Format* vorliegen, das mit wenigstem einen Free/Libre/Open Source Software Tool verarbeitet werden kann.
 [/ui-accordion-item]
 [/ui-accordion]
 </p>
