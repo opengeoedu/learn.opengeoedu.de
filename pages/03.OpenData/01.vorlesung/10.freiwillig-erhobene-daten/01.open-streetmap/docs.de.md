@@ -1,5 +1,6 @@
 ---
 title: 'OpenStreetMap'
+slug: openstreetmap
 taxonomy:
     category: docs
 ---
