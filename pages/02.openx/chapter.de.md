@@ -4,14 +4,19 @@ taxonomy:
     category:
         - docs
 menu: 'Open XX'
+googledesc: 'Erfahren Sie mehr über die neue Offenheit in Wissenschaft, Wirtschaft, Verwaltung und Gesellschaft.'
 twitterenable: true
-twittercardoptions: summary
+twittercardoptions: summary_large_image
+twittershareimg: /openx/vorlesung/open-intro/Ralf_Bill_1335a.jpg
+twitterdescription: 'Erfahren Sie mehr über die neue Offenheit in Wissenschaft, Wirtschaft, Verwaltung und Gesellschaft.'
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
 personenabled: false
 facebookenable: true
+facebookdesc: 'Erfahren Sie mehr über die neue Offenheit in Wissenschaft, Wirtschaft, Verwaltung und Gesellschaft.'
+facebookimg: /openx/vorlesung/open-intro/Ralf_Bill_1335a.jpg
 ---
 
 ### OpenGeoEdu Grundlagen
