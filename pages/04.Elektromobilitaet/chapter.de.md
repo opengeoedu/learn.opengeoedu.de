@@ -4,7 +4,7 @@ taxonomy:
         - docs
 menu: Elektromobilität
 googletitle: 'Elektromobilität | OpenGeoEdu'
-googledesc: 'Mit offenen Geodaten untersuchen Sie in dieser Lerneinheit Fragestellungen rund um die ⚡⛽🔋🚗  Elektromoblität.'
+googledesc: 'Mit offenen Geodaten untersuchen Sie in dieser Lerneinheit Fragestellungen rund um die ⚡⛽🔋🚗 Elektromoblität.'
 twitterenable: true
 twittercardoptions: summary
 twittertitle: '⚡⛽🔋🚗 Elektromobilität | OpenGeoEdu'
