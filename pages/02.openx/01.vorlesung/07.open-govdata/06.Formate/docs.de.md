@@ -15,7 +15,7 @@ facebookenable: true
 
 ## Datenformate
 
-Daten zum Download werden in den unterschiedlichsten Formaten angeboten. Die Abbildung zeigt die Formate in OpenGovData (Stand 27.7.2018). 
+Daten zum Download werden in den unterschiedlichsten Formaten angeboten. Die Abbildung zeigt die Formate in [GovData](https://www.govdata.de/), dem Datenportal für Deutschland (Stand 27.7.2018). 
 
 ![](OGDFormate.png?lightbox=800&resize=300&classes=caption "Gängige Datenformate")
 
