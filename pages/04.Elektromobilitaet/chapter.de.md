@@ -15,6 +15,9 @@ orga:
 orgaratingenabled: false
 personenabled: false
 facebookenable: true
+facebooktitle: 'Elektromobilität | OpenGeoEdu'
+facebookdesc: 'Mit offenen Geodaten untersuchen Sie in dieser Lerneinheit Fragestellungen rund um die Elektromoblität.'
+facebookimg: /elektromobilitaet/vorlesung/ladeinfrastruktur/ladesaeulenregister_BNetzA.jpg
 ---
 
 ### OpenGeoEdu Fallbeispiel
