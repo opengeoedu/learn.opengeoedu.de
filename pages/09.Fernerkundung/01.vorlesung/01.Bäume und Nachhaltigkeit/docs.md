@@ -13,4 +13,4 @@ Die Motivation für unsere Lerneinheiten liegt im Nachhaltigkeitsgedanken:
 
 So soll das Waldmonitoring mit Hilfe von Satelliten sowie die Erfassung von Bäumen und Grünflächen im urbanem Kontext im Vordergrund stehen. Dabei sollen freie Geodaten verwendet werden.
 
-ABBILDUNG einfügen
+![Sustainable_Earth](Sustainable_Earth_leaf.jpg?resize=300)
