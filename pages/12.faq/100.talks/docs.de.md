@@ -1,12 +1,15 @@
 ---
 title: Präsentationen
-twitterenable: true
-twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
-facebookenable: true
+content:
+    items: '@self.children'
+    order:
+        by: date
+        dir: asc
+    limit: 10
+    pagination: true
 ---
 
+{% for p in page.collection %}
+<a href="{{ p.url }}"><h2>{{ p.title }}</h2></a>
+<!-- {{ p.summary }} -->
+{% endfor %}
