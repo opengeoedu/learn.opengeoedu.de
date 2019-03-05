@@ -12,9 +12,6 @@ personenabled: false
 facebookenable: true
 ---
 
-[.header: alignment(center)]
-[.text: alignment(center)]
-
 # test slides
 
 ### Slides Placeholder
