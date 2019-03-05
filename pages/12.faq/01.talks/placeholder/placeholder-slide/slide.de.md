@@ -12,6 +12,7 @@ personenabled: false
 facebookenable: true
 ---
 
+[data-background-image=https://www.opengeoedu.de/images/oge_pptx-hd_end.png]
+
 # ende
 
-[data-background-image=https://www.opengeoedu.de/images/oge_pptx-hd_end.png]
