@@ -1,11 +1,10 @@
 ---
-title: 'OpenGeoEdu-Team'
-taxonomy:
+title: OpenGeoEdu-Team
+taxonomy: null
 category: docs
 anchors:
     active: false
 visible: false
-
 ---
 
 # Das Projektkonsortium

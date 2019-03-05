@@ -1,10 +1,11 @@
 ---
-title: OpenGeoEdu + GRAV + GitHub
-menu: Dokumentation für Autoren
+title: 'OpenGeoEdu + GRAV + GitHub'
+menu: 'Dokumentation für Autoren'
 taxonomy:
     category:
         - docs
 ---
+
 # Dokumentation der offenen Lernumgebung
 
 ## Was ist <i class="fab fa-grav"></i> GRAV?
