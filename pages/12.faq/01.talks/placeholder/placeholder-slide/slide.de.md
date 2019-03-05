@@ -27,7 +27,7 @@ facebookenable: true
 
 ---
 
-[plugin:youtube](https://www.youtube.com/watch?v=fwrLTp219pA)
+[youtube]https://www.youtube.com/watch?v=fwrLTp219pA[/youtube]
 
 ---
 
