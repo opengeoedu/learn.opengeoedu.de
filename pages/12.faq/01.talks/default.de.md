@@ -1,5 +1,8 @@
 ---
 title: Präsentationen
+routes:
+    aliases:
+        - /talks
 twitterenable: true
 twittercardoptions: summary
 facebookenable: true
