@@ -79,9 +79,9 @@ Richards, J.A., 2013. Remote Sensing Digital Image Analysis: An Introduction 494
 
 -	Sentinel-2:
     -   CODE-DE  https://code-de.org
-    -	Copernicus Open Access Hub (Sci-Hub):  https://scihub.copernicus.eu  
+    -	Copernicus Open Access Hub (Sci-Hub):  https://scihub.copernicus.eu
 
--	Sentinel Hub:  
+-	Sentinel Hub:
     -	Sentinel 2 EO products (Bsp. Farbkompositen, Vegetationsindizes): https://www.sentinel-hub.com/develop/documentation/eo_products/Sentinel2EOproducts
     -	Playground:  https://apps.sentinel-hub.com/sentinel-playground/
     -	EO Browser:  https://apps.sentinel-hub.com/eo-browser/
@@ -97,3 +97,6 @@ Richards, J.A., 2013. Remote Sensing Digital Image Analysis: An Introduction 494
 -	SNAP:  http://step.esa.int/main/download/
 
 -	OpenStreetMap: www.openstreetmap.org
+
+
+![sitzen Laptop](sitzen_laptop250.jpg)

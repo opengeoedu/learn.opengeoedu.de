@@ -11,20 +11,17 @@ Wie beschrieben ist die Ausbreitung der Wälder gut dokumentiert und lässt sich
 
 ![citypark1](citypark1.jpg?resize=300)
 
-Die positiven Eigenschaften von Stadtbäumen und Vegetation ist nur ein Aspekt. Ein wichtiger Faktor für eine gesteigerte Lebensqualität ist neben dem bloßen Vorhandensein von (städtischen) Grünflächen auch der freie Zugang zu diesen sowie die Erreichbarkeit zu Fuß oder mit dem Fahrrad (z.B. TIETZ 2018). Nur so kann eine angemessene Naherholung gewährleistet werden. Das Weißbuch ["Stadtgrün"](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/bauen/wohnen/weissbuch-stadtgruen.html) (2017) des Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit (BMUB) greift die Bedeutung städtischer Grünflächen auf. 
+Die positiven Eigenschaften von Stadtbäumen und Vegetation ist nur ein Aspekt. Ein wichtiger Faktor für eine gesteigerte Lebensqualität ist neben dem bloßen Vorhandensein von (städtischen) Grünflächen auch der freie Zugang zu diesen sowie die Erreichbarkeit zu Fuß oder mit dem Fahrrad (z.B. TIETZ 2018). Nur so kann eine angemessene Naherholung gewährleistet werden. Das Weißbuch ["Stadtgrün"](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/bauen/wohnen/weissbuch-stadtgruen.html) (2017) des Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit (BMUB) greift die Bedeutung städtischer Grünflächen auf.
+An dieser Stelle sei auf die Vorlesungen und Übungen zum Thema _Flächenmonitoring_ verwiesen.
 
-An dieser Stelle sei auf die umfassenden Vorlesungen und Übungen zum Thema _Flächenmonitoring_ verwiesen.
-
---Veränderungen der Landbedeckung und Nutzung
-
-Stetige Bodenversiegelung ist ein fortwährendes Thema. So Frei- und Grünflächen im urbanen Raum
-Daneben findet aber auch die Neuanlegung bzw. Neugestaltung von Parks und Grünflächen zur Optimierung des lokalen Stadtklimas statt.
-
-Im Rahmen unserer praktischen Übungen können Sie Fallbeispiele zu Stadtbäumen und Urban Green durchgehen.
+Veränderungen der Landbedeckung und -nutzung sowie die stetige Bodenversiegelung sind fortwährende Themen. Diese Veränderungen treten nicht nur im ruralen Regionen auf. Die Versiegelung von Frei- und Grünflächen spielt besonders im urbanen Raum eine große Rolle.
+Daneben kann aber auch die Neuanlegung bzw. Neugestaltung von Parks und Grünflächen zur Optimierung des lokalen Stadtklimas stattfinden. Die Ursachen können gerade wenn wir von Versiegelung sprechen ganz vielfältig sein. Neben Willen und Geschick in der Planung sind der Druck einer wachsenden Bevölkerung und die lokalen marktwirtschaftlichen und sozioökonomischen Bedingungnen entscheidende Faktoren. Im Rahmen unserer praktischen Übungen zur Fernerkundung können Sie Fallbeispiele zu Stadtbäumen und Urban Green durchgehen.
 
 ### Die Erfassung von Bäumen in Städten
 
 In vielen Städten und Gemeinden werden alle Bäume (im öffentlichen Raum) in einem Baumkataster registriert. Dabei werden neben der genauen Position auch unterschiedlichste Attribute erfasst wie Baumart, Höhe und Durchmesser von Stamm und Krone, oder der Gesundheitszustand.
+
+![Baumkataster_Frankfurt](Baumkatster_Frankfurt.jpg?resize=300&caption="Baumkataster der Stadt Frankfurt am Main, Grünflächenamt Frankfurt, https://geoinfo.frankfurt.de/mapbender/application/baumkataster")
 
 ! Einige deutsche Städte bieten mittlerweile freien Zugang zu ihren Baumkatastern. Als Beispiele sind Rostock ([opendata-hro.de](https://www.opendata-hro.de/dataset/baeume)), Leipzig ([opendata.leipzig.de](https://opendata.leipzig.de/dataset/strassenbaumkataster)), Frankfurt ([offenedaten.frankfurt.de](http://www.offenedaten.frankfurt.de/dataset/baumkataster-frankfurt-am-main)), Hamburg ([transparenz.hamburg.de](http://suche.transparenz.hamburg.de/?q=Baumkataster&sort=score+desc%2Ctitle_string+asc&esq_not_all_versions=true)), Berlin ([stadtentwicklung.berlin.de](https://www.stadtentwicklung.berlin.de/geoinformation/)), Bonn ([opendata.bonn.de](https://opendata.bonn.de/dataset/baumstandorte)) und Köln ([offenedaten-koeln.de](https://www.offenedaten-koeln.de/dataset/baumkataster-koeln)) zu nennen.
 
