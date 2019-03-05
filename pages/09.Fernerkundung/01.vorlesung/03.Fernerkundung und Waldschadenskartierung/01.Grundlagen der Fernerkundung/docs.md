@@ -30,5 +30,5 @@ Im Gegensatz zu diesen sogenannten selektiven Streuungsvorgänge ist die nicht-s
 
 Die Eigenschaften der Erdatmosphäre wirken sich besonders auf die optische Fernerkundung aus. Ein weitaus kritischer sind Wolken zu sehen. Als Teil der Erdbeobachtung wird für die Landüberwachung ein weitestgehend wolkenfreier Himmel benötigt. Wolken und -schatten erschweren allerdings oft operationelle Anwendungen, besonders in tropischen Regionen aber auch in unseren Breiten. Die nachfolgende Abbildung zeigt beispielhaft unterschiedliche Grade an Wolkenbedeckung. Relativ unabhängig von der Atmosphäre sind dagegen etwa Radar-Sensoren. Sie erlauben jederzeit Aufnahmen, auch nachts und durch eine Wolkendecke hindurch.
 
-![Wolkenbedeckung](WOLKEN.jpg?classes=caption "Beispiele unterschiedlicher Beweölkungsgrade von 25, 45 und 85 %. In dem  Bildauschnitt zu sehen sind Teile des Rhein-Main-Gebietes samt Taunus, aufgenommen im Mai 2018. (c) ESA")
+![Wolkenbedeckung](Wolkenbedeckung.jpg?classes=caption "Beispiele unterschiedlicher Bewölkungsgrade von 0, 40 und >80 %. In dem  Bildauschnitt zu sehen sind Teile des Rhein-Main-Gebietes samt Taunus, aufgenommen im Mai 2018. (c) ESA")
 <br><br>

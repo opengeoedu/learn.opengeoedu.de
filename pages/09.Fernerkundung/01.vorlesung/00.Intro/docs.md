@@ -37,7 +37,7 @@ Englischsprachig:
 
 ## Struktur der Vorlesung
 
-Zunächst erfolgt eine Einordnung der Thematik und die Bedeutung von Wäldern im globalen Kontext und im Rahmen der Fernerkundung. Zudem werden unterschiedlichste Geodaten und die Daten des EU-Copernicus-Programms vorgestellt. Zentraler Punkt sind die Sentinel-2 Satelliten. Dabei werden auch die unterschiedlichen Datenzugänge erläutert. Abschließend werden (Grund-)Kenntnisse über die optische Fernerkundung anhand des Vegetationsmonitorings vermittelt werden.
+Zunächst erfolgt eine Einordnung der Thematik und die Bedeutung von Wäldern im globalen Kontext, aber auch von Stadtbäumen und Grünflächen auf lokaler Ebene. Die Rolle der Fernerkundung und deren Einsatzmöglichkeiten werden erläutert. Zudem werden unterschiedlichste Geodaten und die Daten des EU-Copernicus-Programms vorgestellt. Zentraler Punkt sind die Sentinel-2 Satelliten. Dabei werden auch die unterschiedlichen Datenzugänge erläutert. Abschließend werden (Grund-)Kenntnisse über die optische Fernerkundung anhand des Vegetationsmonitorings vermittelt werden.
 
 ![Sentinel-2](Sentinel-2.jpg?classes=caption "Sentinel-2. Quelle: ESA"?resize=300)
 <br><br>
@@ -47,6 +47,6 @@ Zunächst erfolgt eine Einordnung der Thematik und die Bedeutung von Wäldern im
 
 In dem ersten Fallbeispiel wird ein Sturmereignis vom August 2017 untersucht, bei dem es im Taunus (Hessen) zu größeren Sturmschäden im Wald kam. Dazu wird jeweils eine Sentinel-2-Szene von vor und nach dem Ereignis aufbereitet, analysiert und Vegetationsindizes für beide Zeitpunkte berechnet. Durch die Ermittlung der Differenzen zwischen den Indizes können die Schadensflächen identifiziert und auf Basis eines Schwellenwerts extrahiert werden. Anschließend erfolgt eine Verschneidung mit Landbedeckungsdaten, um das Ergebnis hinsichtlich der betroffenen Waldtypen zu quantifizieren. Abschließend werden die ermittelten Windwurfflächen in einer dreidimensionalen Geländeansicht visualisiert.
 
-In weiteren Fallbeispielen steht die Vegetation im urbanen Raum im Vordergrund. Neben terrestrischen Aufnahmen, etwa in Form von Baumkatastern, spielt auch die Fernerkundung eine wichtige Rolle in der Ansprache von Vegetation und der großflächigen Unterscheidung von Landbedeckungen. zudem werden offene Geodaten des Copernicus-Programms verwendet. Sie umfassen u.a. Versiegelungsgrad und Flächennutzung. Durch multitemporale Daten können Veränderungen über die Zeit erfasst werden. Im fokus stehen zum einen deutsche Großstädte und Europäische Hauptstädte.
+In weiteren Fallbeispielen steht die Vegetation im urbanen Raum im Vordergrund. Neben terrestrischen Aufnahmen, etwa in Form von Baumkatastern, spielt auch die Fernerkundung eine wichtige Rolle in der Ansprache von Vegetation und der großflächigen Unterscheidung von Landbedeckungen. Zudem werden offene Geodaten des Copernicus-Programms verwendet. Sie umfassen u.a. Baumbedeckung, Versiegelungsgrad und Flächennutzung. Durch multitemporale Daten können Veränderungen über die Zeit erfasst werden. Im Fokus stehen zum einen deutsche Großstädte und Europäische Hauptstädte.
 
 ![Verschneidung der Geodaten](VerschnS2Geodaten.png?classes=caption "Workflow im Fallbeispiel 1")
