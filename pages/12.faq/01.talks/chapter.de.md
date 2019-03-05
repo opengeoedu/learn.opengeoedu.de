@@ -1,5 +1,8 @@
 ---
 title: Präsentationen
+twitterenable: true
+twittercardoptions: summary
+facebookenable: true
 content:
     items: '@self.children'
     order:
