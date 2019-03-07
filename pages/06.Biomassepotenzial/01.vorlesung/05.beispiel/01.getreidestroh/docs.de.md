@@ -24,3 +24,4 @@ Das theoretische Potenzial wird indirekt über die Anbaufläche des Hauptprodukt
 
 #### Wie können die Ergebnisse so kartographisch aufbereitet werden, dass auch Laien diese gut interpretieren können?
 Das Getreidestrohaufkommen und das damit verbundene nachhaltige Biomassepotenzial wurden für Deutschland in unterschiedlichen Auflösungen (Bundesland, Landkreis, km²) berechnet und räumlich dargestellt. Sie können <a href="https://www.dbfz.de/index.php?id=987&L=0" target="_blank">Karten</a> zum Strohpotenzial und den interaktiven <a href="https://www.dbfz.de/index.php?id=1061&L=0" target="_blank">Bioenergieatlas</a> auf den Mikroseiten des DBFZ finden.
+Für Bosnien und Herzegowina wurde ein ähnlicher [Atlas](http://atlasbm.bhas.gov.ba/) erstellt; hier sind die Auflösungen Landkreis, Entität und national verfügbar. 
