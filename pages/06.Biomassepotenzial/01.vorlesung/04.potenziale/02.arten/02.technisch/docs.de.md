@@ -14,4 +14,5 @@ Das technische Biomassepotenzial leitet sich von dem theoretischen Biomassepoten
 **Beispiel Reststoffe**: Verluste aufgrund des Sammelsystems, Auftreten von Störstoffen (z.B. Plastik in der Biomülltonne)
 
 !! Überlegen Sie sich anhand einer Biomasse Ihrer Wahl, welche Restriktionen Sie bei der Betrachtung des technischen Biomassepotenzials berücksichtigen müssen. <br> <br>
-!! Bei landwirtschaftlichen Nebenprodukten, wie z.B. Stroh muss oft ein Teil der Biomasse zum Erhalt der Humusbilanz auf dem Feld verbleiben. Üblicherweise wird dies als Restriktion gehandhabt. Andererseits könnte dies auch als stoffliche Nutzung berücksichtigt werden. Überlegen Sie sich, wie Sie sowas einordnen würden und dokumentieren Sie es in den Übungen. 
+!! Bei landwirtschaftlichen Nebenprodukten, wie z.B. Stroh muss oft ein Teil der Biomasse zum Erhalt der Humusbilanz auf dem Feld verbleiben. Üblicherweise wird dies als Restriktion gehandhabt. Andererseits könnte dies auch als stoffliche Nutzung berücksichtigt werden. Überlegen Sie sich, wie Sie sowas einordnen würden und dokumentieren Sie es in den Übungen. <br> <br>
+!! Welches könnten die 5 Biomassen mit dem höchsten technischen Biomassepotenzial in Deutschland sein? Vergleichen Sie Ihre Ergebnisse mit  der [DBFZ Ressourcendatenbank](http://webapp.dbfz.de/resources). 
