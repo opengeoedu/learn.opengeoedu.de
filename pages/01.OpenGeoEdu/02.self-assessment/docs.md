@@ -8,10 +8,10 @@ menu: Werkzeuge
 
 Um Ihnen den Einstieg in die OpenGeoEdu-Lerneinheiten zu erleichtern, bieten wir Ihnen verschiedene Werkzeuge und Hilfestellungen
 an: 
-* eine Selbsteinschätzung: Nachdem Sie Ihre Kenntnisse und Fähigkeiten einigermaßen realistisch eingeschätzt haben, erhalten
+* eine [Selbsteinschätzung](http://test.opengeoedu.de/selfassessment.aspx?target=_blank): Nachdem Sie Ihre Kenntnisse und Fähigkeiten einigermaßen realistisch eingeschätzt haben, erhalten
 Sie Hinweise zu den Kurseinheiten, die wir für sinnvoll erachten. 
-* einen Workloadrechner: Durch Auswahl der von Ihnen für eine Bearbeitung geplanten Kursteile wird der damit verbundene Workload abgeschätzt. Der dann durch Bearbeitung nachgewiesene Workload wird im OpenGeoEdu-Zertifikat dokumentiert. 
-* eine Modulbeschreibung: Konform zu Modulbeschreibungen in Ihren Bachelor- oder Masterstudiengängen finden Sie hier eine Modulbeschreibung zum offenen online Kurs OpengeoEdu. 
+* einen [Workloadrechner](http://test.opengeoedu.de/workload.aspx?target=_blank): Durch Auswahl der von Ihnen für eine Bearbeitung geplanten Kursteile wird der damit verbundene Workload abgeschätzt. Der dann durch Bearbeitung nachgewiesene Workload wird im OpenGeoEdu-Zertifikat dokumentiert. 
+* eine [Modulbeschreibung](https://learn.opengeoedu.de/uebersicht/self-assessment/OGE_Modulbeschreibung.pdf?target=_blank): Konform zu Modulbeschreibungen in Ihren Bachelor- oder Masterstudiengängen finden Sie hier eine Modulbeschreibung zum offenen Online-Kurs OpengeoEdu. 
 * Datenblätter (auf der nächsten Seite): Ein Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich.
 
 
@@ -43,7 +43,7 @@ Sie Hinweise zu den Kurseinheiten, die wir für sinnvoll erachten.
             <p class="card-text">
                 <small class="text-muted"></small>
             </p>
-            <div markdown="1">[![](Modulbeschreibung.png?resize=200)](OGE_Modulbeschreibung.pdf)</div>
+            <div markdown="1">[![](Modulbeschreibung.png?resize=200)](OGE_Modulbeschreibung.pdf?target=_blank)</div>
         </div>
     </div>
 </div>

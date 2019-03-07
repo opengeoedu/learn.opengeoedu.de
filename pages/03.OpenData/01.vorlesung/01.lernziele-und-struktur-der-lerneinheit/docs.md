@@ -23,7 +23,15 @@ taxonomy:
 
 ## Struktur
 
-Zunächst wird auf die Enstehung und Hintergründe der Open Data-Bewegung eingegangen. Grundlegende Qualitätsmerkmale von Open Data, ihren Lizenzen und Nutzungsbedingungen werden vermittelt bevor im Konkreten auf Open Government Data im deutschsprachigen Raum, im wissenschaftlichen Bereich, sowie im Kontext von Unternehmen und gesellschaftlicher und gemeinütziger Projekte (z.B. OpenStreetMap) eingegangen wird. Abschließend wird der Unterschied zwischen kostenlosen, aber oft Nutzungsbeschränkten Geodaten und Services (wie z.B. Google / Bing Maps) und offenen Daten- und Service-Angeboten im Sinne der Open-Bewegungen geklärt und entsprechende Beispiele gegenübergestellt.
+Wichtige Themen im Zusammenhang von Open Data werden hier im Detail behandelt. Dazu gehören u.a.
+- Die Entstehung und Hintergründe der Open Data-Bewegung
+- Qualitätsmerkmale von Open Data
+- Lizenzen und Nutzungsbedingungen
+- Open Data und Open Government Data
+  - im deutschsprachigen Raum
+  - verschiedenen Teilen der Gesellschaft (Wissenschaft, Wirtschaft, gemeinnützige und ehrenamtliche Projekte)
+
+Die Teilkapitel sind mit offenen Fragen und Literaturverweisen versehen, welche die Lernenden ermuntern, sich weitergehend mit den Themen auseinanderzusetzen und darüber zu diskutieren.
 
 ## Inhalte der Übungen
 
