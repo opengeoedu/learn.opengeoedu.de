@@ -5,13 +5,13 @@ taxonomy:
         - docs
 ---
 
-## Das Copernicus-Programm 
+## Das Copernicus-Programm
 
-![CopernicusLogo](Copernicus2.png)  
+![CopernicusLogo](Copernicus2.png)
 
-Das Copernicus-Vorgängerprogramm war das Global Monitoring for Environment and Security (GMES, deutsch: Globale Umwelt- und Sicherheitsüberwachung) welches 1998 von der EU und der ESA ins Leben gerufen wurde. Im Jahr 2012 wurde es dann in Copernicus umbenannt und überführt. 
+Das Copernicus-Vorgängerprogramm war das Global Monitoring for Environment and Security (GMES, deutsch: Globale Umwelt- und Sicherheitsüberwachung) welches 1998 von der EU und der ESA ins Leben gerufen wurde. Im Jahr 2012 wurde es dann in Copernicus umbenannt und überführt.
 
-Die Copernicus Kerndienste stellen umfangreiche Grundlageninformationen bereit, die für vielfältige Anwendungen weiter verarbeitet werden können. Die Dienste „Überwachung des Klimawandels“ und „Sicherheit“ befinden sich noch in der Entwicklung. 
+Die Copernicus Kerndienste stellen umfangreiche Grundlageninformationen bereit, die für vielfältige Anwendungen weiter verarbeitet werden können. Die Dienste „Überwachung des Klimawandels“ und „Sicherheit“ befinden sich noch in der Entwicklung.
 Das Programm besteht aus den folgenden sechs Kerndiensten:
 -	Landüberwachung (Copernicus Land Monitoring Service, CLMS)
 -	Überwachung der Meeresumwelt (Copernicus Marine Environment Monitoring Service, CMEMS)
@@ -22,7 +22,7 @@ Das Programm besteht aus den folgenden sechs Kerndiensten:
 
 In dieser Lerneinheit soll der Fokus auf dem Landmonitoring liegen.
 
-![CopernicusDienste](Copernicus_Dienste_1_1000.png?classes=caption "Die sechs Copernicus Dienste.") 
+![CopernicusDienste](Copernicus_Dienste_1_1000.png?classes=caption "Die sechs Copernicus Dienste. (c) DLR")
 
 ! Infos über die Copernicus-Kerndienste finden Sie hier: https://www.d-copernicus.de/daten/daten-eu-kerndienste/  
 <br><br>
@@ -35,7 +35,7 @@ Innerhalb der *Weltraumkomponente* bilden die Satellitensysteme natürlich die g
 <br><br>
 
 Die Sentinel-Flotte:
-- Sentinel-1 bietet Allwetter-, Tag- und Nachtradarbilder für Land- und Seedienste. 
+- Sentinel-1 bietet Allwetter-, Tag- und Nachtradarbilder für Land- und Seedienste.
 - Sentinel-2 bietet hochauflösende optische Bilder etwa für Landbedeckung und Wasser.
 - Sentinel-3 liefert hochpräzise optische, radargestützte und altimetrische Daten für die Schifffahrt und den Landverkehr.
 - Sentinel-4 und Sentinel-5 werden Daten für die Überwachung der atmosphärischen Zusammensetzung aus der geostationären Umlaufbahn bzw. der polaren Umlaufbahn liefern.
@@ -50,14 +50,12 @@ __Sentinel-1__
 
 ![S1](Sentinel-1.png?classes=caption "Sentinel-1: Radar --> aktiv. &copy; ESA")
 <br><br>
- 
-__Sentinel-2__ 
+
+__Sentinel-2__
 
 ![S2](Sentinel-2_2.png?classes=caption "Sentinel-2: optisch multispektral --> passiv. &copy; ESA")
-<br><br>  
+<br><br>
 
-__Sentinel-3__ 
+__Sentinel-3__
 
 ![S3](Sentinel-3.png?classes=caption "Sentinel-3: Radar und optisch multispektral --> aktiv und passiv. &copy; ESA")
-
-
