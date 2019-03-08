@@ -1,5 +1,5 @@
 ---
-title: 'Lernziele und Struktur der Lerneinheit'
+title: 'Lernziele und Struktur'
 taxonomy:
     category:
       - docs

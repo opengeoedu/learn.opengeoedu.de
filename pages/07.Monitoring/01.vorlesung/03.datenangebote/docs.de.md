@@ -1,5 +1,5 @@
 ---
-title: Datenangebote sind vielfältig
+title: Datenangebote
 taxonomy:
     category: docs
 ---
