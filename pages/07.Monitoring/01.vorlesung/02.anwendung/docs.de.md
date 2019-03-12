@@ -1,16 +1,37 @@
 ---
-title: Forschung & Anwendung
+title: Forschung-und Anwendung
 taxonomy:
     category: docs
 ---
 
 Der Bedarf an **kleinräumigen Informationen ist vielfältig**. Damit können **Wissenschaft und Praxis Maßnahmen und Entscheidungen optimieren**, aber auch die bisherigen Erfolge oder Fehler genauer identifizieren. Hier sollen insbesondere die Anforderungen an die Daten betrachtet werden – z. B. räumliche und zeitliche Auflösung, Objektivität, Homogenität usw. Nutzer der Daten sind Akteure von der lokalen über die regionale und nationale bis hin zur internationalen Ebene. Die Anwendungsfelder der Daten sind z. B. Grünvolumen, Stadtluftbelastungsszenarien, Bodenwerte oder das Geothermie-Potential.
 
+**Flächennutzung** (Grünvolumen) <br>
+![abb_gruenvolumen_ua_berlin](abb_gruenvolumen_ua_berlin.png?classes=caption "") <br>
+!Schauen Sie sich Datenangebote () unter [Umweltatlas-Berlin](http://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=showMap&mapId=wmsk05_09_gruendvol2010@senstadt)
 
+
+**Klimaanpassung** (Luftbelastung)<br>
+![abb_luftbelastung_lhs_sttutgart](abb_luftbelastung_lhs_sttutgart.png) <br>
+!Entdecken Sie sich Weitere Themem (Stadtklima, Lärmkartierung usw.) unter [LHS Stuttgart](http://gis6.stuttgart.de/maps/index.html?karte=stadtklima&embedded=true#basemap=0&centerX=3516118.9675944396&centerY=5406021.037465078&scale=25000&layerIds=279.281)
+
+**Stadtplanung** (Bodenwerte)<br> ![abb_bodenwerte_lhs_dresden](abb_bodenwerte_lhs_dresden.png) <br>
+!Schauen Sie sich mehre Stadtplanung Informationen unter [LHS Dresden](http://stadtplan2.dresden.de/)
+
+**Energieforschung** (Geothermie-Potenzial)<br> ![abb_geotherme_irena](abb_geotherme_irena.png) <br>
+!Entdecken Sie sich weitere Weltweit Informationen aus der Energieforschung unter [IRENA-GlobalAtlas](https://irena.masdar.ac.ae/gallery/#map/1645)
+
+
+!! Entdecken Sie auch selbst weitere Anwendungsfelder im lokale, regionale, nationale und internationale Ebene.
+
+
+<!--
 | | |
 |:--:|:--:|
 | **Flächennutzung** (Grünvolumen) ![abb_gruenvolumen_ua_berlin](abb_gruenvolumen_ua_berlin.png)  Quelle: [Umweltatlas-Berlin](http://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=showMap&mapId=wmsk05_09_gruendvol2010@senstadt) | **Klimaanpassung** (Luftbelastung) ![abb_luftbelastung_lhs_sttutgart](abb_luftbelastung_lhs_sttutgart.png)  Quelle: [LHS Stuttgart](http://gis6.stuttgart.de/maps/index.html?karte=stadtklima&embedded=true#basemap=0&centerX=3516118.9675944396&centerY=5406021.037465078&scale=25000&layerIds=279.281) |
 |  **Stadtplanung** (Bodenwerte) ![abb_bodenwerte_lhs_dresden](abb_bodenwerte_lhs_dresden.png) Quelle: [LHS Dresden](http://stadtplan2.dresden.de/)  | **Energieforschung** (Geothermie-Potenzial) ![abb_geotherme_irena](abb_geotherme_irena.png) Quelle: [IRENA-GlobalAtlas](https://irena.masdar.ac.ae/gallery/#map/1645) |
+
+-->
 
 
 Ziel ist es, die Ergebnisse des Flächenmonitorings immer genauer, d.h. kleinräumiger und sicherer zu machen. Dafür müssen die Methoden des Flächenmonitorings weiter verbessert werden.
