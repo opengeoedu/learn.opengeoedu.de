@@ -55,13 +55,23 @@ Geo for all ist eine Initiative der [OSGeo-Foundation](https://www.osgeo.org) mi
 <a href="#">&uArr; nach oben</a>
 <!--http://www.geoforall.org/
 http://spatialquerylab.com/foss4g-academy-curriculum/-->
-
 ## Allgemeine Informationen
 <table>
 <tr>
 <th>Website</th>
 <th>Beschreibung</th>
 </tr>
+
+<!--
+opendata.Swiss: OGD Handbook
+https://handbook.opendata.swiss/de/pages/index
+
+
+*deutsch / mehrsprachig*  <br/>
+**Open Knowlege International: Das Open Data Handbuch**  <br/>
+http://opendatahandbook.org/guide/de/
+-->
+
 <tr><td markdown="1">
 *Deutsch* <br/>
 **bpb (2011): Dossier Open Data** <br/>
@@ -69,8 +79,15 @@ http://www.bpb.de/gesellschaft/digitales/opendata/
 </td><td markdown="1">
 Ausführliches Dossier der Bundeszentrale für Politische Bildung (bpb) zum Thema Open Data
 </td></tr>
-<tr>
 
+<tr>
+<td markdown="1">
+*Deutsch* <br/>
+**Bundesvererwaltungsamt (BVA) (2018): Open Data - Handbuch für offene Verwaltungsdaten** <br/>
+https://www.bva.bund.de/DE/Services/Behoerden/Beratung/Beratungszentrum/Methoden/_documents/stda_open_data.html
+</td><td markdown="1">
+Umfankreiches Handbuch zum Thema offene Verwaltungsdaten mit Fokus auf Deutschland, inklusive Leitfäden zu allgemeine und rechtliche Anforderungen, Metadaten und Veröffentlichung - insbesondere aus Sicht von Datenbereitstellern.
+</td></tr>
 <tr><td markdown="1">
 *Deutsch / Englisch* <br/>
 **Open-Access.net** <br/>
@@ -80,7 +97,7 @@ Plattform mit umfassende Informationen zum Thema Open-Access, initiert im Rahmen
 </td></tr>
 <tr><td markdown="1">
 *Deutsch* <br/>
-**forschungsdaten.org**
+**forschungsdaten.org** <br/>
 http://www.forschungsdaten.org
 </td><td markdown="1">
 Umfangreiches Wiki zum Thema Forschungsdaten, initiert und unterstützt durch mehrere wissenschaftliche Einrichtungen und DFG-Projekte.

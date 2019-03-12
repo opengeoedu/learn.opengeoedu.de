@@ -23,3 +23,8 @@ published: false
 
 
 </style>
+
+
+
+Salzburger Erklärung:
+https://www.data.gv.at/infos/cooperation-ogd-oesterreich/

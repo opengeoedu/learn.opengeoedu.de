@@ -3,29 +3,31 @@ title: 'Formate und Lizenzen'
 taxonomy:
     category:
         - docs
-twitterenable: true
-twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
-facebookenable: true
+page-inject:
+    active: true
+    processed_content: true
 ---
+
+<!--"[plugin:page-inject](http://localhost:2030/openx/vorlesung/open-govdata/formate/auswertung_govdata.html)-->
+
+
+{{ 'auswertung_govdata.html'|filecontent }}
+
+<!--<iframe src="formate/auswertung_govdata.html"></iframe>-->
 
 ## Datenformate
 
-Daten zum Download werden in den unterschiedlichsten Formaten angeboten. Die Abbildung zeigt die Formate in [GovData](https://www.govdata.de/), dem Datenportal für Deutschland (Stand 27.7.2018). 
+Daten zum Download werden in den unterschiedlichsten Formaten angeboten. Die Abbildung zeigt die Formate in [GovData](https://www.govdata.de/), dem Datenportal für Deutschland (Stand 27.7.2018).
 
 ![](OGDFormate.png?lightbox=800&resize=300&classes=caption "Gängige Datenformate")
 
 ! Verschiedene Dateiformate und Tipps zu deren Nutzung werden im [Tutorial zu Dateiformaten](https://learn.opengeoedu.de/tutorials/OGE-Tutorial_Dateiformate.pdf?target=_blank) gegeben.
 
-Ein weiteres Diagramm deutet an unter welchen Lizenzen die offenen Daten in OpenGovData stehen. 
+Ein weiteres Diagramm deutet an unter welchen Lizenzen die offenen Daten in OpenGovData stehen.
 
 ![](OGDLizenzen.png?lightbox=800&resize=300&classes=caption "Gängige Lizenzen")
 
-! Aussagen zu Lizenzen und Nutzungsbedingungen sind in der Kurseinheit zu Open Data behandelt. 
+! Aussagen zu Lizenzen und Nutzungsbedingungen sind in der Kurseinheit zu Open Data behandelt.
 
 Beides sind wichtige Aspekte für die spätere Nutzung der offenen Daten. Darauf wird im Kapitel "Open Data" erneut eingegangen.
 
