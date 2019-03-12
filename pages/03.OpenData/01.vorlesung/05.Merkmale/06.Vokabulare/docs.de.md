@@ -4,7 +4,7 @@ slug: vokabulare
 taxonomy:
     category:
         - docs
-published        : true
+published        : false
 ---
 
 - Orientieren sich an Normen und Metadatenstandards

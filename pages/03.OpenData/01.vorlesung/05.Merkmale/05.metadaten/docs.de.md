@@ -4,7 +4,7 @@ slug: metadaten
 taxonomy:
     category:
         - docs
-published        : true
+published        : false
 ---
 
 informationen über Daten
