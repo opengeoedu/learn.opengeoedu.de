@@ -1,15 +1,18 @@
 ---
-title: Konzeption des Fallbeispiels
+title: Konzeption des Fallbeispiel
 taxonomy:
     category: docs
 ---
+Das Fallbeispiel „Flächenmonitoring“ fokussiert darauf, Daten- und Analysegrundlagen für eine nachhaltige Stadt- und Raumplanung zu schaffen.
 
-Das Fallbeispiel „Flächenmonitoring“ fokussiert darauf, Daten- und Analysegrundlagen für eine nachhaltige Stadt- und Raumplanung zu schaffen. In praktischen Aufgaben und Übungen sollen folgende Themen beleuchtet werden:
-- Bestimmung des Siedlungs- und Verkehrsflächen–Anteils (SuV) 
+![Konzeption des Fallbeispel Flächenmonitoring](abb_konzept.png)
+
+In praktischen Aufgaben und Übungen sollen folgende Themen beleuchtet werden:
+- Bestimmung des Siedlungs- und Verkehrsflächen–Anteils (SuV)
+- Bestimmung der Verkehrsnetzdichte
+- Messung der Veränderung der Siedlungs- und Bevölkerungsdichte
 - Bestimmung der Flächenneuinanspruchnahme
 - Abschätzung der Bodenversiegelung
 - Bestimmung der früheren Entwicklung
-- Messung der Veränderung der Siedlungs- und Bevölkerungsdichte
 - Ableitung von Stadtgrüninformationen (Flächenanteil und Erreichbarkeit)
-- Bestimmung der Verkehrsnetzdichte
 - Ergebnisvisualisierung

@@ -15,6 +15,9 @@ taxonomy:
 * Dorn, H., Törnros, T. & Zipf, A. (2015): [Quality Evaluation of VGI Using Authoritative Data — A Comparison with Land Use Data in Southern Germany.](http://www.mdpi.com/2220-9964/4/3/1657/htm) ISPRS International Journal of Geo-Information 4(3), 1657-1671.
 * Fina, S., Gerten, C., Gehrig-Fitting, K. & Rönsch, J. (2018): [Was Leistet Geomonitoring für die Stadtforschung? Das Monitoring StadtRegionen und das Kommunalpanel als Aktuelle Anwendungsbeispiele.](https://www.ils-forschung.de/files_publikationen/pdfs/180622_TREND_EXTRA_online.pdf) Trend-extra, ILS, Dortmund.
 * Hartmann, A., Meinel, G., Hecht, R., Behnisch, M. (2016): [A Workflow for Automatic Quantification of Structure and Dynamic of the German Building Stock Using Official Spatial Data](http://www.mdpi.com/2220-9964/5/8/142), In: ISPRS International Journal of Geo-Information 5(8), S. 30.
+* Hecht, R., Herold, H., Behnisch, M., Jehling, M. (2018): [Mapping Long-Term Dynamics of Population and
+Dwellings Based on a Multi-Temporal Analysis of
+Urban Morphologies](https://www.mdpi.com/2220-9964/8/1/2), In: ISPRS International Journal of Geo-Information 8(1), S. 21.
 * Hecht, R., Meinel, G., Buchroithner, M. (2015): [Automatic Identification of Building Types Based on Topographic Databases – A Comparison of Different Data Sources.](https://www.tandfonline.com/doi/full/10.1080/23729333.2015.1055644) In: International Journal of Cartography, 18-31.
 * Iwanow, I., & Gutting, R. (2017): [Kleinräumige Wohnbauflächenprognosen – Ein Quantitativ Orientiertes Instrument zur Reduktion der Flächenneuinanspruchnahme für Wohnzwecke](https://www.tandfonline.com/doi/full/10.1080/02513625.2017.1414496"). In: disP – The Planning Review 53, 71-89-31.
 * Langford, M., (2013): [An Evaluation of Small Area Population Estimation Techniques Using Open Access Ancillary Data.](https://onlinelibrary.wiley.com/doi/abs/10.1111/gean.12012) Geographical Analysis 45(3), S 324-344.
