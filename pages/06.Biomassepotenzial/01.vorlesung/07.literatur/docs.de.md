@@ -30,9 +30,9 @@ Höglmeier, Karin (2015): Holznutzung in Kaskaden: Ansätze zur Potentialanalyse
 
 Kaltschmitt, Martin; Hartmann, Hans; Hofbauer, Hermann (Hg.) (2016): Energie aus Biomasse. Grundlagen, Techniken und Verfahren. Springer-Verlag GmbH. 3., aktualisierte Aufl. 2016. Berlin, Heidelberg: Springer Berlin Heidelberg.
 
-Richter, Felix; Kern, Michael; Raussen, Thomas; Wagner, Jana; Blume, Marcus (2017): Optimierung der Biogasausbeute durch effiziente Erfassung und Vergärung von Nahrungs- und Küchenabfällen in Deutschland (Bio-OPTI). Schlussbericht. Hg. v. Witzenhausen-Institut. Witzenhausen. [Online](http://www.witzenhausen-institut.de/images/downloads/bio_opti_schlussbericht_2017.pdf).
+Richter, Felix; Kern, Michael; Raussen, Thomas; Wagner, Jana; Blume, Marcus (2017): Optimierung der Biogasausbeute durch effiziente Erfassung und Vergärung von Nahrungs- und Küchenabfällen in Deutschland (Bio-OPTI). Schlussbericht. Hg. v. Witzenhausen-Institut. Witzenhausen. [Online](https://doi.org/10.2314/GBV:886859239).
 
-Thrän, Daniela (Hg.) (2015): Smart Bioenergy. Technologies and concepts for a more flexible bioenergy provision in future enrergy systems. Cham (Schweiz): Springer. [Online](http://dx.doi.org/10.1007/978-3-319-16193-8).
+Thrän, Daniela (Hg.) (2015): Smart Bioenergy. Technologies and concepts for a more flexible bioenergy provision in future enrergy systems. Cham (Schweiz): Springer. [DOI](http://dx.doi.org/10.1007/978-3-319-16193-8).
 
 Thrän, Daniela; Pfeiffer, Diana (Hg.) (2013): Methodenhandbuch. Stoffstromorientierte Bilanzierung der Klimagaseffekte. Methoden zur Bestimmung von Technologiekennwerten, Gestehungskosten und Klimagaseffekten von Vorhaben im Rahmen des BMU-Förderprogramms „Energetische Biomassenutzung“. 4. Aufl. Leipzig: DBFZ (Schriftenreihe des BMU-Förderprogramms "Energetische Biomassenutzung“, 4). [Online](https://www.energetische-biomassenutzung.de/fileadmin/media/6_Publikationen/04_Methodenhandbuch_2013_final.pdf).
 

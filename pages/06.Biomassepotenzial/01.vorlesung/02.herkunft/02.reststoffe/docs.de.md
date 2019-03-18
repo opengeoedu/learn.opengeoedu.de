@@ -19,3 +19,5 @@ Die Gruppe der biogenen Rest- und Abfallstoffe setzt sich aus einer Vielzahl von
 
 <br>
 Aktuell werden in Deutschland etwa 60-80 % der jährlich anfallenden biogenen Rest- und Abfallstoffe stofflich, z.B. als Tierfutter oder Einstreu, oder energetisch genutzt (Brosowski et al. 2015). 
+
+!! Welches könnten die 5 wichtigsten Rest- und Abfallstoffe in Deutschland sein (gemessen an der zu Verfügung stehenden Menge)? 
