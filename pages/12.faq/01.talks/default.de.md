@@ -1,5 +1,6 @@
 ---
 title: Präsentationen
+published: false
 routes:
     aliases:
         - /talks
@@ -16,6 +17,5 @@ content:
 ---
 
 {% for p in page.collection %}
-<a href="{{ p.url }}"><h2>{{ p.title }}</h2></a>
-<!-- {{ p.summary }} -->
+<a href="{{ p.url }}" target="_blank"><h2>{{ p.title }}</h2></a>
 {% endfor %}
