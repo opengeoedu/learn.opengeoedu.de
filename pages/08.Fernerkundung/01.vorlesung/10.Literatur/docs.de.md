@@ -56,6 +56,8 @@ Seitz, R., Straub, C., 2017. FastResponse - die schnelle Antwort nach dem Sturm.
 Steinmeier, C., Schwarz, M., Holecz, F., Stebler, O., Wagner, H., 2002. Evaluation moderner Fernerkundungsmethoden zur Sturmschadenerkennung im Wald. Eidg. Forschungsanstalt WSL, Birmensdorf.
 
 Thomas, V., 2012. Hyperspectral remote sensing for forest management, in: Thenkabail, P., Lyon, J.G., Huete, A. (Eds.), Hyperspectral Remote Sensing of Vegetation. CRC Press, Taylor & Francis Group, Boca Raton, p. 705.
+
+Tietz, R., 2018. Zugang zu Grünflächen in Großstädten – Eignung von OSM-Daten dargestellt an den Beispielen Dresden und Karlsruhe. AGIT ‒ Journal für Angewandte Geoinformatik 4, 338–347. https://doi.org/10.14627/537647043
 <br><br>
 
 *Weiterführende Literatur:*
@@ -71,27 +73,30 @@ Richards, J.A., 2013. Remote Sensing Digital Image Analysis: An Introduction 494
 
 *Linksammlung:*
 
--	OpenGeoEdu:  www.opengeoedu.de 
+-	OpenGeoEdu:  www.opengeoedu.de
 
--	Copernicus:  http://www.d-copernicus.de 
+-	Copernicus:  http://www.d-copernicus.de
 
 -	Sentinel-2:
-    -   CODE-DE  https://code-de.org 
-    -	Copernicus Open Access Hub (Sci-Hub):  https://scihub.copernicus.eu  
+    -   CODE-DE  https://code-de.org
+    -	Copernicus Open Access Hub (Sci-Hub):  https://scihub.copernicus.eu
 
--	Sentinel Hub:  
-    -	Sentinel 2 EO products (Bsp. Farbkompositen, Vegetationsindizes): [sentinel-hub.com](https://www.sentinel-hub.com/develop/documentation/eo_products/Sentinel2EOproducts) 
-    -	Playground:  https://apps.sentinel-hub.com/sentinel-playground/ 
-    -	EO Browser:  https://apps.sentinel-hub.com/eo-browser/ 
+-	Sentinel Hub:
+    -	Sentinel 2 EO products (Bsp. Farbkompositen, Vegetationsindizes): https://www.sentinel-hub.com/develop/documentation/eo_products/Sentinel2EOproducts
+    -	Playground:  https://apps.sentinel-hub.com/sentinel-playground/
+    -	EO Browser:  https://apps.sentinel-hub.com/eo-browser/
 
--	USGS Sentinel2Look:  https://landsatlook.usgs.gov/sentinel2/viewer.html 
+-	USGS Sentinel2Look:  https://landsatlook.usgs.gov/sentinel2/viewer.html
 
 -   USGS Earth Explorer: https://earthexplorer.usgs.gov/
 
--	Index DataBase:  https://www.indexdatabase.de/ 
+-	Index DataBase:  https://www.indexdatabase.de/
 
 -	QGIS:  https://www.qgis.org/de/site/
 
--	SNAP:  http://step.esa.int/main/download/ 
+-	SNAP:  http://step.esa.int/main/download/
 
--	OpenStreetMap: www.openstreetmap.org 
+-	OpenStreetMap: www.openstreetmap.org
+
+
+![sitzen Laptop](sitzen_laptop250.jpg)
