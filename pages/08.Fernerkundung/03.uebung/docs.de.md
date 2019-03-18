@@ -9,9 +9,7 @@ taxonomy:
 In der Übung setzen Sie sich intensiver mit den Aspekten Open Access in der Fernerkundung und weiteren offenen Geodaten sowie mit der Anwendung von Open Source Software auseinander. Praktisch beschäftigen Sie sich mit folgenden Übungseinheiten:
 
 + Fernerkundungsgrundlagen und die Bedeutung von Vegetation und speziell von Wald und Grünflächen in Städten
-
 + offene Forschungsdaten (Satelliten, Geodaten), inklusive der Recherche in den gängigen Datenrepositorien des EU-Copernicus Programms
-
 + offene GIS- und Fernerkundungssoftware, um sich eine eigene offene Softwarealternative zur Bearbeitung der Fallbeispiele zu schaffen
 
 
