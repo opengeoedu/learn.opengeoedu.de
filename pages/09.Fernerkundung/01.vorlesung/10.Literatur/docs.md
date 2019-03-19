@@ -99,6 +99,7 @@ Richards, J.A., 2013. Remote Sensing Digital Image Analysis: An Introduction 494
 - Nachhaltigkeit
     - UN SDGs: [sustainabledevelopment.un.org](https://sustainabledevelopment.un.org/)
     - UN SDGs: [un.org](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
+    - UN SDGs: [unstats.un.org](https://unstats.un.org/wiki/display/SDGeHandbook/Home)
     - 17 Ziele: [17ziele.de](https://17ziele.de/)
     - Die Glorreichen 17 der Bundesregierung: [dieglorreichen17.de](https://www.dieglorreichen17.de/index.html)
     - 2030Watch: [2030-watch.de](https://www.2030-watch.de/)
