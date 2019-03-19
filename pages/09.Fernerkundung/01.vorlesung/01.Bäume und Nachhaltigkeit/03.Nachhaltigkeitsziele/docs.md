@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-## Titel
+## Internationale Abkommen
 Der Nachhaltigkeitsgedanke ist in vielerlei Hinsicht die Basis für nationale und internationale Umwelt- und Naturschutzabkommen, in denen es unter anderem auch um den Erhalt der Wälder geht.
 
 Die Aichi-Ziele ([Aichi Biodiversity Targets](https://www.cbd.int/sp/targets)) wurden 1993 zur Umsetzung der UN-Konvention zur Biologischen Vielfalt (Convention on Biological Diversity, CBD) formuliert. Sie sehen vor bis 2020 den Verlust an Lebensraum zu halbieren, die Überfischung der Meere zu stoppen und mehr Flächen als Schutzgebiete auszuweisen.

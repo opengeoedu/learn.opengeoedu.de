@@ -20,7 +20,7 @@ Daneben kann aber auch die Neuanlegung bzw. Neugestaltung von Parks und Grünfl�
 
 In vielen Städten und Gemeinden werden alle Bäume (im öffentlichen Raum) in einem Baumkataster registriert. Dabei werden neben der genauen Position auch unterschiedlichste Attribute erfasst wie Baumart, Höhe und Durchmesser von Stamm und Krone, oder der Gesundheitszustand.
 
-![Baumkataster_Frankfurt](Baumkatster_Frankfurt.jpg?resize=300&caption="Baumkataster der Stadt Frankfurt am Main, Grünflächenamt Frankfurt, https://geoinfo.frankfurt.de/mapbender/application/baumkataster")
+![Baumkataster_Frankfurt](Baumkatster_Frankfurt.jpg?caption="Baumkataster der Stadt Frankfurt am Main, Grünflächenamt Frankfurt, https://geoinfo.frankfurt.de/mapbender/application/baumkataster")
 
 ! Einige deutsche Städte bieten mittlerweile freien Zugang zu ihren Baumkatastern. Als Beispiele sind Rostock ([opendata-hro.de](https://www.opendata-hro.de/dataset/baeume)), Leipzig ([opendata.leipzig.de](https://opendata.leipzig.de/dataset/strassenbaumkataster)), Frankfurt ([offenedaten.frankfurt.de](http://www.offenedaten.frankfurt.de/dataset/baumkataster-frankfurt-am-main)), Hamburg ([transparenz.hamburg.de](http://suche.transparenz.hamburg.de/?q=Baumkataster&sort=score+desc%2Ctitle_string+asc&esq_not_all_versions=true)), Berlin ([stadtentwicklung.berlin.de](https://www.stadtentwicklung.berlin.de/geoinformation/)), Bonn ([opendata.bonn.de](https://opendata.bonn.de/dataset/baumstandorte)) und Köln ([offenedaten-koeln.de](https://www.offenedaten-koeln.de/dataset/baumkataster-koeln)) zu nennen. Esri Deutschland bietet einige dieser Baumkataster-Datensätze sind auch auf den [ArcGIS Open Data-Seiten](https://opendata-esri-de.opendata.arcgis.com/datasets?q=baumkataster) zum Download an.
 
