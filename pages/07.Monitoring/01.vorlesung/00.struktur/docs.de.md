@@ -14,6 +14,10 @@ taxonomy:
 </div>
 
 
+<!--
+pull request for staff photo
+-->
+
 <div class="row align-items-center">
     <div class="col-sm-3 image-fluid" markdown="1">![](/images/staff/h.herold_ioer.png?lightbox=800&resize=300)</div>
     <div class="col-sm-9">
