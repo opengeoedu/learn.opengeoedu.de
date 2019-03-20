@@ -1,5 +1,6 @@
 ---
 title: FRAGSTATS
+media_order: Fargstats.JPG
 visible: true
 twitterenable: true
 twittercardoptions: summary
@@ -15,4 +16,7 @@ Die Analysen teilen sich hier in drei Bereiche auf:
 •	Class metrics
 •	Landscape metrics
  
- ![FRAGSTATS](http://www.opengeoedu.de/images/logo/oge.svg?lightbox=800&resize=300&classes=caption "Abb. 13: FRAGSTATS")
+ ![FRAGSTATS](Fargstats.JPG?lightbox=800&resize=300&classes=caption "Abb. 13: FRAGSTATS")
+ 
+ Fragstats bietet also sehr viele Möglichkeiten in der Berechnung von Landschaftsstrukturmaßen und ist insbesondere bei Rasterdaten zu empfehlen. 
+ 
