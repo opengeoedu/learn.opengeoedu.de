@@ -1,5 +1,6 @@
 ---
 title: Landschaftsveränderung
+media_order: Landschveraenderungen.JPG
 visible: true
 twitterenable: true
 twittercardoptions: summary
@@ -10,4 +11,8 @@ Das Thema dieses Beispiels zielt auf die Veränderung der Landschaft hinsichtlic
 
 Um dies realisieren zu können wurden aktuelle ALKIS-Daten verwendet, sowie Messtischblätter und Meilenblätter. Diese wurden eingescannt, georeferenziert und editiert. 
 
-![OGE-Logo](http://www.opengeoedu.de/images/logo/oge.svg?lightbox=800&resize=300&classes=caption "Diese Abbildung zeigt das OpenGeoEdu-Logo")
+![Landschaftsveränderungen](Landschveraenderungen.JPG?lightbox=800&resize=300&classes=caption "Abb. 16: Digitalisierung der Altkarten (Quelle: WALZ 2013)")
+
+Durch den Einsatz von Landschaftsstrukturmaßen, wie den Vergleich von Flächenformen und Flächengrößen, war es möglich Aussagen über die frühere Nutzung und deren Entwicklung zu treffen, wodurch auch wirtschaftliche Veränderungen aufgezeigt werden konnten. Der Vergleich der vier Gebiete hat auch Informationen bezüglich des Einflusses der Landschaft auf die Wirtschaft gegeben. 
+
+Ziel solcher Untersuchungen ist die Gewinnung neuer Informationen für eine nachhaltigere Struktur- und Raumplanung.
