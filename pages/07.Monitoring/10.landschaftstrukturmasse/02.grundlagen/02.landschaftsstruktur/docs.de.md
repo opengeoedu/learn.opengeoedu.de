@@ -17,6 +17,6 @@ Im Wesentlich geht es bei der Erfassung der Landschaftsstruktur um das Muster, w
 
 Die Horizontalstruktur beschreibt den horizontal-räumlichen Aufbau von Elementen in einer Landschaft. Diese wird im Großteil der Fälle in der Berechnung von Landschaftsstrukturmaßen genutzt.
 
-![Horizontalstruktur](horz_Landstruk.png?lightbox=800&resize=300&classes=caption "Abb. 4: Horizontalstruktur von Landschaften - Iowa links und MV rechts (Quellen: Image Landsat (CC BY)/ Copernicus (CC BY-SA 3.0 IGO); © 2018 Google; ©2009 GeoBasis-DE/BKG")
+![Horizontalstruktur](horz_Landstruk.png?lightbox=800&resize=300&classes=caption "Abb. 3: Horizontalstruktur von Landschaften - Iowa links und MV rechts (Quellen: Image Landsat (CC BY)/ Copernicus (CC BY-SA 3.0 IGO); © 2018 Google; ©2009 GeoBasis-DE/BKG")
 
-In Abb. 4 sind die unterschiedlichen horizontalen Landschaftsstrukturen gut zu erkennen. In Iowa ist die Landschaftsstruktur sehr geordnet (regelmäßig), wo hingegen in Deutschland bzw. Mecklenburg-Vorpommern die Landschaftsstruktur eher ungeordnet wirkt.
+In Abb. 3 sind die unterschiedlichen horizontalen Landschaftsstrukturen gut zu erkennen. In Iowa ist die Landschaftsstruktur sehr geordnet (regelmäßig), wo hingegen in Deutschland bzw. Mecklenburg-Vorpommern die Landschaftsstruktur eher ungeordnet wirkt.
