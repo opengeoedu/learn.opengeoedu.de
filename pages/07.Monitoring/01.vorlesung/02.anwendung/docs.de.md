@@ -9,18 +9,20 @@ Der Bedarf an **kleinräumigen Informationen ist vielfältig**. Damit können **
 **Flächennutzung** (Grünvolumen) <br>
 [![abb_gruenvolumen_ua_berlin](abb_gruenvolumen_ua_berlin.png)](http://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=showMap&mapId=wmsk05_09_gruendvol2010@senstadt) <br>
 
-!Schauen Sie sich Datenangebote unter [Umweltatlas-Berlin](http://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=showMap&mapId=wmsk05_09_gruendvol2010@senstadt)
+! Schauen Sie sich Datenangebote unter [Umweltatlas-Berlin](http://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=showMap&mapId=wmsk05_09_gruendvol2010@senstadt)
 
 
 **Klimaanpassung** (Luftbelastung)<br>
 [![abb_luftbelastung_lhs_sttutgart](abb_luftbelastung_lhs_sttutgart.png)](http://gis6.stuttgart.de/maps/index.html?karte=stadtklima&embedded=true#basemap=0&centerX=3516118.9675944396&centerY=5406021.037465078&scale=25000&layerIds=279.281) <br>
-!Entdecken Sie sich Weitere Themem (Stadtklima, Lärmkartierung usw.) unter [LHS Stuttgart](http://gis6.stuttgart.de/maps/index.html?karte=stadtklima&embedded=true#basemap=0&centerX=3516118.9675944396&centerY=5406021.037465078&scale=25000&layerIds=279.281)
+! Entdecken Sie sich Weitere Themem (Stadtklima, Lärmkartierung usw.) unter [LHS Stuttgart](http://gis6.stuttgart.de/maps/index.html?karte=stadtklima&embedded=true#basemap=0&centerX=3516118.9675944396&centerY=5406021.037465078&scale=25000&layerIds=279.281)
 
-**Stadtplanung** (Bodenwerte)<br> [![abb_bodenwerte_lhs_dresden](abb_bodenwerte_lhs_dresden.png)](http://stadtplan2.dresden.de/(S(rwtsgf452ofajgua4dj3woey))/spdd.aspx?lang=de) <br>
-!Schauen Sie sich mehre Stadtplanung Informationen unter [LHS Dresden](http://stadtplan2.dresden.de/(S(rwtsgf452ofajgua4dj3woey))/spdd.aspx?lang=de)
+**Stadtplanung** (Bodenwerte)<br> [![abb_bodenwerte_lhs_dresden](abb_bodenwerte_lhs_dresden.png)](http://stadtplan2.dresden.de/(S(krl1nhgwqiqvdo3q5kytv1pr))/spdd.aspx?lang=de) <br>
+
+! Schauen Sie sich mehre Stadtplanung Informationen unter [LHS Dresden](http://stadtplan2.dresden.de/(S(krl1nhgwqiqvdo3q5kytv1pr))/spdd.aspx?lang=de)
 
 **Energieforschung** (Onshore Wind - Potenzial)<br> [![abb_wind_onshore_irena](abb_wind_onshore_irena.png)](https://irena.masdar.ac.ae/gallery/#map/543) <br>
-!Entdecken Sie sich die Weltweit Informationen Atlas aus der Energieforschung unter [IRENA-GlobalAtlas](https://irena.masdar.ac.ae/gallery/#map/543)
+
+! Entdecken Sie sich die Weltweit Informationen Atlas aus der Energieforschung unter [IRENA-GlobalAtlas](https://irena.masdar.ac.ae/gallery/#map/543)
 
 !! Entdecken Sie auch selbst weitere Anwendungen und kleinräumige Information Angebote im lokale, regionale, nationale und internationale Ebene.
 
