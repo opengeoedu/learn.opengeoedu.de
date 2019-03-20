@@ -14,6 +14,9 @@ Die nationalen Akteure, wie u.a. das Bundesamt für Kartographie und Geodäsie (
 Daten werden insbesondere von der Europäischen Statistikbehörde ([eurostat](http://ec.europa.eu/eurostat/de/data/database)), der europäischen Umweltagentur ([EEA](https://www.eea.europa.eu/data-and-maps)), der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung ([OECD](https://data.oecd.org/)) und in Geoportalen anderer Europäische Union (EU)-Staaten angeboten. Dazu gehören z.B. die Datenprodukte von Copernicus ([Urban Atlas](http://copernicus.eu/data-access-satellite)). Zudem existieren  weltweite Datenangebote wie Flickr, OpenStreetMap ([OSM](https://www.openstreetmap.de/)), Global Human Settlement Layer  ([GHSL](https://ghsl.jrc.ec.europa.eu/)), Global Urban Footprint ([GUF](https://www.dlr.de/eoc/desktopdefault.aspx/tabid-11725/20508_read-47944/)), "Nighttime Imagery", Höhenmodelle und weitere Produkte auf Grundlage von Volunteered geographical information ([VGI](https://de.wikipedia.org/wiki/Volunteered_geographic_information)).
 
 
+<iframe src="https://learn.opengeoedu.de/pages/07.Monitoring/html/opendata_trend_monitoring_de.html" style="width:100%; height: 600px"></iframe>
+
+
 ! Entdecken Sie sich auf das Thema **Offene Geodaten** unter Lehr Module:
-<br> [Open XX](https://learn.opengeoedu.de/openx/vorlesung/opengeodata)
-<br>[Open Data](https://learn.opengeoedu.de/opendata/vorlesung/offene-geodaten)
+[Open XX](https://learn.opengeoedu.de/openx/vorlesung/opengeodata) und
+[Open Data](https://learn.opengeoedu.de/opendata/vorlesung/offene-geodaten)
