@@ -17,4 +17,4 @@ Begriffserklärungen (siehe zusätzlich Abb. 6):
 •	Patch: Einzelne Landschaftselemente, die in die Matrix eingebettet sind (z.B. Hecken, Siedlungen, Wäldchen)
 •	Korridore: lineare, verbindende Elemente (z.B. Flussnetz)
 
-[![PKM_Modell_Begriffe](PKM_Modell2.jpg?resize=300&classes=caption "Abb. 7: Patch-Korridor-Matrix Begriffserklärung")
+[![PKM_Modell_Begriffe](PKM_Modell2.jpg?resize=300&classes=caption "Abb. 6: Patch-Korridor-Matrix Begriffserklärung")
