@@ -1,5 +1,8 @@
 ---
 title: 'Vergleich Vektordaten - Rasterdaten'
+taxonomy:
+    category:
+        - docs
 visible: true
 twitterenable: true
 twittercardoptions: summary

@@ -1,6 +1,9 @@
 ---
 title: Datengrundlage
 media_order: 'LSM_Vekor.png,Raster_2.png'
+taxonomy:
+    category:
+        - docs
 twitterenable: true
 twittercardoptions: summary
 facebookenable: true

@@ -1,6 +1,9 @@
 ---
 title: Landschaftsstruktur
 media_order: 'Landstruk.png,horz_Landstruk.png'
+taxonomy:
+    category:
+        - docs
 twitterenable: true
 twittercardoptions: summary
 facebookenable: true

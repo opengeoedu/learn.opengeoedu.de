@@ -1,6 +1,9 @@
 ---
 title: 'Bewertung des Erholungsgrades'
 media_order: erholungsgrad.JPG
+taxonomy:
+    category:
+        - docs
 visible: true
 twitterenable: true
 twittercardoptions: summary

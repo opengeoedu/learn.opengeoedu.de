@@ -1,5 +1,8 @@
 ---
 title: 'Zeitliche Veränderungen'
+taxonomy:
+    category:
+        - docs
 visible: true
 twitterenable: true
 twittercardoptions: summary

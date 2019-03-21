@@ -1,6 +1,9 @@
 ---
 title: Landschaft
 media_order: Panorama.png
+taxonomy:
+    category:
+        - docs
 twitterenable: true
 twittercardoptions: summary
 facebookenable: true

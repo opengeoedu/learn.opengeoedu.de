@@ -1,6 +1,9 @@
 ---
 title: FRAGSTATS
 media_order: Fargstats.JPG
+taxonomy:
+    category:
+        - docs
 visible: true
 twitterenable: true
 twittercardoptions: summary

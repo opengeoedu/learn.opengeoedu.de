@@ -1,6 +1,9 @@
 ---
 title: 'LecoS (QGIS Plugin)'
 media_order: LecoS.JPG
+taxonomy:
+    category:
+        - docs
 twitterenable: true
 twittercardoptions: summary
 facebookenable: true

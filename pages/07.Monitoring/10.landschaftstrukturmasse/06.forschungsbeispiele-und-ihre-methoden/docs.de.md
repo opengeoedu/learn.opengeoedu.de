@@ -1,5 +1,8 @@
 ---
 title: 'Forschungsbeispiele und ihre Methoden'
+taxonomy:
+    category:
+        - docs
 twitterenable: true
 twittercardoptions: summary
 facebookenable: true

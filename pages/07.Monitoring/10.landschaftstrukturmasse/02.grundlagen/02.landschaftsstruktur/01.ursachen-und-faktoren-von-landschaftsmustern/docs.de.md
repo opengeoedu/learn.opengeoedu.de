@@ -1,6 +1,9 @@
 ---
 title: 'Ursachen und Faktoren von Landschaftsmustern'
 media_order: Diagramm_Ursachen_Landmuster.jpg
+taxonomy:
+    category:
+        - docs
 twitterenable: true
 twittercardoptions: summary
 facebookenable: true

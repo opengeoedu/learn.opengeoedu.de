@@ -1,6 +1,9 @@
 ---
 title: Patch-Korridor-Matrix-Modell
 media_order: 'Forman_PKM-Modell.png,PKM_Modell2.jpg'
+taxonomy:
+    category:
+        - docs
 visible: true
 twitterenable: true
 twittercardoptions: summary

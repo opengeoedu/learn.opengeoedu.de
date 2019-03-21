@@ -1,6 +1,9 @@
 ---
 title: Landschaftsstrukturmaße
 media_order: 'Beispiel LandstrukmaßJPG.JPG'
+taxonomy:
+    category:
+        - docs
 twitterenable: true
 twittercardoptions: summary
 facebookenable: true

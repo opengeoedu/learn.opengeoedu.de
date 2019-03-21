@@ -1,6 +1,9 @@
 ---
 title: Landschaftsveränderung
 media_order: Landschveraenderungen.JPG
+taxonomy:
+    category:
+        - docs
 visible: true
 twitterenable: true
 twittercardoptions: summary

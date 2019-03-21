@@ -1,6 +1,5 @@
 ---
-title: 'Lernziele und Struktur der Lerneinheit'
-published: true
+title: Literatur
 taxonomy:
     category:
         - docs
@@ -9,4 +8,3 @@ twittercardoptions: summary
 facebookenable: true
 ---
 
-<p># test2 ! test !! bla</p>

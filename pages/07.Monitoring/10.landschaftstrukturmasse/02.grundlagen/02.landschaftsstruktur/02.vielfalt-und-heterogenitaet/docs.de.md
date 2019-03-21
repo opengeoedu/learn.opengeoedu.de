@@ -1,5 +1,8 @@
 ---
 title: 'Vielfalt und Heterogenität'
+taxonomy:
+    category:
+        - docs
 twitterenable: true
 twittercardoptions: summary
 facebookenable: true
