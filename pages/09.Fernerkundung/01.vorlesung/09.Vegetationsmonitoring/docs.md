@@ -7,12 +7,11 @@ taxonomy:
 
 ## Spektrale Eigenschaften von Vegetation
 
-Jede Art von Materie oder Oberfläche reflektiert Strahlung, wenn auch in unterschiedlicher Stärke:
-seien es Böden, Wasser (auch als Schnee und Eis), versiegelte Flächen wie Straßen und Gebäude, oder eben *Vegetation* wie Gras, und landwirtschaftliche Flächen oder Wälder.
+Jede Art von Materie oder Oberfläche reflektiert Strahlung, wenn auch in unterschiedlicher Stärke: Böden, Gewässer (auch Schnee und Eis), versiegelte Flächen wie Straßen und Gebäude, oder eben Vegetation (incl. landwirtschaftlicher Flächen und Wälder).
 Trifft Sonnenstrahlung auf ein Objekt oder Erdoberfläche, wird sie transmittiert, absorbiert bzw. in Energie umgewandelt und jeweils in bestimmten Wellenlängen unterschiedlich stark zurückgeworfen.
 
 !!! Der Begriff der spektralen Signatur wird dabei oft als etwas Absolutes verstanden, was der Sache nicht immer gerecht wird. Zwar ist die wellenlängenabhängige Reflexion für viele Oberflächen und Landbedeckungsarten sehr typisch, allerdings spielen eine Reihe von Faktoren wie Betrachtungswinkel und Position der Sonne, Aufnahmezeitpunkt und Sensortyp entscheidende Rollen. Hinzu kommen die unterschiedlichen Ausprägungen des Zielobjekts.
-Nehmen wir Waldbäume als Beispiel: Sie stehen mal dicht gedrängt, mal mit großen Lücken, auf flacher Ebene, an steilen Hängen; Jungpflanzen erscheinen dabei anders als alte Bäume. Und obwohl Unterschiede zwischen Baumarten signifikant sein können, gibt es nicht *die eine* Signatur für Fichte oder Buche. Es sollte im Hinterkopf behalten werden, dass der (situationsbedingte) Sachverhalt  vielfältiger ist und von Fall zu Fall betrachtet werden muss. 
+Nehmen wir Waldbäume als Beispiel: Sie stehen mal dicht gedrängt, mal mit großen Lücken, auf flacher Ebene, an steilen Hängen; Jungpflanzen erscheinen dabei anders als alte Bäume. Und obwohl Unterschiede zwischen Baumarten signifikant sein können, gibt es nicht *die eine* Signatur für Fichte oder Buche. Es sollte im Hinterkopf behalten werden, dass der (situationsbedingte) Sachverhalt  vielfältiger ist und von Fall zu Fall betrachtet werden muss.
 
 Die Reflektanzkurve von grüner gesunder Vegetation hat eine charakteristische Form und ist geprägt von Faktoren wie Konzentration an Blattpigmenten, Wassergehalt und Blattaufbau. Die folgende Abbildung zeigt das typische Erscheinen anhand einer spektralen Kurve einer Buchenkrone (Aberle 2017) samt Haupt-Einflussfaktoren.
 
@@ -22,7 +21,7 @@ Die Reflektanzkurve von grüner gesunder Vegetation hat eine charakteristische F
 
 ## Vegetationsindizes
 Die in der reflektierten Strahlung (z.B. Pixelwerte der einzelnen Sentinel-2 Bänder) enthaltenen Informationen können direkt oder über neu geschaffene Indizes untersucht werden. Spektrale Indizes verfolgen dabei das Prinzip einer Neuberechnung eines künstlichen Kanals, um spezielle Features (Merkmale) hervorzuheben. Sie werden meist als einfache lineare Kombinationen oder Brüche (Ratios) berechnet. Es gibt je nach Sensor und der Anzahl der Kanäle eine Vielzahl an möglichen Kombinationen.
-Vegetationsindizes sind robuster gegenüber Beleuchtungsunterschieden oder atmosphärischen und Hintergrundeinflüssen (Bannari et al. 1995, Huete, 2012).  
+Vegetationsindizes sind robuster gegenüber Beleuchtungsunterschieden oder atmosphärischen und Hintergrundeinflüssen (Bannari et al. 1995, Huete, 2012).
 Der wohl bekannteste Vegetationsindex ist der Normalized Difference Vegetation Index (NDVI) (Rouse, 1974). Er gilt als Standard des Vegetationsmonitorings und macht sich die Unterschiede beim (Gesundheits-)Status von Pflanzen zunutze. Gestresste und trockene Vegetation reflektiert stärker in Rot und vor allem weniger im nahen Infrarot (NIR).
 Der NDVI wird wie folgt berechnet:
 
@@ -30,7 +29,7 @@ Der NDVI wird wie folgt berechnet:
 
 ![NDVI](NDVII_calculation_b.png)
 
-Klares Wasser hat einen negativen NDVI-Wert nahe -1. Ein NDVI von 0 bedeutet, dass keine Vegetation vorhanden ist. Je dichter und vitaler die Vegetation ist, desto hoher werden die NDVI-Werte. Werte gegen +1 repräsentieren gesunde und sehr dichte Vegetation. In folgendem Bild-Beispiel wird der NDVI einem Normalfarbkomposit gegenübergestellt. Der Index wurde aus dem roten Kanal (Band 4) und einem NIR-Kanal (Band 8) berechnet und liegt für jedes Pixel vor. Bildelemente mit geringer oder keiner Vegetationsbedeckung wie Straßen, bebaute Flächen und Äcker erscheinen heller, ebenso wie die Windwurfflächen in der rechten unteren Bildhälfte. Die dicht bewachsenen Laubbaumflächen dagegen haben die höchsten NDVI-Werte und sind hier dunkel dargestellt.
+Klares Wasser hat einen negativen NDVI-Wert nahe -1. Ein NDVI von 0 bedeutet, dass keine Vegetation vorhanden ist. Je dichter und vitaler die Vegetation ist, desto höher werden die NDVI-Werte. Werte gegen +1 repräsentieren gesunde und sehr dichte Vegetation. In folgendem Bild-Beispiel wird der NDVI einem Normalfarbkomposit gegenübergestellt. Der Index wurde aus dem roten Kanal (Band 4) und einem NIR-Kanal (Band 8) berechnet und liegt für jedes Pixel vor. Bildelemente mit geringer oder keiner Vegetationsbedeckung wie Straßen, bebaute Flächen und Äcker erscheinen heller, ebenso wie die Windwurfflächen in der rechten unteren Bildhälfte. Die dicht bewachsenen Laubbaumflächen dagegen haben die höchsten NDVI-Werte und sind hier dunkel dargestellt.
 
 <style>iframe{max-width: 600px; width: 100%; height: 500px; max-height: 600px}</style>
 <iframe src="https://h5p.org/h5p/embed/311729" width="100%" max-width=600 max-height="600" height=400 frameborder="0" allowfullscreen="allowfullscreen"></iframe>

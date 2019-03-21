@@ -38,7 +38,7 @@ Die Eigenschaften der Erdatmosphäre wirken sich besonders auf die optische Fern
 ! An dieser Stelle sei das "Lexikon der Fernerkundung" erwähnt: [FE-Lexikon](http://www.fe-lexikon.info/lexikon-a.htm#aufloesung). Das Glossar bietet umfassende Informationen zur Fernerkundung im Allgemeinen und im Detail an, wie etwa über die unterschiedlichen Typen von Auflösungen.
 
 ### Räumliche Auflösung
-!!! Die räumliche Auflösung beschreibt vor allem die Pixelgröße bzw. den Pixelabstand (im Bild oder am Objekt). Es ist abhängig von der Art des Sensors. Fähigkeit, Größe des CCD-Arrays (charge-coupled device) und dem Blickwinkel. Einige wichtige Begriffe in der Fernerkundung und ihre Bedeutung sind:
+!!! Die räumliche Auflösung beschreibt vor allem die Pixelgröße bzw. den Pixelabstand (im Bild oder am Objekt) und somit die Fähigkeit des Sensors zur Detailunterscheidung. Sie ist abhängig von der Art des Sensors, Größe des CCD-Arrays (charge-coupled device) und dem Blickwinkel. Einige wichtige Begriffe in der Fernerkundung und ihre Bedeutung sind:
 - FOV = field of view, deutsch: Blickfeld, definiert die Schwadbreite
 - IFOV = instantaneous field of view, definiert den Winkel der einzelnen Sensoren
 - GIFOV = ground instantaneous field of view, ist das auf den Boden projizierte IFOV
