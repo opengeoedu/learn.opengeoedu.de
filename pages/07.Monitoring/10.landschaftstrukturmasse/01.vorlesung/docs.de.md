@@ -1,13 +1,11 @@
 ---
 title: 'Lernziele und Struktur der Lerneinheit'
 published: true
+taxonomy:
+    category:
+        - docs
 twitterenable: true
 twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
 facebookenable: true
 ---
 
