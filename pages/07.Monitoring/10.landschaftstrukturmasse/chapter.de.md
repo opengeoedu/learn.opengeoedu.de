@@ -1,7 +1,9 @@
 ---
 title: Landschaftstrukturmasse
-published: true
-menu: 'Vorlesung Landschaftsstrukturmaße'
+menu: Vorlesung Landschaftsstrukturmaße
+taxonomy:
+    category:
+        - docs
 twitterenable: true
 twittercardoptions: summary
 facebookenable: true
