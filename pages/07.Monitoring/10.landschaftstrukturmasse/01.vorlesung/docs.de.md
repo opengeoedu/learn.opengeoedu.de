@@ -9,4 +9,55 @@ twittercardoptions: summary
 facebookenable: true
 ---
 
-<p># test2 ! test !! bla</p>
+## Autoren der Lerneinheit
+<div class="row align-items-center">
+  <div class="col-sm-3" markdown="1">![David Hennecke](?lightbox=800&resize=300&classes=caption "M. Eng. David Hennecke")</div>
+  <div class="col-sm-9">
+    <p markdown="1">**David Hennecke** arbeitet seit 2018 an der Universität Rostock als Wissenschaftlicher Mitarbeiter an der Professur für Geodäsie und Geoinformatik.</p>
+    <p>Nach dem Bachelotstudium der Geographie an der Universität Innsbruck und dem Masterstudium Geoinformation und Kommunaltechnik an der Frankfurt University of Applied Sciences, arbeitete er vor seiner Anstellung an der Universität Rostock, als Projektmitarbeiter an der Frankfurt University of Applied Sciences am Solarkataster Hessen und als Sachberarbeiter im Ingenieurbüro imp GmbH.</p>
+  </div>
+</div>
+
+<div class="row align-items-center">
+  <div class="col-sm-3" markdown="1">![Ulrich Walz](?lightbox=800&resize=300&classes=caption "Prof. Dr. habil. Ulrich Walz")</div>
+  <div class="col-sm-9">
+    <p markdown="1">**Prof. Ulrich Walz** </p>
+  </div>
+</div>
+
+### Lernziele der Vorlesung
+Bereits seit gut 30 Jahren werden Landschaftsstrukturmaße in der Forschung als Mittel eingesetzt. Zudem werden sie z.T. als wichtige Umwelt Indikatoren in der deutsch und internationalen Umwelt Politik angesehen.
+
+! <p>https://www.umweltbundesamt.de/daten/umweltindikatoren</p>
+
+
+In diesem Modul lernen Sie, welche Landschaftsstrukturmaße es gibt und wie bzw. mit welcher Software sie diese nutzen und berechnen können. Zudem wird die benötigte Datengrundlage besprochen, um eine erfolgreiche Analyse anhand von Landschaftsstrukturmaßen durchführen zu können.
+
+
+Neben der Nutzung von Landschaftsstrukturmaßen, werden folgende Inhalte in diesem Modul behandelt:
+
+* Wie kann eine Landschaft definiert werden?
+* Was ist eine Landschaftsstruktur?
+* Was sind die Faktoren und Ursachen eines Landschaftsmusters?
+* Wo liegen die Anwendungsbereiche der Landschaftsstrukturmaße?
+* Wie kann man die Landschaftsstrukturmaße für Analysen nutzen?
+
+
+
+### Struktur der Vorlesung
+Die Vorlesung ist anlehnend an die Habilitationsschrift von Herrn Prof. Walz entstanden und ist in 5 Kapitel aufgeteilt:
+
+* Grundlagen
+* Landschaftsstrukturmaße
+* Datengrundlage
+* Software
+* Forschungsbeispiele
+
+
+
+
+! <p></p>
+
+!! <p></p>
+
+!!!! <p></p>

@@ -1,5 +1,5 @@
 ---
-title: 'Forschungsbeispiele und ihre Methoden'
+title: Forschungsbeispiele
 taxonomy:
     category:
         - docs
