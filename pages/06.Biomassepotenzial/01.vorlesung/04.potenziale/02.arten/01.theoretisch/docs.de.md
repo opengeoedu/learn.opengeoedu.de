@@ -11,4 +11,5 @@ Das theoretische Biomassepotenzial (Thrän und Pfeiffer 2013; WGBU 2009) ist die
 
 **Beispiel Landwirtschaft**: Der gesamte Aufwuchs von Getreidestroh in Deutschland im Jahr 2016 ungeachtet der momentanen Nutzung. 
 
-!! Überlegen Sie sich weitere Beispiele für theoretische Potenziale zu Biomassen mit denen Sie in Ihrem Studium / im Alltag zu tun haben.
+!! Überlegen Sie sich weitere Beispiele für theoretische Potenziale zu Biomassen mit denen Sie in Ihrem Studium / im Alltag zu tun haben.<br><br>
+!! Welches könnten die 5 Biomassen mit dem höchsten theoretischem Biomassepotenzial in Deutschland sein? Vergleichen Sie Ihre Ergebnisse mit der [DBFZ Ressourcendatenbank](http://webapp.dbfz.de/resources). 

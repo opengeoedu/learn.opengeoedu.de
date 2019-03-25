@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
 ---
-Eine Übersicht über den GIS-Produktemarkt zu erhalten ist nicht ganz einfach. Hilfreich sind hierbei die jährlich zur Intergeo erscheinenden GIS-Reporte des Harzer-Verlags. So listet der [Band von 2017/2018 (Harzer, 2017](http://https//www.geobranchen.de/images/produkte/GR1718_komplett_19092017_ver01.pdf) etwa 1000 Kurzbeschreibungen von GIS-Software und ca. 150 Anbieter von GIS-Produkten alleine im deutschsprachigen Markt.
+Eine Übersicht über den GIS-Produktemarkt zu erhalten ist nicht ganz einfach. Hilfreich sind hierbei die jährlich zur Intergeo erscheinenden GIS-Reporte des Harzer-Verlags. So listet der [Band von 2017/2018 (Harzer, 2017)](http://https//www.geobranchen.de/images/produkte/GR1718_komplett_19092017_ver01.pdf) etwa 1000 Kurzbeschreibungen von GIS-Software und ca. 150 Anbieter von GIS-Produkten alleine im deutschsprachigen Markt.
 
 Die GIS-Produktentwicklung hat sich in den letzten Dekaden vom universellen GIS über Desktop GIS bis hin zu Web-GIS vollzogen. Während universelle GIS primär von gut ausgebildeten Experten bedienbar waren, begegnen uns Web-GIS-Lösungen heute an vielen Stellen und der Bürger kann diese einfach und ohne Schulungen bedienen. Web-GIS-Lösungen ermöglichen es sehr einfach, die inzwischen umfangreich vorhandenen Geodaten zu visualisieren und zunehmend auch zu analysieren.
 

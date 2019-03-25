@@ -24,7 +24,7 @@ Ist es zu einem größeren Windwurf im Wald gekommen, gilt es die Schäden schne
 
 ! Informationen, etwa dazu wie man Sturmholz richtig aufarbeitet, finden sich u.a.  auf den Seiten des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten [StMELF](https://www.stmelf.bayern.de/wald/waldschutz/sturm/104090/index.php).
 
-! Die Seite [waldwissen.net](https://www.waldwissen.net)[^1] bietet zudem viel Wissenswertes zum Thema Wald im Allgemeinen und zu vertiefenden Themen wie [Sturmschadensbewältigung](https://www.waldwissen.net/waldwirtschaft/schaden/sturm_schnee_eis/fva_sturmhandbuch/index_DE) oder zur Anwendung von Fernerkundung für die Waldschadenserfassung mittels [Luftbilder](https://www.waldwissen.net/technik/inventur/wuh_luftbilder_kyrill/index_DE). 
+! Die Seite [waldwissen.net](https://www.waldwissen.net)[^1] bietet zudem viel Wissenswertes zum Thema Wald im Allgemeinen und zu vertiefenden Themen wie [Sturmschadensbewältigung](https://www.waldwissen.net/waldwirtschaft/schaden/sturm_schnee_eis/fva_sturmhandbuch/index_DE) oder zur Anwendung von Fernerkundung für die Waldschadenserfassung mittels [Luftbilder](https://www.waldwissen.net/technik/inventur/wuh_luftbilder_kyrill/index_DE).
 
 ![vorOrtSatellit](vorOrt_S2.png?classes=caption "Eine Frage der Perspektive: Windwurf wie er sich vor Ort am Boden darstellt und vom Weltraum aus gesehen. Foto links: G. Lobinger, LWF (https://www.stmelf.bayern.de), rechts: Sentinel-2 Echtfarbaufnahme, ESA")
 <!-- *Eine Frage der Perspektive: Windwurf wie er sich vor Ort am Boden darstellt und vom Weltraum aus gesehen.* -->
@@ -32,8 +32,7 @@ Ist es zu einem größeren Windwurf im Wald gekommen, gilt es die Schäden schne
 Eine generelle Herausforderung ist es, nach einem Sturm die Situation richtig einzuschätzen und betroffene Flächen aufzufinden. Die folgende Abbildung zeigt einen beschädigten Waldbestand einmal wie er sich vor Ort darstellt (links) und einmal wie er und die Umgebung in einem Satellitenbild aussieht (rechts). Die Zuordnung und Verortung der Flächen ist ein zentraler Punkt von Kartierung und Monitoring.
 
 Windwurfflächen sind oft großflächig bzw. liegen räumlich weit verstreut vor. Dies macht die Fernerkundung zu einem geeigneten Instrument, um einen schnellen Überblick über betroffene Flächen zu erhalten. Ferner lassen sich mit Hilfe von luftgetragenen Sensoren oder Satelliten unterschiedlichste Vegetationsparameter abschätzen.
-Da solche Daten nicht immer und für jeden zugänglich sind, sind frei verfügbare Fernerkundungsdaten mit großer räumlicher Abdeckung zweckmäßig und erforderlich. So stehen seit Juli 2015 __Sentinel-2__-Daten kostenfrei als Open Data zur Verfügung
+Da solche Daten nicht immer und für jeden zugänglich sind, sind frei verfügbare Fernerkundungsdaten mit großer räumlicher Abdeckung zweckmäßig und erforderlich. So stehen seit Juli 2015 Sentinel-2-Daten kostenfrei als Open Data zur Verfügung
 <br><br>
 
 [^1]: waldwissen.net ist eine Informations- und Kommunikationsplattform und ein Gemeinschaftsprodukt der vier Forschungsinstitutionen Forstliche Versuchs- und Forschungsanstalt Baden-Württemberg (FVA), Bayerische Landesanstalt für Wald und Forstwirtschaft (LWF), Bundesforschungs- und Ausbildungszentrum für Wald, Naturgefahren und Landschaft (BFW) und Eidg. Forschungsanstalt für Wald, Schnee und Landschaft (WSL) (Herausgeber) sowie den Partner-Instituten Staatsbetrieb Sachsenforst (SBS), Landesbetrieb Wald und Holz Nordrhein-Westfalen (WUH), Landeskompetenzzentrum Forst Eberswalde (LFE) und INRA Institut national de la recherche agronomique (INRA).
-
