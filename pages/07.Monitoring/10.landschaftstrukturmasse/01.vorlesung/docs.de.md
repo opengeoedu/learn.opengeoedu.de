@@ -1,5 +1,6 @@
 ---
 title: 'Lernziele und Struktur der Lerneinheit'
+media_order: 151021_Prof_Walz-016_klein.jpg
 published: true
 taxonomy:
     category:
@@ -19,9 +20,10 @@ facebookenable: true
 </div>
 
 <div class="row align-items-center">
-  <div class="col-sm-3" markdown="1">![Ulrich Walz](?lightbox=800&resize=300&classes=caption "Prof. Dr. habil. Ulrich Walz")</div>
+  <div class="col-sm-3" markdown="1">![Ulrich Walz](151021_Prof_Walz-016_klein.jpg?lightbox=800&resize=300&classes=caption "Prof. Dr. habil. Ulrich Walz")</div>
   <div class="col-sm-9">
-    <p markdown="1">**Prof. Ulrich Walz** </p>
+    <p markdown="1">**Prof. Dr. habil. Ulrich Walz** ist seit 1995 Professor für Landschaftsökologie an der HTW Dresden.
+Zuvor arbeitete er am Leibniz-Institut für ökologische Raumentwicklung in Dresden. Er beschäftigt sich u.a. mit Fragen der Landnutzung und des Landschaftswandels und dessen Auswirkungen auf Biodiversität und nachhaltige Landnutzung. Er entwickelt mittels Werkzeugen und Methoden der Geographischen Informationssysteme räumliche Indikatoren zu Landnutzungsprozessen und  Ökosystemleistungen. Die Frage wie Landschaftsstruktur messbar gemacht werden kann und wie diese mit biologischer Vielfalt zusammenhängt ist dabei ein zentrales Thema. </p>
   </div>
 </div>
 
