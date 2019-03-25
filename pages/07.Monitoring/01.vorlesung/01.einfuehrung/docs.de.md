@@ -8,7 +8,7 @@ Fläche (Boden) ist eine begrenzte Naturressource. Nur die effiziente Allokation
 
 [![abb_uba_30zeil](abb_uba_30zeil.png)](https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/flaeche/siedlungs-verkehrsflaeche#textpart-1)
 
-!Grundlagedaten und Diagramm (als Excel) und wietere Diskussion unter: [Umwelt Bundesamt - Siedlungs-und Verkehrsflache](https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/flaeche/siedlungs-verkehrsflaeche#textpart-1)
+! Grundlagedaten und Diagramm (als Excel) und wietere Diskussion unter: [Umwelt Bundesamt - Siedlungs-und Verkehrsflache](https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/flaeche/siedlungs-verkehrsflaeche#textpart-1)
 
 
 
@@ -16,5 +16,5 @@ Die Grafik zeigt den jährlichen Anstieg der Siedlungs- und Verkehrsfläche im V
 
 Die Bedeutung dieser Aufgabe spiegelt sich auch in der aktuellen Literatur wider.
 
-> Zum Beispiel: <br> 
+> Zum Beispiel: <br>
 „Staat, Gesellschaft, Wissenschaft und Wirtschaft benötigen eine leistungsfähige Raumbeobachtung, die Entscheidungsträgern und Interessierten Informationen zu demografischen, ökonomischen, sozialen sowie siedlungs- und infrastrukturellen Zuständen und Entwicklungen bereitstellt“ <cite> [(Siedentop & Kaup,2017; p. 3)](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa2-211777).</cite>

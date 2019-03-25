@@ -15,14 +15,11 @@ Daten werden insbesondere von der Europäischen Statistikbehörde ([eurostat](ht
 
 ![opendata and GIS Trend](abb_opendata_trend_de.png)
 
+
+
 <!--
 <iframe src="https:/www.learn.opengeoedu.de/pages/07.Monitoring/01.vorlesung/03.datenangebote/ opendata_trend_de.html" style="width:100%; height: 600px"></iframe>
 
 -->
 
-
-! Entdecken Sie sich auf das Thema **Offene Geodaten** unter Lehr Module:
-[Open XX](https://learn.opengeoedu.de/openx/vorlesung/opengeodata) und
-[Open Data](https://learn.opengeoedu.de/opendata/vorlesung/offene-geodaten)
-
-C:\Users\user\learn.opengeoedu.de\pages\07.Monitoring\01.vorlesung\03.datenangebote
+! Entdecken Sie sich auf das Thema **Offene Geodaten** unter Lehr Module: [Open XX](https://learn.opengeoedu.de/openx/vorlesung/opengeodata) und [Open Data](https://learn.opengeoedu.de/opendata/vorlesung/offene-geodaten)
