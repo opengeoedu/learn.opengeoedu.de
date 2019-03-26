@@ -108,7 +108,7 @@ Richards, J.A., 2013. Remote Sensing Digital Image Analysis: An Introduction 494
     - Aichi-Biodiversitätsziele: [cbd.int](https://www.cbd.int/sp/targets)
     - Nachhaltige Waldwirtschaft
       - Bundesministerium für Ernährung und Landwirtschaft: [bmel.de](https://www.bmel.de/DE/Wald-Fischerei/Forst-Holzwirtschaft/Forstwirtschaft-node.html)
-      - Umweltbundesamt:[umweltbundesamt.de](https://www.umweltbundesamt.de/daten/land-forstwirtschaft/nachhaltige-waldwirtschaft#textpart-1)
+      - Umweltbundesamt: [umweltbundesamt.de](https://www.umweltbundesamt.de/daten/land-forstwirtschaft/nachhaltige-waldwirtschaft#textpart-1)
 
 
 - Eurostat: [ec.europa.eu](https://ec.europa.eu/eurostat/de)
