@@ -5,8 +5,7 @@ taxonomy:
         - docs
 ---
 
-## Nachhaltige Stadtplanung
-### Stadtbäume und Grünflächen
+## Stadtbäume und Grünflächen
 Wie beschrieben ist die Ausbreitung der Wälder gut dokumentiert und lässt sich mit hoher räumlicher Genauigkeit ableiten. Bäume sind ein essentieller Bestandteil im globalen Maßstab des komplexen Ökosystems Wald. Aber auch auf lokaler Ebene, außerhalb von Wäldern, sind sie im urbanen Kontext von großer Bedeutung und übernehmen wichtige Funktionen. So tragen sie innerhalb von Städten (z.B. Parks, Straßenbegrünung) sowohl zur Verbesserung der Naherholung und Luftverbesserung bei und spielen durch Abkühlung eine entscheidende Rolle für das Stadtklima.
 
 ![citypark1](citypark1.jpg?resize=300)
@@ -16,7 +15,7 @@ Die positiven Eigenschaften von Stadtbäumen und Vegetation ist nur ein Aspekt. 
 Veränderungen der Landbedeckung und -nutzung sowie die stetige Bodenversiegelung sind fortwährende Themen. Diese Veränderungen treten nicht nur im ruralen Regionen auf. Die Versiegelung von Frei- und Grünflächen spielt besonders im urbanen Raum eine große Rolle.
 Daneben kann aber auch die Neuanlegung bzw. Neugestaltung von Parks und Grünflächen zur Optimierung des lokalen Stadtklimas stattfinden. Die Ursachen können gerade wenn wir von Versiegelung sprechen ganz vielfältig sein. Neben Willen und Geschick in der Planung sind der Druck einer wachsenden Bevölkerung und die lokalen marktwirtschaftlichen und sozioökonomischen Bedingungnen entscheidende Faktoren. Im Rahmen unserer praktischen Übungen zur Fernerkundung können Sie Fallbeispiele zu Stadtbäumen und Urban Green durchgehen.
 
-### Die Erfassung von Bäumen in Städten
+## Die Erfassung von Bäumen in Städten
 
 In vielen Städten und Gemeinden werden alle Bäume (im öffentlichen Raum) in einem Baumkataster registriert. Dabei werden neben der genauen Position auch unterschiedlichste Attribute erfasst wie Baumart, Höhe und Durchmesser von Stamm und Krone, oder der Gesundheitszustand.
 

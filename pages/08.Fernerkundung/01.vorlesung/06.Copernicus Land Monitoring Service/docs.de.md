@@ -9,7 +9,7 @@ taxonomy:
 ## Datenzugang Landüberwachung
 
 Der Copernicus Land Monitoring Service ist erreichbar unter https://land.copernicus.eu. Die Daten stehen nach kostenloser Registrierung (EIONET Account) zur Verfügung.
-Dort werden globale, europaweite, lokale und in-situ Daten angeboten. Vorrangig handelt es sich dabei um biophysikalische Parameter und LULC-Daten (Land Use/Land Cover, deutsch: Landnutzung/Landbedeckung). 
+Dort werden globale, europaweite, lokale und in-situ Daten angeboten. Vorrangig handelt es sich dabei um biophysikalische Parameter und LULC-Daten (Land Use/Land Cover, deutsch: Landnutzung/Landbedeckung).
 
 Die globale Komponente liefert Daten über eine breite Palette von biophysikalischen Variablen auf globaler Ebene, die den Zustand der Vegetation (leaf area index, fraction of green vegetation cover, vegetation condition index), den Energiehaushalt (Albedo, Landoberflächentemperatur, top of canopy reflectance) und den Wasserkreislauf (soil water index, water bodies) beschreiben.
 ! [Global](https://land.copernicus.eu/global/)
@@ -20,7 +20,7 @@ Die gesamteuropäische Komponente liefert hochauflösende Informationsprodukte, 
 ![HRL-forest](HRL_Forest.png)
 <br><br>
 
-Die lokale Komponente zielt darauf ab, spezifische und detailliertere Informationen bereitzustellen, welche die durch die gesamteuropäische Komponente gewonnenen Informationen ergänzen. Sie konzentriert sich auf "Hotspots", die für spezifische Umweltprobleme anfällig sind, und liefert detaillierte Informationen über die Landbedeckung und Landnutzung in den wichtigsten europäischen Städten. Dieser sogenannte [Urban Atlas](https://land.copernicus.eu/local/urban-atlas)
+Die lokale Komponente zielt darauf ab, spezifische und detailliertere Informationen bereitzustellen, welche die durch die gesamteuropäische Komponente gewonnenen Informationen ergänzen. Sie konzentriert sich auf "Hotspots", die für spezifische Umweltprobleme anfällig sind, und liefert detaillierte Informationen über die Landbedeckung und Landnutzung in den wichtigsten europäischen Städten. Dieser sogenannte [Urban Atlas](https://land.copernicus.eu/local/urban-atlas) ähnelt der CLC-Karte ist jedoch räumlich viel höher aufgelöst. Allerdings besitzt er mit 27 Klassen (2012) weniger als CLC.
 Neben einer Aktualisierung des Urban Atlas wird sich die nächste lokale Komponente mit der Biodiversität in Hotspot-Gebieten rund um Flüsse (Ufergebiete) befassen.
 ! [Lokal](https://land.copernicus.eu/local)
 
