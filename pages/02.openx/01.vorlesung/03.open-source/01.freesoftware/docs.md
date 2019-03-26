@@ -14,5 +14,4 @@ Der FOSSGIS e.V., ein eingetragener und gemeinnütziger Verein, hat diese Liste 
 
 ! Weiterführende Informationen unter:
 ! * [Open Source Initiative (OSI)](https://opensource.org/)
-! * [FOSSGIS e.V.](https://www.fossgis.de/)
-! * [~~freegis by FOSSGIS e.V.~~](https://www.freegis.org)   Es gibt eine [Archivierte Ansicht](https://web.archive.org/web/20180506202014/http://freegis.org/) der Seite.
+! * [FOSSGIS e.V.](www.fossgis.de/)

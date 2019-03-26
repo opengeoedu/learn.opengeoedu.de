@@ -2,7 +2,6 @@
 title: Literatur
 taxonomy:
     category:
-        - filecontent
+        - docs
 filename: open_data_quellen.html
 ---
-
