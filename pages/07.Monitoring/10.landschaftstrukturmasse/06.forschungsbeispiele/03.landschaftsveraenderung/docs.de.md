@@ -14,7 +14,7 @@ Das Thema dieses Beispiels zielt auf die Veränderung der Landschaft hinsichtlic
 
 Um dies realisieren zu können wurden aktuelle ALKIS-Daten verwendet, sowie Messtischblätter und Meilenblätter. Diese wurden eingescannt, georeferenziert und editiert. 
 
-![Landschaftsveränderungen](Landschveraenderungen.JPG?lightbox=800&resize=300&classes=caption "Abb. 16: Digitalisierung der Altkarten (Quelle: WALZ 2013)")
+![Landschaftsveränderungen](Landschveraenderungen.JPG?lightbox=800&classes=caption "Abb. 16: Digitalisierung der Altkarten (Quelle: WALZ 2013)")
 
 Durch den Einsatz von Landschaftsstrukturmaßen, wie den Vergleich von Flächenformen und Flächengrößen, war es möglich Aussagen über die frühere Nutzung und deren Entwicklung zu treffen, wodurch auch wirtschaftliche Veränderungen aufgezeigt werden konnten. Der Vergleich der vier Gebiete hat auch Informationen bezüglich des Einflusses der Landschaft auf die Wirtschaft gegeben. 
 
