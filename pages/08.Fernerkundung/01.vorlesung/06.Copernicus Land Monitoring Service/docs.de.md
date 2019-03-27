@@ -20,7 +20,7 @@ Die gesamteuropäische Komponente liefert hochauflösende Informationsprodukte, 
 ![HRL-forest](HRL_Forest.png)
 <br><br>
 
-Die lokale Komponente zielt darauf ab, spezifische und detailliertere Informationen bereitzustellen, welche die durch die gesamteuropäische Komponente gewonnenen Informationen ergänzen. Sie konzentriert sich auf "Hotspots", die für spezifische Umweltprobleme anfällig sind, und liefert detaillierte Informationen über die Landbedeckung und Landnutzung in den wichtigsten europäischen Städten. Dieser sogenannte [Urban Atlas](https://land.copernicus.eu/local/urban-atlas) ähnelt der CLC-Karte ist jedoch räumlich viel höher aufgelöst. Allerdings besitzt er mit 27 Klassen (2012) weniger als CLC.
+Die lokale Komponente zielt darauf ab, spezifische und detailliertere Informationen bereitzustellen, welche die durch die gesamteuropäische Komponente gewonnenen Informationen ergänzen. Sie konzentriert sich auf "Hotspots", die für spezifische Umweltprobleme anfällig sind, und liefert detaillierte Informationen über die Landbedeckung und Landnutzung in den wichtigsten europäischen Städten. Dieser sogenannte [Urban Atlas](https://land.copernicus.eu/local/urban-atlas) ähnelt der CLC-Karte ist jedoch räumlich viel höher aufgelöst. Allerdings besitzt er mit 27 Klassen (2012) weniger als der CLC-Datensatz.
 Neben einer Aktualisierung des Urban Atlas wird sich die nächste lokale Komponente mit der Biodiversität in Hotspot-Gebieten rund um Flüsse (Ufergebiete) befassen.
 ! [Lokal](https://land.copernicus.eu/local)
 
