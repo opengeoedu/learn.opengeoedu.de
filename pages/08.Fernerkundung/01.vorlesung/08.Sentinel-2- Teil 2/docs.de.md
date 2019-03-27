@@ -9,7 +9,7 @@ taxonomy:
 
 Der direkte Vergleich von Sentinel-2 und einem sehr hochaufgelösten Luftbild verdeutlicht sehr anschaulich die Unterschiede in der Erkennbarkeit von Objekten:
 <br><br>
-<style>iframe{max-width: 800px; width: 100%; height: 900px; max-height;900px}</style>
+<style>iframe{max-width: 800px; width: 100%; height: 900px; max-height:900px}</style>
 <iframe iframe id="239827" src="https://h5p.org/h5p/embed/239827" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <br><br>
 
@@ -23,7 +23,7 @@ Die spektrale Auflösung bzw. die einzelnen Kanäle son Sentinel-2 sind in folge
 ![KanäleS2LS7LS8](BANDS_S2_LS8_LS7.png?classes=caption "Die spektralen Kanäle von Sentinel-2 im Vergleich zu Landsat 8 (OLI und TRS) und Landsat 7 ETM+. Quelle: NASA")
 <br><br>
 
-Die Sentinel-2 Bänder werden in folgender Abbildung näher beleuchtet (Reflektanzkurven aus Kokaly et al. 2017):
+Die Sentinel-2 Bänder werden in folgender Abbildung näher beleuchtet (Reflektanzkurven aus Kokaly et al. 2017). Klicken sie auf die blau-hinterlegten weißen Kreuze:
 <br><br>
 <iframe iframe id="238969" src="https://h5p.org/h5p/embed/238969" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <br><br>
