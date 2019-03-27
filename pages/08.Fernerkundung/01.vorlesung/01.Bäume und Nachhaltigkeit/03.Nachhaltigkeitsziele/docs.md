@@ -25,4 +25,4 @@ Im Rahmen unseres Projekts OpenGeoEdu werden auch verschiedene Aspekte der UN-Na
 - Ein weiteres wichtiges Ziel ist SDG 15 ("Leben an an Land") und beinhaltet unter anderem den Indikator 15.1.1, die Waldfläche, angegeben als Anteil an der gesamten Landesfläche.
 - Ein anderer Aspekt, der in unseren Lerneinheiten behandelt wird, ist die Ansprache von urbanem Grün und Stadtbäumen unter Verwendung freier Geo- und Fernerkundungsdaten. Auch SDG 11 ("Nachhaltige Städte und Gemeinden") zielt auf die nachhaltige Stadtentwicklung . Dabei stellt der allgemeine Zugang zu öffentlichen Plätzen und Grünflächen ein wichtiges Unterziel dar.
 
-Im Kursteil _GIS_ können Sie zudem ein eigenes Thema zu den SDGs bearbeiten.
+Im Kursteil [_GIS_](https://learn.opengeoedu.de/gis) können Sie zudem ein eigenes Thema zu den SDGs bearbeiten.
