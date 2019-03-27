@@ -16,6 +16,6 @@ Jedoch hat im Bereich des Tourismus die Attraktivität einer Landschaft einen ho
 
 Auch in diesem Fall ist es möglich, wie in Abb. 17 gezeigt, unterschiedliche Zeiten miteinander zu vergleichen. 
 
-![Erholungsgrad](erholungsgrad.JPG?lightbox=800&resize=300&classes=caption "Abb. 17: Vergleich Erholungswert 1940/1995 Sächsische Schweiz (Quelle: WALZ 2013)")
+![Erholungsgrad](erholungsgrad.JPG?lightbox=800&classes=caption "Abb. 17: Vergleich Erholungswert 1940/1995 Sächsische Schweiz (Quelle: WALZ 2013)")
 
 Dieses Beispiel eines Teils der Sächsischen Schweiz belegt, dass durchaus große Erholungsflächen hinzugekommen sind, jedoch trotzdem der Abbau von Erholungsflächen immer noch größer ist. Was nicht zuletzt auf größere Siedlungsflächen und Landwirtschaftsflächen zurückzuführen ist.

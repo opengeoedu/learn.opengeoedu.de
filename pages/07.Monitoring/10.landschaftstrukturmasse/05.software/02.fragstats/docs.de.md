@@ -19,7 +19,7 @@ Die Analysen teilen sich hier in drei Bereiche auf:
 •	Class metrics
 •	Landscape metrics
  
- ![FRAGSTATS](Fargstats.JPG?lightbox=800&resize=300&classes=caption "Abb. 13: FRAGSTATS")
+ ![FRAGSTATS](Fargstats.JPG?lightbox=800&classes=caption "Abb. 13: FRAGSTATS")
  
  Fragstats bietet also sehr viele Möglichkeiten in der Berechnung von Landschaftsstrukturmaßen und ist insbesondere bei Rasterdaten zu empfehlen. 
  
