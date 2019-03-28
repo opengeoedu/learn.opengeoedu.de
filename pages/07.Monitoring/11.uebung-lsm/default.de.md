@@ -17,4 +17,4 @@ Außerdem wird ein Datensatz für eine eigenständige Landschaftsanalyse bereitg
 
 Im Ergebnis jedes Beispiels entstehen thematische Auswertungen in Form von Karten, Diagrammen, Bewertungen, die in einem nach Regeln der Wissenschaft verfassten schriftlichen Beleg zusammengestellt werden.
 
-[center]<a href="Platzhalter" markdown="1" target="_blank">![](/images/exercise.png?resize=200)Hier geht es weiter zu den Übungen (ILIAS)</a>[/center]
+[center]<a href="https://ilias.opengeoedu.de/ilias/goto_opengeoedu_crs_454.html" markdown="1" target="_blank">![](/images/exercise.png?resize=200)Hier geht es weiter zu den Übungen (ILIAS)</a>[/center]
