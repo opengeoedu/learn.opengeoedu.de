@@ -1,8 +1,8 @@
 ---
 title: 'Übungen - Landschaftsstrukturmaße'
-twitterenable: true
-twittercardoptions: summary
-facebookenable: true
+taxonomy:
+    category:
+        - docs
 ---
 
 In den Übungen erlernen Sie den Einstieg in das Arbeiten mit Landschaftsstrukturmaßen und erlangen Fertigkeiten in ausgewählten Verarbeitungsschritten und Analysemethoden. Die Übungen umfassen folgende Thematiken:
