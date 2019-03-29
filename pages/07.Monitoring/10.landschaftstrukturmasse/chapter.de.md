@@ -1,6 +1,6 @@
 ---
 title: Landschaftstrukturmasse
-media_order: PKM_Modell2.jpg
+media_order: 'PKM_Modell2.jpg,Forman_PKM-Modell.png'
 taxonomy:
     category:
         - docs
@@ -12,5 +12,4 @@ facebookenable: true
 
 # Landschaftsstrukturmaße
 
-
-![](PKM_Modell2.jpg)
+![Forman_PKM](Forman_PKM-Modell.png?lightbox=800&resize=600&classes=caption "Patch-Korridor-Matrix-Modell (Quelle: FORMAN 1995)")
