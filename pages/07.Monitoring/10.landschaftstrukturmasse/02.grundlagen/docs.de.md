@@ -1,9 +1,8 @@
 ---
 title: Grundlagen
-media_order: kulturlandschaft_12.jpg
-twitterenable: true
-twittercardoptions: summary
-facebookenable: true
+taxonomy:
+    category:
+        - docs
 ---
 
 Landschaftsstrukturmaße eignen sich zur Charakterisierung einer Landschaft durch geometrische und räumliche Eigenschaften. Diese wird durch die Quantifizierung von räumlichen Mustern einer Landschaft mittels mathematischer Formeln hergeleitet. (WALZ 2004)
