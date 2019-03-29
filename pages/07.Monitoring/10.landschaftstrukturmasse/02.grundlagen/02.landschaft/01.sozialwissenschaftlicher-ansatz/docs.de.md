@@ -14,4 +14,4 @@ facebookenable: true
 Der Mensch nimmt damit eine zentrale Rolle ein. Das bedeutet aber auch, dass Landschaft somit individuell von jedem Menschen anders wahrgenommen wird. Was genau Landschaft ist, dazu hat wohl jeder Mensch ein anderes „Bild“ im Kopf .
 
 
-
+![Landschaftsstrukturmaße](Panorama.png?lightbox=800&classes=caption "Panorama by Bernd Zeller")
