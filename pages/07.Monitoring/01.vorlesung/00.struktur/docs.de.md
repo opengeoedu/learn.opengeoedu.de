@@ -1,33 +1,43 @@
 ---
-title: 'Lernziele und Struktur der Lerneinheit'
+title: 'Lernziele und Struktur'
 taxonomy:
     category:
       - docs
 ---
-## Autor der Lerneinheit
+## Autoren der Lerneinheit
 <div class="row align-items-center">
-    <div class="col-sm-3 image-fluid" markdown="1">![](/images/staff/g.meinel_ioer.png?lightbox=800&resize=300)</div>
+    <div class="col-sm-3" markdown="1">![](g.meinel_ioer.png?lightbox=800&resize=300)</div>
     <div class="col-sm-9">
-        <p markdown="1"> **Dr.-Ing. Gotthard Meinels** Forschungsgebiet ist die Geoinformatik einschließlich fernerkundlicher
-            Bildverarbeitungsmethoden. Seit 2009 leitet er den Forschungsbereich Monitoring der Siedlungs- und
-            Freiraumentwicklung am Leibniz-Institut für ökologische Raumentwicklung. Seine Forschungsschwerpunkte
-            umfassen automatisierte Erhebungsmethoden, Analyse- und Visualisierungstechnologien für das Monitoring von
-            Flächennutzungsentwicklungen. <br /> Weitere Informationen finden Sie auf
-            [www.ioer.de](https://www.ioer.de/ioer-im-ueberblick/beschaeftigte/meinel/) </p>
-
+        <p> **[Dr. Gotthard Meinel](https://www.ioer.de/ioer-im-ueberblick/beschaeftigte/meinel/)** leitet den Forschungsbereich [Monitoring der Siedlungs- und Freiraumentwicklung](https://www.ioer.de/forschung/monitoring-der-siedlungs-und-freiraumentwicklung/) im [Leibniz-Institut für ökologische Raumentwicklung](https://www.ioer.de/home/). Seine Forschungsschwerpunkte sind automatisierte Datenerhebungsmethoden, Analyse- und Visualisierungstechnologien des Monitorings von Flächennutzungsentwicklungen. Er leitet das Dresdner OpenGeoEdu-Team für den Konzeption und Entwicklungen und Bereitstellung von Lehrinhalten zum Flächenmonitoring sowie die Begleitung von Forschungsaktivitäten. </p>
     </div>
 </div>
 
+
+<div class="row align-items-center">
+  <div class="col-sm-3" markdown="1">![](h.herold_ioer.png?lightbox=800&resize=300) </div>
+  <div class="col-sm-9">
+    <p>**[Dr. Hendrik Herold](https://www.ioer.de/ioer-im-ueberblick/beschaeftigte/herold/)** ist wissenschaftlicher  Mitarbeiter [Monitoring der Siedlungs- und Freiraumentwicklung](https://www.ioer.de/forschung/monitoring-der-siedlungs-und-freiraumentwicklung/) im [Leibniz-Institut für ökologische Raumentwicklung](https://www.ioer.de/home/). Seine Forschungsschwerpunkte sind die Geoinformatik, Bildanalyse, Fernerkundung und das Flächennutzungsmonitoring. Er unterstützt  die Konzeption, Koordination, und Kommunikation des Projekts OpenGeoEdu  sowie das Tutoring im  Lehrmodul Flächenmonitoring. </p>
+  </div>
+</div>
+
+<div class="row align-items-center">
+  <div class="col-sm-3" markdown="1">![](s.sikder_ioer.png?lightbox=800&resize=300) </div>
+  <div class="col-sm-9">
+    <p>**[Dr. Sujit Sikder](https://www.ioer.de/ioer-im-ueberblick/beschaeftigte/sikder/)** ist wissenschaftlicher Mitarbeiter für das Projekt OpenGeoEdu im Forschungsbereich  [Monitoring der Siedlungs- und Freiraumentwicklung](https://www.ioer.de/forschung/monitoring-der-siedlungs-und-freiraumentwicklung/) im [Leibniz-Institut für ökologische Raumentwicklung](https://www.ioer.de/home/). Seine Forschungsinteressen sind Raumanalyse, Geocomputation, multi-kriterielle Analysen und Offene Daten des fachlichen Spektrums der New Urban Science. In dem Projekt OpenGeoEdu beschäftigte er sich mit der Konzeption, Aufbereitung,  Umsetzung, Tutoring im  Lehrmodul Flächenmonitoring und der Durchführung von Forschungsaktivitäten.  </p>
+  </div>
+</div>
+
+
 ## Lernziele
 
-!!!! Die Vorlesung vermittelt die aktuelle wissenschaftliche Diskussion und Praxis zum Thema Flächenmonitoring in Deutschland. Damit sollten Sie für die Aufgaben und Übungseinheiten zur Schaffung von Daten- und Analysegrundlagen für eine nachhaltige Stadt- und Raumentwicklung vorbereitet sein.
+Die Vorlesung vermittelt die wissenschaftliche Hintergründe des Themas Flächenmonitoring.  Damit sollen Sie für die Übungseinheiten der Schaffung von Daten- und Analysegrundlagen für eine nachhaltige Stadt- und Raumentwicklung vorbereitet werden.
 
-### Struktur der Vorlesung
+## Struktur der Vorlesung
 
 Die Vorlesung besteht aus 7 Kapiteln. Innerhalb der Vorlesungsinhalte finden Sie folgende Elemente:
 
-! Links und Verweise auf Literatur oder Webseiten
+! Links und Verweise
 
 !! Gedankenanstöße
 
-!!!! Fragen zum Selbsttest zu Beginn jedes Kapitels
+!!!! Fragen zum Selbstrecherche

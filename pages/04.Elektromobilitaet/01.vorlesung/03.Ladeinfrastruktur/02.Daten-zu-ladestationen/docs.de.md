@@ -9,7 +9,7 @@ Im [BDEW-Ladesäulenregister](https://ladesaeulenregister.de/) sind im Juli 2018
 
 LEMnet Europe e. V. betreibt seit 2013 eine umfangreiche und qualitativ hochwertige Datenbank von Stromtankstellen für Elektrofahrzeuge (http://www.lemnet.org/de). LEMnet eignet sich zur Suche nach der passenden Ladeinfrastruktur. Im Bild ist die Situation in Mecklenburg-Vorpommern und angrenzenden Regionen dargestellt.
 
-![Ladestationen in Mecklenburg-Vorpommern](ladestationen-mv.png?classes=caption "Ladestationen in Mecklenburg-Vorpommern und angrenzenden Regionen ([Quelle: https://lemnet.org/de/map/](https://lemnet.org/de/map/))")
+[![Ladestationen in Mecklenburg-Vorpommern](ladestationen-mv.png?classes=caption "Ladestationen in Mecklenburg-Vorpommern und angrenzenden Regionen (Quelle: lemnet.org)")](https://lemnet.org/de/map/)
 
 Aber auch in OpenStreetMap sind Ladestationen zu finden, in OpenChargeMap sogar noch etwas mehr. In der Übung zur nationalen Situation der Ladeinfrastruktur finden Sie eine umfangreichere Übersicht zu Anbietern von Webkarten und Daten zu Ladestationen.
 

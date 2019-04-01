@@ -5,7 +5,6 @@ taxonomy:
     category:
         - docs
 ---
-
 * Bachmann, G. (2005): [Das << Ziel-30-ha>> in der Nachhaltigkeitstrategie Deutschlands: Ein Schritt zur Mordernen Urbanitat.](https://www.tandfonline.com/doi/pdf/10.1080/02513625.2005.10556914?needAccess=true) In: disP – The Planning Review 41, 106-110.
 * Bakillah, M., Liang, S., Mobasheri, A., Arsanjani, J. J. & Zipf, A. (2014): [Fine-resolution Population Mapping Using OpenStreetMap Points-of-interest.](https://www.tandfonline.com/doi/abs/10.1080/13658816.2014.909045?src=recsys&journalCode=tgis20) International Journal of Geographical Information Science 28 (9), S 1940-1963.
 * Behnisch, M., (2013): [Using Quadtree Representations in Building Stock Visualization and Analysis.](https://www2.ioer.de/recherche/pdf/2013_behnisch_erdkunde.pdf) In: Erdkunde 67(2), S.151-166.
@@ -15,10 +14,14 @@ taxonomy:
 * Dorn, H., Törnros, T. & Zipf, A. (2015): [Quality Evaluation of VGI Using Authoritative Data — A Comparison with Land Use Data in Southern Germany.](http://www.mdpi.com/2220-9964/4/3/1657/htm) ISPRS International Journal of Geo-Information 4(3), 1657-1671.
 * Fina, S., Gerten, C., Gehrig-Fitting, K. & Rönsch, J. (2018): [Was Leistet Geomonitoring für die Stadtforschung? Das Monitoring StadtRegionen und das Kommunalpanel als Aktuelle Anwendungsbeispiele.](https://www.ils-forschung.de/files_publikationen/pdfs/180622_TREND_EXTRA_online.pdf) Trend-extra, ILS, Dortmund.
 * Hartmann, A., Meinel, G., Hecht, R., Behnisch, M. (2016): [A Workflow for Automatic Quantification of Structure and Dynamic of the German Building Stock Using Official Spatial Data](http://www.mdpi.com/2220-9964/5/8/142), In: ISPRS International Journal of Geo-Information 5(8), S. 30.
+* Hecht, R., Herold, H., Behnisch, M., Jehling, M. (2018): [Mapping Long-Term Dynamics of Population and
+Dwellings Based on a Multi-Temporal Analysis of
+Urban Morphologies](https://www.mdpi.com/2220-9964/8/1/2), In: ISPRS International Journal of Geo-Information 8(1), S. 21.
 * Hecht, R., Meinel, G., Buchroithner, M. (2015): [Automatic Identification of Building Types Based on Topographic Databases – A Comparison of Different Data Sources.](https://www.tandfonline.com/doi/full/10.1080/23729333.2015.1055644) In: International Journal of Cartography, 18-31.
 * Iwanow, I., & Gutting, R. (2017): [Kleinräumige Wohnbauflächenprognosen – Ein Quantitativ Orientiertes Instrument zur Reduktion der Flächenneuinanspruchnahme für Wohnzwecke](https://www.tandfonline.com/doi/full/10.1080/02513625.2017.1414496"). In: disP – The Planning Review 53, 71-89-31.
 * Langford, M., (2013): [An Evaluation of Small Area Population Estimation Techniques Using Open Access Ancillary Data.](https://onlinelibrary.wiley.com/doi/abs/10.1111/gean.12012) Geographical Analysis 45(3), S 324-344.
 * Lantseva, A. A. & Ivanov, S. V. (2016): [Modeling Transport Accessibility with Open Data: Case Study of St. Petersburg.](https://www.sciencedirect.com/science/article/pii/S1877050916326916) Procedia Computer Science 101, 197-206.
+* Ilieva, R. T., and McPhearson, T. (2018). [Social-media data for urban sustainability](https://www.nature.com/articles/s41893-018-0153-6). Nature Sustainability, 10, 553.
 * Meinel, G. et al. (Hrsg): [Flächennutzungsmonitoring IX: Nachhaltigkeit der Siedlungs- und Verkehrsentwicklung?](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa2-172489)  Berlin : Rhombos-Verlag, 2017, S. 326 (IÖR-Schriften; 73).
 * Meinel, G. et al., (2016): [Studie zur Implementierung einer Innenentwicklungspotenzial - Flächenerhebung in die Amtliche Statistik.](http://www.bbsr.bund.de/BBSR/DE/Veroeffentlichungen/BBSROnline/2016/bbsr-online-02-2016-dl.pdf?__blob=publicationFile&v=2) Bonn: BBRS, S. 14.
 * Richter, B., Grunewald, K., Meinel, G., (2016): [Analyse von Wegedistanzen in Städten zur Verifizierung des Ökosystemleistungsindikators „Erreichbarkeit Städtischer Grünflächen](http://gispoint.de/fileadmin/user_upload/paper_gis_open/AGIT_2016/537622063.pdf). In: AGIT - Journal für Angewandte Geoinformatik 2, S.472-781.
@@ -55,3 +58,5 @@ taxonomy:
 * [Urban Data Platform](http://urban.jrc.ec.europa.eu)
 
 * [Zensus2011 Atlas – Deutschland](https://atlas.zensus2011.de/)
+
+* [Atlas of Urban Expansion - Global](http://www.atlasofurbanexpansion.org/data)

@@ -83,4 +83,4 @@ Die Herausforderungen sind: Regionale Unterschiede, Modellierungsunterschiede, M
 
 <br/>
 
-!!! **Weitere Analysebeispiele von Flächenmonitoring-Ergebnissen finden Sie auf:**  http://www.ioer-monitor.de/ergebnisse
+! **Weitere Analysebeispiele von Flächenmonitoring-Ergebnissen finden Sie auf:**  http://www.ioer-monitor.de/ergebnisse

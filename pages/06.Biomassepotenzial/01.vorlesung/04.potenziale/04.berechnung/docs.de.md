@@ -21,4 +21,4 @@ Eine gute Möglichkeit die Berechnungsschritte transparent und nachvollziehbar d
 
 ![](Skript_DBFZ_Organigramm.png?lightbox=800&resize=,500&classes=caption "Flowchart zur Berechnung von Potenzialen, eigene Darstellung")
 
-In den <a href="https://www.dbfz.de/index.php?id=989&L=0" target="_blank">Biomasse-Datenblättern</a> auf der DBFZ-Webseite sind ähnliche Organigramme zur Berechnung des theoretischen Biomassepotenzials enthalten.
+Unter "Flowcharts" finden Sie die Flowcharts für die in der [DBFZ Ressourcendatenbank](http://webapp.dbfz.de/resources) verfügbaren Biomassen. 
