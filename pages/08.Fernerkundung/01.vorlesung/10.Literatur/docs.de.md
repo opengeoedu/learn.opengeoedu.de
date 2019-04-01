@@ -4,6 +4,7 @@ taxonomy:
     category:
         - docs
 ---
+#### Referenzen
 
 Aberle, H., 2017. Hyperspectral Remote Sensing and Field Measurements for Forest Characteristics - A Case Study in the Hainich National Park, Central Germany. Georg-August-Universität Göttingen. http://hdl.handle.net/11858/00-1735-0000-0023-3DD5-8
 
@@ -60,7 +61,7 @@ Thomas, V., 2012. Hyperspectral remote sensing for forest management, in: Thenka
 Tietz, R., 2018. Zugang zu Grünflächen in Großstädten – Eignung von OSM-Daten dargestellt an den Beispielen Dresden und Karlsruhe. AGIT ‒ Journal für Angewandte Geoinformatik 4, 338–347. https://doi.org/10.14627/537647043
 <br><br>
 
-*Weiterführende Literatur:*
+#### Weiterführende Literatur
 
 Albertz, J., 2009. Einführung in die Fernerkundung. Grundlagen der Interpretation von Luft- und Satellitenbildern, 4th ed. Wissenschaftliche Buchgesellschaft.
 
@@ -71,32 +72,60 @@ Lillesand, T.M., Kiefer, R.W., Chipman, J.W., 2008. Remote sensing and image int
 Richards, J.A., 2013. Remote Sensing Digital Image Analysis: An Introduction 494.
 <br><br>
 
-*Linksammlung:*
+#### Linksammlung
 
--	OpenGeoEdu:  www.opengeoedu.de
+-	Bundesamt für Kartographie und Geodäsie (BKG)
+  - BKG-Homepage: [bkg.bund.de](https://www.bkg.bund.de)
+  - BKG Open Data: [geodatenzentrum.de](http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=deu&gdz_akt_zeile=5&gdz_anz_zeile=1&gdz_unt_zeile=0&gdz_user_id=0)
 
--	Copernicus:  http://www.d-copernicus.de
 
--	Sentinel-2:
-    -   CODE-DE  https://code-de.org
-    -	Copernicus Open Access Hub (Sci-Hub):  https://scihub.copernicus.eu
+-	Copernicus
+  - EU-Seite: [copernicus.eu](https://www.copernicus.eu/de)
+  - Deutsche Seite: [d-copernicus.de](http://www.d-copernicus.de)
+  - Landüberwachungsdienst: [land.copernicus.eu](https://land.copernicus.eu/)
 
--	Sentinel Hub:
-    -	Sentinel 2 EO products (Bsp. Farbkompositen, Vegetationsindizes): https://www.sentinel-hub.com/develop/documentation/eo_products/Sentinel2EOproducts
-    -	Playground:  https://apps.sentinel-hub.com/sentinel-playground/
-    -	EO Browser:  https://apps.sentinel-hub.com/eo-browser/
 
--	USGS Sentinel2Look:  https://landsatlook.usgs.gov/sentinel2/viewer.html
+-	Sentinel-2-Zugang
+    - CODE-DE: [code-de.org](https://code-de.org)
+    -	Copernicus Open Access Hub:  [scihub.copernicus.eu](https://scihub.copernicus.eu)
 
--   USGS Earth Explorer: https://earthexplorer.usgs.gov/
 
--	Index DataBase:  https://www.indexdatabase.de/
+-	Sentinel-Hub
+    -	Sentinel 2 EO products (Bsp. Farbkompositen, Vegetationsindizes): [sentinel-hub.com](https://www.sentinel-hub.com/develop/documentation/eo_products/Sentinel2EOproducts)
+    -	Sentinel-Playground:  [sentinel-hub.com/sentinel-playground](https://apps.sentinel-hub.com/sentinel-playground/)
+    -	EO Browser:  [sentinel-hub.com/eo-browser](https://apps.sentinel-hub.com/eo-browser/)
 
--	QGIS:  https://www.qgis.org/de/site/
 
--	SNAP:  http://step.esa.int/main/download/
+- Nachhaltigkeit
+    - UN SDGs: [sustainabledevelopment.un.org](https://sustainabledevelopment.un.org/)
+    - UN SDGs: [un.org](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
+    - UN SDGs: [unstats.un.org](https://unstats.un.org/wiki/display/SDGeHandbook/Home)
+    - 17 Ziele: [17ziele.de](https://17ziele.de/)
+    - Die Glorreichen 17 der Bundesregierung: [dieglorreichen17.de](https://www.dieglorreichen17.de/index.html)
+    - 2030Watch: [2030-watch.de](https://www.2030-watch.de/)
+    - SDG4Education: [sdg4education2030.org](https://www.sdg4education2030.org/)
+    - ESA & CEOS Earth Observation Handbook Special Edition 2018: [eohandbook.com](http://eohandbook.com/sdg/index.html)
+    - Aichi-Biodiversitätsziele: [cbd.int](https://www.cbd.int/sp/targets)
+    - Nachhaltige Waldwirtschaft
+      - Bundesministerium für Ernährung und Landwirtschaft: [bmel.de](https://www.bmel.de/DE/Wald-Fischerei/Forst-Holzwirtschaft/Forstwirtschaft-node.html)
+      - Umweltbundesamt: [umweltbundesamt.de](https://www.umweltbundesamt.de/daten/land-forstwirtschaft/nachhaltige-waldwirtschaft#textpart-1)
 
--	OpenStreetMap: www.openstreetmap.org
+
+- Eurostat: [ec.europa.eu](https://ec.europa.eu/eurostat/de)
+
+-	USGS Sentinel2Look:  [landsatlook.usgs.gov](https://landsatlook.usgs.gov/sentinel2/viewer.html)
+
+- USGS Earth Explorer: [earthexplorer.usgs.gov](https://earthexplorer.usgs.gov/)
+
+-	Index DataBase: [indexdatabase.de](https://www.indexdatabase.de/)
+
+-	QGIS:  [qgis.org](https://www.qgis.org/de/site/)
+
+-	SNAP:  [step.esa.int](http://step.esa.int/main/download/)
+
+-	OpenStreetMap: [openstreetmap.org](https://www.openstreetmap.org)
+
+
 
 
 ![sitzen Laptop](sitzen_laptop250.jpg)

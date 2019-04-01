@@ -11,5 +11,5 @@ facebookenable: true
 
 Die Strukturen einer Landschaft können unterschiedlichste Ursachen haben. WALZ, 2018 unterscheidet hier zwischen vier Hauptfaktoren: 
 
-![Diagramm_Ursachen_Landmuster](Diagramm_Ursachen_Landmuster.jpg?lightbox=800&resize=300&classes=caption "Abb. 4: Ursachen und Faktoren von Landschaftsmustern (Quelle: vgl. WALZ 2018)")
+![Diagramm_Ursachen_Landmuster](Diagramm_Ursachen_Landmuster.jpg?lightbox=800&classes=caption "Abb. 4: Ursachen und Faktoren von Landschaftsmustern (Quelle: vgl. WALZ 2018)")
 

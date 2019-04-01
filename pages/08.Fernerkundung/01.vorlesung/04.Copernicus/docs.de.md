@@ -22,7 +22,7 @@ Das Programm besteht aus den folgenden sechs Kerndiensten:
 
 In dieser Lerneinheit soll der Fokus auf dem Landmonitoring liegen.
 
-![CopernicusDienste](Copernicus_Dienste_1_1000.png?classes=caption "Die sechs Copernicus Dienste. (c) DLR")
+![CopernicusDienste](Copernicus_Dienste_1_1000.png?classes=caption "Die sechs Copernicus Dienste. &copy; DLR")
 
 ! Infos über die Copernicus-Kerndienste finden Sie hier: https://www.d-copernicus.de/daten/daten-eu-kerndienste/  
 <br><br>

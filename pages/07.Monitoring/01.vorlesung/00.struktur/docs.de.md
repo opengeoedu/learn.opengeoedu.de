@@ -15,6 +15,7 @@ taxonomy:
 <div class="row align-items-center">
   <div class="col-sm-3" markdown="1">![](h.herold_ioer.png?lightbox=800&resize=300) </div>
   <div class="col-sm-9">
+
     <p>**Dr. Hendrik Herold** ist wissenschaftlicher  Mitarbeiter Monitoring der Siedlungs- und Freiraumentwicklung im Leibniz-Institut für ökologische Raumentwicklung. Seine Forschungsschwerpunkte sind die Geoinformatik, Bildanalyse, Fernerkundung und das Flächennutzungsmonitoring. Er unterstützt  die Konzeption, Koordination, und Kommunikation des Projekts OpenGeoEdu  sowie das Tutoring im  Lehrmodul Flächenmonitoring. </p>
   </div>
 </div>
