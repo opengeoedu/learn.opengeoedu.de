@@ -18,14 +18,14 @@ facebookenable: true
 <div class="row align-items-center">
   <div class="col-sm-3" markdown="1">![](Jasmin_Kalcher_bild2.jpg?lightbox=800&resize=300) </div>
   <div class="col-sm-9">
-    <p>Jasmin Kalcher ist seit 2017 Wissenschaftlerin am DBFZ. Nach dem Studium Nachwachsende Rohstoffe an der TU München arbeitete sie als wissenschaftliche Mitarbeiterin an der Universität für Bodenkultur in Wien in einem EU-Projekt an der Ermittlung von Altholzpotenzialen. Am DBFZ beschäftigt sie sich im Schwerpunkt mit der Ermittlung von Biomassepotenzialen auf nationaler und internationaler Ebene. Ihr Fokus liegt hierbei auf der GIS-basierten Analyse der räumlichen Verteilung biogener Ressourcen.</p>
+    <p>Jasmin Kalcher ist seit 2017 Wissenschaftlerin am DBFZ. Nach dem Studium "Nachwachsende Rohstoffe" an der TU München arbeitete sie als wissenschaftliche Mitarbeiterin an der Universität für Bodenkultur in Wien in einem EU-Projekt an der Ermittlung von Altholzpotenzialen. Am DBFZ beschäftigt sie sich im Schwerpunkt mit der Ermittlung von Biomassepotenzialen auf nationaler und internationaler Ebene. Ihr Fokus liegt hierbei auf der GIS-basierten Analyse der räumlichen Verteilung biogener Ressourcen.</p>
   </div>
 </div>
 
 <div class="row align-items-center">
   <div class="col-sm-3" markdown="1">![](Alexandra_Pfeiffer_bild.jpg?lightbox=800&resize=300)</div>
   <div class="col-sm-9">
-    <p>Alexandra Pfeiffer ist seit 2018 Wissenschaftlerin am DBFZ. Nach dem Master in Industrial Enterprise Management an der Aston University, England, arbeitete sie dort als Wissenschaftlerin im Fachbereich Engineering Systems & Management mit Schwerpunkt Supply Chain Management. Am DBFZ beschäftigt sie sich mit der Ermittlung von Biomassepotenzialen und betreut nationale und internationale Projekte.</p>
+    <p>Alexandra Pfeiffer ist seit 2018 Wissenschaftlerin am DBFZ. Nach dem Master in "Industrial Enterprise Management" an der Aston University, England, arbeitete sie dort als Wissenschaftlerin im Fachbereich Engineering Systems & Management mit Schwerpunkt Supply Chain Management. Am DBFZ beschäftigt sie sich mit der Ermittlung von Biomassepotenzialen und betreut nationale und internationale Projekte.</p>
   </div>
 </div>
 
@@ -47,10 +47,4 @@ Nach Abschluss der Bearbeitung dieses Vorlesungsskripts im Selbststudium werden 
 
 ### Struktur der Vorlesung
 
-Die Vorlesung besteht aus 5 Kapiteln inklusive Beispielen die Ihnen die oben genannten Lernziele vermitteln. Wörter in *kursiv* sind im Glossar beschrieben. Innerhalb eines Kapitels finden Sie folgende Elemente:
-
-! <p>
-
-!! <p>
-
-!!!! <p>
+Die Vorlesung besteht aus 5 Kapiteln inklusive Beispielen die Ihnen die oben genannten Lernziele vermitteln. Wörter in *kursiv* sind im Glossar beschrieben. 
