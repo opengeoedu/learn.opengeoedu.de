@@ -1,5 +1,5 @@
 ---
-title: 'Windwurf...?!'
+title: 'Windwurf'
 taxonomy:
     category:
         - docs

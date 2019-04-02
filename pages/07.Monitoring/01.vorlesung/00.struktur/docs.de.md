@@ -8,22 +8,22 @@ taxonomy:
 <div class="row align-items-center">
     <div class="col-sm-3" markdown="1">![](g.meinel_ioer.png?lightbox=800&resize=300)</div>
     <div class="col-sm-9">
-        <p> **[Dr. Gotthard Meinel](https://www.ioer.de/ioer-im-ueberblick/beschaeftigte/meinel/)** leitet den Forschungsbereich [Monitoring der Siedlungs- und Freiraumentwicklung](https://www.ioer.de/forschung/monitoring-der-siedlungs-und-freiraumentwicklung/) im [Leibniz-Institut für ökologische Raumentwicklung](https://www.ioer.de/home/). Seine Forschungsschwerpunkte sind automatisierte Datenerhebungsmethoden, Analyse- und Visualisierungstechnologien des Monitorings von Flächennutzungsentwicklungen. Er leitet das Dresdner OpenGeoEdu-Team für den Konzeption und Entwicklungen und Bereitstellung von Lehrinhalten zum Flächenmonitoring sowie die Begleitung von Forschungsaktivitäten. </p>
+        <p markdown="1">**Dr. Gotthard Meinel** leitet den Forschungsbereich Monitoring der Siedlungs- und Freiraumentwicklung im Leibniz-Institut für ökologische Raumentwicklung. Seine Forschungsschwerpunkte sind automatisierte Datenerhebungsmethoden, Analyse- und Visualisierungstechnologien des Monitorings von Flächennutzungsentwicklungen. Er leitet das Dresdner OpenGeoEdu-Team für den Konzeption und Entwicklungen und Bereitstellung von Lehrinhalten zum Flächenmonitoring sowie die Begleitung von Forschungsaktivitäten. </p>
     </div>
 </div>
-
 
 <div class="row align-items-center">
   <div class="col-sm-3" markdown="1">![](h.herold_ioer.png?lightbox=800&resize=300) </div>
   <div class="col-sm-9">
-    <p>**[Dr. Hendrik Herold](https://www.ioer.de/ioer-im-ueberblick/beschaeftigte/herold/)** ist wissenschaftlicher  Mitarbeiter [Monitoring der Siedlungs- und Freiraumentwicklung](https://www.ioer.de/forschung/monitoring-der-siedlungs-und-freiraumentwicklung/) im [Leibniz-Institut für ökologische Raumentwicklung](https://www.ioer.de/home/). Seine Forschungsschwerpunkte sind die Geoinformatik, Bildanalyse, Fernerkundung und das Flächennutzungsmonitoring. Er unterstützt  die Konzeption, Koordination, und Kommunikation des Projekts OpenGeoEdu  sowie das Tutoring im  Lehrmodul Flächenmonitoring. </p>
+
+    <p markdown="1">**Dr. Hendrik Herold** ist wissenschaftlicher  Mitarbeiter Monitoring der Siedlungs- und Freiraumentwicklung im Leibniz-Institut für ökologische Raumentwicklung. Seine Forschungsschwerpunkte sind die Geoinformatik, Bildanalyse, Fernerkundung und das Flächennutzungsmonitoring. Er unterstützt  die Konzeption, Koordination, und Kommunikation des Projekts OpenGeoEdu  sowie das Tutoring im  Lehrmodul Flächenmonitoring. </p>
   </div>
 </div>
 
 <div class="row align-items-center">
   <div class="col-sm-3" markdown="1">![](s.sikder_ioer.png?lightbox=800&resize=300) </div>
   <div class="col-sm-9">
-    <p>**[Dr. Sujit Sikder](https://www.ioer.de/ioer-im-ueberblick/beschaeftigte/sikder/)** ist wissenschaftlicher Mitarbeiter für das Projekt OpenGeoEdu im Forschungsbereich  [Monitoring der Siedlungs- und Freiraumentwicklung](https://www.ioer.de/forschung/monitoring-der-siedlungs-und-freiraumentwicklung/) im [Leibniz-Institut für ökologische Raumentwicklung](https://www.ioer.de/home/). Seine Forschungsinteressen sind Raumanalyse, Geocomputation, multi-kriterielle Analysen und Offene Daten des fachlichen Spektrums der New Urban Science. In dem Projekt OpenGeoEdu beschäftigte er sich mit der Konzeption, Aufbereitung,  Umsetzung, Tutoring im  Lehrmodul Flächenmonitoring und der Durchführung von Forschungsaktivitäten.  </p>
+    <p markdown="1">**Dr. Sujit Sikder** ist wissenschaftlicher Mitarbeiter für das Projekt OpenGeoEdu im Forschungsbereich Monitoring der Siedlungs- und Freiraumentwicklung im Leibniz-Institut für ökologische Raumentwicklung. Seine Forschungsinteressen sind Raumanalyse, Geocomputation, multi-kriterielle Analysen und Offene Daten des fachlichen Spektrums der New Urban Science. In dem Projekt OpenGeoEdu beschäftigte er sich mit der Konzeption, Aufbereitung,  Umsetzung, Tutoring im  Lehrmodul Flächenmonitoring und der Durchführung von Forschungsaktivitäten.  </p>
   </div>
 </div>
 
