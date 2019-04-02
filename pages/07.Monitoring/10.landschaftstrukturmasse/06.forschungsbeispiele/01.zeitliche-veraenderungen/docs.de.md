@@ -9,10 +9,10 @@ twittercardoptions: summary
 facebookenable: true
 ---
 
-Ein Forschungsthema war die Untersuchung der Landschaftszerschneidung, durch z.B. Straßen oder Kanälen, in Sachsen. Hier sollte die zeitliche Veränderung der Landschaft durch Zerschneidungen untersucht werden und welche Indizes bzw. Bewertungsmethoden dabei verwendet werden sollen.
+Ein Forschungsthema war die Untersuchung der Landschaftszerschneidung, durch z.B. Straßen oder Kanäle, in Sachsen. Hier sollte die zeitliche Veränderung der Landschaft durch Zerschneidungen untersucht werden und welche Indizes bzw. Bewertungsmethoden dabei verwendet werden sollen.
 Die Ergebnisse haben gezeigt, dass an der Grenze Sachsens, insbesondere an der Grenze zu Tschechien, große unzerschnittene Freiräume zu finden sind (siehe Abb. 15). 
 
-![Landshaftszerschneidung!](Landschzersch_Sachsen.JPG?lightbox=800&resize=300&classes=caption "Abb. 15: Landschaftszerschneidung in Sachsen (Quelle: WALZ 2013)")
+![Landshaftszerschneidung!](Landschzersch_Sachsen.JPG?lightbox=800&classes=caption "Abb. 15: Landschaftszerschneidung in Sachsen (Quelle: WALZ 2013)")
 
 Die zeitliche Beobachtung der Landschaftszerschneidungen hat gezeigt, dass der größte Wandel zwischen 1930 und 2000 auszumachen ist. Die Veränderungen zwischen 2000 und den prognostizierten 2020 sind auf den ersten Blick gering, da die Flächen bereits sehr klein sind. Jedoch findet auch hier eine weitere Landschaftszerschneidung statt, wobei jedoch wenig neue unzerschnittene Flächen produziert werden.
 
