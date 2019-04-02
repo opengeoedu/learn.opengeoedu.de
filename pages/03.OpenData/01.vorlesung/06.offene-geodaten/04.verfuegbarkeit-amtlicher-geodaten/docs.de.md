@@ -6,7 +6,7 @@ taxonomy:
 Menu: Verfügbarkeit
 ---
 
-In **Deutschland** sind alle Geodaten des Bundes als **Open Data** verfügbar. Die Bundesländer, sowie viele Stadtverwaltungen haben zumindest einige Geodatensätze frei zugänglich gemacht, jedoch ist die Lage hier sehr heterogen. Sehr umfangreiche Geodatenbestände, einschließlich hochauflösender Geobasisdaten (ALKIS, ATKIS, digitale Luftblider, 3D-Stadtmodelle ...) wurden bislang von vier Bundesländern zugänglich gemacht, wichtige Einstiegspunkte in diesem Zusammenhang sind:
+In **Deutschland** sind alle Geodaten des Bundes als **Open Data** verfügbar. Die Bundesländer sowie viele Stadtverwaltungen haben zumindest einige Geodatensätze frei zugänglich gemacht, jedoch ist die Lage hier sehr heterogen. Sehr umfangreiche Geodatenbestände, einschließlich hochauflösender Geobasisdaten (ALKIS, ATKIS, digitale Luftblider, 3D-Stadtmodelle ...) wurden bislang von vier Bundesländern zugänglich gemacht, wichtige Einstiegspunkte in diesem Zusammenhang sind:
 
 - Das [Geoportal Berlin](http://www.stadtentwicklung.berlin.de/geoinformation/) und [Open Data Berlin](https://daten.berlin.de/kategorie/geographie-und-stadtplanung)
 - [Transparenzportal Hamburg](http://suche.transparenz.hamburg.de/?groups=geografie-geologie-und-geodaten) und das [Geoportal](http://www.geoportal-hamburg.de/Geoportal/geo-online/) des Landes
@@ -20,8 +20,8 @@ In **Österreich** ist die digitale Verwaltungskarte [basemap.at](https://basema
 ![Geobasisdaten-Uebersicht](geobasislaender.png?classes=caption "Öffentliche Verfügbarkeit von Geobasisdaten in den deutschen Bundesländern. Grün: Komplett offen. Gelb: Teilweise offen. Orange: Nicht offen. Grau: Nicht vorhanden. Eigene Darstellung nach A. Steiger, Stand&nbsp;30.06.2018")
 
 [ui-accordion independent=true open=none]
-[ui-accordion-item title="Abkürzungen der Bundeslandänder und Quellen"]
-| Kürzel | Bundesland             | Quelle                                                                                        |
+[ui-accordion-item title="Übersicht zu den Bundesländern und ihren Datenzugängen"]
+| Kürzel | Bundesland             | Quelle (URL)                                                                                        |
 |--------|------------------------|-----------------------------------------------------------------------------------------------|
 | BW     | Baden-Württemberg      | https://www.lgl-bw.de                                                                                 |
 | BY     | Bayern                 | https://www.ldbv.bayern.de/                                                                   |
@@ -41,7 +41,7 @@ In **Österreich** ist die digitale Verwaltungskarte [basemap.at](https://basema
 | TH     | Thüringen              | http://www.geoportal-th.de/de-de/                                                             |
 
 [/ui-accordion-item]
-[ui-accordion-item title="Abkürzungen der Datenprodukte"]
+[ui-accordion-item title="Übersicht zu den Datenprodukten (Geobasisdaten)"]
 
 Kürzel  | Produkt
 --|--

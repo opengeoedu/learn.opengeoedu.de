@@ -5,7 +5,9 @@ taxonomy:
         - docs
 menu: Datenblätter
 ---
-Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, so z.B. hinsichtlich der Voraussetzungen, der verwendeten Software und Daten, der benötigten Funktionalitäten und der erwarteten Ergebnisse.
+Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, so z.B. hinsichtlich der Voraussetzungen, der verwendeten Software und Daten, der benötigten Funktionalitäten und der erwarteten Ergebnisse. 
+
+Die Farben und Sysmbole deuten einerseits die Reichweite, andererseits den Schwierigkeitsgrad der Beispiele an.
 
 | Legende | | | |
 | :-: | :-: | :-: | :-: |

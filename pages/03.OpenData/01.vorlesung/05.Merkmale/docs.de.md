@@ -43,21 +43,19 @@ Da jede technische oder rechtliche Einschränkung der Datennutzung ihren potenti
 [ui-accordion independent=true open=none classes="figureattributes, figure-left"]
 [ui-accordion-item title="Rechtliche Offenheit"]
 Nutzungsbedingung von Open Data werden durch Lizenzen geregelt, welche die kostenlose Nutzung (auch kommerziell), Weitergabe, Veränderung, Verknüpfung und Veredelung der Daten erlaubt. Lediglich für die Bereitstellung der Daten kann allerdings ein einmaliges geringfügiges Entgelt verlangt werden.
-Akzeptabel sind lediglich solche Nutzungseinschränkungen, die zur Kenntlichmachung der Urheberschaft des Werkes verpflichten oder der Erhaltung des "offenen" Charakters der Daten, auch bei deren Weitergabe, dienen. Dazu zählen u.a. die Nennung der Urheber und Mitwirkenden (Attribution), Weitergabe unter gleichen oder ähnlichen Bedingungen (Share alike) und die Kenntlichmachung von Änderungen bei der Weitergabe der Daten (Integrity).
+Akzeptabel sind solche Nutzungseinschränkungen, die zur Kenntlichmachung der Urheberschaft des Werkes verpflichten oder der Erhaltung des "offenen" Charakters der Daten, auch bei deren Weitergabe, dienen. Dazu zählen u.a. die Nennung der Urheber und Mitwirkenden (Attribution - BY), Weitergabe unter gleichen oder ähnlichen Bedingungen (Share alike - SA) und die Kenntlichmachung von Änderungen bei der Weitergabe der Daten (Integrity).
 Die Open Definition legt hierfür ausführliche Konventionen fest und führt eine Liste existierender Standard-Lizenzen an, die konform sind ([http://opendefinition.org/licenses/](http://opendefinition.org/licenses/)).
 [/ui-accordion-item]
 [ui-accordion-item title="Technische Offenheit" classes="of_tech"]
-Die Daten sollten *als Ganzes* verfügbar sein, bevorzugt zum kostenlosen Download. Sie sollten *maschinenlesbar* sein, sodass sie einem Computer verarbeitet werden können und dabei für jedes einzelne Datenelement Zugriff und Veränderung möglich sind. Daten sollten in einem *offenem Format* vorliegen, das mit wenigstem einen Free/Libre/Open Source Software Tool verarbeitet werden kann.
+Die Daten sollten *als Ganzes* verfügbar sein, bevorzugt zum kostenlosen Download. Sie sollten *maschinenlesbar* sein, sodass sie von einem Computer verarbeitet werden können und dabei für jedes einzelne Datenelement Zugriff und Veränderung möglich sind. Daten sollten in einem *offenem Format* vorliegen, das mit wenigstens einem Free/Libre/Open Source Software Tool verarbeitet werden kann.
 [/ui-accordion-item]
 [/ui-accordion]
 </p>
 </div>
 
-**Fortgeschrittenes Wissen:**
+#### Interoperabilität im Kontext des 5-Star-Open Data Modells
 
 Die meisten Open Data Richtlinien beinhalten ähnliche Vorgaben wie die Open Definition, fügen dem aber noch weitere Kriterien an die "Offenheit" hinzu oder konkretisieren diese. So setzt **technische Offenheit** Interoperabilität der Daten voraus, d.h. die Möglichkeit, gemeinsam verschiedenartige Daten und Systeme in einen einzigen Arbeitsablauf zu integrieren. Dabei wird zwischen technischer, syntaktischer und semantischer Interoperabilität unterschieden, die jeweils separat und oft branchenspezifisch durch standardisierte Schnittstellen, Webservice-Spezifikationen, Datenformate und Datenmodelle adressiert werden müssen. Ist Interoperabilität nicht gegeben, ist es mitunter unmöglich oder sehr aufwändig, verschiedene Datensätze miteinander zu verknüpfen oder mit einer besonderen Software zu verarbeiten.
-
-#### Interoperabilität im Kontext des 5-Star-Open Data Modells
 
 ![](5-star-steps.png?width=600)
 
