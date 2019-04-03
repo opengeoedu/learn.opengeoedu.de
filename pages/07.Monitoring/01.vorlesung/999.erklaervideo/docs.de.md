@@ -1,5 +1,5 @@
 ---
-title: Erklärvideo
+title: Ausgewählte Erklärvideos
 published: true
 taxonomy:
     category:
@@ -13,5 +13,5 @@ taxonomy:
 [/owl-carousel]
 
 * **Was ist der Monitor der Siedlungs- und Freiraumentwicklung (IÖR-Monitor)?**
-* **Zersiedelungsinitiative aus der Schweizerische Bundesrat: Zersiedelung stoppen – für eine nachhaltige Siedlungsentwicklung**
+* **Zersiedelungsinitiative aus dem Schweizerischen Bundesrat: Zersiedelung stoppen – für eine nachhaltige Siedlungsentwicklung**
 * **GDI InfoTour: GDI Grundlagen**

@@ -22,7 +22,7 @@ Im Folgenden erfolgt eine kurze Einführung in die Fernerkundung und das Erd- bz
 
 Fernerkundung (Englisch: remote sensing) ist somit das berührungsfreie Messen und Sammeln von Informationen mittels Sensoren über eine Distanz. Die Erdbeobachtung (Englisch: Earth observation) durch Fernerkundung wird bereits seit Jahrzehnten betrieben, und die Zahl an flugzeuggetragenen Systemen und Satelliten nimmt stetig zu (Belward & Skøien 2015; Boyd & Danson 2005; Landgrebe 1997). Dabei wurden immer neue und leistungsstärkere Sensoren und Auswertungsmöglichkeiten entwickelt.
 
-Anwendungsbeispiele der Fernerkundung:
+Anwendungsbeispiele der Fernerkundung sind u.a.:
 - Auswirkungen des Klimawandels und Maßnahmen zur Minderung
 - Änderungen in der Landbedeckung/-nutzung
 - Wasserqualität und -verfügbarkeit
