@@ -1,6 +1,5 @@
 ---
 title: 'Gänige Landschaftsstrukturmaße'
-media_order: Gaengige_Landschaftsstrukturmaße.JPG
 taxonomy:
     category:
         - docs
