@@ -16,6 +16,6 @@ Um dies realisieren zu können wurden aktuelle ATKIS-Daten verwendet, sowie Mess
 
 ![Landschaftsveränderungen](Landschveraenderungen.JPG?lightbox=800&classes=caption "Abb. 16: Digitalisierung der Altkarten (Quelle: WALZ 2013)")
 
-Durch den Einsatz von Landschaftsstrukturmaßen, wie den Vergleich von Flächenformen und Flächengrößen, war es möglich Aussagen über die frühere Nutzung und deren Entwicklung zu treffen, wodurch auch wirtschaftliche Veränderungen aufgezeigt werden konnten. Der Vergleich der vier Gebiete hat auch Informationen bezüglich des Einflusses der Landschaft auf die Wirtschaft gegeben. 
+Durch den Einsatz von Landschaftsstrukturmaßen, wie z.B. dem Vergleich von Flächenformen und Flächengrößen, war es möglich Aussagen über die frühere Nutzung und deren Entwicklung zu treffen, wodurch auch wirtschaftliche Veränderungen aufgezeigt werden konnten. Der Vergleich der vier Gebiete hat auch Informationen bezüglich des Einflusses der Landschaft auf die Wirtschaft gegeben. 
 
-Ziel solcher Untersuchungen ist die Gewinnung neuer Informationen für eine nachhaltigere Struktur- und Raumplanung.
+Ziel solcher Auswertungen ist die Gewinnung neuer Informationen für eine nachhaltigere Struktur- und Raumplanung.

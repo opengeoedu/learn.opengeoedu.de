@@ -8,7 +8,7 @@ Das Fallbeispiel „Flächenmonitoring“ fokussiert darauf, Daten- und Analyseg
 ![Konzeption des Fallbeispel Flächenmonitoring](abb_konzept.png?resize=600)
 
 In praktischen Aufgaben und Übungen sollen folgende Themen beleuchtet werden:
-- Bestimmung des Siedlungs- und Verkehrsflächen–Anteils (SuV)
+- Bestimmung des Siedlungs- und Verkehrsflächen-Anteils (SuV)
 - Bestimmung der Verkehrsnetzdichte
 - Messung der Veränderung der Siedlungs- und Bevölkerungsdichte
 - Bestimmung der Flächenneuinanspruchnahme
