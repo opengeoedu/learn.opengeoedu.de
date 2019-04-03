@@ -1,6 +1,5 @@
 ---
 title: 'Maße für einzelen Landschaftselemente'
-media_order: LSM_einzelne_LS-Elemente.JPG
 taxonomy:
     category:
         - docs
