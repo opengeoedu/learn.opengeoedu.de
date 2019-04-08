@@ -5,13 +5,13 @@ taxonomy:
         - docs
 ---
 
-Eine Vielzahl von freien Geodaten, die heute verwendet werden entstammen gemeinnützigen Projekten, die oft auf Bürgerinitiativen und Ehrenamt basieren, aber zuweilen auch Unternehmen, öffentliche Behörden und Forschungseinrichtungen involvieren.
+Eine Vielzahl von freien Geodaten, die heute verwendet werden, entstammen gemeinnützigen Projekten, die oft auf Bürgerinitiativen und Ehrenamt basieren, aber zuweilen auch Unternehmen, öffentliche Behörden und Forschungseinrichtungen involvieren.
 
-Charakteristisch für viele dieser Projekte ist das sogenannte **Crowdsourcing**, d.h. das wichtige Aufgaben, insbesondere die Datenerhebung, von der Partizipation freiwillig Nutzer, z.B. über das Internet, abhängen. Seltener handelt es sich um die Werke Einzelner.
+Charakteristisch für viele dieser Projekte ist das sogenannte **Crowdsourcing**, d.h. dass wichtige Aufgaben, insbesondere die Datenerhebung, von der Partizipation freiwilliger Nutzer (engl. volunteers), z.B. über das Internet, abhängen. Seltener handelt es sich um die Werke Einzelner.
 
-Mit der Bereitstellung von Kartendaten befassen sich globale Projekte wie [OpenStreetMap](https://www.openstreetmap.de/) (die freie Weltkarte), [GADM](https://gadm.org) (globale administrative Verwaltungsgebiete), [Natural Earth](https://www.naturalearthdata.com/)(kleinmaßstäbige Vektor- und Rasterdaten) und [Geonames](https://www.geonames.org/)(geographische Ortsnamen).
+Mit der Bereitstellung von Kartendaten befassen sich globale Projekte wie [OpenStreetMap](https://www.openstreetmap.de/) (die freie Weltkarte), [GADM](https://gadm.org) (globale administrative Verwaltungsgebiete), [Natural Earth](https://www.naturalearthdata.com/) (kleinmaßstäbige Vektor- und Rasterdaten der Erde) und [Geonames](https://www.geonames.org/) (geographische Ortsnamen).
 
-Unter dem Begriff **Citizen Science** werden wissenschaftliche Projekte von interessierten Laien betrieben. Im Rahmen von [Lufdtaten.info](https://luftdaten.info/), [Openair.Cologne](https://openair.cologne) und [OpenSenseMap](https://opensensemap.org/]) werden beispielsweise Luftdaten (z.B. Temperatur, Feuchte, Feinstaub, Stickoxide) mithilfe einfacher Sensoren erhoben, ausgewertet und öffentlich bereitgestellt. Das das Projekt [blitzortung.org](http://de.blitzortung.org) ortet mithilfe von über Empfangsstationen weltweit Blitze und Gewitter in Echtzeit.
+Unter dem Begriff **Citizen Science** werden wissenschaftliche Projekte von interessierten Laien betrieben. Im Rahmen von [Luftdaten.info](https://luftdaten.info/), [Openair.Cologne](https://openair.cologne) und [OpenSenseMap](https://opensensemap.org/]) werden beispielsweise Luftdaten (z.B. Temperatur, Feuchte, Feinstaub, Stickoxide) mithilfe einfacher Sensoren erhoben, ausgewertet und öffentlich bereitgestellt. Das Projekt [blitzortung.org](http://de.blitzortung.org) ortet mithilfe von Empfangsstationen weltweit Blitze und Gewitter in Echtzeit.
 
 
 <!-- Exemplarisch sind hier einige relevante Projekte vorgestellt:

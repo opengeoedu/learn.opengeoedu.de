@@ -12,7 +12,7 @@ taxonomy:
     M.Sc. Matthias Hinz ist wissenschaftlicher Angestellter für das Projekt OpenGeoEdu an der Universität Rostock.
     <br/>
     Herr Hinz schloss im September 2016 sein Masterstudium in Geoinformatik an der Universität Münster ab.
-    Während und nach seines Studiums sammelte er Berufserfahrung als Hilfskraft am Institut für Geoinformatik (ifgi) der Universität Münster, der 52° North Initiative for Geospatial Open Source Software GmbH, sowie als Gaststudent an der Geospatial Research Group (GEOTEC) der Universität Jaume I, Spanien. In Rahmen dieser Tätigkeiten wirkte er u.a. an Projekten in den Bereichen Geoprozessierung, Geosoftware, Fernerkundung, Data Science und reproduzierbarer Wissenschaft mit.
+    Während und nach seinem Studium sammelte er Berufserfahrung als Hilfskraft am Institut für Geoinformatik (ifgi) der Universität Münster, der 52° North Initiative for Geospatial Open Source Software GmbH, sowie als Gaststudent an der Geospatial Research Group (GEOTEC) der Universität Jaume I, Spanien. In Rahmen dieser Tätigkeiten wirkte er u.a. an Projekten in den Bereichen Geoprozessierung, Geosoftware, Fernerkundung, Data Science und reproduzierbarer Wissenschaft mit.
     </p>
   </div>
 </div>
@@ -29,7 +29,7 @@ Wichtige Themen im Zusammenhang von Open Data werden hier im Detail behandelt. D
 - Lizenzen und Nutzungsbedingungen
 - Open Data und Open Government Data
   - im deutschsprachigen Raum
-  - verschiedenen Teilen der Gesellschaft (Wissenschaft, Wirtschaft, gemeinnützige und ehrenamtliche Projekte)
+  - in verschiedenen Teilen der Gesellschaft (Wissenschaft, Wirtschaft, gemeinnützige und ehrenamtliche Projekte)
 
 Die Teilkapitel sind mit offenen Fragen und Literaturverweisen versehen, welche die Lernenden ermuntern, sich weitergehend mit den Themen auseinanderzusetzen und darüber zu diskutieren.
 

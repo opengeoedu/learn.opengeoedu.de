@@ -5,7 +5,9 @@ taxonomy:
 menu: 'Technisch'
 ---
 
-Das technische Biomassepotenzial leitet sich von dem theoretischen Biomassepotenzial unter der Berücksichtigung von technischen, physikalischen und sozio-ökologischen Faktoren ab (Kaltschmitt et al. 2016). Zu technischen und physikalischen Einschränkungen gehören Faktoren wie Bergungsrate und Lagerverluste. Die ebenfalls „unüberwindbaren“ sozio-ökologischen Faktoren beinhalten gesetzlich oder gesellschaftlich verankerte Restriktionen wie (Natur-) Schutzgebiete oder der Erhalt der natürlichen Bodenfruchtbarkeit. „Das technische Biomassepotenzial beschreibt folglich die zeit- und ortsabhängige, primär aus technischer Sicht stofflich oder energetisch nutzbare Menge einer Biomasse. Bei einigen Abfällen und Reststoffen können theoretisches und technisches Biomassepotenzial als deckungsgleich betrachtet werden, insbesondere dann, wenn das Potenzial direkt an den Produktionsprozess des Hauptproduktes gekoppelt ist.“ (Brosowski et al. 2015, S. 5) 
+Das technische Biomassepotenzial leitet sich von dem theoretischen Biomassepotenzial unter der Berücksichtigung von technischen, physikalischen und sozio-ökologischen Faktoren ab (Kaltschmitt et al. 2016). Zu technischen und physikalischen Einschränkungen gehören Faktoren wie Bergungsrate und Lagerverluste. Die ebenfalls „unüberwindbaren“ sozio-ökologischen Faktoren beinhalten gesetzlich oder gesellschaftlich verankerte Restriktionen wie (Natur-) Schutzgebiete oder der Erhalt der natürlichen Bodenfruchtbarkeit. 
+
+„Das technische Biomassepotenzial beschreibt folglich die zeit- und ortsabhängige, primär aus technischer Sicht stofflich oder energetisch nutzbare Menge einer Biomasse. Bei einigen Abfällen und Reststoffen können theoretisches und technisches Biomassepotenzial als deckungsgleich betrachtet werden, insbesondere dann, wenn das Potenzial direkt an den Produktionsprozess des Hauptproduktes gekoppelt ist.“ (Brosowski et al. 2015, S. 5) 
 
 **Beispiel Forstwirtschaft**: Berücksichtigung von Ernteverlusten, nicht begehbare Waldflächen (z.B. im Hochgebirge), Kernzonen von Nationalparks
 

@@ -4,23 +4,23 @@ taxonomy:
     category: docs
 ---
 [![OSM](osm_logo.png)](https://www.openstreetmap.org/about)
-OpenStreetMap ist ein im Jahre 2004 gegründetes Projekt mit dem Ziel, eine freie Weltkarte zu erschaffen. OSM-Kartierer erzeugen weltweit Daten über Straßen, Eisenbahnen, Flüsse, Wälder, Häuser und alles andere, was gemeinhin auf Karten zu sehen ist. Dieses Projekt soll die für kommerzielle Geodaten oftmals vorhandenen Barrieren z. B. bezüglich Nutzungsrechten und Kosten überwinden. Im Jahr 2006 wurde die OpenStreetMap-Foundation als Non-Profit-Organisation gegründet, die durch Spenden und sonstige Gelder die Infrastruktur aufrechterhält ([www.openstreetmap.org](http://www.openstreetmap.org/), F. Ramm und J. Topf, (2008)). OSM wird ganz wesentlich durch das Engagement seiner Nutzergemeinschaft geprägt. Im OSM Wiki sind im August 2017 über 3 Millionen Nutzer registriert. Die OpenStreetMap-Daten darf jeder lizenzkostenfrei einsetzen und beliebig weiterverarbeiten. Die Daten unterliegen der Open Database License ([ODbL](https://opendatacommons.org/licenses/odbl/summary/)).
+OpenStreetMap ist ein im Jahre 2004 gegründetes Projekt mit dem Ziel, eine freie Weltkarte zu erschaffen. OSM-Kartierer erzeugen weltweit Daten über Straßen, Eisenbahnen, Flüsse, Wälder, Häuser und alles andere, was gemeinhin auf Karten zu sehen ist. Dieses Projekt soll die für kommerzielle Geodaten oftmals vorhandenen Barrieren z. B. bezüglich Nutzungsrechten und Kosten überwinden. Im Jahr 2006 wurde die OpenStreetMap Foundation als Non-Profit-Organisation gegründet, die durch Spenden und sonstige Gelder die Infrastruktur aufrechterhält ([www.openstreetmap.org](http://www.openstreetmap.org/), F. Ramm und J. Topf, (2008)). OSM wird ganz wesentlich durch das Engagement seiner Nutzergemeinschaft geprägt. Im OSM Wiki sind im Januar 2019 über 5 Millionen Nutzer registriert. Die OpenStreetMap-Daten darf jeder lizenzkostenfrei einsetzen und beliebig weiterverarbeiten. Die Daten unterliegen der Open Database License ([ODbL](https://opendatacommons.org/licenses/odbl/summary/)).
 
 Technologisch besteht das OSM-Projekt aus vier Komponenten:
-* Editoren zur Dateneingabe und Datenpflege, im Wesentlichen per GNSS-Import oder mittels eigener Digitalisierungen (z. B. Potlatch als flashbasierter Online-Editor oder JOSM als Java Stand-alone-Applikation).
-* Datenbankserver mit einer MySQL-Datenbank am University College London. Auf die Daten kann entweder mittels OSM-API direkt oder in einem spezifischen XML-Dateiformat (\*.osm) auf einen Datenbankabzug zugegriffen werden.
-* Kartenrenderer sind für das Erstellen der Karten zuständig. Der osmarender erzeugt z.B. aus den OSM-Daten SVG-Graphikdaten. Mapnik ist ein Open-Source-Kartenrenderer.
-* Viewer, die im Browser verwendet werden, um die OSM-Karte anzuzeigen.
+* **Editoren** zur Dateneingabe und Datenpflege, im Wesentlichen per GNSS-Import oder mittels eigener Digitalisierungen (z. B. Potlatch als flashbasierter Online-Editor oder JOSM als Java Stand-alone-Applikation).
+* **Datenbankserver** z.B. mit einer MySQL-Datenbank am University College London. Auf die Daten kann entweder mittels OSM-API direkt oder in einem spezifischen XML-Dateiformat (\*.osm) auf einen Datenbankabzug zugegriffen werden.
+* **Kartenrenderer** sind für das Erstellen der Karten zuständig. Der osmarender erzeugt z.B. aus den OSM-Daten SVG-Graphikdaten. Mapnik ist ein Open-Source-Kartenrenderer.
+* **Viewer**, die im Browser verwendet werden, um die OSM-Karte anzuzeigen.
 
 Neben den eigenen Geodaten stehen auch freie Daten z. B. Satellitenbilddaten oder Geodaten, die keinen Lizenzrechten unterstehen, zur Verfügung. P. Neis und A. Zipf, 2008, diskutieren Vor- und Nachteile der OSM-Geodaten. Vorteile sind z.B. weltweit freie, teilweise sehr spezielle Geodaten mit großer Aktualität und oftmals ausreichender Genauigkeit bei schnellem, aber unkontrolliertem Anwachsen der Geodaten. Nachteil ist der stark unterschiedliche weltweite Abdeckungsgrad und die heterogene Qualität der Geodaten bei uneinheitlicher Semantik und mit Hindernissen aufgrund des Lizenzmodells für Anreicherungen mit kommerziellen Daten.
 
 ## OSM-Datenmodell
-Das OSM-Datenmodell kennt im Wesentlichen die Objekttypen Knoten (Node), Linien (Way) und Beziehungen (Relation). Flächenhafte Objekte werden durch Linienschluss erzeugt. Den einzelnen Objekten können Attribute zugeordnet werden. Mittels einer Relation können Beziehungen zwischen den Objekten modelliert werden. Da es im Wesentlichen um die Erhebung von Verkehrsdaten geht, ist eine Art Objektartenkatalog (Map Features) definiert, der Straßen (Highway), Wasserstraßen (Waterway), Schienenwege (Railway) kennt und um flächenhafte Nutzungsarten wie Freizeitflächen, Plätze, Landnutzung u.a. ergänzt ist. OSM lässt aber prinzipiell jegliche Schlüssel und Werte zu, individuelle Erweiterungen werden aber nicht unbedingt unterstützt und visualisiert. Alle Daten, die in der OSM-Datenbank eingestellt sind, unterstehen der [Open Database Lizenz (OdbL) 1.0](https://opendatacommons.org/licenses/odbl/) für die Datenbank und der [Open Data Contents License 1.0](https://opendatacommons.org/licenses/dbcl/) für individuelle Inhalte.
+Das OSM-Datenmodell kennt im Wesentlichen die Objekttypen _Knoten (Node)_, _Linien (Way)_ und _Beziehungen (Relation)_. Flächenhafte Objekte werden durch Linienschluss erzeugt. Den einzelnen Objekten können _Attribute_ zugeordnet werden. Mittels einer Relation können Beziehungen zwischen den Objekten modelliert werden. Da es ursprünglich im Wesentlichen um die Erhebung von Verkehrsdaten ging, ist eine Art Objektartenkatalog (Map Features) definiert, der Straßen (Highway), Wasserstraßen (Waterway), Schienenwege (Railway) kennt und um flächenhafte Nutzungsarten wie Freizeitflächen, Plätze, Landnutzung u.a. ergänzt ist. OSM lässt aber prinzipiell jegliche Schlüssel und Werte zu, individuelle Erweiterungen werden aber nicht unbedingt unterstützt und visualisiert. Alle Daten, die in der OSM-Datenbank eingestellt sind, unterstehen der [Open Database Lizenz (OdbL) 1.0](https://opendatacommons.org/licenses/odbl/) für die Datenbank und der [Open Data Contents License 1.0](https://opendatacommons.org/licenses/dbcl/) für individuelle Inhalte.
 <!--Alle Daten, die in der OSM-Datenbank eingestellt sind, unterstehen der Lizenz Creative Commons Attribute Share Alike 2.0 (creativecommons.org/licenses/by-sa/2.0/).-->
 
 [center]![](Datenmodell.png)[/center]
 
-Die Einträge bestehen jeweils aus einem Tag, der eine Kombination von Schlüsselbegrff (Key) und Werteintrag (Value) darstellt.
+Die Einträge bestehen jeweils aus einem Tag, der eine Kombination von Schlüsselbegrff (Key) und Werteintrag (Value) darstellt (_Key-Value-Pair_).
 
 ### Node (Knoten)
 ![](node.png)
@@ -35,7 +35,7 @@ Die Einträge bestehen jeweils aus einem Tag, der eine Kombination von Schlüsse
 ! * [www.openstreetmap.org](http://www.openstreetmap.org/)
 ! * [OpenStreetMap Wiki](http://wiki.openstreetmap.org/wiki/DE:Hauptseite?uselang=de)
 
-!! Recherchieren Sie in OSM an ihrem eigenen Wohnort und machen sich mit den vorhandenen Inhalten und der Aussagekraft der OSM-Daten vertraut.
+!! Recherchieren Sie in OSM an Ihrem eigenen Wohnort und machen sich mit den vorhandenen Inhalten und der Aussagekraft der OSM-Daten vertraut.
 
 ## OSM in Rostock
 Die folgende Abbildung zeigt einen Ausschnitt aus OpenStreetMap am Standort Rostock.
@@ -56,7 +56,7 @@ Realisiert wurde die ORKa.MV durch die Landkreise und kreisfreien Städte in Mec
 > `Kartenbild © Hansestadt Rostock (CC BY 4.0) | Kartendaten © OpenStreetMap (ODbL) und LkKfS-MV.`
 > <cite>Zitat aus den [Nutzungsbedingungen der ORKa.MV](https://www.orka-mv.de/nutzungsbedingungen.html)</cite>
 
-!! Vergleichen Sie einen Ausschnitt aus Rostock zwischen OpenStreetMap und der Offenen Regionalkarte. Bezüglich welcher Themen unterscheiden sich diese?
+!! Suchen Sie nach einer vergleichbaren offenen Stadtkarte an Ihrem Heimatort. Sollte es diesen nicht geben, so vergleichen Sie einen Ausschnitt aus Rostock (ansonsten Ihren Heimatort) zwischen OpenStreetMap und der Offenen Regionalkarte Mecklenburg-Vorpommern. Bezüglich welcher Themen unterscheiden sich diese?
 <!--
 [ui-accordion independent=true open=none][ui-accordion-item title="OSM-Datenmodell"]
 Das OSM-Datenmodell kennt im Wesentlichen die Objekttypen Knoten (Node), Linien (Way) und Beziehungen (Relation). Flächenhafte Objekte werden durch Linienschluss erzeugt. Den einzelnen Objekten können Attribute zugeordnet werden. Mittels einer Relation können Beziehungen zwischen den Objekten modelliert werden. Da es im Wesentlichen um die Erhebung von Verkehrsdaten geht, ist eine Art Objektartenkatalog (Map Features) definiert, der Straßen (Highway), Wasserstraßen (Waterway), Schienenwege (Railway) kennt und um flächenhafte Nutzungsarten wie Freizeitflächen, Plätze, Landnutzung u.a. ergänzt ist. OSM lässt aber prinzipiell jegliche Schlüssel und Werte zu, individuelle Erweiterungen werden aber nicht unbedingt unterstützt und visualisiert. Alle Daten,  in der OSM-Datenbank unterstehen der

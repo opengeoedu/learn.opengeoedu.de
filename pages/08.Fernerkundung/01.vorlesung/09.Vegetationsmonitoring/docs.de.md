@@ -7,8 +7,8 @@ taxonomy:
 
 ## Spektrale Eigenschaften von Vegetation
 
-Jede Art von Materie oder Oberfläche reflektiert Strahlung, wenn auch in unterschiedlicher Stärke: Böden, Gewässer (auch Schnee und Eis), versiegelte Flächen wie Straßen und Gebäude, oder eben Vegetation (incl. landwirtschaftlicher Flächen und Wälder).
-Trifft Sonnenstrahlung auf ein Objekt oder Erdoberfläche, wird sie transmittiert, absorbiert bzw. in Energie umgewandelt und jeweils in bestimmten Wellenlängen unterschiedlich stark zurückgeworfen.
+Jede Art von Materie oder Oberfläche reflektiert Strahlung, wenn auch in unterschiedlicher Stärke: Böden, Gewässer (auch Schnee und Eis), versiegelte Flächen wie Straßen und Gebäude, oder eben Vegetation (inkl. landwirtschaftlicher Flächen und Wälder).
+Trifft Sonnenstrahlung auf ein Objekt oder die Erdoberfläche, wird sie transmittiert, absorbiert bzw. in Energie umgewandelt und jeweils in bestimmten Wellenlängen unterschiedlich stark zurückgeworfen.
 
 !!! Der Begriff der spektralen Signatur wird dabei oft als etwas Absolutes verstanden, was der Sache nicht immer gerecht wird. Zwar ist die wellenlängenabhängige Reflexion für viele Oberflächen und Landbedeckungsarten sehr typisch, allerdings spielen eine Reihe von Faktoren wie Betrachtungswinkel und Position der Sonne, Aufnahmezeitpunkt und Sensortyp entscheidende Rollen. Hinzu kommen die unterschiedlichen Ausprägungen des Zielobjekts.
 Nehmen wir Waldbäume als Beispiel: Sie stehen mal dicht gedrängt, mal mit großen Lücken, auf flacher Ebene, an steilen Hängen; Jungpflanzen erscheinen dabei anders als alte Bäume. Und obwohl Unterschiede zwischen Baumarten signifikant sein können, gibt es nicht *die eine* Signatur für Fichte oder Buche. Es sollte im Hinterkopf behalten werden, dass der (situationsbedingte) Sachverhalt  vielfältiger ist und von Fall zu Fall betrachtet werden muss.
@@ -22,7 +22,7 @@ Die Reflektanzkurve von grüner gesunder Vegetation hat eine charakteristische F
 ## Vegetationsindizes
 Die in der reflektierten Strahlung (z.B. Pixelwerte der einzelnen Sentinel-2 Bänder) enthaltenen Informationen können direkt oder über neu geschaffene Indizes untersucht werden. Spektrale Indizes verfolgen dabei das Prinzip einer Neuberechnung eines künstlichen Kanals, um spezielle Features (Merkmale) hervorzuheben. Sie werden meist als einfache lineare Kombinationen oder Brüche (Ratios) berechnet. Es gibt je nach Sensor und der Anzahl der Kanäle eine Vielzahl an möglichen Kombinationen.
 Vegetationsindizes sind robuster gegenüber Beleuchtungsunterschieden oder atmosphärischen und Hintergrundeinflüssen (Bannari et al. 1995, Huete, 2012).
-Der wohl bekannteste Vegetationsindex ist der Normalized Difference Vegetation Index (NDVI) (Rouse, 1974). Er gilt als Standard des Vegetationsmonitorings und macht sich die Unterschiede beim (Gesundheits-)Status von Pflanzen zunutze. Gestresste und trockene Vegetation reflektiert stärker in Rot und vor allem weniger im nahen Infrarot (NIR).
+Der wohl bekannteste Vegetationsindex ist der _Normalized Difference Vegetation Index (NDVI)_ (Rouse, 1974). Er gilt als Standard des Vegetationsmonitorings und macht sich die Unterschiede beim (Gesundheits-)Status von Pflanzen zunutze. Gestresste und trockene Vegetation reflektiert stärker in Rot und vor allem weniger im nahen Infrarot (NIR).
 Der NDVI wird wie folgt berechnet:
 
 *NDVI = (NIR - rot) / (NIR + rot)* ,  [-1;1]
@@ -35,7 +35,7 @@ Klares Wasser hat einen negativen NDVI-Wert nahe -1. Ein NDVI von 0 bedeutet, da
 <iframe src="https://h5p.org/h5p/embed/311729" width="100%" max-width=600 max-height="600" height=400 frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <br><br>
 
-!!!! Der NDVI ist nur ein Index von vielen: Recherche von Indizes in der [Index Database](https://www.indexdatabase.de/) für Sentinel-2 und weitere Sensoren. Suchen Sie sich Beispiele heraus und stellen Sie diese einander gegenüber. Vergleichen Sie Indizes auch auf dem [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/?source=S2&lat=50.03619419013074&lng=8.040962219238281&zoom=13&preset=1_NATURAL_COL0R&layers=B02,B12,B08&maxcc=20&gain=1.0&gamma=1.0&time=2015-01-01|2018-05-17&atmFilter=&showDates=false).
+!!!! Der NDVI ist nur ein Index von vielen: Recherchieren Sie nach Indizes in der [Index Database](https://www.indexdatabase.de/) für Sentinel-2 und weitere Sensoren. Suchen Sie sich Beispiele heraus und stellen Sie diese einander gegenüber. Vergleichen Sie die Indizes auch auf dem [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/?source=S2&lat=50.03619419013074&lng=8.040962219238281&zoom=13&preset=1_NATURAL_COL0R&layers=B02,B12,B08&maxcc=20&gain=1.0&gamma=1.0&time=2015-01-01|2018-05-17&atmFilter=&showDates=false).
 <br><br>
 
 ! Zum besseren Verständnis gibt es im Sentinel-Hub eine gute Übersicht über die einzelnen Kanäle, deren Kombinationsmöglichkeiten und Anwendungsbeispiele, sowie die Darstellung unterschiedlicher Vegetationsindizes: [Sentinel 2 EO products](https://www.sentinel-hub.com/develop/documentation/eo_products/Sentinel2EOproducts)
