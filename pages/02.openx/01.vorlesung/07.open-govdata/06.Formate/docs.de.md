@@ -10,10 +10,34 @@ page-inject:
 
 <!--"[plugin:page-inject](http://localhost:2030/openx/vorlesung/open-govdata/formate/auswertung_govdata.html)-->
 
+<!--<div  class="embed-responsive">
+  <iframe id="frame_id" src="formate/auswertung_govdata2.html" class="embed-responsive-item" onload="resizeIFrameToFitContent(this)"></iframe>
+<div>-->
 
-{{ 'auswertung_govdata.html'|filecontent }}
+  <iframe id="frame_id" src="formate/auswertung_govdata2.html" width="100%" frameborder="0" onload="resizeIFrameToFitContent(this)"></iframe>
+<script type="application/javascript">
 
-<!--<iframe src="formate/auswertung_govdata.html"></iframe>-->
+function resizeIFrameToFitContent( iFrame ) {
+
+    iFrame.width  = iFrame.contentWindow.document.body.scrollWidth;
+    iFrame.height = iFrame.contentWindow.document.body.scrollHeight;
+}
+
+window.addEventListener('DOMContentLoaded', function(e) {
+
+    var iFrame = document.getElementById( 'frame_id' );
+    resizeIFrameToFitContent( iFrame );
+} );
+
+</script>
+
+
+
+
+
+
+
+
 
 ## Datenformate
 
