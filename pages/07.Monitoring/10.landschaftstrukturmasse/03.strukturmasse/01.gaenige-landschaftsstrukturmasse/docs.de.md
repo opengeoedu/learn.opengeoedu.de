@@ -9,4 +9,4 @@ twittercardoptions: summary
 facebookenable: true
 ---
 
-![Gaengige_Landschaftsstrukturmaße](Gaengige_Landschaftsstrukturma%C3%9Fe.JPG?lightbox=800&resize=300&classes=caption "Tab.1: Gängige Landschaftsstrukturmaße")
+![Gaengige_Landschaftsstrukturmaße](Gaengige_Landschaftsstrukturma%C3%9Fe.JPG?lightbox=800&classes=caption "Tab.1: Gängige Landschaftsstrukturmaße")
