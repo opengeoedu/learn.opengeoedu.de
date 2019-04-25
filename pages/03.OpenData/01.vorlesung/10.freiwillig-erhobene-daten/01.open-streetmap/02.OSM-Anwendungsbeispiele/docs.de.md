@@ -26,4 +26,4 @@ Realisiert wurde die ORKa.MV durch die Landkreise und kreisfreien Städte in Mec
 > `Kartenbild © Hansestadt Rostock (CC BY 4.0) | Kartendaten © OpenStreetMap (ODbL) und LkKfS-MV.`
 > <cite>Zitat aus den [Nutzungsbedingungen der ORKa.MV](https://www.orka-mv.de/nutzungsbedingungen.html)</cite>
 
-!! Vergleichen Sie einen Ausschnitt aus Rostock zwischen OpenStreetMap und der Offenen Regionalkarte. Bezüglich welcher Themen unterscheiden sich diese?
+!! Suchen Sie nach einer vergleichbaren offenen Stadtkarte an Ihrem Heimatort. Sollte es diesen nicht geben, so vergleichen Sie einen Ausschnitt aus Rostock (ansonsten Ihren Heimatort) zwischen OpenStreetMap und der Offenen Regionalkarte Mecklenburg-Vorpommern. Bezüglich welcher Themen unterscheiden sich diese?

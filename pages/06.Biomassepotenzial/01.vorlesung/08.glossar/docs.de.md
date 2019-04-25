@@ -6,7 +6,7 @@ taxonomy:
 
 **Biobasiert**: auf der Basis biologischer Ressourcen [BMBF und BMEL 2014](https://www.bmbf.de/pub/Biooekonomie_in_Deutschland.pdf)
 
-**Bioenergie**: erneuerbare Energiequelle, die Energieträger werden aus Biomasse gewonnen. Bioenergie kann Strom, Wärme und Kraftstoffe zur Verfügung stellen. [BMBF und BMEL 2014](https://www.bmbf.de/pub/Biooekonomie_in_Deutschland.pdf)
+**Bioenergie**: erneuerbare Energiequelle. Die Energieträger werden aus Biomasse gewonnen. Bioenergie kann Strom, Wärme und Kraftstoffe zur Verfügung stellen. [BMBF und BMEL 2014](https://www.bmbf.de/pub/Biooekonomie_in_Deutschland.pdf)
 
 **Biokraftstoffe**: Flüssige oder gasförmige Kraftstoffe, die aus Biomasse hergestellt werden. Beispiele sind Biodiesel, Bioethanol und Biogas. [BMU](https://www.bmu.de/fileadmin/Daten_BMU/Pools/Broschueren/klimaschutz_in_zahlen_2018_bf.pdf)
 

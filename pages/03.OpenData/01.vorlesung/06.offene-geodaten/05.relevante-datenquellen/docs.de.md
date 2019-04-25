@@ -9,8 +9,8 @@ Auf allen Verwaltungsebenen (EU, national, Bundesländer u. Kantone, regionale u
 
 ! Weitere Arten von Fach- und Geo-Informationssystemen - und damit auch mögliche Quellen für offene Geodaten - sind im Abschnitt [*Anwendungsbereiche*](/gis/vorlesung/anwendungsbereiche) des Grundlagenkapitels Geo-Informationssysteme erläutert.
 
-Oftmals werden auch amtliche Statistiken kartografisch visualisiert (siehe Kartenviewer [Zensus 2011](https://ergebnisse.zensus2011.de/#MapContent:00,D1,,)). Auch wenn der räumliche Bezug statischer Daten nicht immer offensichtlich ist, eigenen sich viele Datensätze auf Statistikportalen zur Verknüpfung und Visualisierung mit Geobasisdaten (Siehe Übung Verwaltungsdaten).
+Oftmals werden auch amtliche Statistiken kartografisch visualisiert (siehe Kartenviewer [Zensus 2011](https://ergebnisse.zensus2011.de/#MapContent:00,D1,,)). Auch wenn der räumliche Bezug statistischer Daten nicht immer offensichtlich ist, eignen sich viele Datensätze auf Statistikportalen zur Verknüpfung und Visualisierung mit Geobasisdaten (Siehe Übung Verwaltungsdaten).
 
 ![Schaubild Datenquellen](../schaubild_datenrecherche.png?width=600px)
 
-Neben den öffentlichen Behörden und Einrichtungen werden eine Vielzahl von offenen Daten auch von gemeinnützigen und oft auf ehrenamtlichen Bemühungen basierten Projekten, wie z.B. OpenStreetMap bereitgestellt. Ihnen ist der folgende Abschnitt gewidmet.
+Neben den öffentlichen Behörden und Einrichtungen werden eine Vielzahl von offenen Daten auch von gemeinnützigen und oft auf ehrenamtlichen Bemühungen basierten Projekten, wie z.B. OpenStreetMap bereitgestellt. 

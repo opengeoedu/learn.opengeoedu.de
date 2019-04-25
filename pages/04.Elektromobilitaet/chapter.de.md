@@ -3,14 +3,22 @@ taxonomy:
     category:
         - docs
 menu: Elektromobilität
+googletitle: 'Elektromobilität | OpenGeoEdu'
+googledesc: 'Mit offenen Geodaten untersuchen Sie in dieser Lerneinheit Fragestellungen rund um die ⚡⛽🔋🚗 Elektromoblität.'
 twitterenable: true
 twittercardoptions: summary
+twittershareimg: /elektromobilitaet/vorlesung/ladeinfrastruktur/ladesaeulenregister_BNetzA.jpg
+twittertitle: '⚡⛽🔋🚗 Elektromobilität | OpenGeoEdu'
+twitterdescription: 'Mit offenen Geodaten untersuchen Sie in dieser Lerneinheit Fragestellungen rund um die Elektromoblität.'
 orgaenabled: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
 personenabled: false
 facebookenable: true
+facebooktitle: 'Elektromobilität | OpenGeoEdu'
+facebookdesc: 'Mit offenen Geodaten untersuchen Sie in dieser Lerneinheit Fragestellungen rund um die Elektromoblität.'
+facebookimg: /elektromobilitaet/vorlesung/ladeinfrastruktur/ladesaeulenregister_BNetzA.jpg
 ---
 
 ### OpenGeoEdu Fallbeispiel
