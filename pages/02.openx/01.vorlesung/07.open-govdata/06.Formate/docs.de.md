@@ -14,13 +14,12 @@ page-inject:
   <iframe id="frame_id" src="formate/auswertung_govdata2.html" class="embed-responsive-item" onload="resizeIFrameToFitContent(this)"></iframe>
 <div>-->
 
-
+<!--
 <div  class="embed-responsive">
   <iframe id="frame_id" src="formate/lizenzen_tabelle.html" class="embed-responsive-item"></iframe>
-<div>
+<div>-->
 
-
-abc
+<!--
   <iframe id="frame_id" src="formate/auswertung_govdata2.html" width="100%" frameborder="0" onload="resizeIFrameToFitContent(this)"></iframe>
 <script type="application/javascript">
 
@@ -36,15 +35,7 @@ window.addEventListener('DOMContentLoaded', function(e) {
     resizeIFrameToFitContent( iFrame );
 } );
 
-</script>
-
-
-
-
-
-
-
-
+</script> -->
 
 ## Datenformate
 

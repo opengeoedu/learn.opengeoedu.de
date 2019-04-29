@@ -49,7 +49,7 @@ und angrenzenden Themen sammelt.
 **Geo for All (OSgeo)**<br/>
 http://www.geoforall.org
 </td><td markdown="1">
-Geo for all ist eine Initiative der [OSGeo-Foundation](https://www.osgeo.org) mit dem Ziel, *geospatial education and opportunities* (~ geographisch-räumliche Bildung und Angebote) für alle Zugänglich zu machen. Neben Webinaren und offenen Inhalten unterhält die Initiative ein Weltweites Netzwerk sogennanter Labs, die auch lokale Projekte organisieren.
+Geo for all ist eine Initiative der [OSGeo-Foundation](https://www.osgeo.org) mit dem Ziel, *geospatial education and opportunities* (~ geographisch-räumliche Bildung und Angebote) für alle zugänglich zu machen. Neben Webinaren und offenen Inhalten unterhält die Initiative ein weltweites Netzwerk sogennanter Labs, die unter anderem Projekte vor Ort organisieren.
 </td></tr>
 </table>
 <a href="#">&uArr; nach oben</a>
@@ -86,14 +86,41 @@ Ausführliches Dossier der Bundeszentrale für Politische Bildung (bpb) zum Them
 **Bundesvererwaltungsamt (BVA) (2018): Open Data - Handbuch für offene Verwaltungsdaten** <br/>
 https://www.bva.bund.de/DE/Services/Behoerden/Beratung/Beratungszentrum/Methoden/_documents/stda_open_data.html
 </td><td markdown="1">
-Umfankreiches Handbuch zum Thema offene Verwaltungsdaten mit Fokus auf Deutschland, inklusive Leitfäden zu allgemeine und rechtliche Anforderungen, Metadaten und Veröffentlichung - insbesondere aus Sicht von Datenbereitstellern.
+Umfangreiches Handbuch zum Thema offene Verwaltungsdaten mit Fokus auf Deutschland. Es beinhaltet Leitfäden zu allgemeinen und rechtliche Anforderungen, Metadaten und Veröffentlichung die insbesondere  für Datenbereitsteller interessant sein dürften.
+</td></tr>
+<td markdown="1">
+*Deutsch / teils auch Englisch* <br/>
+**Konrat-Adenauer-Stiftung (KAS): Verschiende Plubikationen**<br/>
+https://www.kas.de
+</td><td markdown="1">
+Die KAS veröffentlicht immer wieder frei zugängliche Online-Artikel zu verschienden OpenXX-Themen in Staat und Gesellschaft.
+Hier eine Auswahl:
+
+- Kuzev, P. (2018): [kurzum: Opening Up Europe - Ein Binnenmarkt mit gemeinsamer Datenpolitik](https://www.kas.de/einzeltitel/-/content/kurzum-opening-up-europe)
+- Kuzev, P. (2018): [Aufbau einer europäischen Dateninfrastruktur](https://www.kas.de/kurzum/detail/-/content/aufbau-einer-europaischen-dateninfrastruktur)
+- Bruch, C. (2017): [Open Access – Publizieren in der digitalen Gesellschaft](https://www.kas.de/analysen-und-argumente/detail/-/content/open-access-publizieren-in-der-digitalen-gesellschaft)
+- Geiger, C. (2017): [Bessere Kommunen dank Open Data](https://www.kas.de/analysen-und-argumente/detail/-/content/bessere-kommunen-dank-open-data)
+- Kuzev, P. und Berndt, M. (2017): [Deutschland in der Open Government Partnership ](https://www.kas.de/analysen-und-argumente/detail/-/content/deutschland-in-der-open-government-partnership)
+- Kuzev, P. (2016): [Open Government und Open Data](https://www.kas.de/einzeltitel/-/content/open-government-und-open-data)
+- Kuzev, P. (2016): [Open Data. Die wichtigsten Fakten zu offenen Daten](https://www.kas.de/einzeltitel/-/content/open-data1)
+- Bessler et al. (2016): [Open Data aus internationaler Perspektive](https://www.kas.de/einzeltitel/-/content/open-data-aus-internationaler-perspektive)
+- Kuzev, P (2016): [Open Data. The Benefits](https://www.kas.de/einzeltitel/-/content/open-data.-the-benefits)
+</td></tr>
+<tr>
+<td markdown="1">
+*Deutsch (Schweiz)* <br/>
+**opendata.Swiss: OGD Handbook** <br/>
+https://handbook.opendata.swiss/de/pages/index
+</td><td markdown="1">
+Handbuch des nationalen Open Data-Portals der Schweiz zur Veröffentlichung von Open Government Data für Personen und Organisationen. Ein spezieller Leitfaden für offene Geodaten ist ebenfalls veröffentlicht:
+- https://handbook.opendata.swiss/de/library/geodaten-leitfaden.html
 </td></tr>
 <tr><td markdown="1">
 *Deutsch / Englisch* <br/>
 **Open-Access.net** <br/>
 https://open-access.net
 </td><td markdown="1">
-Plattform mit umfassende Informationen zum Thema Open-Access, initiert im Rahmen eines DFG-Projektes in Kooperation mehrerer Universitäten in Deutschland.
+Plattform mit umfassenden Informationen zum Thema Open-Access, initiert im Rahmen eines DFG-Projektes in Kooperation mehrerer Universitäten in Deutschland.
 </td></tr>
 <tr><td markdown="1">
 *Deutsch* <br/>
@@ -114,11 +141,9 @@ Interessante Artikel sind z.B.
 **Joshua Tauberer (2014): Open Government Data: The Book** <br/>https://opengovdata.io/
 </td><td markdown="1">
 Ein Online-Buch von ca. 196 Seiten zu den Prinzipien und der Geschichte
-von Open Government Data. Es behandelt das Thema vornehmlich U.S.-Amerikanischer Sicht.
-
+von Open Government Data. Es behandelt das Thema vornehmlich U.S.-amerikanischer Sicht.
 </td>
 </tr>
-
 
 </table>
 
@@ -131,6 +156,26 @@ von Open Government Data. Es behandelt das Thema vornehmlich U.S.-Amerikanischer
 <th>Website</th>
 <th>Beschreibung</th>
 </tr>
+
+</tr>
+
+<tr><td markdown="1">
+*Englisch*
+**Center for Open Science (COS)**
+https://cos.io/
+https://osf.io/
+</td><td markdown="1">
+Das COS ist eine Non-Profit-Organisation mit Sitz in den USA mit dem Ziel, die Offenheit, Integrität und Reproduzierbarkeit von wissenschaftlicher Forschung zu erhöhen. Mit dem [*Open Science Framework*](https://osf.io/) stellt sie ein freie Software zur Verwaltung und organisistion wissenschaftlicher Projekte bereit.
+</td></tr>
+</tr>
+<tr><td markdown="1">
+*Deutsch*
+**CODE for Germany**
+https://www.codefor.de/
+(international: https://codeforall.org/)
+</td><td markdown="1">
+Programm der Open Knowlege Foundation Deutschland mit dem Ziel, Open Data, Transparenz und Civic Tech zu fördern. Im Rahmen dessen sind viele Projekte und Arbeitsgruppen in verschienden Städten entstanden, die sich regelmäßig treffen um an nützlichen Anwendungen für offene Daten zu arbeiten. Viele Projekte haben einen Citizen Science-Character, siehe https://www.codefor.de/projekte/.
+</td></tr>
 <tr><td markdown="1">
 *Englisch / Deutsch* <br/>
 **Open Knowlege Inernational** https://okfn.org/
@@ -154,15 +199,11 @@ Zweige von Open Knowlege Inernational **im deutschspragem Raum:**
 Das ODI ist eine gemeinnützige Institution mit Hauptsitz in London/UK,
 die international mit Unternemen, Regierungen um ein
 *"offenes, vertrauenswürdiges Daten-Ökosystem"* zu erschaffen.
-
 </td></tr>
-
 </table>
 
-https://www.codefor.de/
-https://www.codefor.de/projekte/
-Center for Open Science
-https://cos.io/
+
+
 
 <a href="#">&uArr; nach oben</a>
 
@@ -247,6 +288,7 @@ https://choosealicense.com/appendix/
 </table>
 
 <a href="#">&uArr; nach oben</a>
+
 <!--
 <table>
 <tr>
