@@ -2,11 +2,14 @@
 title: 'Weiterführende Materialien'
 media_order: 'Kartengestaltung.PNG,OGE-Tutorial_Dateiformate.pdf,OGE-Tutorial_Kartengestaltung.pdf,OGE-Tutorial_Kartographie.pdf,OGE-Tutorial_KNE_Koordinaten.pdf,OGE-Tutorial_UML_Vorlesung.pdf,OGE-Tutorial_UML_Übung.pdf,OGE_Tutorial_OGC_WxS.pdf,OGC_Logo_2D_Blue.png,anwendungsfall.png'
 menu: Tutorials
+twitterenable: true
+twittercardoptions: summary
+facebookenable: true
 category:
     - docs
 ---
 
-![](/images/tutorial.png?resize=125&classes=float-left-m-2) Auf diser Seite finden Sie ausführliche Hilfestellungen zu verschiedenen Themen und Aufgaben in Geo-Informationssystemen.
+Auf diser Seite finden Sie ausführliche Hilfestellungen zu verschiedenen Themen und Aufgaben in Geo-Informationssystemen.
 
 Verfügbar sind:
 
@@ -46,6 +49,8 @@ Verfügbar sind:
     <div class="col-sm-3" markdown="1"></div>
 </div>
 
+---
+
 ## Modellierung
 
 <div class="row align-items-center">
@@ -66,6 +71,8 @@ Verfügbar sind:
     <div class="col-sm-3" markdown="1"></div>
 </div>
 
+---
+
 ## Koordinaten
 
 <div class="row align-items-center">
@@ -78,6 +85,8 @@ Verfügbar sind:
     </div>
     <div class="col-sm-3" markdown="1"></div>
 </div>
+
+---
 
 ## Datenformate
 
@@ -106,6 +115,8 @@ Verfügbar sind:
     </div>
 </div>
 
+---
+
 ## OGC-Webservices
 
 <div class="row align-items-center">
@@ -119,6 +130,8 @@ Verfügbar sind:
     <div class="col-sm-3" markdown="1">![](OGC_Logo_2D_Blue.png)</div>
 </div>
 
+---
+
 ## Lizenzen
 
 <div class="row align-items-center">
@@ -130,6 +143,8 @@ Verfügbar sind:
     </div>
     <div class="col-sm-3" markdown="1">![](CreativeCommons_logo.png)</div>
 </div>
+
+---
 
 [center]
 ## Wir arbeiten unter Hochdruck daran weitere Tutorials bereitzustellen!
