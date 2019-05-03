@@ -1,5 +1,8 @@
 ---
 title: Lizenzen
+routable: false
+cache_enable: true
+visible: false
 twitterenable: true
 twittercardoptions: summary
 articleenabled: false
