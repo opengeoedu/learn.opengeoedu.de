@@ -22,7 +22,7 @@ Die Einträge bestehen jeweils aus einem Tag, der eine Kombination von Schlüsse
 ![](ways.png?width=500)
 [/ui-tab]
 [ui-tab title="Relations (Verknüpfungen)"]
-![](Relations.png?width=500)
+![](relations.png?width=500)
 
 [/ui-tab]
 [/ui-tabs]
