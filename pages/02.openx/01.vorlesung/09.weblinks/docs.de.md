@@ -180,14 +180,14 @@ Hier finden Sie eine kommentierte Auswahl von externen Websites und Resourcen mi
   </td></tr>
   <tr><td markdown="1">
   *Englisch / Deutsch* <br/>
-  **Open Knowlege Inernational** https://okfn.org/
+  **Open Knowlege International** https://okfn.org/
   </td><td markdown="1">
   Open Knowlege International ist eine globale gemeinnützige Organisation mit
   dem Ziel, den Wert von Open Data für die Gesellschaft zu erschließen. Sie
   hilft Gruppen der Zivilgesellschaft, Zugang zu Daten zu erhalten und diese
   zu nutzen, um Maßnahmen zur Lösung sozialer Probleme zu ergreifen.
 
-  Zweige von Open Knowlege Inernational **im deutschspragem Raum:**
+  Zweige von Open Knowlege International **im deutschspragem Raum:**
 
   - Open Knowledge Foundation Deutschland e. V. https://okfn.de/
   - Open Knowledge Österreich https://okfn.at/
