@@ -13,6 +13,8 @@ Mit der Bereitstellung von Kartendaten befassen sich globale Projekte wie [OpenS
 
 Unter dem Begriff **Citizen Science** werden wissenschaftliche Projekte von interessierten Laien betrieben. Im Rahmen von [Luftdaten.info](https://luftdaten.info/), [Openair.Cologne](https://openair.cologne) und [OpenSenseMap](https://opensensemap.org/]) werden beispielsweise Luftdaten (z.B. Temperatur, Feuchte, Feinstaub, Stickoxide) mithilfe einfacher Sensoren erhoben, ausgewertet und öffentlich bereitgestellt. Das Projekt [blitzortung.org](http://de.blitzortung.org) ortet mithilfe von Empfangsstationen weltweit Blitze und Gewitter in Echtzeit.
 
+! Viele weitere Beispiele für Citizen Science-Projekte und Crowdsourcing sind im [Wiki von *Forschungsdaten.org*](http://www.forschungsdaten.org/index.php/Citizen_Science) aufgeführt.
+
 
 <!-- Exemplarisch sind hier einige relevante Projekte vorgestellt:
 

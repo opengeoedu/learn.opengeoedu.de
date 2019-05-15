@@ -23,3 +23,8 @@ published: false
 
 
 </style>
+
+
+
+Salzburger Erklärun vom  29.10.2018
+https://www.data.gv.at/infos/cooperation-ogd-oesterreich/

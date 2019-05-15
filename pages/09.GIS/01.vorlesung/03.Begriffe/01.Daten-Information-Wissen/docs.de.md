@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
 ---
-![Daten Wissen Information](GIS3.png?lightbox&resize=300&classes=left)
+![Daten Wissen Information](GIS3.png?lightbox&resize=300)
 **Daten**: Zeichen, die durch einen Computer gespeichert, verglichen, verarbeitet und geschrieben werden können. Erweitertes Verständnis von Zeichen schließt Bilder, Texte, Graphiken, Symbole etc. ein.
 
 **Information**: Zweckbezogenes Wissen als Ergebnis der Anwendung von Transformationen, Regeln und Wissen von demjenigen, der mit den Daten vertraut ist, um daraus neue Fakten und interpretierbare Ergebnisse in einem gegebenen Rahmen zu erstellen.
