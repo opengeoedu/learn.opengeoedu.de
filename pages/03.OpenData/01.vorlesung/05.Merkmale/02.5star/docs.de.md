@@ -6,8 +6,12 @@ taxonomy:
 slug: 5star
 ---
 
-![](5-star-steps.png?width=600)
-
+<figure class="image-caption">
+  <div markdown="1">
+  ![](5-star-steps.png?width=600)
+  </div>
+  <figcaption>[https://5stardata.info].</figcaption>
+</figure>
 Das 5-Sterne-Modell für Offene Daten definiert die Qualität von Daten, insbesondere hinsichtlich ihrer technischen Offenheit und Interoperabilität. Demnach gibt es fünf aufeinander aufbauende Stufen, denen jeweils Kriterien zugeordnet sind, welche ein Datensatz zu erfüllen hat. Für jede erfüllte Stufe erlangt der Datensatz einen Stern.
 
 Eine 3-Sterne-Bewertung entspricht grundlegenden Forderungen der [Open Definition](/opendata/vorlesung/merkmale), nämlich Verfügbarmachung unter einer offenen Lizenz **(Stern&nbsp;1)** und die Verwendung eines maschinenlesbaren **(Stern&nbsp;2)** und offenen, nicht proprietären **(Stern&nbsp;3)** Datenformates.
