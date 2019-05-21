@@ -5,7 +5,7 @@ taxonomy:
     category: docs
 ---
 
-OpenStreetMap-Daten sind in weiten Teilen der Welt, einschließlich der DACH-Region, bereits sehr umfangreich und detailiert. Offenheit und Kooperation von Staat und Gesellschaft ermöglichen auch hybride Datenprodukte, etwa aus OpenStreetMap- und Verwaltungsdaten, die einen zusätzlichen Mehrwert für die Öffentlichkeit darstellen.
+OpenStreetMap-Daten sind in weiten Teilen der Welt, einschließlich der DACH-Region, bereits sehr umfangreich und detailliert vorhanden. Offenheit und Kooperation von Staat und Gesellschaft ermöglichen auch hybride Datenprodukte, etwa aus OpenStreetMap- und Verwaltungsdaten, die einen zusätzlichen Mehrwert für die Öffentlichkeit darstellen.
 
 ## OSM in Rostock
 Die folgende Abbildung zeigt einen Ausschnitt aus OpenStreetMap am Standort Rostock.
