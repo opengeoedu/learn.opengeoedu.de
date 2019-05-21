@@ -53,7 +53,7 @@ personenabled: false
 facebookenable: true
 ---
 
-[owl-carousel items=1 loop=true autoplay=true autoplayHoverPause=true margin=15 responsive={0:{items:1},640:{items:2},1900:{items:3}}]
+[owl-carousel items=1 autoplay=true autoplayHoverPause=true margin=15]
 [plugin:youtube](https://youtu.be/yYoiGUOCyE8)
 [/owl-carousel]
 
