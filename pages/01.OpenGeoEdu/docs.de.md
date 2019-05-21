@@ -52,8 +52,7 @@ orgaratingenabled: false
 personenabled: false
 facebookenable: true
 ---
-
-<div style="width:300">
+<div style="width:300px">
     [plugin:youtube](https://www.youtube.com/watch?v=yYoiGUOCyE8)
 </div>
 
