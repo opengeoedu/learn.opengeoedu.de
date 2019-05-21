@@ -53,9 +53,9 @@ personenabled: false
 facebookenable: true
 ---
 
-<!-- [owl-carousel items=1 loop=true autoplay=true autoplayHoverPause=true margin=15 responsive={0:{items:1},640:{items:2},1900:{items:3}}]
-[plugin:youtube](
-[/owl-carousel] -->
+[owl-carousel items=1 loop=true autoplay=true autoplayHoverPause=true margin=15 responsive={0:{items:1},640:{items:2},1900:{items:3}}]
+[plugin:youtube](https://youtu.be/yYoiGUOCyE8)
+[/owl-carousel]
 
 Der offene Onlinekurs OpenGeoEdu besteht aus mehreren Kursteilen, die in unterschiedlicher Kombination frei zusammengestellt
 werden können. Jeder Kursteil besteht aus einem theoretischen Unterbau (i.d.R. als Vorlesung mit einem Wissenstest zum Abschluss
