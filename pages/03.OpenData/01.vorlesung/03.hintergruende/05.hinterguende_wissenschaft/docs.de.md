@@ -6,7 +6,7 @@ taxonomy:
         - docs
 ---
 
-Der Soziologe Robert K. Merton definierte in den 1940er Jahren vier Normen ethischer Wissenschaft (*communism, universalism, disinterestedness, organized scepticism*, kurz C. U. D. O. S.)  ([Reinhart, 2012](../literatur#reinhart2012)). Eines dieser Prinzipien, eine Art *Wissenskommunismus*, beinhaltete die Forderung, dass das Produkt wissenschaftlicher Arbeit, das Wissen, in den gemeinsamen Besitz aller übergehen soll, während sich der Besitzanspruch des Einzelnen auf soziale Anerkennung (z.B. Preise, Namensgebung, zitieren des Autors) beschränkt.
+Der Soziologe Robert K. Merton definierte in den 1940er Jahren vier Normen ethischer Wissenschaft (*communism, universalism, disinterestedness, organized scepticism*, kurz C. U. D. O. S.)  ([Reinhart, 2012](/opendata/vorlesung/literatur#reinhart2012)). Eines dieser Prinzipien, eine Art *Wissenskommunismus*, beinhaltete die Forderung, dass das Produkt wissenschaftlicher Arbeit, das Wissen, in den gemeinsamen Besitz aller übergehen soll, während sich der Besitzanspruch des Einzelnen auf soziale Anerkennung (z.B. Preise, Namensgebung, zitieren des Autors) beschränkt.
 
 Forderungen zur Offenlegung von wissenschaftlichen Daten finden sich bereits in den 1970er Jahren in Vereinbarungen der NASA mit ihren internationalen Partnern, sowie in den 1990er Jahren im Zuge einer Diskussion um einen *offenen und freien internationalen Austausch von wissenschaftlichen Daten* (insbesondere umweltbezogene und meteorologische Daten), zu dessen Befürwortern u. a. der Nationale Forschungsrat der USA, die OECD (Organisation für wirtschaftliche Zusammenarbeit und Entwicklung) und die WMO (Weltorganisation für Meteorologie) zählten.
 
