@@ -3,27 +3,12 @@ title: 'Merkmale offener Daten'
 taxonomy:
     category:
         - docs
+slug: merkmale
 ---
 
-<style>
-  #schaubild_offenheit g:hover path {
-    fill: #bcd16f !important;
-    cursor: pointer;
-  }
-
-  #schaubild_offenheit g:hover text {
-       font-weight: bold;
-  }
-
-  .schaubild_offenheit_hovered{
-    fill: #bcd16f !important;
-    background: #bcd16f !important;;
-  }
-
-  #schaubild_offenheit{
-    text-align: center;
-  }
-</style>
+{assets:css}
+schaubild_offenheit.css
+{/assets}
 
 !!! Offene Daten sind Daten, die von jedem und zu jedem Zweck genutzt, verändert und weitergegeben werden können.
 
@@ -47,19 +32,14 @@ Akzeptabel sind solche Nutzungseinschränkungen, die zur Kenntlichmachung der Ur
 Die Open Definition legt hierfür ausführliche Konventionen fest und führt eine Liste existierender Standard-Lizenzen an, die konform sind ([http://opendefinition.org/licenses/](http://opendefinition.org/licenses/)).
 [/ui-accordion-item]
 [ui-accordion-item title="Technische Offenheit" classes="of_tech"]
-Die Daten sollten *als Ganzes* verfügbar sein, bevorzugt zum kostenlosen Download. Sie sollten *maschinenlesbar* sein, sodass sie von einem Computer verarbeitet werden können und dabei für jedes einzelne Datenelement Zugriff und Veränderung möglich sind. Daten sollten in einem *offenem Format* vorliegen, das mit wenigstens einem Free/Libre/Open Source Software Tool verarbeitet werden kann.
+Die Daten sollten *als Ganzes* verfügbar sein, bevorzugt zum kostenlosen Download. Sie sollten *maschinenlesbar* sein, sodass sie von einem Computer verarbeitet werden können und dabei für jedes einzelne Datenelement Zugriff und Veränderung möglich sind. Daten sollten in einem *offenem Format* vorliegen, das mit wenigstens einem Free/Libre/Open Source-Programm oder -Werkzeug verarbeitet werden kann.
 [/ui-accordion-item]
 [/ui-accordion]
 </p>
 </div>
 
-#### Interoperabilität im Kontext des 5-Star-Open Data Modells
 
-Die meisten Open Data Richtlinien beinhalten ähnliche Vorgaben wie die Open Definition, fügen dem aber noch weitere Kriterien an die "Offenheit" hinzu oder konkretisieren diese. So setzt **technische Offenheit** Interoperabilität der Daten voraus, d.h. die Möglichkeit, gemeinsam verschiedenartige Daten und Systeme in einen einzigen Arbeitsablauf zu integrieren. Dabei wird zwischen technischer, syntaktischer und semantischer Interoperabilität unterschieden, die jeweils separat und oft branchenspezifisch durch standardisierte Schnittstellen, Webservice-Spezifikationen, Datenformate und Datenmodelle adressiert werden müssen. Ist Interoperabilität nicht gegeben, ist es mitunter unmöglich oder sehr aufwändig, verschiedene Datensätze miteinander zu verknüpfen oder mit einer besonderen Software zu verarbeiten.
 
-![](5-star-steps.png?width=600)
-
-Das 5-Sterne-Modell für Offene Daten definiert die Qualität von Daten, insbesondere hinsichtlich ihrer technischen Offenheit. Danach gibt es fünf aufeinander aufbauende Stufen, denen jeweils Kriterien zugeordnet sind, welche ein Datensatz zu erfüllen hat. Für jede erfüllte Stufe erlangt der Datensatz einen Stern. Weitere Informationen dazu können auf [5stardata.info](https://5stardata.info/de/) nachlesen.
 
 <!--
 ------------------------------

@@ -77,7 +77,7 @@ Die erste Ziffer der Gemeindekennziffer steht dabei für das Bundesland, die nä
 
 Für statistische Erhebungen ist jeder Gemeinde ein Gemeindecode (GCD) zugeordnet sowie ein Status (SR = Statutarstadt, ST = Stadtgemeinde, M = Marktgemeinde und blank = Gemeinde ohne Status).
 
-Die dreistellige Kennziffer des Politischen Bezirkes setzt sich zusammen aus einer Stelle für das Bundesland (1 für Burgenland, 2 für Kärnten, 3 für NÖ, 4 für OÖ, 5 für Salzburg, 6 für Steiermark, 7 für Tirol, 8 für Vorarlberg und 9 für Wien) plus 2-stelliger Laufnummer, wobei die Statutarstädte den Landbezirken vorangestellt sind. 
+Die dreistellige Kennziffer des Politischen Bezirkes setzt sich zusammen aus einer Stelle für das Bundesland (1 für Burgenland, 2 für Kärnten, 3 für Niederösterreich, 4 für Oberösterreich, 5 für Salzburg, 6 für Steiermark, 7 für Tirol, 8 für Vorarlberg und 9 für Wien) plus 2-stelliger Laufnummer, wobei die Statutarstädte den Landbezirken vorangestellt sind. 
 
 (vgl. http://statistik.at/web_de/klassifikationen/regionale_gliederungen/politische_bezirke/index.html)
 

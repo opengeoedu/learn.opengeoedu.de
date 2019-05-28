@@ -1,5 +1,6 @@
 ---
 title: Literatur
+slug: literatur
 taxonomy:
     category:
         - docs
