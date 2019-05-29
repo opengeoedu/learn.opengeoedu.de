@@ -16,4 +16,4 @@ Inzwischen gibt es auch sogenannte **Data journals*, in denen Forschungsdaten pu
 * Data in Brief: http://www.journals.elsevier.com/data-in-brief
 * Data: http://www.mdpi.com/journal/data
 
-!!!!! Hinweis: <br/>In der [Übung Offene Datenrepositorien im Kursteil Offenheit](/openx/uebung) beschäftigen wir uns mit der Suche nach offenen Forschungsdaten. 
+!!!!! In der [Übung Offene Datenrepositorien im Kursteil Offenheit](/openx/uebung) beschäftigen wir uns mit der Suche nach offenen Forschungsdaten. 
