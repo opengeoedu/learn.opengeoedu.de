@@ -19,8 +19,8 @@ In **Österreich** ist die digitale Verwaltungskarte [basemap.at](https://basema
 
 
 <figure class="image-caption float-left padding-right">
-<div markdown="1" class="caption">
-    ![Geobasisdaten-Uebersicht](geobasislaender.png)
+<div class="caption">
+    <img alt="Geobasisdaten-Uebersicht" src="geobasislaender.png"></img>
     </div>
 <figcaption>&Ouml;ffentliche Verf&uuml;gbarkeit von Geobasisdaten in den deutschen Bundesl&auml;ndern. Gr&uuml;n: Komplett offen. Gelb: Teilweise offen. Orange: Nicht offen. Grau: Nicht vorhanden. Eigene Darstellung nach A. Steiger, Stand&nbsp;30.06.2018</a></figcaption>
 </figure>
