@@ -3,6 +3,7 @@ title: 'Verfügbarkeit amtlicher Geodaten'
 taxonomy:
     category:
         - docs
+slug: amtliche-geodaten
 Menu: Verfügbarkeit
 ---
 
@@ -18,15 +19,15 @@ In **Österreich** ist die digitale Verwaltungskarte [basemap.at](https://basema
 [^1]: Die Schweiz ist kein Teilnehmer der INSPIRE-Direktive, verfügt aber über ähnliche Geodateninfrastrukturen wie die EU
 
 
-<figure class="image-caption float-left padding-right">
-<div class="caption">
-    <img alt="Geobasisdaten-Uebersicht" src="geobasislaender.png"></img>
-    </div>
-<figcaption>&Ouml;ffentliche Verf&uuml;gbarkeit von Geobasisdaten in den deutschen Bundesl&auml;ndern. Gr&uuml;n: Komplett offen. Gelb: Teilweise offen. Orange: Nicht offen. Grau: Nicht vorhanden. Eigene Darstellung nach A. Steiger, Stand&nbsp;30.06.2018</a></figcaption>
+
+
+
+<figure class="image-caption">
+        <img alt="Geobasisdaten-Uebersicht" src="amtliche-geodaten/geobasislaender.png"></img>
+        <figcaption>&Ouml;ffentliche Verf&uuml;gbarkeit von Geobasisdaten in den deutschen Bundesl&auml;ndern. Gr&uuml;n: Komplett offen. Gelb: Teilweise offen. Orange: Nicht offen. Grau: Nicht vorhanden. Eigene Darstellung nach A. Steiger, Stand&nbsp;30.06.2018</figcaption>
 </figure>
 
-
-
+<div markdown ="1">
 [ui-accordion independent=true open=none]
 [ui-accordion-item title="Übersicht zu den Bundesländern und ihren Datenzugängen"]
 | Kürzel | Bundesland             | Quelle (URL)                                                                                        |
@@ -59,3 +60,4 @@ DGM  | Digitales Geländemodell
 DOM  | Digitales Oberflächenmodell
 [/ui-accordion-item]
 [/ui-accordion]
+</div>
