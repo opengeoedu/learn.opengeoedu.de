@@ -52,10 +52,11 @@ orgaratingenabled: false
 personenabled: false
 facebookenable: true
 ---
-<div style="width:300px">
-    [plugin:youtube](https://www.youtube.com/watch?v=yYoiGUOCyE8)
-</div>
-
+<div class="row my-5">
+    <div class="col-md-6">
+        [plugin:youtube](https://www.youtube.com/watch?v=yYoiGUOCyE8)
+    </div>
+    <div class="col-md-6 mt-3">
 Der offene Onlinekurs OpenGeoEdu besteht aus mehreren Kursteilen, die in unterschiedlicher Kombination frei zusammengestellt
 werden können. Jeder Kursteil besteht aus einem theoretischen Unterbau (i.d.R. als Vorlesung mit einem Wissenstest zum Abschluss
 konzipiert) und einem praktischen Übungsteil, in dem i.d.R. die gesamte Verarbeitungskette von der Recherche nach offenen
@@ -63,6 +64,8 @@ Daten über die Aufbereitung bis zur Analyse und Visualisierung der Ergebnisse b
 Form von Fallbeispielen aufgebaut. Hier durchlaufen Sie eine Geoprozessierungskette, lernen ausgewählte Analysefunktionen
 kennen und produzieren Ergebnisse z.B. in Form thematischer Karten, die sie dann im Kontext der Fragestellung einordnen und
 interpretieren sollen.
+    </div>
+</div>
 
 Der Vorlesungsteil ist vollständig frei verfügbar, der Übungsteil ist nur mit
 [Registrierung](https://ilias.opengeoedu.de/ilias/ilias.php?lang=de&client_id=opengeoedu&cmdClass=ilaccountregistrationgui&cmdNode=ta:y&baseClass=ilStartUpGUI) zugängig, da hierfür Leistungspunkte ermittelt werden, für die ein Zertifikat zur Anrechnung als Studienleistung vergeben wird.
