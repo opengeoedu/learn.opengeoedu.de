@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-Das Zeitalter der Digitalisierung eröffnet der Wissenschaft völlig neue Möglichkeiten, aber neue Probleme und Herausforderungen. Im Folgenden werden die besonderen Anforderungen an Daten und digitalen Ressourcen für wissenschaftlichen Gebrauch beschrieben.
+Das Zeitalter der Digitalisierung eröffnet der Wissenschaft völlig neue Möglichkeiten, aber auch neue Probleme und Herausforderungen. Im Folgenden werden die besonderen Anforderungen an Daten und digitale Ressourcen für den  wissenschaftlichen Gebrauch beschrieben.
 
 ![illustration](knowledge-1052011_640.jpg?width=400)
 <!--

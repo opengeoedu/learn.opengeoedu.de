@@ -10,9 +10,9 @@ Was ist das eigentlich?
 
 
 Wie laut ein Ton empfunden wird, hängt von folgenden Faktoren ab:
-* vom Schalldruck
-* von der Art des Schalls (Klang oder Geräusch)
-* von der Tonhöhe (Frequenz)
+* vom Schalldruck,
+* von der Art des Schalls (Klang oder Geräusch) und
+* von der Tonhöhe (Frequenz).
 
 Abhängig vom Hörer und dessen Wahrnehmung von Geräuschen werden gleiche Schallquellen unterschiedlich laut und/oder störend empfunden. Beziehungsweise [die Weiterleitung der Reize ist von der Modulation des Schalls abhängig.](https://upload.wikimedia.org/wikipedia/commons/d/d0/Loudness_perception.webm)
 

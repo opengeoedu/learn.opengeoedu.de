@@ -9,7 +9,7 @@ Der IÖR-Monitor stellt eine Forschungsdateninfrastruktur mit mehr als 80 Indika
 
 ! Entdecken Sie den [IÖR-Monitor](http://www.ioer-monitor.de);  Kurz Videos zum **[Was ist der Monitor der Siedlungs- und Freiraumentwicklung (IÖR-Monitor)?](https://youtu.be/70Lf00SB7fc)**
 
-Eine Mobil App ist auch im Androide Apps-store verfügbar mit allen Indikator des IÖR-Monitor
+Eine mobile App ist auch im Android Apps-store verfügbar mit allen Indikatoren des IÖR-Monitor.
 
 [![abb_mobil_app_](abb_mobil_app_.png)](https://play.google.com/store/apps/details?id=com.ioer.monitor)
 

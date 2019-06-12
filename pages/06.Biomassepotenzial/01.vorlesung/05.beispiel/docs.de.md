@@ -10,7 +10,7 @@ menu: 'Beispiel'
 
 In diesem Kapitel zeigen wir exemplarisch anhand von Getreidestroh auf, welche Kernfragen Sie beantworten müssen bevor Sie eine Potenzialberechnung durchführen. Um das technische Potenzial zu berechnen und vor allem um Aussagen über die Erschließung des ungenutzten technischen Potenzials machen zu können, sind diese Kernfragen / Bearbeitungsschritte ausschlaggebend:
 
-- Welche Einzelbiomassen werden berücksichtig? Um welche Art von Biomasse handelt es sich?
+- Welche Einzelbiomassen werden berücksichtigt? Um welche Art von Biomasse handelt es sich?
 - Welche Restriktionen und Nutzungskonkurrenzen müssen beachtet werden?
 - Welche energetischen Nutzungspfade für die Biomasse gibt es?
 - Welche Faktoren sind zur Potenzialberechnung notwendig?

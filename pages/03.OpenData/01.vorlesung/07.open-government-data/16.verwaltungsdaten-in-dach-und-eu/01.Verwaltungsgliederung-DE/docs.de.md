@@ -25,9 +25,9 @@ slug: adm_de
 
 
 
-Die administrativ-politische Gliederung in Deutschland ist hierarchisch aufgebaut ([https://www.haushaltssteuerung.de/lexikon.html](https://www.haushaltssteuerung.de/lexikon.html)). Es wird zwischen 6 admistrativen Ebenden (ADM) unterschieden: Staat, Länder, Regierungsbezirke, Kreise, Verwaltungsgemeinschaften und Gemeinden. (Abbildung links)
+Die administrativ-politische Gliederung in Deutschland ist hierarchisch aufgebaut ([https://www.haushaltssteuerung.de/lexikon.html](https://www.haushaltssteuerung.de/lexikon.html)). Es wird zwischen 6 administrativen Ebenen (ADM) unterschieden: Staat, Länder, Regierungsbezirke, Kreise, Verwaltungsgemeinschaften und Gemeinden. (Abbildung links)
 
-Die Verwaltungsebenen sind mit Ausnahme der Regierungsbezirksebene flächendeckend aufgebaut. Hierfür sind die kreisfreien Städte zusätzlich in die Gemeinde- und Verwaltungsgemeinschaftsebene und die gemeinschaftsfreien Gemeinden in die Verwaltungsgemeinschaftsebene aufgenommen worden (schrafierte Elemente).
+Die Verwaltungsebenen sind in Deutschland - mit Ausnahme der Regierungsbezirksebene - flächendeckend aufgebaut. Hierfür sind die kreisfreien Städte zusätzlich in die Gemeinde- und Verwaltungsgemeinschaftsebene und die gemeinschaftsfreien Gemeinden in die Verwaltungsgemeinschaftsebene aufgenommen worden (schraffierte Elemente).
 
 <div class="row align-items-center">
    <div class="col-md-5" style="padding:0">
@@ -65,7 +65,7 @@ Der **Landkreis** (in Nordrhein-Westfalen der Kreis) ist die nächste Gliederung
 [/ui-accordion-item]
 
 [ui-accordion-item title="Gemeinde- und Kommunalverbände"]
-**Gemeinde- und Kommunalverbände** sind Zusammenschlüsse von Gemeinden, die bestimmte kommunale Aufgaben für die gemeindeverbandsangehörigen Gemeinden erbringen. Dazu zählen die Landkreise (in Nordrhein-Westfalen die Kreise), die Ämter, Samtgemeinden, Verbandsgemeinden sowie die Bezirksverbände. Es wird also unterschieden zwischen Gemeindeverbänden auf Kreisebene (ADM 4) und unterhalb der Kreisebene (ADM 5). Oberhalb der Kreisebene gibt es außerdem sogenannte Kommunalverbände höhrerer Ordnung, bestehend aus Kommunalverbänden und kreisfreien Städten. Dazu zählen die  Landschaftsverbände in Nordrhein-Westfalen, die Landeswohlfahrtsverbände in Baden-Württemberg und Hessen sowie die bayerischen Bezirke.
+**Gemeinde- und Kommunalverbände** sind Zusammenschlüsse von Gemeinden, die bestimmte kommunale Aufgaben für die gemeindeverbandsangehörigen Gemeinden erbringen. Dazu zählen die Landkreise (in Nordrhein-Westfalen die Kreise), die Ämter, Samtgemeinden, Verbandsgemeinden sowie die Bezirksverbände. Es wird also unterschieden zwischen Gemeindeverbänden auf Kreisebene (ADM 4) und unterhalb der Kreisebene (ADM 5). Oberhalb der Kreisebene gibt es außerdem sogenannte Kommunalverbände höherer Ordnung, bestehend aus Kommunalverbänden und kreisfreien Städten. Dazu zählen die  Landschaftsverbände in Nordrhein-Westfalen, die Landeswohlfahrtsverbände in Baden-Württemberg und Hessen sowie die bayerischen Bezirke.
 
 (siehe auch https://www.haushaltssteuerung.de/lexikon-gemeindeverbaende.html, http://www.bpb.de/nachschlagen/lexika/recht-a-z/22466/kommunalverbaende, https://www.destatis.de/DE/ZahlenFakten/GesellschaftStaat/OeffentlicheFinanzenSteuern/OeffentlicheFinanzen/Glossar/Gemeindeverband.html)
 [/ui-accordion-item]
@@ -120,7 +120,7 @@ Bei verbandsfreien Gemeinden wird im Verbandsschlüssel nach der 0 der 3-stellig
 
 Bundesamt für Kartographie und Geodäsie: Hinweise zur Verwaltungsgliederung. Anhang zur Spezifikation der VG-Produkte gültig ab 31.12.2012 (online unter: http://www.geodatenzentrum.de/docpdf/verwaltungsgliederung_vg.pdf)
 
-Gnädiger, Anreas & Gnädinger, Marc: Haushaltssteuerung.de – Portal zur öffentlichen Haushalts- und Finanzwirtschaft (online unter: https://www.haushaltssteuerung.de/lexikon.html)
+Gnädiger, Andreas & Gnädinger, Marc: Haushaltssteuerung.de – Portal zur öffentlichen Haushalts- und Finanzwirtschaft (online unter: https://www.haushaltssteuerung.de/lexikon.html)
 
 Statistisches Bundesamt (2013)[Hrsg.]: Glossar statistischer Fachbegriffe - Glossary of  statistical terms. Wiesbaden. (online unter: [https://www.destatis.de/GPStatistik/servlets/MCRFileNodeServlet/DEMonografie_derivate_00000180/GlossarStatFachbegriffeDE.pdf](https://www.destatis.de/GPStatistik/servlets/MCRFileNodeServlet/DEMonografie_derivate_00000180/GlossarStatFachbegriffeDE.pdf))
 

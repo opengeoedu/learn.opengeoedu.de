@@ -1,0 +1,17 @@
+#schaubild_offenheit g:hover path {
+  fill: #bcd16f !important;
+  cursor: pointer;
+}
+
+#schaubild_offenheit g:hover text {
+     font-weight: bold;
+}
+
+.schaubild_offenheit_hovered{
+  fill: #bcd16f !important;
+  background: #bcd16f !important;;
+}
+
+#schaubild_offenheit{
+  text-align: center;
+}

@@ -16,16 +16,16 @@ facebookenable: true
 
 Das Fallbeispiel fokussiert darauf, Daten- und Analysegrundlagen für eine nachhaltige Stadt- und Raumplanung zu schaffen. In praktischen Übungen und Aufgaben sollen folgende Themen auf lokaler, regionaler und nationaler Ebene beleuchtet werden:
 
-*	**Bestimmung des Siedlungs- und Verkehrsflächen (SuV)- Anteils** (mit dem OPEN ACCESS WebGIS Dienst am Beispiel des IÖR – Monitor und QGIS Umgebung)
+*	**Bestimmung des Siedlungs- und Verkehrsflächen (SuV)- Anteils** (mit dem offenen WebGIS-Dienst am Beispiel des IÖR–Monitor und mit der QGIS-Umgebung)
 *	**Berechnung von verkehrsbezogenen Flächennutzungsindikatoren** (Nutzung von OpenStreetMap und amtlichen Daten für ein GIS-Projekt)
 *	**Messung der Veränderung der Siedlungs- und Bevölkerungsdichte** (Nutzung Global Human Settlement Layer: GHSL und ArcGIS-online)
 
 
-Kurz Videos zum **Übungen** 
+Kurz Videos zu den **Übungen** 
 [owl-carousel items=1 loop=true autoplay=true autoplayHoverPause=true margin=15 responsive={0:{items:1},640:{items:2},1900:{items:3}}]
-[plugin:youtube](https://youtu.be/J2qew2aPTig)
-[plugin:youtube](https://youtu.be/MMpY0V392fY)
-[plugin:youtube](https://youtu.be/O34KAhfEMLs)
+[plugin:youtube](https://youtu.be/NuzP9f4Y1xo)
+[plugin:youtube](https://youtu.be/Twc55NtcbxA)
+[plugin:youtube](https://youtu.be/OObsu6H8k8Q)
 [/owl-carousel]
 
 

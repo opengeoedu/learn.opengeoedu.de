@@ -1,27 +1,29 @@
 ---
-title: RL in der Umsetzung
+title: Richtlinie in der deutschen Umsetzung
 taxonomy:
     category:
         - docs
 ---
+
 ## Kommunen
 
 Exemplarisch werden hier einige kommunale Lärmkartierungen und Lärmaktionspläne vorgestellt
-! https://www.rostock-wird-leiser.de/
+! Rostock: https://www.rostock-wird-leiser.de/
 
-! https://www.moers.de/de/stadtentwicklung/laermkartierung-fuer-stadt-moers/
+! Moers: https://www.moers.de/de/stadtentwicklung/laermkartierung-fuer-stadt-moers/
 
-! https://www.hamburg.de/laermkarten/
+! Hamburg: https://www.hamburg.de/laermkarten/
 
 
 ## Schienen-, Straßen- und Luftverkehr
 
 Fluglärm
-! https://www.dfld.de/
-! http://travis.hamburg-airport.de/ 
+! Deutscher Fluglärmdienst e.V.: https://www.dfld.de/
 
-Eisenbahn-Bundesamt
-! http://laermkartierung1.eisenbahn-bundesamt.de 
+! Flughafen Hamburg: http://travis.hamburg-airport.de/ 
+
+Schienenlärm
+! Eisenbahn-Bundesamt: http://laermkartierung1.eisenbahn-bundesamt.de 
 
 <!-- Ausbreitungsmodellierung Hr. Berger -->
 

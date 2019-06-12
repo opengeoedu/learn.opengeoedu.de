@@ -1,6 +1,5 @@
 ---
 title: 'Maße für Landschaftsmosaike'
-media_order: LSM_Landschaftsmosaike.JPG
 taxonomy:
     category:
         - docs

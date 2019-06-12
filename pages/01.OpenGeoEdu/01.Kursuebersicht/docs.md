@@ -35,7 +35,7 @@ anchors:
                     Open XX ausgewählte Facetten solcher Begriffsbildungen betrachten.
                     <br> Ziel der Lerneinheit ist es die wesentlichen Begriffe und Strömungen kennenzulernen und diese
                     einordnen
-                    zu können. In der Übung setzen Sie sich intensiver mit Open Access und Open Source Software
+                    zu können. In der Übung setzen Sie sich intensiver mit Open Access, Open Repository und Open Source Software
                     auseinander.
                 </p>
             </div>
@@ -55,7 +55,7 @@ anchors:
                     Übung betrachten
                     und vergleichen Sie offene Datenportale und lernen wie offene Daten aufbereitet und einer Nutzung,
                     zumeist
-                    in einem Geo-Informationssystem (GIS) zugeführt werden.
+                    in einem Geo-Informationssystem (GIS) zugeführt werden. Dies wird am Beispiel von Verwaltungsgebietsgrenzen illustriert, da diese für viele unserer Fallbeispiele eine wichtige Rolle spielen.
                 </p>
             </div>
         </div>
@@ -69,7 +69,7 @@ anchors:
                 <a href="#" data-toggle="collapse" data-target="#gisdetails">Details...</a>
                 <p id="gisdetails" class="collapse text-justify">
                     Dieser Kursteil stellt die wesentlichen Grundbegriffe und die Prozessierungskette in GIS vor.
-                    <br> Mit kleinen Fallbeispielen werden verschiedene Schritte der GIS-Verarbeitungskette
+                    <br> Mit kleinen Fallbeispielen (z.B. zu Wetterdaten oder den Sustainable Development Goals) werden verschiedene Schritte der GIS-Verarbeitungskette
                     verdeutlicht, die
                     in den sonstigen Kursteilen ebenfalls genutzt werden. Dieser Kursteil ist besonders Nutzern
                     nahezulegen,
@@ -120,7 +120,7 @@ anchors:
                     Kriterien wie Reichweiten oder Käuferpotenzialen von E-Fahrzeugen zu kombinieren. So schauen wir
                     uns
                     in der Übung die Verteilung der Ladestationen und deren Erreichbarkeiten auf unterschiedlichen
-                    Skalenebenen
+                    Skalenebenen (von Lokal bis europaweit)
                     an.
                 </p>
             </div>
@@ -167,7 +167,7 @@ anchors:
                     eine gute
                     Stadt- und Raumplanung kennenlernen und in praktischen Beispielen, Aufgaben und Übungen auf
                     verschiedenen
-                    Skalenebenen arbeiten.
+                    Skalenebenen arbeiten. Zudem stellen wir Landschaftsstrukturmaße als eine Möglichkeit der mathematischen Beschreibung von Landschaften vor. 
                 </p>
             </div>
         </div>

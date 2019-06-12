@@ -23,11 +23,11 @@ Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, s
 | Level/ Schwierigkeit | [color=orange]Advanced[/color] | [color=green]Basic[/color] | [color=blue]Click-by-Click[/color] |
 <br>
 
-| Grundlagen | | | |
-|  :-----          |  :-----          |  :-----          | :----- |
+| Grundlagen | | | | |
+|  :-----          |  :-----          |  :-----          | :----- | :----- |
 |  Open XX | Open Access-Zeitschriften [Journale](OGE_Datenblatt_OpenXX_Journale.pdf?target=_blank) | Open Access-Repositories [Daten](OGE_Datenblatt_OpenXX_Repositories.pdf?target=_blank) | Open Source Software [Software](OGE_Datenblatt_OpenXX_DesktopGIS.pdf?target=_blank) |
 | Open Data  | [color=orange] [fa=fa-street-view extras=fa-2x][/color] [color=green] [fa=fa-street-view extras=fa-2x][/color] [Portalvergleich](OGE_Datenblatt_OpenData_Portalvergleich.pdf?target=_blank) | [color=orange] [fa=fa-globe-africa extras=fa-2x][/color] [color=green] [fa=fa-globe-africa extras=fa-2x][/color] [color=blue] [fa=fa-globe-africa extras=fa-2x][/color] [Verwaltungsdaten](OGE_Datenblatt_OpenData_Verwaltungsdaten.pdf?target=_blank)
-| GIS  | [color=orange] [fa=fa-street-view extras=fa-2x][/color] [color=green] [fa=fa-street-view extras=fa-2x][/color] [color=blue] [fa=fa-street-view extras=fa-2x][/color] [Geocoding](OGE_Datenblatt_Geocoding.pdf?target=_blank) | [color=orange] [fa=fa-street-view extras=fa-2x][/color] [color=green] [fa=fa-street-view extras=fa-2x][/color] [color=blue] [fa=fa-street-view extras=fa-2x][/color] [Wetterdaten](OGE_Datenblatt_Wetter.pdf?target=_blank) |  [color=orange] [fa=fa-globe-africa extras=fa-2x][/color] [color=green] [fa=fa-globe-africa extras=fa-2x][/color] [color=blue] [fa=fa-globe-africa extras=fa-2x][/color] SDG [United Nations Sustainable Development Goals](OGE_Datenblatt_SDG_Global_ABC.pdf?target=_blank) |
+| GIS  | [color=orange] [fa=fa-street-view extras=fa-2x][/color] [color=green] [fa=fa-street-view extras=fa-2x][/color] [color=blue] [fa=fa-street-view extras=fa-2x][/color] [Geocoding](OGE_Datenblatt_Geocoding.pdf?target=_blank) | [color=orange] [fa=fa-street-view extras=fa-2x][/color] [color=green] [fa=fa-street-view extras=fa-2x][/color] [color=blue] [fa=fa-street-view extras=fa-2x][/color] [Wetterdaten](OGE_Datenblatt_Wetter.pdf?target=_blank) |  [color=orange] [fa=fa-globe-africa extras=fa-2x][/color] [color=green] [fa=fa-globe-africa extras=fa-2x][/color] [color=blue] [fa=fa-globe-africa extras=fa-2x][/color] SDG [United Nations Sustainable Development Goals](OGE_Datenblatt_SDG_Global_ABC.pdf?target=_blank) | [color=orange] [fa=fa-street-view extras=fa-2x][/color] [color=green] [fa=fa-street-view extras=fa-2x][/color] [color=blue] [fa=fa-street-view extras=fa-2x][/color] [Feinstaub](OGE_Datenblatt_Feinstaub.pdf?target=_blank) |
 <br><br>
 
 | Fallbeispiele  | | | | |
