@@ -56,7 +56,7 @@ facebookenable: true
     <div class="col-md-6">
         [plugin:youtube](https://www.youtube.com/watch?v=yYoiGUOCyE8)
     </div>
-    <div class="col-md-6 mt-3" style="text-justify">
+    <div class="col-md-6 mt-3 text-justify">
 Der offene Onlinekurs OpenGeoEdu besteht aus mehreren Kursteilen, die in unterschiedlicher Kombination frei zusammengestellt
 werden können. Jeder Kursteil besteht aus einem theoretischen Unterbau (i.d.R. als Vorlesung mit einem Wissenstest zum Abschluss
 konzipiert) und einem praktischen Übungsteil, in dem i.d.R. die gesamte Verarbeitungskette von der Recherche nach offenen
