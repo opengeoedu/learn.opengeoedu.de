@@ -68,12 +68,11 @@ interpretieren sollen.
 </div>
 
 Der Vorlesungsteil ist vollständig frei verfügbar, der Übungsteil ist nur mit
-[Registrierung](https://ilias.opengeoedu.de/ilias/ilias.php?lang=de&client_id=opengeoedu&cmdClass=ilaccountregistrationgui&cmdNode=ta:y&baseClass=ilStartUpGUI) zugängig, da hierfür Leistungspunkte ermittelt werden, für die ein Zertifikat zur Anrechnung als Studienleistung vergeben wird.
+[Registrierung](https://ilias.opengeoedu.de/ilias/goto_opengeoedu_usr_registration.html) zugängig, da hierfür Leistungspunkte ermittelt werden, für die ein Zertifikat zur Anrechnung als Studienleistung vergeben wird.
 
-Auf dieser Übersichtsseite werden die Kursteile mit einem motivierenden Trailer und einer Kurzbeschreibung vorgestellt. Eine Modulbeschreibung zum offenen Online Kurs findet sich auf der nächsten Seite. Zu den einzelnen Kurs- und Übungsteilen existieren Datenblätter, die die benutzten Daten, Software, Funktionalitäten und erwartete Ergebnisse systematisch und ausführlich zusammenstellen.
+Auf dieser [Übersichtsseite](/uebersicht/kursuebersicht) werden die Kursteile mit einem motivierenden Trailer und einer Kurzbeschreibung vorgestellt. Eine [Modulbeschreibung](/uebersicht/self-assessment/OGE_Modulbeschreibung.pdf) zum offenen Online Kurs findet sich auf der nächsten Seite. Zu den einzelnen Kurs- und Übungsteilen existieren [Datenblätter](/uebersicht/datenblatt), die die benutzten Daten, Software, Funktionalitäten und erwartete Ergebnisse systematisch und ausführlich zusammenstellen.
 
-Zudem gibt es ein Werkzeug zur Selbsteinschätzung, aus dem Hinweise und Empfehlungen zur Bearbeitung der Kursteile in Abhängigkeit
-vom Vorwissen des Nutzers gegeben werden. Ebenso steht ein Workloadrechner zur Verfügung, mit dem sich der Nutzer eine Auswahl
-der zu bearbeitenden Kursteile zusammenstellen kann und die entsprechende Workload dafür abgeschätzt wird.
+Zudem gibt es ein [Werkzeug zur Selbsteinschätzung](http://test.opengeoedu.de/selfassessment.aspx), aus dem Hinweise und Empfehlungen zur Bearbeitung der Kursteile in Abhängigkeit vom Vorwissen des Nutzers gegeben werden. Ebenso steht ein [Workloadrechner](http://test.opengeoedu.de/workload.aspx) zur Verfügung, mit dem sich der Nutzer eine Auswahl der zu bearbeitenden Kursteile zusammenstellen kann und die entsprechende Workload dafür abgeschätzt wird.
+
 
 <!-- ![cc-by-sa](cc-by-sa.png) <small>Alle Inhalte auf OpenGeoEdu - Lernen mit offenen Daten sind, sofern nicht anders angegeben, lizenziert unter einer <br/> [Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](http://creativecommons.org/licenses/by-sa/4.0/)</small> -->
