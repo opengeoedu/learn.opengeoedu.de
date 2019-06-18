@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>auswertung_govdata.utf8.md</title>
+
+<script src="auswertung_govdata_files/jquery-1.12.4/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="auswertung_govdata_files/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="auswertung_govdata_files/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="auswertung_govdata_files/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="auswertung_govdata_files/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="auswertung_govdata_files/navigation-1.1/tabsets.js"></script>
+<link href="auswertung_govdata_files/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="auswertung_govdata_files/highlightjs-9.12.0/highlight.js"></script>
+<script src="auswertung_govdata_files/htmlwidgets-1.3/htmlwidgets.js"></script>
+<script src="auswertung_govdata_files/plotly-binding-4.8.0.9000/plotly.js"></script>
+<script src="auswertung_govdata_files/typedarray-0.1/typedarray.min.js"></script>
+<link href="auswertung_govdata_files/crosstalk-1.0.0/css/crosstalk.css" rel="stylesheet" />
+<script src="auswertung_govdata_files/crosstalk-1.0.0/js/crosstalk.min.js"></script>
+<link href="auswertung_govdata_files/plotly-htmlwidgets-css-1.42.5/plotly-htmlwidgets.css" rel="stylesheet" />
+<script src="auswertung_govdata_files/plotly-main-1.42.5/plotly-latest.min.js"></script>
+<script src="auswertung_govdata_files/plotly-locale-de-1.42.5/de.js"></script>
+<link href="auswertung_govdata_files/datatables-css-0.0.0/datatables-crosstalk.css" rel="stylesheet" />
+<script src="auswertung_govdata_files/datatables-binding-0.4/datatables.js"></script>
+<link href="auswertung_govdata_files/dt-core-1.10.16/css/jquery.dataTables.min.css" rel="stylesheet" />
+<link href="auswertung_govdata_files/dt-core-1.10.16/css/jquery.dataTables.extra.css" rel="stylesheet" />
+<script src="auswertung_govdata_files/dt-core-1.10.16/js/jquery.dataTables.min.js"></script>
+<link href="auswertung_govdata_files/dt-ext-responsive-1.10.16/css/responsive.dataTables.min.css" rel="stylesheet" />
+<script src="auswertung_govdata_files/dt-ext-responsive-1.10.16/js/dataTables.responsive.min.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<div id="datenformate" class="section level1">
+<h1>Datenformate</h1>
+<p>Daten zum Download werden in den unterschiedlichsten Formaten angeboten. Die Abbildung zeigt die Formate in GovData, dem Datenportal für Deutschland.</p>
+<div id="lizenzen" class="section level2">
+<h2>Lizenzen</h2>
+<p>Ein weiteres Diagramm deutet an unter welchen Lizenzen die offenen Daten in GovData stehen.</p>
+<div id="htmlwidget-34882bb270cc2189647a" style="width:672px;height:480px;" class="plotly html-widget"></div>
+<script type="application/json" data-for="htmlwidget-34882bb270cc2189647a">{"x":{"visdat":{"f747debe922":["function () ","plotlyVisDat"]},"cur_data":"f747debe922","attrs":{"f747debe922":{"labels":{},"values":{},"textinfo":"text+value","textposition":"inside","text":{},"hoverinfo":"text+value+percent","hovertext":{},"title":"Lizenzen je Datensatz (Stand:2019-03-12)","titleposition":"bottom center","alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"pie"}},"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"showlegend":true,"hovermode":"closest"},"source":"A","config":{"cloud":false,"locale":"de"},"data":[{"labels":["cc-by","cc-by-de/3.0","cc-by-nc","cc-by-nd","cc-by-nd/4.0","cc-by-sa","cc-by/4.0","cc-zero","ccpdm/1.0","dl-by-de/1.0","dl-by-de/2.0","dl-by-nc-de/1.0","dl-zero-de/2.0","geoNutz/20130319","geoNutz/20131001","odbl","officialWork","other-closed","other-freeware","other-open","k. A."],"values":[1807,2,44,1,23,71,188,442,1,68,12358,85,927,312,788,6,217,13,39,6,4115],"textinfo":"text+value","textposition":["inside","inside","inside","inside","inside","inside","inside","inside","inside","inside","inside","inside","inside","inside","inside","inside","inside","inside","inside","inside","inside"],"text":["cc-by","cc-by-de/3.0","cc-by-nc","cc-by-nd","cc-by-nd/4.0","cc-by-sa","cc-by/4.0","cc-zero","ccpdm/1.0","dl-by-de/1.0","dl-by-de/2.0","dl-by-nc-de/1.0","dl-zero-de/2.0","geoNutz/20130319","geoNutz/20131001","odbl","officialWork","other-closed","other-freeware","other-open","k. A."],"hoverinfo":["text+value+percent","text+value+percent","text+value+percent","text+value+percent","text+value+percent","text+value+percent","text+value+percent","text+value+percent","text+value+percent","text+value+percent","text+value+percent","text+value+percent","text+value+percent","text+value+percent","text+value+percent","text+value+percent","text+value+percent","text+value+percent","text+value+percent","text+value+percent","text+value+percent"],"hovertext":["Creative Commons Namensnennung (CC-BY)","Creative Commons Namensnennung 3.0 Deutschland (CC BY 3.0 DE)","Creative Commons Namensnennung - Nicht kommerziell (CC BY-NC)","Creative Commons Namensnennung - Keine Bearbeitung (CC BY-ND)","Creative Commons Namensnennung - - Keine Bearbeitung 4.0 International (CC BY-ND 4.0)","Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen (CC-BY-SA)","Creative Commons Namensnennung – 4.0 International (CC BY 4.0)","Creative Commons CC Zero License (cc-zero)","Public Domain Mark 1.0 (PDM)","Datenlizenz Deutschland Namensnennung 1.0","Datenlizenz Deutschland Namensnennung 2.0","Datenlizenz Deutschland Namensnennung nicht-kommerziell 1.0","Datenlizenz Deutschland – Zero – Version 2.0","Nutzungsbestimmungen für die Bereitstellung von Geodaten des Bundes","Nutzungsbestimmungen für die Bereitstellung von Geodaten des Landes Berlin","Open Data Commons Open Database License (ODbL)","Amtliches Werk, lizenzfrei nach §5 Abs. 1 UrhG","Andere geschlossene Lizenz","Andere Freeware Lizenz","Andere offene Lizenz","Keine Angabe"],"title":"Lizenzen je Datensatz (Stand:2019-03-12)","titleposition":"bottom center","type":"pie","marker":{"color":"rgba(31,119,180,1)","line":{"color":"rgba(31,119,180,1)"}},"frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.2,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p>Die Folgende Tabelle zeigt die Open gelisteten Lizenzen noch einmal in einer ausführlichen Liste</p>
+<div id="lizenzen_tabelle" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="lizenzen_tabelle">{"x":{"filter":"none","extensions":["Responsive"],"data":[[1807,2,44,1,23,71,188,442,1,68,12358,85,927,312,788,6,217,13,39,6,4115],["cc-by","cc-by-de/3.0","cc-by-nc","cc-by-nd","cc-by-nd/4.0","cc-by-sa","cc-by/4.0","cc-zero","ccpdm/1.0","dl-by-de/1.0","dl-by-de/2.0","dl-by-nc-de/1.0","dl-zero-de/2.0","geoNutz/20130319","geoNutz/20131001","odbl","officialWork","other-closed","other-freeware","other-open","k. A."],["Creative Commons Namensnennung (CC-BY)","Creative Commons Namensnennung 3.0 Deutschland (CC BY 3.0 DE)","Creative Commons Namensnennung - Nicht kommerziell (CC BY-NC)","Creative Commons Namensnennung - Keine Bearbeitung (CC BY-ND)","Creative Commons Namensnennung - - Keine Bearbeitung 4.0 International (CC BY-ND 4.0)","Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen (CC-BY-SA)","Creative Commons Namensnennung – 4.0 International (CC BY 4.0)","Creative Commons CC Zero License (cc-zero)","Public Domain Mark 1.0 (PDM)","Datenlizenz Deutschland Namensnennung 1.0","Datenlizenz Deutschland Namensnennung 2.0","Datenlizenz Deutschland Namensnennung nicht-kommerziell 1.0","Datenlizenz Deutschland – Zero – Version 2.0","Nutzungsbestimmungen für die Bereitstellung von Geodaten des Bundes","Nutzungsbestimmungen für die Bereitstellung von Geodaten des Landes Berlin","Open Data Commons Open Database License (ODbL)","Amtliches Werk, lizenzfrei nach §5 Abs. 1 UrhG","Andere geschlossene Lizenz","Andere Freeware Lizenz","Andere offene Lizenz","Keine Angabe"],["offen","offen","geschlossen","geschlossen","geschlossen","offen","offen","offen","offen","offen","offen","geschlossen","offen","offen","offen","offen","offen","geschlossen","geschlossen","offen","k. A."]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th>Anzahl<\/th>\n      <th>Lizenzcode<\/th>\n      <th>Name<\/th>\n      <th>Typ<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"language":{"url":"https://cdn.datatables.net/plug-ins/1.10.15/i18n/German.json","responsive":true,"bPaginate":true,"autoWidth":true,"scrollX":true},"columnDefs":[{"responsivePriority":12000,"targets":2},{"type":"range-order","targets":-1},{"className":"dt-right","targets":0}],"order":[[0,"desc"],[1,"asc"]],"pageLength":15,"autoWidth":false,"orderClasses":false,"responsive":true,"lengthMenu":[10,15,25,50,100]}},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

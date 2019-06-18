@@ -1,6 +1,6 @@
 ---
 title: Flächenmonitoring
-menu: Vorlesung
+menu: Vorlesung Flächenmonitoring
 taxonomy:
     category: docs
 ---
