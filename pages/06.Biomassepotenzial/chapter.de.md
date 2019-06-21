@@ -3,6 +3,9 @@ title: Biomassepotenzial
 taxonomy:
     category:
         - docs
+twitterenable: true
+twittercardoptions: summary
+facebookenable: true
 ---
 
 ### OpenGeoEdu Fallbeispiel
@@ -18,10 +21,3 @@ Videos zum Fallbeispiel ***Biomassepotenzial***
 [plugin:youtube](https://youtu.be/8d1_2JHQgAY)
 [plugin:youtube](https://youtu.be/3Crw79eL6QA)
 [/owl-carousel]
-
-
-<!--
-<div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="//slides.com/al-z/deck/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
--->
