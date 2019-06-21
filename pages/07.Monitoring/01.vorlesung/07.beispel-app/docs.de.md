@@ -11,6 +11,6 @@ Der IÖR-Monitor stellt eine Forschungsdateninfrastruktur mit mehr als 80 Indika
 
 Eine mobile App ist auch im Android Apps-store verfügbar mit allen Indikatoren des IÖR-Monitor.
 
-[![abb_mobil_app_](abb_mobil_app_.png)](https://play.google.com/store/apps/details?id=com.ioer.monitor)
+[![abb_mobil_app_](abb_mobil_app_.png)](https://apkpure.com/de/land-use-monitor-de/com.ioer.monitor)
 
-! **Land Use Monitor DE**:  [Verfügbar auf Google Play store](https://play.google.com/store/apps/details?id=com.ioer.monitor)
+! **Land Use Monitor DE**:  [Verfügbar auf Apkpure store](https://apkpure.com/de/land-use-monitor-de/com.ioer.monitor)
