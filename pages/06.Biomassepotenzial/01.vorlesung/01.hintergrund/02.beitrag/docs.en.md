@@ -11,9 +11,9 @@ As can be seen from the following figure, the share of renewable energies in 201
 
 As can be seen from the following figure, bioenergy contributes to the energy system in the sectors of heat (e.g. burning firewood in wood-burning stoves), electricity (e.g. from fermentation in biogas plants) and transport (e.g. bio-methane based on bio-waste for collection vehicles). For illustration purposes, the contribution of biomass to the energy system can be compared as follows:
 
-- Electricity**: the *gross electricity generation* based on biogenic resources of approx. 54 TWh corresponds to the annual output of 4 nuclear power plants.
-- Heat**: the share of biogenic resources in *end energy consumption* is approx. 139 TWh. This corresponds to approx. 15 billion litres of heating oil.
-- Transport**: the share of biofuels in final energy consumption is approx. 33 TWh. This corresponds to approx. 3.8 billion litres of petrol.
+- **Electricity**: the *gross electricity generation* based on biogenic resources of approx. 54 TWh corresponds to the annual output of 4 nuclear power plants.
+- **Heat**: the share of biogenic resources in *end energy consumption* is approx. 139 TWh. This corresponds to approx. 15 billion litres of heating oil.
+- **Transport**: the share of biofuels in final energy consumption is approx. 33 TWh. This corresponds to approx. 3.8 billion litres of petrol.
 
 When considering the final energy consumption in the transport sector, it should be noted that a significant part of the biogenic fuel or raw materials is imported.
 
