@@ -12,4 +12,4 @@ The potential levels can be translated into different potential types, which can
 - Sustainable potential
 - Developable potential
 
-![](Script_DBFZ_Potentialarten.png?lightbox=800&resize=500&classes=caption "Schematic representation of potential types. Source: own representation after Thrän and Pfeiffer 2013")
+![](Skript_DBFZ_Potenzialarten.png?lightbox=800&resize=500&classes=caption "Schematische Darstellung der Potenzialarten. Quelle: eigene Darstellung nach Thrän und Pfeiffer 2013")
