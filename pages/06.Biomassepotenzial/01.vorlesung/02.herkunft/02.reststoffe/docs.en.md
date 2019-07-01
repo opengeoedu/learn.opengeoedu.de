@@ -7,7 +7,7 @@ menu: 'Reststoffe'
 
 The group of biogenic residual and waste materials consists of a large number of individual biomasses which can be divided into five groups according to their origin (see table below).
 
-**Tabelle: Aggregationsstufen biogener Rest- und Abfallstoffe mit Auswahl an Einzelbiomassen. Quelle: basierend auf Brosowski et al. 2016**
+**Table: Aggregation stages of biogenic residual and waste materials with selection of individual biomass. Source: based on Brosowski et al. 2016**
 
 | Aggregation level | Single biomass (selection) |
 |-|-|
