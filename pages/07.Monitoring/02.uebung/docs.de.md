@@ -23,9 +23,9 @@ Das Fallbeispiel fokussiert darauf, Daten- und Analysegrundlagen für eine nachh
 
 Kurz Videos zu den **Übungen** 
 [owl-carousel items=1 loop=true autoplay=true autoplayHoverPause=true margin=15 responsive={0:{items:1},640:{items:2},1900:{items:3}}]
-[plugin:youtube](https://youtu.be/J2qew2aPTig)
-[plugin:youtube](https://youtu.be/MMpY0V392fY)
-[plugin:youtube](https://youtu.be/O34KAhfEMLs)
+[plugin:youtube](https://youtu.be/NuzP9f4Y1xo)
+[plugin:youtube](https://youtu.be/Twc55NtcbxA)
+[plugin:youtube](https://youtu.be/OObsu6H8k8Q)
 [/owl-carousel]
 
 
