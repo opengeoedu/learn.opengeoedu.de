@@ -8,6 +8,8 @@ taxonomy:
 
 Aberle, H., 2017. Hyperspectral Remote Sensing and Field Measurements for Forest Characteristics - A Case Study in the Hainich National Park, Central Germany. Georg-August-Universität Göttingen. http://hdl.handle.net/11858/00-1735-0000-0023-3DD5-8
 
+Aberle, H, Hovenbitzer, M., 2019. (E-)Lernen mit offenen Geo- und Fernerkundungsdaten. AGIT - Journal für Angewandte Informatik, 5-2019, 116-124. https://doi.org/10.14627/537669010
+
 Ackermann, J., Adler, P., Engels, F., Hoffmann, K., Jütte, K., Rüffer, O., Sagischewski, H., Seitz, R., 2014. Forstliche Fernerkundung in den Bundesländern auf neuen Wegen. AFZ-Der Wald 9, 9–11.
 
 Bannari, A., Morin, D., Bonn, F., Huete, A.R., 1995. A review of vegetation indices. Remote Sens. Rev. 13, 95–120. https://doi.org/10.1080/02757259509532298
