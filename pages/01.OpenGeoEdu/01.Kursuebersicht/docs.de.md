@@ -17,6 +17,10 @@ anchors:
     active: false
 ---
 
+Auf dieser [Übersichtsseite](/uebersicht/kursuebersicht) werden die Kursteile mit einem motivierenden Trailer und einer Kurzbeschreibung vorgestellt. Eine [Modulbeschreibung](/uebersicht/self-assessment/OGE_Modulbeschreibung.pdf) zum offenen Online Kurs findet sich auf der nächsten Seite. Zu den einzelnen Kurs- und Übungsteilen existieren [Datenblätter](/uebersicht/datenblatt), die die benutzten Daten, Software, Funktionalitäten und erwartete Ergebnisse systematisch und ausführlich zusammenstellen.
+
+Zudem gibt es ein [Werkzeug zur Selbsteinschätzung](http://test.opengeoedu.de/selfassessment.aspx), aus dem Hinweise und Empfehlungen zur Bearbeitung der Kursteile in Abhängigkeit vom Vorwissen des Nutzers gegeben werden. Ebenso steht ein [Workloadrechner](http://test.opengeoedu.de/workload.aspx) zur Verfügung, mit dem sich der Nutzer eine Auswahl der zu bearbeitenden Kursteile zusammenstellen kann und die entsprechende Workload dafür abgeschätzt wird.
+
 <div class="container">
     <div class="row flex-wrap card-deck">
         <div class="card m-2" id="openxx">

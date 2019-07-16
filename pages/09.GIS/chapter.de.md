@@ -17,9 +17,9 @@ facebookenable: true
 # Einführung in <br>Geo-Informationssysteme
 
 [owl-carousel items=1 loop=true autoplay=true autoplayHoverPause=true margin=15 responsive={0:{items:1},640:{items:2},1900:{items:3}}]
-[plugin:youtube](https://youtu.be/BEttcbmRMvE)<!-- punkt in polygon -->
-[plugin:youtube](https://youtu.be/zW0w5CVujUs)<!-- Flächenverschneidung -->
-[plugin:youtube](https://youtu.be/VrKVnoOtX5g)<!-- Aggregation -->
+[plugin:youtube](https://youtu.be/AJNEp0kHocA)<!-- Teaser -->
+[plugin:youtube](https://youtu.be/4KRFPHKOkjQ)<!-- lecture -->
+[plugin:youtube](https://youtu.be/3ORqTKuRHik)<!-- uebung -->
 [/owl-carousel]
 
 

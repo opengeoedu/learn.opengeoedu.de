@@ -8,11 +8,11 @@ twittercardoptions: summary
 facebookenable: true
 ---
 
-### OpenGeoEdu Fallbeispiel
+### OpenGeoEdu case study
 
-# Biomassepotenzial
+# Biomass potential
 
-Videos zum Fallbeispiel ***Biomassepotenzial***
+Videos of the case study ***Biomass potential***
 
 [owl-carousel items=1 loop=true autoplay=true autoplayHoverPause=true margin=15 responsive={0:{items:1},640:{items:2},1900:{items:3}}]
 [plugin:youtube](https://youtu.be/_a8ZzX2gnE4)
