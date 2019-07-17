@@ -16,6 +16,9 @@ Grundsätzlich lassen sich Fernerkundungssensoren in zwei Gruppen einteilen:
 
 Bei den passiven optischen Sensoren, gibt es eine Reihe an unterschiedlichen Systemen. Sie unterscheiden sich z.B. in der Anzahl der Kanäle, mit denen verschiedene Wellenlängenbereiche des elektromagnetischen Spektrums wahrgenommen werden können. Unsere Augen sind im Grunde auch passive Fernerkundungssensoren, die das sichtbare Licht von etwa 400-700 nm wahrnehmen - also nur einen kleinen Teil des gesamten Spektrums. Kurzwelligere oder langwelligere Strahlung können wir nur mit Hilfe von speziellen Kameras und Sensoren wahrnehmen. So wird quasi sichtbar gemacht, was für uns unsichtbar ist.
 
+In der folgenden Abbildung sind eineige der gängigsten Erdbeocbachtungssatelliten gelistet.
+![Satelliten_VGL](Satelliten_VGL.png?resize=600)
+
 ## Erdatmosphäre
 
 Entscheidend für die Funktionsweise von Satelliten ist die atmosphärische Durchlässigkeit bzw. die sogenannten atmosphärischen Fenster. Die Erdatmosphäre blockiert einen Großteil der Sonnenstrahlung und lässt nur bestimmte Strahlung ungehindert bzw. abgeschwächt durch. Durch _Absorption_ (Englisch: absorption) wird die Energie der elektromagnetischen Strahlung abgeschwächt oder so stark blockiert, dass auf der Erdoberfläche nichts mehr davon ankommt. _Streuung_ (Englisch: scattering) hingegen beschreibt das Ablenken der Strahlung in eine andere Richtung ohne Absorbtion. Die Prozesse von Absorption und Streuung sind wellenlängenabhängig, wobei kurzwelligere Strahlung stärker gestreut wird:
@@ -30,7 +33,7 @@ Im Gegensatz zu diesen sogenannten selektiven Streuungsvorgänge ist die nicht-s
 
 Die Eigenschaften der Erdatmosphäre wirken sich besonders auf die optische Fernerkundung aus. Als weitaus kritischer sind Wolken zu sehen. Als Teil der Erdbeobachtung wird für die Landüberwachung ein weitestgehend wolkenfreier Himmel benötigt. Wolken und -schatten erschweren allerdings oft operationelle Anwendungen, besonders in tropischen Regionen aber auch in unseren Breiten. Die nachfolgende Abbildung zeigt beispielhaft unterschiedliche Grade an Wolkenbedeckung. Relativ unabhängig von der Atmosphäre sind dagegen etwa Radar-Sensoren. Sie erlauben jederzeit Aufnahmen, auch nachts und durch eine Wolkendecke hindurch.
 
-![Wolkenbedeckung](Wolkenbedeckung.jpg?classes=caption "Beispiele unterschiedlicher Bewölkungsgrade von 0, 40 und >80 %. In dem  Bildauschnitt zu sehen sind Teile des Rhein-Main-Gebietes samt Taunus, aufgenommen im Mai 2018. (c) ESA")
+![Wolkenbedeckung](Wolkenbedeckung.jpg?classes=caption "Beispiele unterschiedlicher Bewölkungsgrade von 0, 40 und  mehr als 80 %. In dem  Bildauschnitt sind Teile des Rhein-Main-Gebietes samt Taunus zu sehen, aufgenommen im Mai 2018. (c) ESA")
 <br><br>
 
 ## Auflösungen
@@ -67,4 +70,4 @@ Die räumliche Bildauflösung ist neben dem Kontrast primär entscheidend für d
 ### Temporale Auflösung
 !!! Mit der temporalen bzw. zeitliche Auflösung wird schließlich die Zeitspanne angegeben, die zwischen zwei Überflügen (Aufnahmen) desselben Objekts liegt. Die zeitliche Auflösung ist besonders wichtig im Zusammenhang von operationellem Monitoring und Zeitreihenanalysen.
 
-So hat Sentinel-2 z.B. eine Wiederholungsrate am Äquator von 5 Tagen, bei Landsat 8 sind es 16 Tage, bei RapidEye ebenfalls 5 Tage. Durch größere Überlappungen der Aufnahmestreifen kann in höheren Breiten wie in Deutschland soagar alle 2-3 Tage ein Sentinel-2-Bild desselben Ortes zustande kommen. 
+So hat Sentinel-2 z.B. eine Wiederholungsrate am Äquator von 5 Tagen, bei Landsat 8 sind es 16 Tage, bei RapidEye ebenfalls 5 Tage. Durch größere Überlappungen der Aufnahmestreifen kann in höheren Breiten wie in Deutschland soagar alle 2-3 Tage ein Sentinel-2-Bild desselben Ortes zustande kommen.
