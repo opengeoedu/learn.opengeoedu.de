@@ -29,15 +29,14 @@ Sogar ein einziges Grauwertbild lässt sich farbig darstellen. Dazu wird ebenfal
 
 ## Bildverbesserung
 
-Es gibt zahlreiche Wege ein digitales Bild optisch zu verbessern, um mehr erkennen zu können. Auch in der Fernerkundung kommen viele unterschiedliche Methoden zum Einsatz.
+Es gibt zahlreiche Wege ein digitales Bild optisch so zu verändern/verbessern, um mehr erkennen zu können. Auch in der Fernerkundung kommen viele unterschiedliche Methoden zum Einsatz.
 Ein wichtiger Schritt ist meist die Anpassung des Kontrasts, d.h. dem Unterschied zwischen den verschiedenen Grauwerten bzw. Pixelwerten.
-Dabei handelt es sich meist um eine Darstellungsform, denn die originalen Pixelwerte werden nicht verändert.
-
+Dabei handelt es sich meist eher um eine Darstellungsform, bei der die originalen Pixelwerte nicht verändert gespeichert werden.
 
 
 ## Bildinterpretation
 
-Die Güte der Bildinterpretation hat viele Faktoren. Der grundlegendste ist die persönliche Erfahrung des Betrachters. Wir lernen Objekte voneinander zu unterscheiden etwa anhand von Größe, Form und Farbe. Das gilt für alltägliche Dinge wie einen Tisch oder Autos aber auch für Personen. Dabei wird meist jeweils eine abgestufte Attributierung vorgenommen; d.h. von grober Einteilung (z.B. Tier/Säugetier) zu genaueren Klassen (z.B. Art: Hund, Rasse: Dalmatiner). Ändern wir unsere Perspektive, wird deutlich, dass man dies auch auf die Fernerkundung übertragen kann. Bei der optischen Interpretation von Luft- und Satellitenbildern etwa beruht vieles auf Erfahrungswerten. Allerdings stößt man schnell an die Grenzen des Machbaren.
+Die Güte der Bildinterpretation hat viele Faktoren. Der grundlegendste ist die persönliche Erfahrung des Betrachters. Wir lernen Objekte voneinander zu unterscheiden etwa anhand von Größe, Form und Farbe. Das gilt für alltägliche Dinge wie einen Tisch oder Autos, aber auch für Personen. Dabei wird meist jeweils eine abgestufte Attributierung vorgenommen; d.h. von grober Einteilung (z.B. Tier/Säugetier) zu genaueren Klassen (z.B. Art: Hund, Rasse: Dalmatiner). Ändern wir unsere Perspektive, wird deutlich, dass man dies auch auf die Fernerkundung übertragen kann. Bei der optischen Interpretation von Luft- und Satellitenbildern etwa beruht vieles auf Erfahrungswerten. Allerdings stößt man schnell an die Grenzen des Machbaren.
 
 ![Erkennung](005.jpg?resize=400)
 
