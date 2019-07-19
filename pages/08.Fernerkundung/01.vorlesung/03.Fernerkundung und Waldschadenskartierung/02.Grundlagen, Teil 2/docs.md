@@ -22,19 +22,16 @@ Dies ist wichtig für die Interpretation von bildgebenden Fernerkundungsdaten. D
 
 #### Color Slicing
 
-Selbst ein einzig Grauwertbild kann man ein farbig darstellen. Dazu wird ebenfalls das Bildhistogramm bzw. die Grauwertverteilung in einzelne Gruppen unterteilt, die jeweils einer Farbe entsprechen. So lassen sich bereits einige Landbedeckungsklassen voneinander trennen. Das nachstehende Beispiel zeigt die Einfärbung eines NIR-Kanals (Band 8) von Sentinel-2. Gewässer, Vegetation und versiegelte/bebaute Flächen können so unterschieden werden.
- … …
+Sogar ein einziges Grauwertbild lässt sich farbig darstellen. Dazu wird ebenfalls das [Bildhistogramm](http://www.fe-lexikon.info/lexikon-h.htm#histogramm) bzw. die Grauwertverteilung der einzelnen Pixel in separate Gruppen unterteilt, die jeweils einer Farbe zugeordnet werden. So lassen sich bereits Objekte bzw. Landbedeckungsklassen voneinander trennen. Das nachstehende Beispiel zeigt die Einfärbung eines NIR-Kanals (Band 8) von Sentinel-2. Gewässer, Vegetation und versiegelte/bebaute Flächen können so bereits unterschieden werden. Dies ist bereits eine einfache Art der Bildklassifizierung.
 
 ![ColorSlicing](Slices.jpg?classes=caption "...")
 
 
 ## Bildverbesserung
 
-... Es gibt zahlreiche Wege ein digitales Bild optisch zu verbessern, um mehr erkennen zu können. Auch in der Fernerkundung kommen viele unterschiedliche Methoden zum Einsatz.
+Es gibt zahlreiche Wege ein digitales Bild optisch zu verbessern, um mehr erkennen zu können. Auch in der Fernerkundung kommen viele unterschiedliche Methoden zum Einsatz.
 Ein wichtiger Schritt ist meist die Anpassung des Kontrasts, d.h. dem Unterschied zwischen den verschiedenen Grauwerten bzw. Pixelwerten.
 Dabei handelt es sich meist um eine Darstellungsform, denn die originalen Pixelwerte werden nicht verändert.
-
-Kontrast-Histogramme… Kontraststreckung ...
 
 
 
