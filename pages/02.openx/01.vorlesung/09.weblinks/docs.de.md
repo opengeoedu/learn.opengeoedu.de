@@ -51,9 +51,15 @@ Hier finden Sie eine kommentierte Auswahl von externen Websites und Ressourcen m
   </td><td markdown="1">
   Geo for all ist eine Initiative der [OSGeo-Foundation](https://www.osgeo.org) mit dem Ziel, *geospatial education and opportunities* (~ geographisch-räumliche Ausbildung und Angebote) für Alle zugänglich zu machen. Neben Webinaren und offenen Inhalten unterhält die Initiative ein weltweites Netzwerk sogenannter Labs, die unter anderem Projekte vor Ort organisieren.
   </td></tr>
+  <tr><td markdown="1">
+  **Frankfurt Open Courseware (FOC)**<br/>
+  http://foc.geomedienlabor.de
+  </td><td markdown="1">
+  Onlineplattform mit freien (CC-BY-SA) Kursmaterialien des Geomedienlabors Frankfurt (Einrichtung d. Uni Frankfurt) zu unterschiedlichen Themen, wie z.B. Storymaps oder Crowdsourcing.
+  </td></tr>
   </table></div>
   <a href="#">&uArr; nach oben</a>
-  <!--http://www.geoforall.org/
+  <!--
   http://spatialquerylab.com/foss4g-academy-curriculum/-->
   ## Allgemeine Informationen
   <div  markdown="1"><table>
@@ -61,16 +67,13 @@ Hier finden Sie eine kommentierte Auswahl von externen Websites und Ressourcen m
   <th>Website</th>
   <th>Beschreibung</th>
   </tr>
-
-  <!--
-  opendata.Swiss: OGD Handbook
-  https://handbook.opendata.swiss/de/pages/index
-
-
+  <tr><td markdown="1">
   *deutsch / mehrsprachig*  <br/>
-  **Open Knowlege International: Das Open Data Handbuch**  <br/>
+  **Open Knowlege Foundation: Das Open Data Handbuch**  <br/>
   http://opendatahandbook.org/guide/de/
-  -->
+  </td><td markdown="1">
+  Einer der bekanntesten Leitfäden zum Umgang mit offenen Daten, geschrieben von Teilen der Open Data-Community (d.h. Open Konwledge Foundation)
+  </td></tr>
 
   <tr><td markdown="1">
   *Deutsch* <br/>
