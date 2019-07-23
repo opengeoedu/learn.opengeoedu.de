@@ -72,7 +72,7 @@ Hier finden Sie eine kommentierte Auswahl von externen Websites und Ressourcen m
   **Open Knowlege Foundation: Das Open Data Handbuch**  <br/>
   http://opendatahandbook.org/guide/de/
   </td><td markdown="1">
-  Einer der bekanntesten Leitfäden zum Umgang mit offenen Daten, geschrieben von Teilen der Open Data-Community (d.h. Open Konwledge Foundation)
+  Einer der bekanntesten Leitfäden zum Umgang mit offenen Daten, geschrieben von Teilen der Open Data-Community (d.h. der Open Konwledge Foundation)
   </td></tr>
 
   <tr><td markdown="1">
@@ -181,14 +181,14 @@ Hier finden Sie eine kommentierte Auswahl von externen Websites und Ressourcen m
   </td></tr>
   <tr><td markdown="1">
   *Englisch / Deutsch* <br/>
-  **Open Knowlege International** https://okfn.org/
+  **Open Knowledge Foundation** https://okfn.org/
   </td><td markdown="1">
-  Open Knowlege International ist eine globale gemeinnützige Organisation mit
+  Die Open Knowledge Foundation ist eine globale gemeinnützige Organisation mit
   dem Ziel, den Wert von Open Data für die Gesellschaft zu erschließen. Sie
   hilft Gruppen der Zivilgesellschaft, Zugang zu Daten zu erhalten und diese
   zu nutzen, um Maßnahmen zur Lösung sozialer Probleme zu ergreifen.
 
-  Zweige von Open Knowledge International **im deutschspragem Raum:**
+  Zweige von der Open Knowledge Foundation **im deutschspragem Raum:**
 
   - Open Knowledge Foundation Deutschland e. V. https://okfn.de/
   - Open Knowledge Österreich https://okfn.at/
@@ -223,7 +223,7 @@ Hier finden Sie eine kommentierte Auswahl von externen Websites und Ressourcen m
   *Deutsch / mehrsprachig* <br/>
   **Open Definition** <br/>https://opendefinition.org/
   </td><td markdown="1">
-  Definition der Open Knowlege International zu Open Data und offenen Werke.
+  Definition der Open Knowledge Foundation zu Open Data und offenen Werke.
   Die Open Definition ist de-facto weitgehend anerkannt in der Open Data-Community und darüber hinaus.
 
   </td></tr><tr><td markdown="1">
@@ -275,7 +275,7 @@ Hier finden Sie eine kommentierte Auswahl von externen Websites und Ressourcen m
   **Open Definition - Comformant licenses**<br/>
   https://opendefinition.org/licenses/
   </td><td markdown="1">
-  Liste von Lizenzen, die von Open Knowlege International als *offen*
+  Liste von Lizenzen, die von der Open Knowledge Foundation als *offen*
   im Sinne der Open Definition anerkannt wurden.
   </td></tr>
   <tr><td markdown="1">
