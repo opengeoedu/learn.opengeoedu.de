@@ -43,7 +43,7 @@ Ziel ist es, die Ergebnisse des Flächenmonitorings immer genauer, d.h. kleinrä
 - Nutzergenerierte Daten spielen eine immer wichtigere Rolle neben neuen Fernerkundungsdaten und neuen und weiterentwickelten amtlichen Daten.
 - Es gibt nach wie vor Datenqualitätsprobleme (mangelnde Aktualität, s. Abb.).
 - Häufig fehlen noch flächendeckende Datenangebote (z. B. zur Grünflächenausstattung, kleinräumigen Bevölkerungsverteilung).
-- Es gibt eine Diskrepanz zwischen der Flächendeckung amtlicher Daten gegenüber den manchmal genaueren lokalen nutzergenerierten Daten.
+- Es gibt eine Diskrepanz zwischen der Flächendeckung amtlicher Daten gegenüber den manchmal genaueren lokal nutzergenerierten Daten.
 
 ![abb_atkisdaten_qualitat_trend](abb_atkisdaten_qualitat_trend.png)
 

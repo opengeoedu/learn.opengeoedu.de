@@ -10,8 +10,6 @@ menu: Flächenmonitoring
 
 # Flächenmonitoring
 
-Teaser zum Fallbeispiel ***Flächenmonitoring***
-
 [plugin:youtube](https://youtu.be/fwrLTp219pA)
 <!--
 <div class="embed-responsive embed-responsive-16by9">
