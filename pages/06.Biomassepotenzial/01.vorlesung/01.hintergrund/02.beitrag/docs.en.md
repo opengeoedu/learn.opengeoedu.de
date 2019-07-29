@@ -1,15 +1,15 @@
 ---
-title: Aktueller Beitrag zur Energieversorgung in Deutschland
+title: Currently Contribution Towards the Energy System in Germany
 taxonomy:
   category: docs
-menu: 'Beitrag Bioenergie'
+menu: 'Contribution Bioenergy'
 ---
 
-As can be seen from the following figure, the share of renewable energies in 2017 was 13.1% of the national *primary energy consumption*. Among renewable energies, biomass is the most important energy source - biomass contributed to more than 60% of renewable energy production in 2017. 
+As it can be seen from the following figure, the share of renewable energies in 2017 was 13.1% of the national *primary energy consumption*. Among renewable energies, biomass is the most important energy source - biomass contributed to more than 60% of renewable energy production in 2017. 
 
-![](Script_DBFZ_Primaerenergieverbrauch_2017.png?lightbox=800&resize=500&classes=caption "Primärenergieverbrauch in Deutschland 2017 nach Energieträgern. Source: Arbeitsgemeinschaft Energiebilanzen, Arbeitsgruppe Erneuerbare Energien-Statistik, 2018, own presentation")
+![](Script_DBFZ_Primaerenergieverbrauch_2017.png?lightbox=800&resize=500&classes=caption "Primary energy consumption in Germany in 2017, based on energy carriers. Adapted from: Arbeitsgemeinschaft Energiebilanzen, Arbeitsgruppe Erneuerbare Energien-Statistik, 2018")
 
-As can be seen from the following figure, bioenergy contributes to the energy system in the sectors of heat (e.g. burning firewood in wood-burning stoves), electricity (e.g. from fermentation in biogas plants) and transport (e.g. bio-methane based on bio-waste for collection vehicles). For illustration purposes, the contribution of biomass to the energy system can be compared as follows:
+As it can be seen from the following figure, bioenergy contributes to the energy system in the sectors of heat (e.g. burning firewood in wood-burning stoves), electricity (e.g. from fermentation in biogas plants) and transport (e.g. bio-methane based on bio-waste for collection vehicles). For illustration purposes, the contribution of biomass to the energy system can be compared as follows:
 
 - **Electricity**: the *gross electricity generation* based on biogenic resources of approx. 54 TWh corresponds to the annual output of 4 nuclear power plants.
 - **Heat**: the share of biogenic resources in *end energy consumption* is approx. 139 TWh. This corresponds to approx. 15 billion litres of heating oil.
