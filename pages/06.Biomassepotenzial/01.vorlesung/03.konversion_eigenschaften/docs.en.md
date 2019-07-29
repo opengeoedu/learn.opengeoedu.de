@@ -1,8 +1,8 @@
 ---
-title: Konversionstechnologien und Rohstoffeigenschaften
+title: Conversion Technologies and Raw Material Properties
 taxonomy:
   category: docs
-menu: 'Technologie & Eigenschaften'
+menu: 'Technologies & Properties'
 ---
 
 !!!! What are the three types of conversion technologies? <br>
@@ -12,6 +12,6 @@ Conversion paths for energetic use are manifold and are described below. Raw mat
 
 ! Further information on conversion technologies: <br>
 ! [Potential Atlas](https://www.unendlich-viel-energie.de/mediathek/broschueren/potenzialatlas-bioenergie-in-den-bundeslaendern) Bioenergy in the Federal States of the Federal Agency for Renewable Energies, Introduction, p. 18 - 21<br>
-! Biofuels: [Website of the Agency for Renewable Resources e.V.](https://biokraftstoffe.fnr.de/einstieg/)
+! Biofuels: [Website of the Fachagentur Nachwachsende Rohstoffe (FNR) e.V.](https://biokraftstoffe.fnr.de/einstieg/)
 
 ! Information on the different biomass specific properties and other factors, such as storage and salvage, are provided in the exercises if required.
