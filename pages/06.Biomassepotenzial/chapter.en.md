@@ -1,5 +1,5 @@
 ---
-title: Biomassepotenzial
+title: Biomasse Potential
 taxonomy:
     category:
         - docs
@@ -8,11 +8,11 @@ twittercardoptions: summary
 facebookenable: true
 ---
 
-### OpenGeoEdu case study
+### OpenGeoEdu Module
 
-# Biomass potential
+# Biomass Potentials
 
-Videos of the case study ***Biomass potential***
+Videos of the module ***Biomass Potentials***
 
 [owl-carousel items=1 loop=true autoplay=true autoplayHoverPause=true margin=15 responsive={0:{items:1},640:{items:2},1900:{items:3}}]
 [plugin:youtube](https://youtu.be/_a8ZzX2gnE4)
