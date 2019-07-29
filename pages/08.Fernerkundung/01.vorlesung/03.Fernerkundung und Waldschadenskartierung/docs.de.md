@@ -1,9 +1,9 @@
 ---
-title: 'Fernerkundung + Waldmonitoring'
+title: 'Fernerkundung'
 taxonomy:
     category:
         - docs
-slug: waldmonitoring
+slug: Fernerkundung
 twitterenable: true
 twittercardoptions: summary
 orgaenabled: false
