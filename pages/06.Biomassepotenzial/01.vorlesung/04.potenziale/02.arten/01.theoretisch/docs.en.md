@@ -1,8 +1,8 @@
 ---
-title: Theoretisches Biomassepotenzial
+title: Theoretical Biomass Potential
 taxonomy:
   category: docs
-menu: 'Theoretisch'
+menu: 'Theoretical'
 ---
 
 The theoretical biomass potential (Thrän and Pfeiffer 2013; WGBU 2009) is the physical upper limit of the available biomass supply within a defined time and spatial framework. This potential describes only the theoretically usable amount of biomass and does not take into account any restrictions, such as restrictions on use in the core zone of national parks. The temporal and spatial framework specified in the theoretical biomass potential also applies to all other types of biomass potential.
