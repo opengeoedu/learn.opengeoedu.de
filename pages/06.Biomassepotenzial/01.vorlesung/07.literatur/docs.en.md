@@ -1,5 +1,5 @@
 ---
-title: Literaturverzeichnis
+title: Bibliography
 taxonomy:
   category: docs
 ---
