@@ -20,4 +20,4 @@ By linking open data sets (geodata, statistics, specialist data), potential info
 
 !! Compare the two maps. Which statement on straw potentials can you make? What influence does the spatial reference have on the significance of the maps?  <br><br>
 !! In preparation for the exercises, consider which open geodata sets and statistics you know and whether these could be suitable for the spatial presentation of biomass potentials. <br><br>
-!! In the following example, the technical potential of the biomass "grain straw" is determined. Use this example and the information from the previous chapters to start thinking about how you can present biomass potentials with geodata. 
+!! In the following example, the technical potential of the biomass "cereal straw" is determined. Use this example and the information from the previous chapters to start thinking about how you can present biomass potentials with geodata. 
