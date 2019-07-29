@@ -1,15 +1,15 @@
 ---
-title: Berechnung von Biomassepotenzialen
+title: Calculation of Biomass Potentials
 taxonomy:
   category: docs
-menu: 'Berechnung'
+menu: 'Calculation'
 ---
 
 Depending on the considered potential level, the calculation steps and input variables vary when calculating the theoretical potential between the individual biomass. Explanations for the respective calculation steps can be found in the corresponding exercises. 
 
 If you work with existing potential numbers or perform your own calculations, you should document the following points: 
 
-- Which individual biomass masses were taken into account?
+- Which individual biomasses were taken into account?
 - Which type of potential was considered?
 - Which year do the figures refer to?
 - Which units and conversion factors were used?
@@ -19,6 +19,6 @@ If you work with existing potential numbers or perform your own calculations, yo
 
 Flowcharts are a good way of presenting the calculation steps in a transparent and comprehensible way:
 
-![](Skript_DBFZ_Organigramm.png?lightbox=800&resize=,500&classes=caption "Flowchart zur Berechnung von Potenzialen, eigene Darstellung")
+![](Skript_DBFZ_Organigramm.png?lightbox=800&resize=,500&classes=caption "Flowchart for calculating biomass potentials, own illustration")
 
 Under "Flowcharts" you will find the flowcharts for the biomasses available in the [DBFZ Resource Database](http://webapp.dbfz.de/resources). 

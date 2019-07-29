@@ -1,11 +1,11 @@
 ---
-title: Bioökonomie, Energiewende und Klimaziele
+title: Bioeconomy, Energy Transformation and Climate Goals
 taxonomy:
   category: docs
-menu: 'Bioökonomie'
+menu: 'Bioeconomy'
 ---
 
-Vegetable biomass serves directly (as food) or indirectly (as feed) our nutrition and contributes significantly to our lives through a whole range of ecosystem services (e.g. biodiversity, soil formation, recreation). Biomass can also be used for a variety of material uses. Be it in the form of "classical" applications, such as the use of wood as a building material, or in the form of comparatively new and innovative developments, such as platform chemicals and bioplastics. From the point of view of *bioeconomics*, biomass as the basic material of a biobased economy is of particular importance. (BMBF and BMEL 2014)
+Vegetable biomass  directly (as food) or indirectly (as feed) serves our nutrition and contributes significantly to our lives through a whole range of ecosystem services (e.g. biodiversity, soil formation, recreation). Biomass can also be used for a variety of material uses. Be it in the form of "classical" applications, such as the use of wood as a building material, or in the form of comparatively new and innovative developments, such as platform chemicals and bioplastics. From the point of view of *bioeconomics*, biomass as the basic material of a biobased economy is of particular importance. (BMBF and BMEL 2014)
 
 Biomass can also be converted into *bioenergy* and, through safe, clean, integrated and intelligent bioenergy use, can be an important building block for energy system transformation. 
 
@@ -13,6 +13,6 @@ In the Paris Agreement of 2015, 197 countries decided to limit global warming to
 
 - What quantities can we use sustainably at all?
 - Where are the resources?
-- What contribution can biomass make to energy system transformation (or to the bioeconomy in general)?
+- What contribution can biomass make towards energy system transformation (or towards the bioeconomy in general)?
 
 In the course section "Biomass potentials" we would like to show you how these questions can be answered with the help of open (geo)data. In this script and the corresponding exercises we concentrate on questions concerning the availability of biomass for energetic utilisation. However, many of the methods described are also suitable for determining potentials for material uses. In order to work on the questions and interpret the results, you should acquire the basic knowledge described in this script. 
