@@ -12,7 +12,7 @@ The group of biogenic residues and waste materials consists of a large number of
 | Aggregation level | Single biomass (examples) |
 |-|-|
 | forestry and wood industry waste | forest waste wood, bark, sawmill by-products, wood shavings, black liquor, other industrial waste wood, waste wood |
-| Agricultural by-products | <Grain straw, slurry and manure, beet leaves, rapeseed straw |
+| Agricultural by-products | Cereal straw, slurry and manure, beet leaves, rapeseed straw |
 | Municipal waste | Bio-waste (brown bin), biogenic fraction in private household waste, green waste from private households, kitchen and canteen waste, market waste, commercial food leftovers, used cooking oil from municipal waste, sewage sludge |
 | Industrial waste | Waste from the food, feed, biotechnology and fuel industries |
 | Waste materials from other areas | Forage and wood-like biomass from landscape conservation (green areas, cemetery areas, heathland areas, orchards, vineyards, moorland areas, roadside areas, railway sidelines) |
