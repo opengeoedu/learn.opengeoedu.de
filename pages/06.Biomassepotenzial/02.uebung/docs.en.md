@@ -1,6 +1,6 @@
 ---
-title: Excersises: Biomass Potentials
-menu: Übung
+title: Exercises: Biomass Potentials
+menu: Exercise
 taxonomy:
     category:
         - docs
