@@ -1,6 +1,5 @@
 ---
 title: OpenGeoEdu-Team
-taxonomy: null
 category: docs
 anchors:
     active: false
@@ -18,6 +17,8 @@ visible: false
         </h3>
         <p class="text-muted text-center">Koordination OpenGeoEdu</p>
     </div>
+</div>
+<div class="row">
     <div class="col-6 col-lg-4">
         <img src="https://www.opengeoedu.de/images/videos/i_mein_web.PNG" class="center-block img-fluid my-3 rounded-circle" width="300">
         <h3 class="mb-0 text-center">
