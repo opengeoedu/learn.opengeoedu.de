@@ -7,8 +7,8 @@ visible: false
 ---
 
 # Das Projektkonsortium
-<div class="row center">
-    <div class="col-6 col-lg-4">
+<div class="row">
+    <div class="col-6 col-lg-4 center">
         <img src="/images/staff/Ralf_Bill_1335a.jpg" class="center-block img-fluid my-3 rounded-circle" width="200"
             height="200">
         <h3 class="mb-0 text-center">
