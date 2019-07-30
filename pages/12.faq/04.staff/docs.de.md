@@ -6,7 +6,6 @@ anchors:
 visible: false
 ---
 
-# Das Projektkonsortium
 <div class="row d-flex justify-content-center">
     <div class="col-6 col-lg-4">
         <img src="/images/staff/Ralf_Bill_1335a.jpg" class="center-block img-fluid my-3 rounded-circle" width="200"
