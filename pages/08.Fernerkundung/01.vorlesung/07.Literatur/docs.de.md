@@ -71,7 +71,7 @@ Jensen, J.R., 2007. Remote sensing of the environment: an earth resource perspec
 
 Lillesand, T. M., Kiefer, R. W., Chipman, J. W., 2008. Remote sensing and image interpretation, 6th ed. Wiley-Blackwell, John Wiley & Sons, Hoboken, NJ.
 
-Richards, J. A., 2013. Remote Sensing Digital Image Analysis: An Introduction 494.
+Richards, J. A., 2013. Remote Sensing Digital Image Analysis: An Introduction. 5th ed., 494 S., Springer.
 <br><br>
 
 #### Linksammlung
