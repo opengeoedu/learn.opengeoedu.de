@@ -10,7 +10,7 @@ Aberle, H., 2017. Hyperspectral Remote Sensing and Field Measurements for Forest
 
 Aberle, H, Hovenbitzer, M., 2019. (E-)Lernen mit offenen Geo- und Fernerkundungsdaten. AGIT - Journal für Angewandte Informatik, 5-2019, 116-124. https://doi.org/10.14627/537669010
 
-Ackermann, J., Adler, P., Engels, F., Hoffmann, K., Jütte, K., Rüffer, O., Sagischewski, H., Seitz, R., 2014. Forstliche Fernerkundung in den Bundesländern auf neuen Wegen. AFZ-Der Wald 9, 9–11.
+Ackermann, J., Adler, P., Engels, F., Hoffmann, K., Jütte, K., Rüffer, O., Sagischewski, H., Seitz, R., 2014. Forstliche Fernerkundung in den Bundesländern auf neuen Wegen. AFZ-Der Wald 9, 8–10.
 
 Bannari, A., Morin, D., Bonn, F., Huete, A.R., 1995. A review of vegetation indices. Remote Sens. Rev. 13, 95–120. https://doi.org/10.1080/02757259509532298
 
@@ -24,7 +24,7 @@ Elatawneh, A., Wallner, A., Manakos, I., Schneider, T., Knoke, T., 2014. Forest 
 
 Ewald Fassnacht, F., Latifi, H., Stereńczak, K., Modzelewska, A., Lefsky, M., Waser, L. T., Straub, C., Ghosh, A., 2016. Review of studies on tree species classification from remotely sensed data. Remote Sens. Environ. 186, 64–87. https://doi.org/10.1016/j.rse.2016.08.013
 
-Fagan, M., Defries, R., 2009. Measurement and Monitoring of the World’s Forests: A Review and Summary of Remote Sensing Technical Capability, 2009–2015, Resources for the Future.
+Fagan, M., Defries, R., 2009. Measurement and Monitoring of the World’s Forests: A Review and Summary of Remote Sensing Technical Capability, 2009–2015, Resources for the Future. https://www.rff.org/documents/515/RFF-Rpt-Measurement20and20Monitoring_Final.pdf
 
 Gardiner, B., Blennow, K., Carnus, J., Fleischer, P., Ingemarson, F., Landmann, G., Lindner, M., Marzano, M., Nicoll, B., Orazio, C., Peyron, J., Schelhaas, M., Schuck, A., Usbeck, T., 2010. Destructive Storms in European Forests : Past and Forthcoming Impacts. Final Rep. to Eur. Comm. - DG Environ. 138. https://doi.org/10.13140/RG.2.1.1420.4006
 
@@ -50,13 +50,13 @@ Romijn, E., Lantican, C. B., Herold, M., Lindquist, E., Ochieng, R., Wijaya, A.,
 
 Rouse, J. W., Haas, R. H., Scheel, J. A., Deering, D. W., 1974. Monitoring Vegetation Systems in the Great Plains with ERTS, in: Earth Resources Technology Satellite-1 Symposium- Volume I: Technical Presentations. pp. 309–317.
 
-Schelhaas, M.-J., 2008. Impacts of Natural Disturbances on the Development of European Forest Resources: Application of Model Approaches from Tree and Stand Levels to Large-scale Scenarios.
+Schelhaas, M.-J., 2008. Impacts of Natural Disturbances on the Development of European Forest Resources: Application of Model Approaches from Tree and Stand Levels to Large-scale Scenarios. http://library.wur.nl/WebQuery/wurpubs/fulltext/146827
 
 Schwarz, M., Steinmeier, C., Holecz, F., Stebler, O., Wagner, H., 2003. Detection of Windthrow in Mountainous Regions with Different Remote Sensing Data and Classification Methods. Scand. J. For. Res. 18, 525–536. https://doi.org/10.1080/02827580310018023
 
-Seitz, R., Straub, C., 2017. FastResponse - die schnelle Antwort nach dem Sturm. LWF Aktuell 4, 14–16.
+Seitz, R., Straub, C., 2017. FastResponse - die schnelle Antwort nach dem Sturm. LWF Aktuell 4, 14–16. https://www.lwf.bayern.de/mam/cms04/informationstechnologie/dateien/a115_fast_response_seitz.pdf
 
-Steinmeier, C., Schwarz, M., Holecz, F., Stebler, O., Wagner, H., 2002. Evaluation moderner Fernerkundungsmethoden zur Sturmschadenerkennung im Wald. Eidg. Forschungsanstalt WSL, Birmensdorf.
+Steinmeier, C., Schwarz, M., Holecz, F., Stebler, O., Wagner, H., 2002. Evaluation moderner Fernerkundungsmethoden zur Sturmschadenerkennung im Wald. Eidg. Forschungsanstalt WSL, Birmensdorf. https://www.dora.lib4ri.ch/wsl/islandora/object/wsl%3A10317/datastream/PDF/Steinmeier-2002-Evaluation_moderner_Fernerkundungsmethoden_zur_Sturmschadenerkennung-%28published_version%29.pdf
 
 Thomas, V., 2012. Hyperspectral remote sensing for forest management, in: Thenkabail, P., Lyon, J.G., Huete, A. (Eds.), Hyperspectral Remote Sensing of Vegetation. CRC Press, Taylor & Francis Group, Boca Raton, p. 705.
 
