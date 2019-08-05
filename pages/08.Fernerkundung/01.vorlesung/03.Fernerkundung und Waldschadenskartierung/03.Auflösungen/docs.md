@@ -29,7 +29,7 @@ Die Pixelgröße des finalen Bildprodukts ist somit abhängig vom Sensor und sch
 - 4 bit =  2<sup>4</sup> = 16 Graustufen
 - 8 bit =  2<sup>8</sup> = 256 Graustufen
 
-![Bitte ein Bit](bitt.jpg?classes=caption "Die Rasiometrische Auflösung defniniert die Sensitivität des Sensors, sprich den Kontrast.")
+![Bitte ein Bit](bitt.jpg?classes=caption "Die Radiometrische Auflösung defniniert die Sensitivität des Sensors, sprich den Kontrast.")
 
 Die räumliche Bildauflösung ist neben dem Kontrast primär entscheidend für die Erkennung und Unterscheidung von Objekten.
 
@@ -44,3 +44,5 @@ Nachfolgende Abbildung ziegt die Position der 13 Sentinel-2 Kanäle innerhalb de
 !!! Mit der temporalen bzw. zeitliche Auflösung wird schließlich die Zeitspanne angegeben, die zwischen zwei Überflügen (Aufnahmen) desselben Objekts liegt. Die zeitliche Auflösung ist besonders wichtig im Zusammenhang von operationellem Monitoring und Zeitreihenanalysen.
 
 So hat Sentinel-2 z.B. eine Wiederholungsrate am Äquator von 5 Tagen, bei Landsat 8 sind es 16 Tage, bei RapidEye ebenfalls 5 Tage. Durch größere Überlappungen der Aufnahmestreifen kann in höheren Breiten wie in Deutschland soagar alle 2-3 Tage ein Sentinel-2-Bild desselben Ortes zustande kommen.
+
+![Tempus fugit](temp_Aufl.jpg?)
