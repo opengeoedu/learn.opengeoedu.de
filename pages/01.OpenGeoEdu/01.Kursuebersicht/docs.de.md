@@ -67,7 +67,7 @@ Zudem gibt es ein [Werkzeug zur Selbsteinschätzung](http://test.opengeoedu.de/s
     <div class="row flex-wrap card-deck">
         <div class="card m-2" id="gis">
             <h3 class="text-center">GIS</h3>
-            [plugin:youtube](https://youtu.be/VrKVnoOtX5g)
+            [plugin:youtube](https://youtu.be/AJNEp0kHocA)
             <div class="card-body text-justify">
                 Geo-Informationssysteme (GIS) sind die Werkzeuge zur Verarbeitung der offenen Geodaten in OpenGeoEdu.
                 <a href="#" data-toggle="collapse" data-target="#gisdetails">Details...</a>
@@ -83,7 +83,7 @@ Zudem gibt es ein [Werkzeug zur Selbsteinschätzung](http://test.opengeoedu.de/s
         </div>
         <div class="card m-2" id="tutorials">
             <h3 class="text-center">Tutorials</h3>
-            <div class=img-fluid markdown="1"> ![Tutorial](Karte.png)</div>
+            [pluigin:youtube](https://youtu.be/ZOTrDCiVma4)
             <div class="card-body text-justify">
                 Tutorials stehen zu verschiedenen Themen bereit. Diese umfassen sowohl eher grundlegende Ausführungen
                 als auch praktische
@@ -130,13 +130,8 @@ Zudem gibt es ein [Werkzeug zur Selbsteinschätzung](http://test.opengeoedu.de/s
             </div>
         </div>
         <div class="card m-2" id="biomasse">
-            <h3 class="text-center">
-                Biomassepotenziale
-            </h3>
-            <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item" src="https://slides.com/al-z/deck/embed" scrolling="no"
-                    frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-            </div>
+            <h3 class="text-center">Biomassepotenziale</h3>
+            [plugin:youtube](https://youtu.be/_a8ZzX2gnE4)
             <div class="card-body text-justify">
                 Die Nutzung fossiler Brennstoffe kann durch den effizienten Einsatz von biogenen Ressourcen nachhaltig
                 reduziert werden.
@@ -179,11 +174,7 @@ Zudem gibt es ein [Werkzeug zur Selbsteinschätzung](http://test.opengeoedu.de/s
             <h3 class="text-center">
                 Fernerkundung
             </h3>
-            <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item" src="https://slides.com/opengeoedu/deck-2/embed?style=light"
-                    width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen
-                    allowfullscreen></iframe>
-            </div>
+            [plugin:youtube](https://youtu.be/iIlX9-Ld_zY)
             <div class="card-body text-justify">
                 Die Erkundung der Erde aus der Luft, sei dies vom Satelliten bis zu Flugdrohnen, nimmt aktuell Fahrt
                 auf.
