@@ -18,7 +18,7 @@ Bei digitalen (multispektralen) RGB-Bildern, wie sie auch auf Monitoren und Disp
 
 Dies ist wichtig für die Interpretation von bildgebenden Fernerkundungsdaten. Denn erst durch die Kombination der Grauwertbilder einzelner Sensorkanälen (Bänder) erhalten wir ein farbiges Bild. So werden Objekte differenzierbarer und bestimmte Merkmale (Features) können erkannt werden. Zwei Beispiele von Sentinel-2-Satelllitenszenen von Frankfurt am Main sind nachfolgend dargestellt. Im südlichen Teil ist der Stadtwald zu erkennen. Durch die hohe Rückstrahlung im nahen Infrarot erscheint die Vegetation rötlich, wenn der NIR-Kanal anstellte des roten Kanals gesetzt wird.
 
-![GraustufenPixel](komposit.jpg?classes=caption "...")
+![GraustufenPixel](komposit.jpg?classes=caption "Durch das Setzen von Schwellenwerten kann man ein Graustufenbild einfärben. Das Beispiel zeigt ein NDVI aus einer Sentinel-2- Aufnahme um die Stadt Frankfurt. So lassen sich Vegetation von Wasser und bebauten Flächen bereits trennen.")
 
 #### Color Slicing
 
