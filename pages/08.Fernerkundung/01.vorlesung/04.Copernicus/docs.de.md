@@ -11,14 +11,14 @@ taxonomy:
 
 Das Copernicus-Vorgängerprogramm war das Global Monitoring for Environment and Security (GMES, deutsch: Globale Umwelt- und Sicherheitsüberwachung), welches 1998 von der EU und der ESA ins Leben gerufen wurde. Im Jahr 2012 wurde es dann in Copernicus umbenannt und überführt.
 
-Die Copernicus-Kerndienste stellen umfangreiche Grundlageninformationen bereit, die für vielfältige Anwendungen weiter verarbeitet werden können. 
+Die Copernicus-Kerndienste stellen umfangreiche Grundlageninformationen bereit, die für vielfältige Anwendungen weiter verarbeitet werden können.
 Das Programm besteht aus den folgenden sechs Kerndiensten:
--	Landüberwachung (Copernicus Land Monitoring Service, CLMS)
--	Überwachung der Meeresumwelt (Copernicus Marine Environment Monitoring Service, CMEMS)
--	Katastrophen- und Krisenmanagement (Copernicus Emergency Management Service, EMS)
--	Überwachung der Atmosphäre (Copernicus Atmosphere Monitoring Service, CAMS)
--	Überwachung des Klimawandels (Copernicus Climate Change Service, C3S)
--	Sicherheit (Copernicus Security)
+-	Landüberwachung ([Copernicus Land Monitoring Service, CLMS](https://land.copernicus.eu/))
+-	Überwachung der Meeresumwelt ([Copernicus Marine Environment Monitoring Service, CMEMS](http://marine.copernicus.eu/))
+-	Katastrophen- und Krisenmanagement ([Copernicus Emergency Management Service, EMS](https://atmosphere.copernicus.eu/))
+-	Überwachung der Atmosphäre ([Copernicus Atmosphere Monitoring Service, CAMS](https://atmosphere.copernicus.eu/))
+-	Überwachung des Klimawandels (C[opernicus Climate Change Service, C3S](https://climate.copernicus.eu/))
+-	Sicherheit ([Copernicus Security](https://www.copernicus.eu/en/services/security))
 
 Die Dienste „Überwachung des Klimawandels“ und „Sicherheit“ befinden sich noch in der Entwicklung.
 
@@ -26,14 +26,14 @@ In dieser Lerneinheit soll der Fokus auf der Landüberwachung (dem Landmonitorin
 
 ![CopernicusDienste](Copernicus_Dienste_1_1000.png?classes=caption "Die sechs Copernicus-Dienste. &copy; DLR")
 
-! Infos über die Copernicus-Kerndienste finden Sie hier: https://www.d-copernicus.de/daten/daten-eu-kerndienste/  
+! Infos über die Copernicus-Kerndienste finden Sie hier: https://www.d-copernicus.de/daten/daten-eu-kerndienste/
 <br><br>
 
-Im Rahmen von Copernicus gibt es im Grunde vier Projektkomponenten: 
+Im Rahmen von Copernicus gibt es im Grunde vier Projektkomponenten:
 
-- zum einen die Satelliten und beitragenden Missionen sowie das Bodensegment, 
-- zum anderen die nationalen in-situ Messnetze. Hinter der in-situ Komponente verbergen sich alle Daten, die nicht aus dem Weltraum gewonnen wurden (außer Daten wie z.B. SRTM). 
-- Darauf aufbauend operieren die sechs thematischen Dienste, die durch Fachagenturen wie die Europäische Umweltagentur (EEA) umgesetzt werden. 
+- zum einen die Satelliten und beitragenden Missionen sowie das Bodensegment,
+- zum anderen die nationalen in-situ Messnetze. Hinter der in-situ Komponente verbergen sich alle Daten, die nicht aus dem Weltraum gewonnen wurden (außer Daten wie z.B. SRTM).
+- Darauf aufbauend operieren die sechs thematischen Dienste, die durch Fachagenturen wie die Europäische Umweltagentur (EEA) umgesetzt werden.
 - Die daraus resultierenden Informationen werden zusammengetragen und aufbereitet sowie für die Endnutzer bereitgestellt. Dazu zählen behördliche Anwender und Verwaltung, Politik, Wissenschaft, kommerzielle Unternehmen, Start-Ups oder gemeinnützige Organisationen und Bürger ... bzw. jedermann.
 
 ![CopernicusKomponenten](Copernicus_Komponenten.png)
