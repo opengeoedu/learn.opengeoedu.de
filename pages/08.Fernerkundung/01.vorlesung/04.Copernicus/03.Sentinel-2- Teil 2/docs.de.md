@@ -23,7 +23,7 @@ Die spektrale Auflösung bzw. die einzelnen Kanäle von Sentinel-2 sind in folge
 ![KanäleS2LS7LS8](BANDS_S2_LS8_LS7.png?classes=caption "Die spektralen Kanäle von Sentinel-2 im Vergleich zu Landsat 8 (OLI und TRS) und Landsat 7 ETM+. Quelle: NASA")
 <br><br>
 
-Die Sentinel-2 Bänder werden in folgender Abbildung näher beleuchtet (Reflektanzkurven aus Kokaly et al. 2017). 
+Die Sentinel-2 Bänder werden in folgender Abbildung näher beleuchtet (Reflektanzkurven aus Kokaly et al. 2017).
 
 !!!! __Aufgabe:__ Spektralbänder: Klicken Sie auf die blau-hinterlegten weißen Kreuze:
 <br><br>
@@ -34,7 +34,7 @@ Die einzelnen Bänder liegen wie bei anderen Fernerkundungssensoren auch als Gra
 
 ! Hier sei nochmals auf den [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/?source=S2&lat=50.00067775723633&lng=8.155975341796875&zoom=9&preset=1_NATURAL_COL0R&layers=B01,B02,B03&maxcc=20&gain=1.0&gamma=1.0&time=2015-01-01%7C2018-09-20&atmFilter=&showDates=false) verwiesen.
 
-Mit dem nachfolgenden Image-Slider können Sie sehen, wie die Grauwertbilder der einzelnen Kanäle von Sentinel-2 ausschauen. Das erste Bild ist eine RGB-Normalfarbkomposit. Ein kleines Gimmick: Gut zu erkennen ist ein Passagierflugzeug, dass durch die Szene fliegt. Durch die Bewegung von Flugzeug und Satellit, aber auch durch die Funktionsweise des Scanners erscheint das helle Objekt in den jeweils nahezu maximalen RGB-Farben separiert.
+Mit dem nachfolgenden Image-Slider können Sie sehen, wie die Grauwertbilder der einzelnen Kanäle von Sentinel-2 ausschauen. Das erste Bild ist eine RGB-Normalfarbkomposit. Ein kleines Gimmick: Gut zu erkennen ist ein Passagierflugzeug, das durch die Szene fliegt. Durch die Bewegung von Flugzeug und Satellit, aber auch durch die Funktionsweise des Scanners erscheint das helle Objekt in den jeweils nahezu maximalen RGB-Farben separiert.
 
 <br><br>
 <iframe iframe id="248696" src="https://h5p.org/h5p/embed/248696" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

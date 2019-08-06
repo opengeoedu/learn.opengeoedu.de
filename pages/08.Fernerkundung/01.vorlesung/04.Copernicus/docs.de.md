@@ -46,7 +46,7 @@ Die Sentinel-Flotte umfasst:
 - Sentinel-2 bietet hochauflösende optische Bilder etwa für Landbedeckung und Wasser.
 - Sentinel-3 liefert hochpräzise optische, radargestützte und altimetrische Daten für die Schifffahrt und den Landverkehr.
 - Sentinel-4 und Sentinel-5 werden Daten für die Überwachung der atmosphärischen Zusammensetzung aus der geostationären Umlaufbahn bzw. der polaren Umlaufbahn liefern.
-- Sentinel-5P (Precursor) wird die Lücke zwischen Envisat und Sentinel-5 schließen.
+- Sentinel-5P (Precursor) schließt die Lücke zwischen Envisat und Sentinel-5.
 - Sentinel-6 wird Radar-Altimetrie-Daten zur Messung der globalen Höhe der Meeresoberfläche liefern, vor allem für die operative Ozeanographie und für Klimastudien.
 
 ! Weitere Informationen zu den einzelnen Satelliten des Copernicus-Programms finden Sie auf den [deutschen](https://www.d-copernicus.de/daten/daten-sentinels/) und [englischen Copernicus-Seiten](http://www.copernicus.eu/main/sentinels) sowie bei der [ESA](https://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Overview4).
@@ -55,14 +55,14 @@ Die Sentinel-Flotte umfasst:
 
 __Sentinel-1__
 
-![S1](Sentinel-1.png?classes=caption "Sentinel-1: Radar --> aktiv. &copy; ESA")
+![S1](Sentinel-1.png?classes=caption "Sentinel-1: Radar: aktiv. &copy; ESA")
 <br><br>
 
 __Sentinel-2__
 
-![S2](Sentinel-2_2.png?classes=caption "Sentinel-2: optisch multispektral --> passiv. &copy; ESA")
+![S2](Sentinel-2_2.png?classes=caption "Sentinel-2: optisch multispektral: passiv. &copy; ESA")
 <br><br>
 
 __Sentinel-3__
 
-![S3](Sentinel-3.png?classes=caption "Sentinel-3: Radar und optisch multispektral --> aktiv und passiv. &copy; ESA")
+![S3](Sentinel-3.png?classes=caption "Sentinel-3: Radar und optisch multispektral: aktiv und passiv. &copy; ESA")
