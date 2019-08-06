@@ -19,6 +19,6 @@ If you work with existing potential numbers or perform your own calculations, yo
 
 Flowcharts are a good way of presenting the calculation steps in a transparent and comprehensible way:
 
-![](Skript_DBFZ_Organigramm.png?lightbox=800&resize=,500&classes=caption "Flowchart for calculating biomass potentials, own illustration")
+![](Skript_DBFZ_Organigramm_en.png?lightbox=800&resize=,500&classes=caption "Flowchart for calculating biomass potentials, own illustration")
 
 Under "Flowcharts" you will find the flowcharts for the biomasses available in the [DBFZ Resource Database](http://webapp.dbfz.de/resources). 
