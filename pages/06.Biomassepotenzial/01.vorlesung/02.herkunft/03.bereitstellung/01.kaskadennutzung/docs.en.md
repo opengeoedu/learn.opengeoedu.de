@@ -7,7 +7,7 @@ menu: 'Cascading Use'
 
 Arnold et al. (2009) define cascading use as "sequential use of biogenic raw materials for material and energetic applications" (p. 18). 
 
-![](Skript_DBFZ_Kaskadennutzung.png?lightbox=800&resize=500&classes=caption "Kaskadennutzung von NawaRo, Quelle: own illustration based on Arnold et al. 2009")
+![](Skript_DBFZ_Kaskadennutzung_en.png?lightbox=800&resize=500&classes=caption "Kaskadennutzung von NawaRo, Quelle: own illustration based on Arnold et al. 2009")
 
 The BMELV (BMELV 2008) distinguishes between two types of cascading use (p.1):
 - Biomass is first used materially, possibly over several stages of use or over several products, and is then utilised energetically at the end of the product cycle. 
