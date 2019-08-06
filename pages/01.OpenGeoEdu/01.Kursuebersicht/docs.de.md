@@ -83,7 +83,7 @@ Zudem gibt es ein [Werkzeug zur Selbsteinschätzung](http://test.opengeoedu.de/s
         </div>
         <div class="card m-2" id="tutorials">
             <h3 class="text-center">Tutorials</h3>
-            [pluigin:youtube](https://youtu.be/ZOTrDCiVma4)
+            [plugin:youtube](https://youtu.be/ZOTrDCiVma4)
             <div class="card-body text-justify">
                 Tutorials stehen zu verschiedenen Themen bereit. Diese umfassen sowohl eher grundlegende Ausführungen
                 als auch praktische
