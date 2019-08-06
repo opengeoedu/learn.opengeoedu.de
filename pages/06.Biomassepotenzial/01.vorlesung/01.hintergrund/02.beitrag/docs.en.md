@@ -7,7 +7,7 @@ menu: 'Contribution Bioenergy'
 
 As it can be seen from the following figure, the share of renewable energies in 2017 was 13.1% of the national *primary energy consumption*. Among renewable energies, biomass is the most important energy source - biomass contributed to more than 60% of renewable energy production in 2017. 
 
-![](Script_DBFZ_Primaerenergieverbrauch_2017.png?lightbox=800&resize=500&classes=caption "Primary energy consumption in Germany in 2017, based on energy carriers. Adapted from: Arbeitsgemeinschaft Energiebilanzen, Arbeitsgruppe Erneuerbare Energien-Statistik, 2018")
+![](Script_DBFZ_Primaerenergieverbrauch_2017_en.png?lightbox=800&resize=500&classes=caption "Primary energy consumption in Germany in 2017, based on energy carriers. Adapted from: Arbeitsgemeinschaft Energiebilanzen, Arbeitsgruppe Erneuerbare Energien-Statistik, 2018")
 
 As it can be seen from the following figure, bioenergy contributes to the energy system in the sectors of heat (e.g. burning firewood in wood-burning stoves), electricity (e.g. from fermentation in biogas plants) and transport (e.g. bio-methane based on bio-waste for collection vehicles). For illustration purposes, the contribution of biomass to the energy system can be compared as follows:
 
@@ -17,4 +17,4 @@ As it can be seen from the following figure, bioenergy contributes to the energy
 
 When considering the final energy consumption in the transport sector, it should be noted that a significant part of the biogenic fuel or raw materials is imported.
 
-![](Script_DBFZ_Sektoren_2017.png?lightbox=800&resize=600&classes=caption "Gross electricity generation and final energy consumption in the heating and transport sectors in 2017 in Germany. Source: Working Group Energy Balances, Working Group Renewable Energies Statistics 2018")
+![](Script_DBFZ_Sektoren_2017_en.png?lightbox=800&resize=600&classes=caption "Gross electricity generation and final energy consumption in the heating and transport sectors in 2017 in Germany. Source: Working Group Energy Balances, Working Group Renewable Energies Statistics 2018")
