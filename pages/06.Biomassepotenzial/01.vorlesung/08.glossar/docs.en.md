@@ -10,7 +10,7 @@ taxonomy:
 
 **Bioenergy**: renewable energy source. The energy sources are derived from biomass. Bioenergy can provide electricity, heat and fuels. [BMBF and BMEL 2014](https://www.bmbf.de/pub/Biooekonomie_in_Germany.pdf)
 
-**Biofuels: Liquid or gaseous fuels produced from biomass. Examples are biodiesel, bioethanol and biogas. [BMU](https://www.bmu.de/fileadmin/Daten_BMU/Pools/Broschueren/klimaschutz_in_zahlen_2018_bf.pdf)
+**Biofuel**s: Liquid or gaseous fuels produced from biomass. Examples are biodiesel, bioethanol and biogas. [BMU](https://www.bmu.de/fileadmin/Daten_BMU/Pools/Broschueren/klimaschutz_in_zahlen_2018_bf.pdf)
 
 **Biomass**: organic mixtures of substances bound in or produced by living organisms [BMBF and BMEL 2014](https://www.bmbf.de/pub/Biooekonomie_in_Germany.pdf)
 
