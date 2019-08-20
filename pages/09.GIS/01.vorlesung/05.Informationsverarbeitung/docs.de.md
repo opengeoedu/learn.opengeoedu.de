@@ -9,7 +9,7 @@ Mit dem Oberbegriff ‚GIS’ lassen sich verschiedene Bedeutungen assoziieren:
 
 - die zugrundeliegende Technologie, also die Basistechniken aus der Informatik gekoppelt mit in den Anwendungsgebieten speziell entwickelten Verfahren,
 - die in den Anwendungsgebieten initiierten Vorhaben zum Aufbau und zur Nutzung von Geodaten und
-- die Vielzahl der am Markt verfügbaren Produkte (vgl. speziell hierzu Bill, 2016, S. 144 ff., Harzer, 2017).
+- die Vielzahl der am Markt verfügbaren Produkte (vgl. speziell hierzu Bill, 2016, S. 144 ff., Harzer, 2017/2018).
 
 
 Im Wesentlichen muss ein GIS das gesamte Funktionalitätenspektrum von der Datenerfassung über die Datenverwaltung und die Datenanalyse bis zur Datenpräsentation bedienen, klassisch als das **EVAP-Modell der GIS-Verarbeitungskette** bezeichnet (Bill, 2016). Es muss also einen Anwender dabei unterstützen, für seine eigenen und andere relevante Probleme Daten in das System einzugeben, mit diesen Daten dann Auswertungen zu betreiben und die Ergebnisse in einer geeigneten Form (analog auf Papier, digital auf dem Bildschirm, auf Datenträgern/Speichermedien oder mittels Diensten über das Internet abrufbar etc.) auch wieder visualisieren oder verbreiten zu können. Die Komplexität und die Interdependenzen dieser Anforderungen sind durch die nachfolgend dargestellte, idealisierte Verarbeitungskette illustriert (siehe Abbildung).
