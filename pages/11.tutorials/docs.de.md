@@ -9,7 +9,10 @@ category:
     - docs
 ---
 
-Auf diser Seite finden Sie ausführliche Hilfestellungen zu verschiedenen Themen und Aufgaben in Geo-Informationssystemen.
+Auf dieser Seite finden Sie ausführliche Hilfestellungen zu verschiedenen Themen und Aufgaben in Geo-Informationssystemen.
+
+[plugin:youtube](https://youtu.be/ZOTrDCiVma4)
+
 
 Verfügbar sind:
 

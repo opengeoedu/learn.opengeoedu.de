@@ -3,6 +3,9 @@ title: 'Open Government Data'
 taxonomy:
     category:
         - docs
+twitterenable: true
+twittercardoptions: summary
+facebookenable: true
 ---
 
 Open Goverment Data (auch OpenGovData, OGD, zu deutsch offene Regierungs- und Verwaltungsdaten) sind Daten, die von einer öffentlichen Behörde oder Regierungsorganisation zur freien Nutzung für die Öffentlichkeit bereitgestellt werden. Open Government Data ist eine gemeinsame Teilmenge der *Open Government*- und der *Open Data*-Bewegung. Viele Autoren benutzen den Begriff *Open Data* jedoch synonym mit *Open Government Data* und vernachlässigen dabei die weiter gefasste Bedeutung des Begriffes.
@@ -15,7 +18,7 @@ Die meisten Regierungen, die Daten im großen Stil offenlegen, haben sich dem *O
 
 <figure class="image-caption float-left padding-right">
 <div markdown="1" class="caption">
-![Oekosystem](oekosystem_cropped.png?width=400&classes=caption,float-left,padding-right "test")</div>
+![Oekosystem](oekosystem_cropped.png?width=400&classes=caption,float-left,padding-right)</div>
 <figcaption>Abbildung: &Ouml;kosystem der Offenheit<br/> Quelle: <a href= "literatur#klessmann2012open">Klessman et al., 2012</a></figcaption>
 </figure>
 
