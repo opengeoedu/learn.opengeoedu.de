@@ -57,14 +57,8 @@ facebookenable: true
         [plugin:youtube](https://www.youtube.com/watch?v=yYoiGUOCyE8)
     </div>
     <div class="col-md-6 mt-3 text-justify">
-The open online course OpenGeoEdu consists of several course parts which can be freely combined in different ways.
-can become. Each part of the course consists of a theoretical substructure (usually as a lecture with a knowledge test at the end of the course).
-and a practical exercise section in which, as a rule, the entire processing chain is covered, from the search for open
-data is treated from the preparation to the analysis and visualization of the results. The exercises are described in
-form of case studies. Here you will run through a geoprocessing chain, learn selected analysis functions
-know and produce results, e.g. in the form of thematic maps, which they then classify in the context of the question, and
-to interpret.
+The open online course OpenGeoEdu consists of several parts which can be freely combined in different ways. Each part of the course consists of a theoretical substructure (usually designed as a lecture with a knowledge test at the end of the course) and a practical exercise part, which usually covers the entire processing chain from searching for open data, to preparation, analysis and visualization of the results. The exercises are constructed as case studies. You will go through a geoprocessing chain, learn about selected analysis functions and produce the results, e.g. in the form of thematic maps, which you will then analyse and interpret in the context of the research question.
     </div>
 </div>
 
-Lecture and exercise parts are completely freely available. A <a href="https://ilias.opengeoedu.de/ilias/goto_opengeoedu_usr_registration.html" target="_blank">registration</a> is only necessary if you as a participant want to achieve credit points and a grade for which a certificate is awarded to be credited as academic achievement.
+Lecture and exercise parts are completely freely available. A registration will only be necessary if you want to achieve credit points and a grading for which a certificate will be awarded to be credited as academic achievement.
