@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
 ---
-Bis hier sind die Geoobjekte überwiegend als statisch und räumlich zweidimensional angenommen worden. Die den Geoobjekten zu Grunde liegenden Geophänomene sind jedoch fast immer räumlich dreidimensional und zeitlich dynamisch.
+Bis hier sind die Geoobjekte überwiegend als statisch und räumlich zweidimensional angenommen worden. Die den Geoobjekten zu Grunde liegenden Geophänomene sind jedoch fast immer räumlich dreidimensional und oftmals zeitlich dynamisch.
 
 ![Dimensionen](GIS12.png)
 
