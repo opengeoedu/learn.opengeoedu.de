@@ -61,4 +61,4 @@ The open online course OpenGeoEdu consists of several parts which can be freely 
     </div>
 </div>
 
-Lecture and exercise parts are completely freely available. A registration will only be necessary if you want to achieve credit points and a grading for which a certificate will be awarded to be credited as academic achievement.
+Lecture and exercise parts are completely freely available. A <a href="https://ilias.opengeoedu.de/ilias/goto_opengeoedu_usr_registration.html" target="_blank">registration</a> will only be necessary if you want to achieve credit points and a grading for which a certificate will be awarded to be credited as academic achievement.
