@@ -7,16 +7,16 @@ menu: Overview
 slug: overview
 child_type: docs
 googletitle: 'OpenGeoEdu | Overview'
-googledesc: 'The open online course OpenGeoEdu consists of several parts which can be freely combined in different ways.'
+googledesc: 'The open online course OpenGeoEdu consists of several course parts which can be freely combined'
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /images/oge_logo_ohnehintergrund.svg
 twittertitle: 'OpenGeoEdu | Übersicht'
-twitterdescription: 'The open online course OpenGeoEdu consists of several parts which can be freely combined in different ways.'
+twitterdescription: 'The open online course OpenGeoEdu consists of several course parts which can be freely combined'
 orgaenabled: true
 orga:
     name: OpenGeoEdu
-    description: 'Offene Daten für Lehre und Forschung in raumbezogenen Studiengängen'
+    description: 'Open data for teaching and research in spatial study programmes'
     streetaddress: 'Justus-v.-Liebig-Weg 6'
     city: Rostock
     state: Mecklenburg-Vorpommern
@@ -52,10 +52,19 @@ orgaratingenabled: false
 personenabled: false
 facebookenable: true
 ---
-The open online course OpenGeoEdu consists of several course parts which can be freely combined in different ways. Each part of the course consists of a theoretical substructure (usually designed as a lecture with a knowledge test at the end of the course) and a practical exercise part, which usually covers the entire processing chain from searching for open data to processing, analysis and visualization of the results. The exercises are structured in the form of case studies. Here you will go through a geoprocessing chain, get to know selected analysis functions and produce results, e.g. in the form of thematic maps, which you will then classify and interpret in the context of the question.
+<div class="row my-5">
+    <div class="col-md-6">
+        [plugin:youtube](https://www.youtube.com/watch?v=yYoiGUOCyE8)
+    </div>
+    <div class="col-md-6 mt-3 text-justify">
+The open online course OpenGeoEdu consists of several course parts which can be freely combined in different ways.
+can become. Each part of the course consists of a theoretical substructure (usually as a lecture with a knowledge test at the end of the course).
+and a practical exercise section in which, as a rule, the entire processing chain is covered, from the search for open
+data is treated from the preparation to the analysis and visualization of the results. The exercises are described in
+form of case studies. Here you will run through a geoprocessing chain, learn selected analysis functions
+know and produce results, e.g. in the form of thematic maps, which they then classify in the context of the question, and
+to interpret.
+    </div>
+</div>
 
-The lecture part is completely freely available, the exercise part is only accessible with registration, since credit points are determined for which a certificate is awarded for recognition as academic achievement.
-
-On this overview page the parts of the course are presented with a motivating trailer and a short description. A module description of the open online course can be found on the next page. Data sheets exist for the individual course and exercise parts, which systematically and extensively compile the data, software, functionalities and expected results used.
-
-In addition, there is a self-assessment tool from which hints and recommendations for processing the course parts are given depending on the previous knowledge of the user. A workload calculator is also available with which the user can compile a selection of the course parts to be processed and estimate the corresponding workload.
+Lecture and exercise parts are completely freely available. A <a href="https://ilias.opengeoedu.de/ilias/goto_opengeoedu_usr_registration.html" target="_blank">registration</a> is only necessary if you as a participant want to achieve credit points and a grade for which a certificate is awarded to be credited as academic achievement.
