@@ -19,6 +19,7 @@ Interaktiv lassen sich Lärmkarten in verschiedenen Städten und Einrichtungen b
 Unterschiedliche Städte und Gemeinden stellen die ausgewiesenen Ruhigen Gebiete im Geodateninfrastrukturen oder offenen Datenportalen zur Verfügung. 
 
 ! * Die Stadt Rostock bietet den Datensatz im offenen Datenportal an: [Ruhige Gebiete](https://www.opendata-hro.de/dataset/ruhige_gebiete)
+! * Die Stadt Bremen bietet ausgewiesene Ruhige Gebiete im [Kartendienst](https://metaver.de/kartendienste?layers=eed0276a46a37cae5aa65a23afdbf252&lang=de&topic=themen&bgLayer=webatlasde_light&E=481010.32&N=5889582.39&zoom=7) an.
 
 
 ## Noisemapping
