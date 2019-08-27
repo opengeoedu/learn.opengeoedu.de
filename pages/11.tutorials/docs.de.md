@@ -130,6 +130,7 @@ Verfügbar sind:
             der Verarbeitung offener Geodaten erläutert werden. Zudem werden Tipps und Tricks im Umgang mit OGC-WxS
             gesammelt.</p>
         <p markdown="1">Download des Tutorials [OGC-Webservices](OGE_Tutorial_OGC_WxS.pdf?target=_blank)</p>
+        <p markdown="1">Download Tutorial in English [OGC Web Services](OGE_Tutorial_OGC_WxS-en.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1">![](OGC_Logo_2D_Blue.png)</div>
 </div>
