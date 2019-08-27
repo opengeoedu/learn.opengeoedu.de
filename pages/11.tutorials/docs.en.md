@@ -143,7 +143,8 @@ Available tutorials you can find below:
 </div>
 
 ---
-
+<br>
+<br>
 [center]
 ## We are working hard to provide more tutorials!
 [/center]
