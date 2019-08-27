@@ -132,7 +132,7 @@ Available tutorials you can find below:
 
 --- -->
 
-## Lizenzen
+## Licenses
 
 <div class="row align-items-center">
     <div class="col-sm-9">
