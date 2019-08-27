@@ -117,15 +117,12 @@ Available tutorials you can find below:
 
 ---
 
-<!-- ## OGC-Webservices
+## OGC-Web Services
 
 <div class="row align-items-center">
     <div class="col-sm-9">
-        <h4>OGC-Webservices</h4>
-        <p class="text-justify">In dieser Lerneinheit sollen gängige OGC-Webservices beschrieben und deren Nutzung bei
-            der Verarbeitung offener Geodaten erläutert werden. Zudem werden Tipps und Tricks im Umgang mit OGC-WxS
-            gesammelt.</p>
-        <p markdown="1">Download des Tutorials [OGC-Webservices](OGE_Tutorial_OGC_WxS.pdf?target=_blank)</p>
+        <p class="text-justify">This course unit describes common OGC Web Services and explains their use when processing open geodata. Tips and tricks for using OGC-WxS will be also covered.</p>
+        <p markdown="1">Download Tutorial [OGC Web Services](OGE_Tutorial_OGC_WxS-en.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1">![](OGC_Logo_2D_Blue.png)</div>
 </div>
