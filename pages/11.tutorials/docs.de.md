@@ -102,6 +102,7 @@ Verfügbar sind:
             Zudem werden Tipps und Tricks gesammelt, um die gemeinsame Verarbeitung der Daten zu erleichtern.
         </p>
         <p markdown="1">Download des Tutorials [Datenformate](OGE-Tutorial_Dateiformate.pdf?target=_blank)</p>
+        <p markdown="1">Download Tutorial in English [Data formats](OGE-Tutorial_Dateiformate-en.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-6" markdown="1">
         “Person”: {
@@ -143,6 +144,7 @@ Verfügbar sind:
         <p class="text-justify">In diesem Tutorial werden gängige Lizenzen für offene Daten und Software beschrieben und 
             deren Bedeutung bei der Verarbeitung offener Geodaten erläutert.</p>
         <p markdown="1">Download des Tutorials [Lizenzen](OGE-Tutorial_Lizenzen.pdf?target=_blank)</p>
+        <p markdown="1">Download Tutorial in English [Licenses](OGE-Tutorial_Lizenzen-en.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1">![](CreativeCommons_logo.png)</div>
 </div>
