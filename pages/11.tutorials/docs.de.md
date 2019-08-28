@@ -35,6 +35,7 @@ Verfügbar sind:
             Detailkarte
             – sehen Sie hier. </p>
         <p markdown="1">Download des Tutorials [Kartengestaltung](OGE-Tutorial_Kartengestaltung.pdf?target=_blank)</p>
+        <p markdown="1">Download Tutorial [Designing thematic maps](OGE-Tutorial_Kartengestaltung-en.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1">![](Kartengestaltung.PNG)</div>
 </div>
