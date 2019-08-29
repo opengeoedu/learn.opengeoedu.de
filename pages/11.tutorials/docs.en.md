@@ -51,20 +51,18 @@ Available tutorials you can find below:
     <div class="col-sm-3" markdown="1"></div>
 </div>
 
----
+--- -->
 
-## Modellierung
+## Modeling in UML and ER
 
 <div class="row align-items-center">
     <div class="col-sm-9">
-        <h4>Modellierung in UML und ER</h4>
-        <p class="text-justify">In dieser Lerneinheit werden die wesentlichen Grundzüge der Modellierung vorgestellt
-            und am Beispiel der Unified Modeling Language (UML) und des Entity-Relationship-Modells (ER) erläutert.</p>
-        <p markdown="1">Download des Tutorials [UML und ER](OGE-Tutorial_UML_Vorlesung.pdf?target=_blank)</p>
+        <p class="text-justify">This tutorial introduces you to the fundamentals of modeling and explain them using the Unified Modeling Language (UML) and the Entity Relationship Model (ER) as examples.</p>
+        <p markdown="1">Download [Modeling in UML and ER](OGE-Tutorial_UML_Vorlesung-en.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1">![](anwendungsfall.png)</div>
 </div>
-<div class="row align-items-center">
+<!-- <div class="row align-items-center">
     <div class="col-sm-9">
         <h4>UML-Klassen- und Aktivitätsdiagramm</h4>
         <p class="text-justify">In dieser Lerneinheit sollen Sie die in dem Vorlesungstutorial erlernten Grundlagen zum UML-Klassen- und UML-Aktivitätsdiagramm praktisch anwenden.</p>
@@ -73,6 +71,7 @@ Available tutorials you can find below:
     <div class="col-sm-3" markdown="1"></div>
 </div>
 
+<!--
 ---
 
 ## Koordinaten

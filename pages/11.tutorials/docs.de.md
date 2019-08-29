@@ -62,6 +62,7 @@ Verfügbar sind:
         <p class="text-justify">In dieser Lerneinheit werden die wesentlichen Grundzüge der Modellierung vorgestellt
             und am Beispiel der Unified Modeling Language (UML) und des Entity-Relationship-Modells (ER) erläutert.</p>
         <p markdown="1">Download des Tutorials [UML und ER](OGE-Tutorial_UML_Vorlesung.pdf?target=_blank)</p>
+        <p markdown="1">Download Tutorial in English [Modeling in UML and ER](OGE-Tutorial_UML_Vorlesung-en.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1">![](anwendungsfall.png)</div>
 </div>
