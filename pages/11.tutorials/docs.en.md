@@ -15,29 +15,18 @@ On this page you will find detailed help on various topics and tasks in geo-info
 
 Available tutorials you can find below: 
 
-<!-- ## Thematische Kartographie
+## Thematic map design
 
 <div class="row align-items-center">
     <div class="col-sm-9">
-        <h4>Tutorial Kartengestaltung</h4>
-        <p class="text-justify">Die vorliegende ausführliche Anleitung erläutert, wie die Ergebnisse einer Analyse in
-            einer thematischen Karte aufgearbeitet
-            werden können. Dabei gehen wir vom Vorhandensein verschiedener Daten oder Analyseergebnisse aus und zeigen
-            wie
-            mittels ArcMap (Version 10.3) Karten erstellt werden können. Als Datensätze nutzen wir die Ladestationen
-            (ein
-            Punktthema) und die Ergebnisse der Erreichbarkeitsanalyse (ein Polygonthema) auf kommunaler Ebene. Dies
-            kombinieren
-            wir vor eine Hintergrundkarte und illustrieren welche Elemente zu einer Karte gehören und mit welchen
-            Signaturen
-            oder Farbabstufungen gearbeitet werden kann. Das Ergebnis – eine Kombination einer Übersichts- und einer
-            Detailkarte
-            – sehen Sie hier. </p>
-        <p markdown="1">Download des Tutorials [Kartengestaltung](OGE-Tutorial_Kartengestaltung.pdf?target=_blank)</p>
+        <p class="text-justify">
+        This detailed manual explains how the results of an analysis can be summarized in a thematic map. We assume the existence of different data or analysis results an show how Maps can be created using ArcMap (version 10.3). As datasets we use the charging stations (a point theme) and the results of the reachability analysis (a polygon theme) at municipal level. We combine those on a background map and illustrate what elements are part of a map and which elements are used. Also we show you what signatures or colour gradations can be used. The result - a combination of an overview and a detailed map - you can see here.
+        </p>
+        <p markdown="1">Download Tutorial [Thematic map design](OGE-Tutorial_Kartengestaltung-en.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1">![](Kartengestaltung.PNG)</div>
 </div>
-<div class="row align-items-center">
+<!-- <div class="row align-items-center">
     <div class="col-sm-9">
         <h4>Tutorial Kartographie</h4>
         <p class="text-justify">Zur Erstellung anspruchsvoller kartographischer Produkte als Visualisierungsform der
@@ -69,7 +58,7 @@ Available tutorials you can find below:
         <p markdown="1">Download des Tutorials [Klassendiagramm](OGE-Tutorial_UML_%C3%9Cbung.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1"></div>
-</div>
+</div> -->
 
 <!--
 ---
