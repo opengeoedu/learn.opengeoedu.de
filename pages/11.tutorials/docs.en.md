@@ -51,14 +51,15 @@ Available tutorials you can find below:
     </div>
     <div class="col-sm-3" markdown="1">![](anwendungsfall.png)</div>
 </div>
-<!-- <div class="row align-items-center">
+<div class="row align-items-center">
     <div class="col-sm-9">
-        <h4>UML-Klassen- und Aktivitätsdiagramm</h4>
-        <p class="text-justify">In dieser Lerneinheit sollen Sie die in dem Vorlesungstutorial erlernten Grundlagen zum UML-Klassen- und UML-Aktivitätsdiagramm praktisch anwenden.</p>
-        <p markdown="1">Download des Tutorials [Klassendiagramm](OGE-Tutorial_UML_%C3%9Cbung.pdf?target=_blank)</p>
+        <h4>UML diagrams</h4>
+        <p class="text-justify">In this unit you will apply the basics of the UML Class and Activity Diagram learned in the previous tutorial.</p>
+        <p markdown="1">Download [UML diagrams](OGE-Tutorial_UML_uebung-en.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1"></div>
-</div> -->
+    
+</div>
 
 <!--
 ---
@@ -130,6 +131,3 @@ Available tutorials you can find below:
 ---
 <br>
 <br>
-[center]
-## We are working hard to provide more tutorials!
-[/center]
