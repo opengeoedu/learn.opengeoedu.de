@@ -164,7 +164,7 @@ An dieser Stelle werden Verknüpfungen zu externen Inhalten bereitgestellt, die 
         <p class="text-justify">Das Geomedienlabor der Goethe Universität Frankfurt stellt in der Onlineplattform Frankfurt Open Courseware (FOC) einen Online-Kurs zur Einführung in das Arbeiten mit Storymaps für Studierende aller Fächer und interessierte Bürger /-innen frei zur Verfügung. Story Maps sind eine interessante Alternative für Belegarbeiten, da sie interaktive online-Karten mit verschiedenen Medien, wie z.B. Bildern, Texten, Videos und Links, verknüpfen und so raumbezogene Fragestellungen übersichtlich und in einer verständlichen Art und Weise präsentieren können.</p>
         <p>Weiter zum Tutorial <a href="http://foc.geomedienlabor.de/doku.php?id=courses:workshops:ws-storymap:description">Storymap</a></p>
     </div>
-    <div class="col-sm-3" ><a href="http://foc.geomedienlabor.de/doku.php?id=courses:workshops:ws-storymap:description">![](foc.png)</a></div>
+    <div class="col-sm-3" markdown="1"><a href="http://foc.geomedienlabor.de/doku.php?id=courses:workshops:ws-storymap:description">![](foc.png)</a></div>
 </div>
 
 <div class="row align-items-center">
