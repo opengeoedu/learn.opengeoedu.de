@@ -9,7 +9,7 @@ category:
     - docs
 ---
 
-Auf dieser Seite finden Sie ausführliche Hilfestellungen zu verschiedenen Themen und Aufgaben in Geo-Informationssystemen.
+Auf dieser Seite finden Sie ausführliche Hilfestellungen zu verschiedenen Themen und Aufgaben in Geo-Informationssystemen. Neben eigenen Materialien stellen wir auch Verweise zu gut aufbereiteten externen Inhalten her.
 
 [plugin:youtube](https://youtu.be/ZOTrDCiVma4)
 
@@ -154,6 +154,24 @@ Verfügbar sind:
 
 ---
 
-[center]
-## Wir arbeiten unter Hochdruck daran weitere Tutorials bereitzustellen!
-[/center]
+## Externe Materialien
+
+An dieser Stelle werden Verknüpfungen zu externen Inhalten bereitgestellt, die das Anliegen von OpenGeoEdu und das Arbeiten mit offenen Geodaten befördern.
+
+<div class="row align-items-center">
+    <div class="col-sm-9">
+        <h4>Tutorial Storymap</h4>
+        <p class="text-justify">Das Geomedienlabor der Goethe Universität Frankfurt stellt in der Onlineplattform Frankfurt Open Courseware (FOC) einen Online-Kurs zur Einführung in das Arbeiten mit Storymaps für Studierende aller Fächer und interessierte Bürger /-innen frei zur Verfügung. Story Maps sind eine interessante Alternative für Belegarbeiten, da sie interaktive online-Karten mit verschiedenen Medien, wie z.B. Bildern, Texten, Videos und Links, verknüpfen und so raumbezogene Fragestellungen übersichtlich und in einer verständlichen Art und Weise präsentieren können.</p>
+        <p markdown="1">Weiter zum Tutorial [Storymap](http://foc.geomedienlabor.de/doku.php?id=courses:workshops:ws-storymap:description)</p>
+    </div>
+    <div class="col-sm-3" markdown="1">![](foc.png)</div>
+</div>
+
+<div class="row align-items-center">
+    <div class="col-sm-9">
+        <h4>Tutorial Learn ArcGIS</h4>
+        <p class="text-justify">Learn ArcGIS stellt eine Sammlung von interessanten und didaktisch gut aufbereiteten raumbezogenen Fallbeispielen in Form von Lektionen zusammen. Die Lektionen werden in verschiedenen Sprachen  angeboten und beinhalten Schritt-für-Schrittanleitungen und entsprechende Datensätze. Mit einer kleinen Suchmaske kann die Lektionengalerie nach passenden Beispielen zu eigenen Fragestellungen durchsucht werden.</p>
+        <p markdown="1">Weiter zu [Learn ArcGIS](https://learn.arcgis.com?target=_blank)</p>
+    </div>
+    <div class="col-sm-3" markdown="1">![](learnesri.png)</div>
+</div>
