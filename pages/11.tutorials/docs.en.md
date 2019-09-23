@@ -33,7 +33,7 @@ Available tutorials you can find below:
             GIS-Analysen sind kartographische Grundkenntnisse essentiell. Dieses Skript stellt wesentliche Aspekte der
             thematischen Kartographie zusammen. Dabei werden Lehrmaterialien der Professur für Geodäsie und
             Geoinformatik in Präsenz- und Fernstudium genutzt.
-            Dies ersetzt natürlich keine Lehrveranstaltung Kartographie. Daher wird das Studium kartographischer
+            Dies ersetzt natürlich keine Le+hrveranstaltung Kartographie. Daher wird das Studium kartographischer
             Lehrbücher nahegelegt.</p>
         <p markdown="1">Download des Tutorials [Kartographie](OGE-Tutorial_Kartographie.pdf?target=_blank)</p>
     </div>
@@ -71,6 +71,7 @@ Available tutorials you can find below:
     <div class="col-sm-9">
         <h4><a href="https://xkcd.com/977/">Map projections</a> and coordinate systems</h4>
         <p class="text-justify">In this unit the problem of mapping the curved earth to a flat surface or other replacement figure shall be explained (map projections) and standard coordinate systems will be described.</p>
+        <p markdown="1">Download [Coordinates](OGE-Tutorial_KNE_Koordinaten-en.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1"></div>
 </div>
