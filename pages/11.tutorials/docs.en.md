@@ -39,8 +39,9 @@ Available tutorials you can find below:
     </div>
     <div class="col-sm-3" markdown="1"></div>
 </div>
+-->
 
---- -->
+--- 
 
 ## Modeling in UML and ER
 
@@ -61,23 +62,20 @@ Available tutorials you can find below:
     
 </div>
 
-<!--
+
 ---
 
-## Koordinaten
+## Coordinates
 
 <div class="row align-items-center">
     <div class="col-sm-9">
-        <h4>Kartennetzentwürfe und Koordinatensysteme</h4>
-        <p class="text-justify">In dieser Lerneinheit soll das Problem der Abbildung der gekrümmten Erdfigur auf eine
-            Ebene oder eine andere Ersatzfigur erläutert (Kartennetzentwürfe) sowie gängige Koordinatensysteme
-            beschrieben werden.</p>
-        <p markdown="1">Download des Tutorials [Koordinaten](OGE-Tutorial_KNE_Koordinaten.pdf?target=_blank)</p>
+        <h4><a href="https://xkcd.com/977/">Map projections</a> and coordinate systems</h4>
+        <p class="text-justify">In this unit the problem of mapping the curved earth to a flat surface or other replacement figure shall be explained (map projections) and standard coordinate systems will be described.</p>
     </div>
     <div class="col-sm-3" markdown="1"></div>
 </div>
 
---- -->
+---
 
 ## Data formats
 

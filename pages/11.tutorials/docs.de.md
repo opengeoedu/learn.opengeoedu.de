@@ -89,6 +89,7 @@ Verfügbar sind:
             Ebene oder eine andere Ersatzfigur erläutert (Kartennetzentwürfe) sowie gängige Koordinatensysteme
             beschrieben werden.</p>
         <p markdown="1">Download des Tutorials [Koordinaten](OGE-Tutorial_KNE_Koordinaten.pdf?target=_blank)</p>
+        <p markdown="1">Download [Coordinates](OGE-Tutorial_KNE_Koordinaten-en.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1"></div>
 </div>
