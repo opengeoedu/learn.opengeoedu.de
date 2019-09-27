@@ -1,14 +1,12 @@
 ---
 title: OpenGeoEdu-Team
-taxonomy: null
 category: docs
 anchors:
     active: false
 visible: false
 ---
 
-# Das Projektkonsortium
-<div class="row">
+<div class="row d-flex justify-content-center">
     <div class="col-6 col-lg-4">
         <img src="/images/staff/Ralf_Bill_1335a.jpg" class="center-block img-fluid my-3 rounded-circle" width="200"
             height="200">
@@ -18,6 +16,8 @@ visible: false
         </h3>
         <p class="text-muted text-center">Koordination OpenGeoEdu</p>
     </div>
+</div>
+<div class="row">
     <div class="col-6 col-lg-4">
         <img src="https://www.opengeoedu.de/images/videos/i_mein_web.PNG" class="center-block img-fluid my-3 rounded-circle" width="300">
         <h3 class="mb-0 text-center">

@@ -9,7 +9,7 @@ category:
     - docs
 ---
 
-Auf dieser Seite finden Sie ausführliche Hilfestellungen zu verschiedenen Themen und Aufgaben in Geo-Informationssystemen.
+Auf dieser Seite finden Sie ausführliche Hilfestellungen zu verschiedenen Themen und Aufgaben in Geo-Informationssystemen. Neben eigenen Materialien stellen wir auch Verweise zu gut aufbereiteten externen Inhalten her.
 
 [plugin:youtube](https://youtu.be/ZOTrDCiVma4)
 
@@ -35,6 +35,7 @@ Verfügbar sind:
             Detailkarte
             – sehen Sie hier. </p>
         <p markdown="1">Download des Tutorials [Kartengestaltung](OGE-Tutorial_Kartengestaltung.pdf?target=_blank)</p>
+        <p markdown="1">Download Tutorial [Designing thematic maps](OGE-Tutorial_Kartengestaltung-en.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1">![](Kartengestaltung.PNG)</div>
 </div>
@@ -62,6 +63,7 @@ Verfügbar sind:
         <p class="text-justify">In dieser Lerneinheit werden die wesentlichen Grundzüge der Modellierung vorgestellt
             und am Beispiel der Unified Modeling Language (UML) und des Entity-Relationship-Modells (ER) erläutert.</p>
         <p markdown="1">Download des Tutorials [UML und ER](OGE-Tutorial_UML_Vorlesung.pdf?target=_blank)</p>
+        <p markdown="1">Download Tutorial in English [Modeling in UML and ER](OGE-Tutorial_UML_Vorlesung-en.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1">![](anwendungsfall.png)</div>
 </div>
@@ -70,8 +72,10 @@ Verfügbar sind:
         <h4>UML-Klassen- und Aktivitätsdiagramm</h4>
         <p class="text-justify">In dieser Lerneinheit sollen Sie die in dem Vorlesungstutorial erlernten Grundlagen zum UML-Klassen- und UML-Aktivitätsdiagramm praktisch anwenden.</p>
         <p markdown="1">Download des Tutorials [Klassendiagramm](OGE-Tutorial_UML_%C3%9Cbung.pdf?target=_blank)</p>
+        <p markdown="1">Download Tutorial in English [UML diagrams](OGE-Tutorial_UML_uebung-en.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1"></div>
+    
 </div>
 
 ---
@@ -85,6 +89,7 @@ Verfügbar sind:
             Ebene oder eine andere Ersatzfigur erläutert (Kartennetzentwürfe) sowie gängige Koordinatensysteme
             beschrieben werden.</p>
         <p markdown="1">Download des Tutorials [Koordinaten](OGE-Tutorial_KNE_Koordinaten.pdf?target=_blank)</p>
+        <p markdown="1">Download [Coordinates](OGE-Tutorial_KNE_Koordinaten-en.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1"></div>
 </div>
@@ -102,6 +107,7 @@ Verfügbar sind:
             Zudem werden Tipps und Tricks gesammelt, um die gemeinsame Verarbeitung der Daten zu erleichtern.
         </p>
         <p markdown="1">Download des Tutorials [Datenformate](OGE-Tutorial_Dateiformate.pdf?target=_blank)</p>
+        <p markdown="1">Download Tutorial in English [Data formats](OGE-Tutorial_Dateiformate-en.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-6" markdown="1">
         “Person”: {
@@ -129,6 +135,7 @@ Verfügbar sind:
             der Verarbeitung offener Geodaten erläutert werden. Zudem werden Tipps und Tricks im Umgang mit OGC-WxS
             gesammelt.</p>
         <p markdown="1">Download des Tutorials [OGC-Webservices](OGE_Tutorial_OGC_WxS.pdf?target=_blank)</p>
+        <p markdown="1">Download Tutorial in English [OGC Web Services](OGE_Tutorial_OGC_WxS-en.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1">![](OGC_Logo_2D_Blue.png)</div>
 </div>
@@ -143,12 +150,31 @@ Verfügbar sind:
         <p class="text-justify">In diesem Tutorial werden gängige Lizenzen für offene Daten und Software beschrieben und 
             deren Bedeutung bei der Verarbeitung offener Geodaten erläutert.</p>
         <p markdown="1">Download des Tutorials [Lizenzen](OGE-Tutorial_Lizenzen.pdf?target=_blank)</p>
+        <p markdown="1">Download Tutorial in English [Licenses](OGE-Tutorial_Lizenzen-en.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1">![](CreativeCommons_logo.png)</div>
 </div>
 
 ---
 
-[center]
-## Wir arbeiten unter Hochdruck daran weitere Tutorials bereitzustellen!
-[/center]
+## Externe Materialien
+
+An dieser Stelle werden Verknüpfungen zu externen Inhalten bereitgestellt, die das Anliegen von OpenGeoEdu und das Arbeiten mit offenen Geodaten befördern.
+
+<div class="row align-items-center">
+    <div class="col-sm-9">
+        <h4>Tutorial Storymap</h4>
+        <p class="text-justify">Das Geomedienlabor der Goethe Universität Frankfurt stellt in der Onlineplattform Frankfurt Open Courseware (FOC) einen Online-Kurs zur Einführung in das Arbeiten mit Storymaps für Studierende aller Fächer und interessierte Bürger /-innen frei zur Verfügung. Story Maps sind eine interessante Alternative für Belegarbeiten, da sie interaktive online-Karten mit verschiedenen Medien, wie z.B. Bildern, Texten, Videos und Links, verknüpfen und so raumbezogene Fragestellungen übersichtlich und in einer verständlichen Art und Weise präsentieren können.</p>
+        <p>Weiter zum Tutorial <a href="http://foc.geomedienlabor.de/doku.php?id=courses:workshops:ws-storymap:description">Storymap</a></p>
+    </div>
+    <div class="col-sm-3" markdown="1"><a href="http://foc.geomedienlabor.de/doku.php?id=courses:workshops:ws-storymap:description">![](foc.png)</a></div>
+</div>
+
+<div class="row align-items-center">
+    <div class="col-sm-9">
+        <h4>Tutorial Learn ArcGIS</h4>
+        <p class="text-justify">Learn ArcGIS stellt eine Sammlung von interessanten und didaktisch gut aufbereiteten raumbezogenen Fallbeispielen in Form von Lektionen zusammen. Die Lektionen werden in verschiedenen Sprachen  angeboten und beinhalten Schritt-für-Schrittanleitungen und entsprechende Datensätze. Mit einer kleinen Suchmaske kann die Lektionengalerie nach passenden Beispielen zu eigenen Fragestellungen durchsucht werden.</p>
+        <p markdown="1">Weiter zu [Learn ArcGIS](https://learn.arcgis.com?target=_blank)</p>
+    </div>
+    <div class="col-sm-3" markdown="1">[![](learnesri.png)](https://learn.arcgis.com?target=_blank)</div>
+</div>
