@@ -12,6 +12,19 @@ On this page you will find detailed help on various topics and tasks in geo-info
 
 [plugin:youtube](https://youtu.be/ZOTrDCiVma4)
 
+<script type="application/ld+json"> 
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "name": "Tutorials - Additional materials",
+  "description": "On this page you will find detailed help on various topics and tasks in geo-information systems.",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenGeoEdu",
+    "sameAs": "https://www.opengeoedu.de"
+  }
+} 
+</script>
 
 Available tutorials you can find below: 
 

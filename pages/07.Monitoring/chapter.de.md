@@ -16,8 +16,17 @@ Teaser zum Fallbeispiel ***Flächenmonitoring***
 [plugin:youtube](https://youtu.be/fwrLTp219pA)
 [plugin:youtube](https://youtu.be/cdQBExfR5qo)
 [/owl-carousel]
-<!--
-<div class="embed-responsive embed-responsive-16by9">
-<iframe class="responsive-item" src="//slides.com/opengeoedu/teaser-flaechenmonitoring/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
--->
+
+<script type="application/ld+json"> 
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "name": "Flächenmonitoring - OpenGeoEdu Fallbeispiel",
+  "description": "Die Vorlesung vermittelt die wissenschaftlichen Hintergründe des Themas Flächenmonitoring. Dies soll Sie für die Übungseinheiten der Schaffung von Daten- und Analysegrundlagen für eine nachhaltige Stadt- und Raumentwicklung vorbereiten.",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenGeoEdu",
+    "sameAs": "https://www.opengeoedu.de"
+  }
+} 
+</script> 

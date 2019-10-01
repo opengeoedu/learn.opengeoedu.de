@@ -21,3 +21,17 @@ Videos of the module ***Biomass Potentials***
 [plugin:youtube](https://youtu.be/8d1_2JHQgAY)
 [plugin:youtube](https://youtu.be/3Crw79eL6QA)
 [/owl-carousel]
+
+<script type="application/ld+json"> 
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "name": "Biomass Potentials - OpenGeoEdu Module",
+  "description": "In this part of the course we will show you how questions in bioeconomics can be answered with the help of open (geo)data.",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenGeoEdu",
+    "sameAs": "https://www.opengeoedu.de"
+  }
+} 
+</script> 

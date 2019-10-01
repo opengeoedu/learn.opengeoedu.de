@@ -27,12 +27,16 @@ Videos zum Fallbeispiel ***Umgebungslärm***
 [plugin:youtube](https://youtu.be/V8Af6KyAnZI)
 [/owl-carousel]
 
-
-
-<!-- [owl-carousel items=3 loop=true autoplay=true autoplayHoverPause=true margin=10 responsive={0:{items:1},1000:{items:2},1400:{items:3}}]
-![](/images/video_placeholder.png)
-![](/images/video_placeholder.png)
-![](/images/video_placeholder.png)
-![](/images/video_placeholder.png)
-![](/images/video_placeholder.png)
-[/owl-carousel] -->
+<script type="application/ld+json"> 
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "name": "Umgebungslärm - OpenGeoEdu Fallbeispiel",
+  "description": "Verkehrslärm beeinträchtigt das Leben vieler Menschen in Deutschland. Der von Straßen-, Schienen- oder Flugverkehr verursachte Schall kann die Gesundheit und das Wohlbefinden auf vielfältige Weise negativ beeinflussen.",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenGeoEdu",
+    "sameAs": "https://www.opengeoedu.de"
+  }
+} 
+</script> 
