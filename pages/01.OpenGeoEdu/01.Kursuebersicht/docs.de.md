@@ -7,16 +7,141 @@ taxonomy:
 menu: 'Kurzbeschreibung der Kursteile'
 twitterenable: true
 twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
 facebookenable: true
 anchors:
     active: false
 ---
 
+<script type="application/ld+json"> 
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "name": "OpenGeoEdu Grundlagen - Open XX",
+  "description": "Erfahren Sie mehr über die neue Offenheit in Wissenschaft, Wirtschaft, Verwaltung und Gesellschaft.",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenGeoEdu",
+    "sameAs": "https://www.opengeoedu.de"
+  }
+} 
+</script> 
+<script type="application/ld+json"> 
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "name": "OpenGeoEdu Grundlagen - Open Data",
+  "description": "Warum offene Daten für die Gesellschaft, Demokratie, Wissenschaft, Wirtschaft und nicht zuletzt für Sie wichtig sind, und warum ihre Bedeutung weiterhin rasant wächst",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenGeoEdu",
+    "sameAs": "https://www.opengeoedu.de"
+  }
+} 
+</script> 
+<script type="application/ld+json"> 
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "name": "Elektromobilität - OpenGeoEdu Fallbeispiel",
+  "description": "Die Vorlesung setzt sich grundlegend mit dem Thema Elektromobilität auseinander und stellt die aktuelle Situation z.B. hinsichtlich der Ladestationeninfrastruktur sowie Hemmnisse in der Steigerung der Zahl von Elektroautos dar.",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenGeoEdu",
+    "sameAs": "https://www.opengeoedu.de"
+  }
+} 
+</script> 
+<script type="application/ld+json"> 
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "name": "Umgebungslärm - OpenGeoEdu Fallbeispiel",
+  "description": "Verkehrslärm beeinträchtigt das Leben vieler Menschen in Deutschland. Der von Straßen-, Schienen- oder Flugverkehr verursachte Schall kann die Gesundheit und das Wohlbefinden auf vielfältige Weise negativ beeinflussen.",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenGeoEdu",
+    "sameAs": "https://www.opengeoedu.de"
+  }
+} 
+</script> 
+<script type="application/ld+json"> 
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "name": "Biomassepotenzial - OpenGeoEdu Fallbeispiel",
+  "description": "In dem Kursteil möchten wir Ihnen zeigen, wie Fragen in der Bioökonomie mit Hilfe von offenen (Geo-)Daten beantwortet werden können.",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenGeoEdu",
+    "sameAs": "https://www.opengeoedu.de"
+  }
+} 
+</script> 
+<script type="application/ld+json"> 
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "name": "Flächenmonitoring - OpenGeoEdu Fallbeispiel",
+  "description": "Die Vorlesung vermittelt die wissenschaftlichen Hintergründe des Themas Flächenmonitoring. Dies soll Sie für die Übungseinheiten der Schaffung von Daten- und Analysegrundlagen für eine nachhaltige Stadt- und Raumentwicklung vorbereiten.",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenGeoEdu",
+    "sameAs": "https://www.opengeoedu.de"
+  }
+} 
+</script> 
+<script type="application/ld+json"> 
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "name": "Landschaftsstrukturmaße - OpenGeoEdu Fallbeispiel",
+  "description": "In diesem Modul lernen Sie, welche Landschaftsstrukturmaße es gibt und wie bzw. mit welcher Software Sie diese nutzen und berechnen können. Zudem wird die benötigte Datengrundlage besprochen, um eine erfolgreiche Analyse anhand von Landschaftsstrukturmaßen durchführen zu können.",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenGeoEdu",
+    "sameAs": "https://www.opengeoedu.de"
+  }
+} 
+</script> 
+<script type="application/ld+json"> 
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "name": "Fernerkundung - OpenGeoEdu Fallbeispiel",
+  "description": "Ziel der Lerneinheit ist es Terminologien der optischen Fernerkundung kennenzulernen und in diesem Zusammenhang die Eigenschaften von Vegetation näher zu betrachten.",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenGeoEdu",
+    "sameAs": "https://www.opengeoedu.de"
+  }
+} 
+</script> 
+<script type="application/ld+json"> 
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "name": "Einführung in Geo-Informationssysteme (GIS)",
+  "description": "GIS bezeichnet sowohl eine Technologie, Produkte als auch Vorhaben zur Bereitstellung und Behandlung von Geoinformationen.",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenGeoEdu",
+    "sameAs": "https://www.opengeoedu.de"
+  }
+} 
+</script> 
+<script type="application/ld+json"> 
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "name": "Tutorials - Weiterführende Materialien",
+  "description": "Auf dieser Seite finden Sie ausführliche Hilfestellungen zu verschiedenen Themen und Aufgaben in Geo-Informationssystemen.",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenGeoEdu",
+    "sameAs": "https://www.opengeoedu.de"
+  }
+} 
+</script>
 Auf dieser [Übersichtsseite](/uebersicht/kursuebersicht) werden die Kursteile mit einem motivierenden Trailer und einer Kurzbeschreibung vorgestellt. Eine [Modulbeschreibung](/uebersicht/self-assessment/OGE_Modulbeschreibung.pdf) zum offenen Online Kurs findet sich auf der nächsten Seite. Zu den einzelnen Kurs- und Übungsteilen existieren [Datenblätter](/uebersicht/datenblatt), die die benutzten Daten, Software, Funktionalitäten und erwartete Ergebnisse systematisch und ausführlich zusammenstellen.
 
 Zudem gibt es ein [Werkzeug zur Selbsteinschätzung](http://test.opengeoedu.de/selfassessment.aspx), aus dem Hinweise und Empfehlungen zur Bearbeitung der Kursteile in Abhängigkeit vom Vorwissen des Nutzers gegeben werden. Ebenso steht ein [Workloadrechner](http://test.opengeoedu.de/workload.aspx) zur Verfügung, mit dem sich der Nutzer eine Auswahl der zu bearbeitenden Kursteile zusammenstellen kann und die entsprechende Workload dafür abgeschätzt wird.
