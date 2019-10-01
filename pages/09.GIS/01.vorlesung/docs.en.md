@@ -6,7 +6,7 @@ taxonomy:
         - docs
 ---
 
-## Autor der Lerneinheit
+## Author of the course unit
 <div class="row align-items-center">
   <div class="col-sm-3" markdown="1">![](/images/staff/Ralf_Bill_1335a.jpg?lightbox=800&resize=300&classes=caption "Prof. Dr.-Ing. Ralf Bill")</div>
   <div class="col-sm-9">
