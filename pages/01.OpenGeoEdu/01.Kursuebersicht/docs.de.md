@@ -7,11 +7,6 @@ taxonomy:
 menu: 'Kurzbeschreibung der Kursteile'
 twitterenable: true
 twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
 facebookenable: true
 anchors:
     active: false
