@@ -13,6 +13,8 @@ In den Übungen erlernen Sie den Einstieg in das Arbeiten mit Geo-Informationssy
 * **Feinstaub in deutschen Großstädten**: Feinstaub wird bundesweit durch das Umweltbundesamt überwacht, gemessen wird dafür an rund 200 Messstationen. Das sind zu wenige, um über die Luftqualität in Städten eine zuverlässige Aussage zu treffen. Deshalb sollen in dieser Übung die offiziellen Messdaten mit Daten aus privat betriebenen Stationen wie dem openSenseMap-Projekt angereichert werden. 
 * **Sustainable Development Goals**: Zu den 17 Nachhaltigkeitszielen der United Nations (UN) stehen umfangreiche Datensammlungen offen zur Verfügung. Anhand eines Indikators sollen Sie die Situation auf der Erde auswerten und interpretieren. Im Fokus stehen einfache Funktionen der Datenaufbereitung und der Erstellung einer thematischen Karte.
 
+[plugin:youtube](https://youtu.be/I_RAPFc8DC0)<!-- english SDG exercise -->
+
 Im Ergebnis jedes Beispiels entstehen thematische Auswertungen in Form von Karten, Diagrammen, Bewertungen, die in einem nach Regeln der Wissenschaft verfassten schriftlichen Beleg zusammengestellt werden.
 
 [center]<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=crs_242&client_id=opengeoedu" markdown="1" target="_blank">![](/images/exercise.png?resize=200)Hier geht es weiter zu den Übungen (ILIAS)</a>[/center]
