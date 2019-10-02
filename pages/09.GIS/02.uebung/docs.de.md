@@ -4,6 +4,8 @@ menu: Übung
 taxonomy:
     category:
         - docs
+highlight:
+    enabled: false
 ---
 In den Übungen erlernen Sie den Einstieg in das Arbeiten mit Geo-Informationssystemen und erlangen Fertigkeiten in ausgewählten Verarbeitungsschritten eines GIS, die für die Bearbeitung der späteren Fallbeispiele förderlich sind. 
 
