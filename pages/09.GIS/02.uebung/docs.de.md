@@ -18,3 +18,4 @@ In den Übungen erlernen Sie den Einstieg in das Arbeiten mit Geo-Informationssy
 Im Ergebnis jedes Beispiels entstehen thematische Auswertungen in Form von Karten, Diagrammen, Bewertungen, die in einem nach Regeln der Wissenschaft verfassten schriftlichen Beleg zusammengestellt werden.
 
 [center]<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=crs_242&client_id=opengeoedu" markdown="1" target="_blank">![](/images/exercise.png?resize=200)Hier geht es weiter zu den Übungen (ILIAS)</a>[/center]
+
