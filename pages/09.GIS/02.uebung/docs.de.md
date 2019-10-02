@@ -40,7 +40,7 @@ In den Übungen erlernen Sie den Einstieg in das Arbeiten mit Geo-Informationssy
 </div>
 
 <div class="row align-items-center">
-    <div class="col-sm-3" markdown="1">[plugin:youtube](https://youtu.be/I_RAPFc8DC0)<!-- english SDG exercise --> </div>
+    <div class="col-sm-3" markdown="1">[plugin:youtube](https://youtu.be/I_RAPFc8DC0)</div>
     <div class="col-sm-9">
         <strong>Sustainable Development Goals</strong>
         <p class="text-justify">Zu den 17 Nachhaltigkeitszielen der United Nations (UN) stehen umfangreiche Datensammlungen offen zur Verfügung. Anhand eines Indikators sollen Sie die Situation auf der Erde auswerten und interpretieren. Im Fokus stehen einfache Funktionen der Datenaufbereitung und der Erstellung einer thematischen Karte.</p>
