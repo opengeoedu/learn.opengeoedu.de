@@ -85,6 +85,9 @@ Zu jeder Kurseinheit gibt es ein Datenblatt, in dem eine kurze Charakterisierung
 Der Aufwand zur Bearbeitung der Vorlesungen und das dazu notwendige Selbststudium hängt natürlich von Ihren Voraussetzungen ab.
 
 Die komplette Bearbeitung der Grundlagen und eines Fallbeispiels wird mit einem Aufwand von etwa 180 Stunden kalkuliert und führt zu 6 Leistungspunkten.
+
+Eine Übersicht des anrechenbaren Zeitaufwands je Lerneinheit können Sie in unserem [Workloadrechner](http://test.opengeoedu.de/workload.aspx) ermitteln. 
+
 [/ui-accordion-item]
 [/ui-accordion]
 
