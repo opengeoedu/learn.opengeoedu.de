@@ -4,14 +4,6 @@ external_links:
     no_follow: false
     target: _blank
 menu: FAQ
-twitterenable: true
-twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
-facebookenable: true
 ---
 
 ## zum Projekt und Kursangebot
