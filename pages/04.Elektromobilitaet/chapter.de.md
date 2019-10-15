@@ -32,3 +32,17 @@ Videos zum Fallbeispiel **Elektromobilität**
 [plugin:youtube](https://youtu.be/Zq_B1CcgqOs)
 [plugin:youtube](https://youtu.be/ut7l6ABAj3E)
 [/owl-carousel]
+
+<script type="application/ld+json"> 
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "name": "Elektromobilität - OpenGeoEdu Fallbeispiel",
+  "description": "Die Vorlesung setzt sich grundlegend mit dem Thema Elektromobilität auseinander und stellt die aktuelle Situation z.B. hinsichtlich der Ladestationeninfrastruktur sowie Hemmnisse in der Steigerung der Zahl von Elektroautos dar.",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenGeoEdu",
+    "sameAs": "https://www.opengeoedu.de"
+  }
+} 
+</script> 

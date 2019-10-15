@@ -21,3 +21,17 @@ Videos zum Fallbeispiel ***Biomassepotenzial***
 [plugin:youtube](https://youtu.be/8d1_2JHQgAY)
 [plugin:youtube](https://youtu.be/3Crw79eL6QA)
 [/owl-carousel]
+
+<script type="application/ld+json"> 
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "name": "Biomassepotenzial - OpenGeoEdu Fallbeispiel",
+  "description": "In dem Kursteil möchten wir Ihnen zeigen, wie Fragen in der Bioökonomie mit Hilfe von offenen (Geo-)Daten beantwortet werden können.",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenGeoEdu",
+    "sameAs": "https://www.opengeoedu.de"
+  }
+} 
+</script> 

@@ -18,7 +18,8 @@ Das Fallbeispiel fokussiert darauf, Daten- und Analysegrundlagen für eine nachh
 
 *	**Bestimmung des Siedlungs- und Verkehrsflächen (SuV)- Anteils** (mit dem offenen WebGIS-Dienst am Beispiel des IÖR–Monitor und mit der QGIS-Umgebung)
 *	**Berechnung von verkehrsbezogenen Flächennutzungsindikatoren** (Nutzung von OpenStreetMap und amtlichen Daten für ein GIS-Projekt)
-*	**Messung der Veränderung der Siedlungs- und Bevölkerungsdichte** (Nutzung Global Human Settlement Layer: GHSL und ArcGIS-online)
+*	**Messung der Veränderung der Siedlungs- und Bevölkerungsdichte** (mit dem Global Human Settlement Layer: GHSL und ArcGIS-online)
+*   **Berechnung der räumlichen Verteilung der Gebäudedichte im Rasterformat (Fishnet Grid)** (Verwendung von GeoDa und Berechnung von Univariate Moran’s I (Global, Lokal))
 
 
 Kurz Videos zu den **Übungen** 
@@ -26,6 +27,7 @@ Kurz Videos zu den **Übungen**
 [plugin:youtube](https://youtu.be/NuzP9f4Y1xo)
 [plugin:youtube](https://youtu.be/Twc55NtcbxA)
 [plugin:youtube](https://youtu.be/OObsu6H8k8Q)
+[plugin:youtube](https://youtu.be/vPv6tX6C43o)
 [/owl-carousel]
 
 
