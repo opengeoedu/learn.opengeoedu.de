@@ -1,5 +1,5 @@
 ---
-title: 'Gänige Landschaftsstrukturmaße'
+title: 'Gängige Landschaftsstrukturmaße'
 media_order: Gaengige_Landschaftsstrukturmaße.JPG
 taxonomy:
     category:

@@ -32,4 +32,9 @@ facebookdesc: 'Diese E-Learning-Einheit vermittelt Ihnen Grundlagen-Wissen zum U
 # Open&nbsp;Data
 
 Videos zum Grundlagenkapitel ***Einführung in die Arbeit mit offenen Daten***
+
+[owl-carousel items=1 loop=true autoplay=true autoplayHoverPause=true margin=15 responsive={0:{items:1},640:{items:2},1900:{items:3}}]
 [plugin:youtube](https://youtu.be/PQ-d0F281Uo)
+[plugin:youtube](https://youtu.be/6DncYkPZBc4)
+[plugin:youtube](https://youtu.be/JyVFucL6__Q)
+[/owl-carousel]

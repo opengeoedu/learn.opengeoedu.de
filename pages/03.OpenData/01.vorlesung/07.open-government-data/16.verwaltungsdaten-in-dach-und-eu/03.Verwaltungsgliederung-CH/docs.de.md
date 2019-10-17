@@ -50,19 +50,19 @@ Die Schweiz ist seit 1948 ein föderalistischer Bundesstaat, bezeichnet auch als
 [ui-accordion independent=true open=none classes="figureattributes, figure-left"]
 
 [ui-accordion-item title="Kantone"]
-Die Kantone sind die föderativen Glieder des Bundesstaates mit weitgender Autonomie. Unter den 26 gleichberechtigten Kantonen werden 6 auch als Halbkantone gerechnet (Basel-Stadt und Basel-Landschaft; Ob- und Nidwalden; Appenzell A. Rh. und I. Rh.). In der Bundesverfassung ist somit von 23 Kantonen die Rede. Grundsätzlich üben die Kantone alle Rechte aus, die nicht gemäß Bundesverfassung dem Bund übertragen sind. Das bedeutet auch, dass neue Aufgaben zuerst Sache der Kantone sind und nur dann dem Bund übertragen werden, wenn sie einer einheitlichen Regelung bedürfen. (vgl. https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/raeumliche-analysen/raeumliche-gliederungen/Institutionelle-gliederungen.html, http://www.hls-dhs-dss.ch/textes/d/D26414.php)
+Die Kantone sind die föderativen Glieder des Bundesstaates mit weitgehender Autonomie. Unter den 26 gleichberechtigten Kantonen werden 6 auch als Halbkantone gerechnet (Basel-Stadt und Basel-Landschaft; Ob- und Nidwalden; Appenzell A. Rh. und I. Rh.). In der Bundesverfassung ist somit von 23 Kantonen die Rede. Grundsätzlich üben die Kantone alle Rechte aus, die nicht gemäß Bundesverfassung dem Bund übertragen sind. Das bedeutet auch, dass neue Aufgaben zuerst Sache der Kantone sind und nur dann dem Bund übertragen werden, wenn sie einer einheitlichen Regelung bedürfen. (vgl. https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/raeumliche-analysen/raeumliche-gliederungen/Institutionelle-gliederungen.html, http://www.hls-dhs-dss.ch/textes/d/D26414.php)
 [/ui-accordion-item]
 
 [ui-accordion-item title="Bezirke"]
-Bezirke sind keine politische Körperschaften, sondern, mit wenigen Ausnahmen, reine Verwaltungs- und Gerichtseinheiten sowie Wahlkreise ohne Autonomie. In einigen Kantonen werden somit auch Bezeichnungen wie Verwaltungsregion oder -kreis, Wahlkreis, Amtei oder Distrikt verwendet. Als Zwischenebene zwischen Kanton und Gemeinden spielt der Berzirk auch eine Rolle in der Statistik. Die kleinflächigen Kantone ohne Bezirksunterteilung werden i.d.R. je als ein Bezirk dargestellt. In Graubünden, Thurgau, Tessin und Waadt sind die Bezirke weiter in Kreise unterteilt.
+Bezirke sind keine politische Körperschaften, sondern, mit wenigen Ausnahmen, reine Verwaltungs- und Gerichtseinheiten sowie Wahlkreise ohne Autonomie. In einigen Kantonen werden somit auch Bezeichnungen wie Verwaltungsregion oder -kreis, Wahlkreis, Amtei oder Distrikt verwendet. Als Zwischenebene zwischen Kanton und Gemeinden spielt der Bezirk auch eine Rolle in der Statistik. Die kleinflächigen Kantone ohne Bezirksunterteilung werden i.d.R. je als ein Bezirk dargestellt. In Graubünden, Thurgau, Tessin und Waadt sind die Bezirke weiter in Kreise unterteilt.
 
-Die Bezirke in Appenzell Innerrhodens entsprechen in ihren Funktionen eher politischen Gemeinden, während jene in Schwyz zugleich öffentliche Korporationen mit eigener Rechtspersönlichkeit darstellen. Korporativen Charakter hatten bzw. haben auch die Bezirke in Uri und Nidwalden. Einige Kantone verfügen über Exklaven.
+Die Bezirke in Appenzell Innerrhoden entsprechen in ihren Funktionen eher politischen Gemeinden, während jene in Schwyz zugleich öffentliche Korporationen mit eigener Rechtspersönlichkeit darstellen. Korporativen Charakter hatten bzw. haben auch die Bezirke in Uri und Nidwalden. Einige Kantone verfügen über Exklaven.
 
 (vgl. http://www.hls-dhs-dss.ch/textes/d/D10358.php)
 [/ui-accordion-item]
 
 [ui-accordion-item title="Gemeinden"]
-Die **Gemeinden** sind in der Schweiz die unterste und kleinste, mit zahlreichen politischen Kompetenzen ausgestattete Verwaltungseinheit. Da die politische Organisation auf lokaler Ebene den Kantonen obliegt, varrieren die Gemeinden sowohl hinsichtlich ihrer Größe, als auch hinsichtlich ihrer Aufgabenbereiche, sowie ihres administrative-politischen Aufbaus von Kanton zu Kanton. Oft stellen sie auch deas niedrigste statistische Erfassungsniveau da. Aufgrund ihrer heterogenität und der jährlich schwankenden Zahl bedingt durch Gebietsreformen eignen sie sich, nach Auskunft des Bundesamttes für Statistik (BFS), nur begrenzt für räumliche und zeitliche Analysen. (Siehe https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/raeumliche-analysen/raeumliche-gliederungen/Institutionelle-gliederungen.html)
+Die **Gemeinden** sind in der Schweiz die unterste und kleinste, mit zahlreichen politischen Kompetenzen und Aufgaben ausgestattete Verwaltungseinheiten. Da die politische Organisation auf lokaler Ebene den Kantonen obliegt, varrieren die Gemeinden sowohl hinsichtlich ihrer Größe, als auch hinsichtlich ihrer Aufgabenbereiche, sowie ihres administrativ-politischen Aufbaus von Kanton zu Kanton. Oft stellen sie auch das niedrigste statistische Erfassungsniveau dar. Aufgrund ihrer Heterogenität und der jährlich schwankenden Zahl bedingt durch Gebietsreformen eignen sie sich, nach Auskunft des Bundesamtes für Statistik (BFS), nur begrenzt für räumliche und zeitliche Analysen. (Siehe https://www.bfs.admin.ch/bfs/de/home/statistiken/querschnittsthemen/raeumliche-analysen/raeumliche-gliederungen/Institutionelle-gliederungen.html)
 [/ui-accordion-item]
 
 [ui-accordion-item title="Kreise"]
@@ -74,7 +74,7 @@ Gebiete, die der Oberhoheit eines Kantons unterstehen.
 [/ui-accordion-item]
 
 [ui-accordion-item title="Kommunanz"]
-Gebiete, die der Oberhoheit mehrerer politischer Gemeinden unterstehen (sog. Kommunanzen oder Gemeinschafts- areale)
+Gebiete, die der Oberhoheit mehrerer politischer Gemeinden unterstehen (sog. Kommunanzen oder Gemeinschaftsareale)
 [/ui-accordion-item]
 [/ui-accordion]
 

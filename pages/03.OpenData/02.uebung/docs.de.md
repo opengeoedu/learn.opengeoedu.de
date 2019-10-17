@@ -6,11 +6,11 @@ taxonomy:
         - docs
 ---
 
-In dieser Übung lernen Sie grundlegende Schritte im Umgang mit offenen Verwaltungsdaten, insbesondere in einer GIS-Umgebung, kennen. Praktisch beschäftigen Sie sich in drei Übungseinheiten:
+In dieser Übung lernen Sie grundlegende Schritte im Umgang mit offenen Verwaltungsdaten, insbesondere in einer GIS-Umgebung, kennen. Praktisch beschäftigen Sie sich in drei Übungseinheiten mit:
 
 * Recherche und Vergleich von Open Data-Angeboten mithilfe des [Portals der Open Data Portale](https://portal.opengeoedu.de)
-* Verknüpfung und Auswertung von Verwaltungsgebiete mit amtlichen Statistiken mithilfe des amtlichen Gemeindeschlüssels (AGS) bzw. Regionalschlüssels (ARS)
-* <font style="color:grey">Nutzung OpenStreetMap für eine GIS-Analyse (wird später ergänzt)</font>
+* Verknüpfung und Auswertung von Verwaltungsgebieten mit amtlichen Statistiken mithilfe des amtlichen Gemeindeschlüssels (AGS) bzw. Regionalschlüssels (ARS)
+* <font style="color:grey">Nutzung von OpenStreetMap für eine GIS-Analyse (wird später ergänzt)</font>
 
 
 [center]<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=crs_249&client_id=opengeoedu" markdown="1" target="_blank">![](/images/exercise.png?resize=200,200)Hier geht es weiter zur Übung (ILIAS)</a>[/center]

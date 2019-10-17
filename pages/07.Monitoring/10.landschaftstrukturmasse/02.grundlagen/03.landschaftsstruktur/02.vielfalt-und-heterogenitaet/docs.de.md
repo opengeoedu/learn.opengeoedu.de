@@ -10,12 +10,9 @@ facebookenable: true
 
 Die Landschaftsstruktur beinhaltet eine Vielfalt heterogener Landschaftselemente. Aber was bedeuten die Begriffe Vielfalt und Heterogenität, insbesondere im Hinblick auf die Landschaftsstruktur? Im Folgenden soll geklärt werden, worin der genaue Unterschied zwischen Vielfalt und Heterogenität liegt und wie die Begriffe im Zusammenhang mit der Landschaftsstruktur verwendet werden. 
 
-Definition Vielfalt:
-!!! „Fülle von verschiedenen Arten, Formen o. Ä., in denen etwas Bestimmtes vorhanden ist, vorkommt, sich manifestiert; große Mannigfaltigkeit“ (Duden 2018: Bedeutungsübersicht; https://www.duden.de/rechtschreibung/Vielfalt, Zugriff am 16.11.2018)
+!!! Vielfalt: „Fülle von verschiedenen Arten, Formen o. Ä., in denen etwas Bestimmtes vorhanden ist, vorkommt, sich manifestiert; große Mannigfaltigkeit“ (Duden 2018: Bedeutungsübersicht; https://www.duden.de/rechtschreibung/Vielfalt, Zugriff am 16.11.2018)
 
-
-Definition Heterogenität:
-!!! „Verschiedenartigkeit, Ungleichartigkeit, Uneinheitlichkeit im Aufbau, in der Zusammensetzung“ (Duden 2018: Bedeutungsübersicht; https://www.duden.de/rechtschreibung/Heterogenitaet, Zugriff am 16.11.2018)
+!!! Heterogenität: „Verschiedenartigkeit, Ungleichartigkeit, Uneinheitlichkeit im Aufbau, in der Zusammensetzung“ (Duden 2018: Bedeutungsübersicht; https://www.duden.de/rechtschreibung/Heterogenitaet, Zugriff am 16.11.2018)
 
 
 Demnach liegt der Unterschied zwischen beiden Begriffen in der Quantität und  Qualität von verschiedenen Landschaftselementen in der Landschaft. 
