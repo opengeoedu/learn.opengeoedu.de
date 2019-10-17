@@ -9,4 +9,4 @@ An information system (IS) serves the computer-aided collection, storage, proces
 Usually every information system requires the four system elements hardware, software, data and user. An information system usually provides four functional components for processing: Input, management, analysis and presentation of information (the IMAP model, cf. Bill, 2016:5).
 
 
-![IS](GIS5.png)
+![IS](gis4-en.jpg)

@@ -10,7 +10,7 @@ From the point of view of the database systems on which the geo-information syst
 Data analysis is the heart of a GIS. This includes functions such as polygon overlay, network analysis, digital terrain analysis, report generation, statistical analysis and many special functions derived from the application requirements, which are increasingly provided. For example, the information can be provided to guide vehicle drivers from a starting point to a destination using the shortest route calculation via the car navigation systems on board.
 
 
-![Grouping and selection of common GIS analysis methods](Folie1_25.png?lightbox=800&resize=300&classes=caption "Grouping and selection of common GIS analysis methods")
+![Grouping and selection of common GIS analysis methods](gis17-en.jpg?lightbox=800&resize=300&classes=caption "Grouping and selection of common GIS analysis methods")
 
 Analysis methods can be roughly divided into 6 groups (for functionalities and methods see Bill, 2016, chapter 7 resp. de Smith et. al. 2018):
 

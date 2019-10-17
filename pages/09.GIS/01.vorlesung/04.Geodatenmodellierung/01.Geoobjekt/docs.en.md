@@ -16,4 +16,4 @@ Common geoobjects in urban and spatial development may be, for example: building
 - **Temporal properties** describe the time or period for which the other properties apply. The basis for this is the standard ISO 19108 Geoinformation - Temporal scheme, 2009. The dynamics of a residential building can be specified, for example, by specifying the year of construction, the date of the last renovation or the duration of its planned use. Of course, all other components of the object can also change over time, e.g. the geometry of the residential building through a subsequently added extension, which then also changes the base area attribute.
 - **Metainformation** describe the object information and give information about their background and usability, so e.g. about their thematic classification, their IT-like structuring, the quality and topicality of the information describing the object, the form of the data acquisition and much more. The basis for this today is the standard DIN EN ISO 19115 Geoinformation - Metadata, 2011.
 
-![The geoobject](GIS14.png)
+![The geoobject](gis12-en.jpg)

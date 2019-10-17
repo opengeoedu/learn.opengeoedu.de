@@ -9,4 +9,4 @@ The different forms of object modeling will be illustrated below using various e
 !!! The basic data stock, including metadata, is managed by all surveying authorities of the federal states of the Federal Republic of Germany in AFIS, ALKIS and ATKIS on a national basis and made available to the user on a transnational basis. The basic data stock must be defined from a technical point of view and is marked in the AAA technical scheme as harmonized as possible. The AAA schema contains 7 object types that are defined exclusively in AFIS, 88 object types that are valid for ALKIS and ATKIS, 40 object types that are defined only in ALKIS, and 20 object types that are defined only in ATKIS (see figure).
 S gelten, 40 Objektarten, die nur in ALKIS definiert sind und 20 Objektarten, die nur in ATKIS vorkommen (siehe Abbildung.)
 
-![Object catalogue in AAA](GIS15.png)
+![Object catalogue in AAA](gis13-en.jpg)

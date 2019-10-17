@@ -12,7 +12,7 @@ GIS product families include Server GIS, Desktop GIS, GIS Reader, GIS Viewer, mo
 In larger production environments, e.g. in the public administration of a city, in a state environmental administration or at a large supply and disposal company, these different product components usually interact. The large amounts of data in the company are managed and made available on servers in the sense of a common backbone of the entire distributed system world (hosting). Usually, technically experienced users on Desktop GIS take care of the collection, qualification and processing of the various geodata, which are then viewed by many users via different GIS clients or used for simple queries. Mobile systems are increasingly supported (tablets, smartphones).
 
 
-![GIS products in interaction](GIS22.png?classes=caption "GIS products in interaction (according to Bill, 2010, p. 150)")
+![GIS products in interaction](gis18-en.jpg?classes=caption "GIS products in interaction (according to Bill, 2010, p. 150)")
 
 In transactional applications, data can also be captured using GIS clients. The data collectors are mostly experts and use special collection applications and technologies. More recently, however, geodata has also been collected and made available voluntarily by interested citizens (Crowdsourcing, Citizen Science).
 

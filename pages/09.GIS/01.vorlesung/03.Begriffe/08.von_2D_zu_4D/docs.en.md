@@ -6,7 +6,7 @@ taxonomy:
 ---
 Up to this point, the geoobjects were assumed to be static and spatially two-dimensional. However, the geo-phenomena on which the geoobjects are based are almost always spatially three-dimensional and often temporally dynamic.
 
-![Dimensions](GIS12.png)
+![Dimensions](gis10-en.jpg)
 
 The height as a third spatial dimension is usually listed as a thematic attribute in GIS, this modeling is then called 2.5D. GIS offers a wealth of functions for working with terrain models. Further functions support, for example, the determination of terrain inclination and exposure, the derivation of flow paths, catchment areas and other terrain morphological parameters. Furthermore, the elevation data are used for pseudo-3D visualization. However, real 3D modeling and functions for determining volumes, volume averages or intersections are rarely found in GIS.
 

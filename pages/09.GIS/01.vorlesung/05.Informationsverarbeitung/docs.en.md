@@ -19,4 +19,4 @@ Applications usually evaluate data. In this way, the queries outlined in the exa
 Such iterative-recursive processes and cycles require a high flexibility of the geo-information system. In the following section, the four basic functional components of a GIS will be examined in more detail.
 
 
-![The IMAP processing chain](GIS18.png?classes=caption "The IMAP processing chain in a GIS")
+![The IMAP processing chain](gis16-en.jpg?classes=caption "The IMAP processing chain in a GIS")
