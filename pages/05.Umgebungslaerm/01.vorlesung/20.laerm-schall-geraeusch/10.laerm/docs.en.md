@@ -1,5 +1,5 @@
 ---
-title: Noise
+title: Sound
 taxonomy:
     category:
         - docs
@@ -15,16 +15,14 @@ How loud a sound is perceived depends on the following factors:
 * the type of sound (sound or tone); and
 * of the pitch (frequency).
 
-Depending on the listener and his perception of sounds, the same sound sources are perceived differently loud and/or annoying. The transmission of the stimuli depends on the modulation of the sound (see below).
+Depending on the listener and his perception of sounds, the same sound sources are perceived differently loud and/or annoying. [The transmission of the stimuli depends on the modulation of the sound](https://commons.wikimedia.org/wiki/File:Loudness_perception.webm).
 
-![Loudness perception](https://upload.wikimedia.org/wikipedia/commons/d/d0/Loudness_perception.webm)
-Loudness perception by Rburtonresearch [<a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>], <a href="https://commons.wikimedia.org/wiki/File:Loudness_perception.webm">via Wikimedia Commons</a>
+> **Lärm ist das Geräusch der anderen.** <br> *Noise is the sound of others.* <cite>Kurt Tucholsky</cite>
 
-> **Lärm ist das Geräusch der anderen.** <cite>Kurt Tucholsky</cite>
+Sound becomes noise if it causes disturbances, nuisances, impairments or damage.
 
-Schall wird zu Lärm, wenn er Störungen, Belästigungen, Beeinträchtigungen oder Schäden hervorruft.
+Strong noise exposure can have health consequences. Noise-induced hearing loss, which is a direct damage to the hearing (= aural effect), should be mentioned here as a proven fact. Long-term exposure to average sound pressure levels of more than 80 dB(A) (related to a 40 hour week) leads to an increase in the risk of damage to the inner ear in the form of irreversible hearing loss. <cite>[Bavarian State Office for Health and Food Safety](https://www.lgl.bayern.de/gesundheit/arbeitsplatz_umwelt/physikalische_umweltfaktoren/laerm_grundlagen.htm)</cite>
 
-> Starke Lärmbelastung kann gesundheitliche Folgen haben. Als gesichert ist hier die Lärmschwerhörigkeit zu nennen, die eine direkte Schädigung des Gehörs (= aurale Wirkung) darstellt. Eine langfristige Schallbelastung mit mittleren Schalldruckpegeln von mehr als 80 dB(A) (bezogen auf eine 40 Stunden Woche) führen zu einer Erhöhung des Risikos für Innenohrschäden in Form von irreversiblen Hörverlusten. <cite>[Bayerisches Landesamt für Gesundheit und Lebensmittelsicherheit](https://www.lgl.bayern.de/gesundheit/arbeitsplatz_umwelt/physikalische_umweltfaktoren/laerm_grundlagen.htm)</cite>
 
-! [Lärmwirkung UBA](https://www.umweltbundesamt.de/themen/verkehr-laerm/laermwirkungen#textpart-1) <br>
-! [Schallwahrnehmung](https://physikunterricht-online.de/jahrgang-7/schallwahrnehmung-und-schallmessung/)
+! [Noise effect UBA](https://www.umweltbundesamt.de/themen/verkehr-laerm/laermwirkungen#textpart-1) <br>
+! [Sound perception](https://physikunterricht-online.de/jahrgang-7/schallwahrnehmung-und-schallmessung/)

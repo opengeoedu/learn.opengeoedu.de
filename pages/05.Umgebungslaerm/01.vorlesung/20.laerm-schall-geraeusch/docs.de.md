@@ -3,19 +3,11 @@ title: 'Lärm, Schall und Geräusch'
 taxonomy:
     category:
         - docs
-twitterenable: true
-twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
-facebookenable: true
 ---
 
 Schall bezeichnet allgemein mechanische Schwingungen in einem elastischen Medium (Gas, Flüssigkeit, Festkörper). Diese Schwingungen pflanzen sich in Form von Schallwellen als Druck- und Dichteschwankungen fort ([Lexikon der Physik. 1998](https://de.wikipedia.org/wiki/Schall))
  
-![](schalluebertragung.jpg?lightbox=800,600&resize=400,200)
+![Schallübertragung](schalluebertragung.jpg?lightbox=800,600&resize=400,200)
 
 
 ! * [Schallbeispiele](http://www.laermorama.ch/m1_akustik/schall_w.html#schalldefinition) <br>
