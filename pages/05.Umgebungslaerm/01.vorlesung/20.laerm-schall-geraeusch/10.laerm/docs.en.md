@@ -17,7 +17,7 @@ How loud a sound is perceived depends on the following factors:
 
 Depending on the listener and his perception of sounds, the same sound sources are perceived differently loud and/or annoying. The transmission of the stimuli depends on the modulation of the sound (see below).
 
-<iframe src="https://commons.wikimedia.org/wiki/File:Loudness_perception.webm?embedplayer=yes" width="256" height="144" frameborder="0" ></iframe>
+![Loudness perception](https://upload.wikimedia.org/wikipedia/commons/d/d0/Loudness_perception.webm)
 Loudness perception by Rburtonresearch [<a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>], <a href="https://commons.wikimedia.org/wiki/File:Loudness_perception.webm">via Wikimedia Commons</a>
 
 > **Lärm ist das Geräusch der anderen.** <cite>Kurt Tucholsky</cite>
