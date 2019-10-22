@@ -27,9 +27,6 @@ of 06 March 2006 into German law.
 
 !! These texts regulate terms, contents and requirements for noise mapping and the noise action plan, i.e. the implementation of the Environmental Noise Directive in Germany. Try to comprehend this... or look up terms in the fully translated [Noise Manual for Urban Development](https://www.staedtebauliche-laermfibel.de/?p=0)
 
-! Have a look at this [dB-Calculator](https://www.staedtebauliche-laermfibel.de/?p=120) for a Calculation of road traffic noise
-
-
 
 <!-- 
 

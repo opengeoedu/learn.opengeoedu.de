@@ -20,6 +20,9 @@ The directive and the valuation model are the subject of an intensive scientific
 
 ! [Text of the Directive 2015/996 "establishing common noise assessment methods"](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L0996)
 
-! [Bundesamt für Straßenwesen (BASt) - Federal Highway Research Office with evaluations of the model](https://www.bast.de/BASt_2017/DE/Verkehrstechnik/Fachthemen/V3-cnossos.html)
+! [Bundesamt für Straßenwesen (BASt) - Federal Highway Research Office with evaluations of the model](https://www.bast.de/BASt_2017/DE/Verkehrstechnik/Fachthemen/V3-cnossos.html)<br>
 ! [Common Noise Assessment Methods in Europe (CNOSSOS-EU)](https://ec.europa.eu/jrc/en/publication/reference-reports/common-noise-assessment-methods-europe-cnossos-eu)
+
+! Have a look at this [dB-Calculator](https://www.staedtebauliche-laermfibel.de/?p=120) for a Calculation of road traffic noise
+
 
