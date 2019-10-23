@@ -31,4 +31,4 @@ Civil society should be involved in Citizen Science projects in mapping environm
 ! * [A comparative study on VGI and professional noise data. 17th AGILE Conference on Geographic Information Science, 2014](https://www.researchgate.net/publication/263007263_A_comparative_study_on_VGI_and_professional_noise_data)
 ! [Participatory noise mapping](https://www.researchgate.net/publication/228479297_Participatory_noise_mapping) <br>
 
-Lukas Martinelli pursued another interesting approach with the [openstreetmap-noise-pollution-map](http://lukasmartinelli.ch/gis/2016/04/03/openstreetmap-noise-pollution-map.html). Here, noise emissions defined at various OSM features are displayed with buffers around these features: [GitHub-Projekt](https://github.com/lukasmartinelli/osm-noise-pollution).
+Lukas Martinelli pursued another interesting approach with the [openstreetmap-noise-pollution-map](http://lukasmartinelli.ch/gis/2016/04/03/openstreetmap-noise-pollution-map.html). Here, noise emissions defined at various OSM features are displayed with buffers around these features: [GitHub-Project](https://github.com/lukasmartinelli/osm-noise-pollution).
