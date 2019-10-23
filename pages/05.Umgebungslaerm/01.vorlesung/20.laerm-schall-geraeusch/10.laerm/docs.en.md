@@ -1,5 +1,5 @@
 ---
-title: Sound
+title: Noise
 taxonomy:
     category:
         - docs
