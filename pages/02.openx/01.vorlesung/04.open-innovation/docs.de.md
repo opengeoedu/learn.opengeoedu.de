@@ -3,17 +3,7 @@ title: 'Open Innovation'
 taxonomy:
     category:
         - docs
-twitterenable: true
-twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
-facebookenable: true
 ---
-
-===
 
 Innovation bedeutet ganz allgemein Erneuern. Aus wirtschaftswissenschaftlicher Sicht geht es um die Schaffung von etwas Neuem, das einen Nutzen für eine Organisation oder bzw. und für die Gesellschaft bringt. 
 Die Anforderungen an das Innovationsmanagement auch in Unternehmen haben sich in den letzten Jahren stark verändert. Im traditionellen Verständnis ist die eigene Forschungs- und Entwicklungsabteilung Treiber von Innovationen (oftmals Closed Innovation genannt): Von der Ideengenerierung über die Entwicklung bis hin zur Vermarktung erfolgt der Innovationsprozess ausschließlich im Unternehmen. Eine Öffnung nach außen, um sich den gestiegenen Anforderungen besser stellen zu können, verändert dieses klassische Verständnis. 
