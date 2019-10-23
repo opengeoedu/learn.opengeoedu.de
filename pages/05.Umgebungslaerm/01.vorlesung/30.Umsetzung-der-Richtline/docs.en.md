@@ -10,9 +10,7 @@ taxonomy:
 Some municipal noise maps and noise action plans are presented here as examples
 
 ! Rostock: https://www.rostock-wird-leiser.de/
-
 ! Moers: https://www.moers.de/de/stadtentwicklung/laermkartierung-fuer-stadt-moers/
-
 ! Hamburg: https://www.hamburg.de/laermkarten/
 
 
@@ -20,7 +18,6 @@ Some municipal noise maps and noise action plans are presented here as examples
 
 Aircraft noise
 ! Deutscher Fluglärmdienst e.V.: https://www.dfld.de/
-
 ! Flughafen Hamburg: http://travis.hamburg-airport.de/ 
 
 Train noise
