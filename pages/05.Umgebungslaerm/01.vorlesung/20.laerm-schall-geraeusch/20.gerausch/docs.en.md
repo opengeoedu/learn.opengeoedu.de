@@ -1,5 +1,5 @@
 ---
-title: Nois
+title: Noise
 taxonomy:
     category:
         - docs
@@ -10,9 +10,7 @@ taxonomy:
 <figcaption><small><a href="https://www.flickr.com/people/37996646802@N01">cogdogblog</a>, <a href="https://commons.wikimedia.org/wiki/File:2012-366-25_Drop_a_Needle_(6763970597).jpg">2012-366-25 Drop a Needle (6763970597)</a>, <a href="https://creativecommons.org/licenses/by/2.0/legalcode" rel="license">CC BY 2.0</a></small></figcaption>
 </figure>[/center]
 
-!!! Begriffsdefinitionen:
-* _Geräusch_ im physikalischen Sinne ist eine Schallform, deren Frequenzspektrum – im Unterschied zu Tönen und Klängen – kontinuierlich ist oder Frequenzen aufweist, die nicht im Verhältnis kleiner ganzer Zahlen zueinanderstehen. 
-
+!!! * _Geräusch_ im physikalischen Sinne ist eine Schallform, deren Frequenzspektrum – im Unterschied zu Tönen und Klängen – kontinuierlich ist oder Frequenzen aufweist, die nicht im Verhältnis kleiner ganzer Zahlen zueinanderstehen. <br> 
 * _Geräusch_ im Sinne technischer und juristischer Normen ist jedes unbeabsichtigte Schallereignis, im Unterschied zum Lärm, der als unangenehmes Schallereignis aufgefasst wird.
 Verschiedene Geräusche, z.B. ein Knall, können ganz charakteristische Spektren haben, was die physikalische Grundlage für einschlägige Begriffsbildungen der Alltagssprache ist (Blubbern, Knacken, Knirschen, Knistern, Prasseln, Rauschen, Zischen).  <cite><a href="https://www.spektrum.de/lexikon/physik/geraeusch/5764">LEXIKON DER PHYSIK - Spektrum.de</a></cite>
 
