@@ -4,14 +4,6 @@ taxonomy:
     category:
         - docs
 menu: Vorlesung
-twitterenable: true
-twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
-facebookenable: true
 ---
 
 Aktuell findet ein Paradigmenwechsel zu mehr Offenheit in der Gesellschaft, der Verwaltung, der Wirtschaft und auch der Wissenschaft statt. Noch vor wenigen Jahren wurden Informationen sorgsam gehütet. Sie wurden in Unternehmen als Betriebsgeheimnis gesehen, Verwaltungen sammelten sie in Ordnern und Planschränken. Auskunftsbegehren wurden fast schon als Majestätsbeleidigung angesehen. Wissenschaftler publizierten zwar, jedoch ohne die genutzten Daten zur Verfügung zu stellen, womit die Nachvollziehbarkeit der Ergebnisse deutlich eingeschränkt war.
