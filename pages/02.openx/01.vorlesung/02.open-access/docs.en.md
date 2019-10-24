@@ -14,5 +14,5 @@ The "Open Access" concept aims to facilitate access to scientific findings and m
 !! Have a look at the following [Video](https://www.youtube.com/watch?v=PZhMtUvypbI). <br><span class="small"> If the video is no longer available, look for alternatives.</p>
 [div class="text-center mx-auto" style="max-width:400px;padding-top: 25px;"][plugin:youtube](https://www.youtube.com/watch?v=PZhMtUvypbI)[/div]
 
-OA and creative commons - Types briefly explained:
+!! OA and creative commons - Types briefly explained:<br>
 [div class="text-center mx-auto" style="max-width:400px;padding-top: 25px;"][plugin:youtube](https://youtu.be/gzRgknylTEM)[/div]
