@@ -21,7 +21,7 @@ taxonomy:
 </style>
 
 
-Deutschland hat 2013 die G8 Open Data Charta unterschrieben und ist seit 2016 Teilnehmer der Open Government Partnership. Bereits seit 2006 ist es möglich, gemäß dem Informationsfreiheitsgesetz (IFG) der BRD, Dokumente und Akten der Bundesverwaltung einzusehen. Allerdings beschränkte sich die Veröffentlichung bisweilen nur auf solche Informationen, die zuvor angefragt wurden. Gemäß dem Leitsatz *"open by befault"* soll auf lange Sicht eine standardmäßige Veröffentlichung von Verwaltungsdaten angestrebt werden.
+Deutschland hat 2013 die G8 Open Data Charta unterschrieben und ist seit 2016 Teilnehmer der Open Government Partnership. Bereits seit 2006 ist es möglich, gemäß dem Informationsfreiheitsgesetz (IFG) der BRD, Dokumente und Akten der Bundesverwaltung einzusehen. Allerdings beschränkte sich die Veröffentlichung bisweilen nur auf solche Informationen, die zuvor angefragt wurden. Gemäß dem Leitsatz *"open by default"* soll auf lange Sicht eine standardmäßige Veröffentlichung von Verwaltungsdaten angestrebt werden.
 
 Seit 2013 dürfen Geodaten des Bundes nach der ["Verordnung zur Festlegung der Nutzungsbestimmungen für die Bereitstellung von Geodaten des Bundes (GeoNutzV)"](https://www.gesetze-im-internet.de/geonutzv/BJNR054700013.html) unter Beigabe des Quellenvermerks ohne Einschränkung weiterverwendet werden, soweit durch besondere Rechtsvorschrift nichts anderes bestimmt ist oder Rechte Dritter dem entgegenstehen.
 
