@@ -37,13 +37,9 @@ orga:
         -
             sameas: 'https://twitter.com/OpenGeoEdu'
         -
-            sameas: 'https://www.facebook.com/OpenGeoEdu/'
-        -
             sameas: 'https://github.com/opengeoedu'
         -
             sameas: 'https://www.instagram.com/opengeoedu/'
-        -
-            sameas: 'https://plus.google.com/b/104005783617945697564/104005783617945697564'
         -
             sameas: 'https://www.youtube.com/channel/UChFyYD9h3ynC1rX-s3tyNdw'
         -
