@@ -4,14 +4,6 @@ taxonomy:
     category:
         - docs
 menu: Datenblätter
-twitterenable: true
-twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
-facebookenable: true
 ---
 
 Jedes Datenblatt beschreibt eine Übungsaufgabe systematisch und ausführlich, so z.B. hinsichtlich der Voraussetzungen, der verwendeten Software und Daten, der benötigten Funktionalitäten und der erwarteten Ergebnisse.
