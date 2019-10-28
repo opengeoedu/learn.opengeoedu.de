@@ -12,7 +12,9 @@ published: true
 
 
 
-! [![Suchportal Screenshot](Datensuchportal.png?resize=,170&classes=float-left,padding-right)](https://portal.opengeoedu.de) Further platforms from the scientific field can be found on our [Open Data search portal](https://portal.opengeoedu.de). If you know of other relevant web times, do not hesitate to write new entries!<br class="clear" />
+! Further platforms from the scientific field can be found on our [Open Data search portal](https://portal.opengeoedu.de). If you know of other relevant web times, do not hesitate to write new entries!<br class="clear" />
+
+[![Suchportal Screenshot](Datensuchportal.png?resize=,170)](https://portal.opengeoedu.de)
 <!--
 
 
