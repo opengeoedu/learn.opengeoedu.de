@@ -1,5 +1,5 @@
 ---
-title: global
+title: Global
 taxonomy:
     category:
         - docs
