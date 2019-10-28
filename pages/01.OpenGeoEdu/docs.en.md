@@ -4,7 +4,7 @@ taxonomy:
     category:
         - docs
 menu: Overview
-slug: overview
+slug: uebersicht
 child_type: docs
 googletitle: 'OpenGeoEdu | Overview'
 googledesc: 'The open online course OpenGeoEdu consists of several course parts which can be freely combined'
