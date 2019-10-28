@@ -28,10 +28,13 @@ A small selection of portals can be found here. The portal of the Open Data port
 | :-- | :-- | :-- |
 | ![European Union](europeandataportal.png?lightbox&resize=200,200) | ![GovData Portal for Germany](openGOVdata_D.png?lightbox&resize=200,200) | ![OpenData.HRO Hanseatic City of Rostock](opendata.HRO.png?lightbox&resize=200,200)
 
-!! The [video](https://open.nrw/abschlussfilm-zum-pilotprojekt-kommunales-open-government-nrw) on the pilot project Kommunales Open Government NRW illustrates the benefits at the municipal level. <br><span class="small"> If the video is no longer available, look for alternatives.</p>
+!! The [video](https://open.nrw/abschlussfilm-zum-pilotprojekt-kommunales-open-government-nrw) on the pilot project Kommunales Open Government NRW illustrates the benefits at the municipal level. <br><span class="small"> If the video is no longer available, look for alternatives.
+
 [![](OGDNRW.png?resize=300&classes=caption "Kommunales Open Government NRW")](https://open.nrw/abschlussfilm-zum-pilotprojekt-kommunales-open-government-nrw)
 
+
 !! * Choose an Open Data Portal and take a look at the data offers it contains. You are also welcome to take a look at the data portal portal provided by OpenGeoEdu. 
+
 
 ! Click here to go to the overview portal of [Open Data Portals](http://portal.opengeoedu.de/)
 
