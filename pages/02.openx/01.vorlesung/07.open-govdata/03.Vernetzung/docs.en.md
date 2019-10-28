@@ -11,4 +11,5 @@ taxonomy:
 
 ![Source: Open Government Studie (2012), S. 80](opengov_plattform.png?classes=caption "Open Government Studie (2012), S. 80")
 
-!! The video from Switzerland explains very clearly the benefits of open data using the example of the Swiss Open Government Portal. [plugin:youtube](https://www.youtube.com/watch?v=Bm0QxEpL5XE) (Source: Wikimedia-Salon)
+!! The video from Switzerland explains very clearly the benefits of open data using the example of the Swiss Open Government Portal. 
+[plugin:youtube](https://www.youtube.com/watch?v=Bm0QxEpL5XE) (Source: Wikimedia-Salon)
