@@ -78,7 +78,7 @@ Richards, J. A., 2013. Remote Sensing Digital Image Analysis: An Introduction. 5
 
 -	Bundesamt für Kartographie und Geodäsie (BKG)
   - BKG-Homepage: [bkg.bund.de](https://www.bkg.bund.de)
-  - BKG Open Data: [geodatenzentrum.de](http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=deu&gdz_akt_zeile=5&gdz_anz_zeile=1&gdz_unt_zeile=0&gdz_user_id=0)
+  - BKG Open Data: [geodatenzentrum.de](https://gdz.bkg.bund.de/)
 
 
 -	Copernicus
@@ -113,6 +113,12 @@ Richards, J. A., 2013. Remote Sensing Digital Image Analysis: An Introduction. 5
       - Umweltbundesamt: [umweltbundesamt.de](https://www.umweltbundesamt.de/daten/land-forstwirtschaft/nachhaltige-waldwirtschaft#textpart-1)
 
 
+  - weitere Lernangebote mit Erdbeobachtung
+      - Remote Sensing MOOC (DLR, ESA, Universität Jena): [EO-College](https://eo-college.org/landingpage/)
+      - Fernerkundung in Schulen (Universitäten Bochum & Bonn): [FIS](http://www.fis.uni-bonn.de/)
+      - Lernplattform für Jugendliche (PH Heidelberg): [geo:spektiv](https://www.geospektiv.de/)
+
+
 - Eurostat: [ec.europa.eu](https://ec.europa.eu/eurostat/de)
 
 -	USGS Sentinel2Look:  [landsatlook.usgs.gov](https://landsatlook.usgs.gov/sentinel2/viewer.html)
@@ -126,8 +132,6 @@ Richards, J. A., 2013. Remote Sensing Digital Image Analysis: An Introduction. 5
 -	SNAP:  [step.esa.int](http://step.esa.int/main/download/)
 
 -	OpenStreetMap: [openstreetmap.org](https://www.openstreetmap.org)
-
-
 
 
 ![sitzen Laptop](sitzen_laptop250.jpg)

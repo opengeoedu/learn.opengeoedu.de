@@ -18,9 +18,9 @@ Der direkte Vergleich von Sentinel-2 und einem sehr hochaufgelösten Luftbild ve
 <iframe iframe id="173319" src="https://h5p.org/h5p/embed/173319" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <br><br>
 
-Die spektrale Auflösung bzw. die einzelnen Kanäle von Sentinel-2 sind in folgender Abbildung im Vergleich zu der Abdeckung von Landsat 8 dargestellt.
+Die spektrale Auflösung bzw. die einzelnen Kanäle von Sentinel-2 sind in folgender Abbildung im Vergleich zu der Abdeckung von Landsat 8 und Landsat 7 dargestellt.
 
-![KanäleS2LS7LS8](BANDS_S2_LS8_LS7.png?classes=caption "Die spektralen Kanäle von Sentinel-2 im Vergleich zu Landsat 8 (OLI und TRS) und Landsat 7 ETM+. Quelle: NASA")
+![KanäleS2LS7LS8](BANDS_S2_LS8_LS7.png?classes=caption "Die spektralen Kanäle von Sentinel-2 MSI (MultiSpectral Instrument) im Vergleich zu Landsat 8 OLI (Operational Land Imager) & TRS (Thermal Infrared Sensor) und Landsat 7 ETM+ (Enhanced Thematic Mapper). Im Hintergrund ist die Durchlässigkeit der Atmosphäre (samt atmosphärischer Fenster) dargestellt. Quelle: NASA")
 <br><br>
 
 Die Sentinel-2 Bänder werden in folgender Abbildung näher beleuchtet (Reflektanzkurven aus Kokaly et al. 2017).

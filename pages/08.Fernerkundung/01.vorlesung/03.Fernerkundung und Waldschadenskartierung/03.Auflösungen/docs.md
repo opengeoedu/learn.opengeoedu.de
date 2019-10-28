@@ -18,7 +18,7 @@ taxonomy:
 
 ![GIFOV & GSD](GIFOV_Jones&Vaughn_b.jpg?classes=caption "Wichtige Kenngrößen in der Fernerkundung. Quelle: Jones & Vaughn, 2010.")
 
-Die Pixelgröße des finalen Bildprodukts ist somit abhängig vom Sensor und schwankt stark etwa zwischen 0,4 und 900 m. Für gängige freie Satelliten liegen sie bei 5 m (RapidEye), 30 m (Landsat 8) oder 250/500 m (MODIS). Sentinel-2 hat je nach Kanal räumliche Auflösungen von 10, 20 und 60 m.
+Die Pixelgröße des finalen Bildprodukts ist somit abhängig vom Sensor und schwankt stark etwa zwischen 0,4 und 900 m. Für gängige freie Satelliten liegen sie bei 5 m (RapidEye), 30 m (Landsat 8) oder 250/500 m (MODIS). Sentinel-2 hat je nach Kanal räumliche Auflösungen von 10, 20 und 60 m. Die räumliche Bildauflösung ist neben dem Kontrast primär entscheidend für die Erkennung und Unterscheidung von Objekten.
 
 ![Pixelgröße](Räumliche_Auflösung.jpg?classes=caption "Unterschiedliche räumliche Auflösungen zum Vergleich.")
 
@@ -31,8 +31,6 @@ Die Pixelgröße des finalen Bildprodukts ist somit abhängig vom Sensor und sch
 
 ![Bitte ein Bit](bitt.jpg?classes=caption "Die Radiometrische Auflösung defniniert die Sensitivität des Sensors, sprich den Kontrast.")
 
-Die räumliche Bildauflösung ist neben dem Kontrast primär entscheidend für die Erkennung und Unterscheidung von Objekten.
-
 ### Spektrale Auflösung
 !!!  Die spektrale (optische) Auflösung eines Sensors gibt an, welche Bereiche des elektromagnetischen Spektrums wie erfasst werden können. Die spektrale Auflösung ist somit der abgedeckte Wellenlängenbereich bezogen auf die Anzahl der Spektralbänder und ist mit der Bandbreite verknüpft, welche durch den Full Width Half Mean-Wert (FWHM) beschrieben wird. Dieser gibt die Wellenlängenbreite an, die ein Kanal bei 50 % der maximalen Durchlässigkeit des Spektralbandes umfasst. Sie wird manchmal mit dem spektralen Sampling Interval verwechselt, was jedoch die Schritte zwischen den einzelnen Bändern definiert.
 
@@ -43,6 +41,6 @@ Nachfolgende Abbildung ziegt die Position der 13 Sentinel-2 Kanäle innerhalb de
 ### Temporale Auflösung
 !!! Mit der temporalen bzw. zeitliche Auflösung wird schließlich die Zeitspanne angegeben, die zwischen zwei Überflügen (Aufnahmen) desselben Objekts liegt. Die zeitliche Auflösung ist besonders wichtig im Zusammenhang von operationellem Monitoring und Zeitreihenanalysen.
 
-So hat Sentinel-2 z.B. eine Wiederholungsrate am Äquator von 5 Tagen, bei Landsat 8 sind es 16 Tage, bei RapidEye ebenfalls 5 Tage. Durch größere Überlappungen der Aufnahmestreifen kann in höheren Breiten wie in Deutschland soagar alle 2-3 Tage ein Sentinel-2-Bild desselben Ortes zustande kommen.
+So hat Sentinel-2 z.B. eine Wiederholungsrate am Äquator von 5 Tagen, bei Landsat 8 sind es 16 Tage, bei RapidEye ebenfalls 5 Tage. Durch größere Überlappungen der Aufnahmestreifen kann bei Sentinel-2 in höheren Breiten wie in Deutschland soagar alle 2-3 Tage ein Bild desselben Ortes zustande kommen.
 
 ![Tempus fugit](temp_Aufl.jpg?)
