@@ -3,14 +3,6 @@ title: Berechnungsmethoden
 taxonomy:
     category:
         - docs
-twitterenable: true
-twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
-facebookenable: true
 ---
 
 Hier wird eine kleine Auswahl an Berechnungsmethoden vorgestellt.
@@ -28,7 +20,6 @@ Nach einigen (vorläufigen) nationalen Alleingängen und Übergangsvorschriften,
 Die Richtlinie sowie das Bewertungsmodell sind Gegenstand eines intensiven [wissenschaftlichen Diskurses](https://www.researchgate.net/search.Search.html?type=publication&query=cnossos-eu) (Vgl. https://www.researchgate.net/search.Search.html?type=publication&query=cnossos-eu). Lesen Sie sich hier einmal etwas ein, um die Argumente nachvollziehen zu können.
 
 ! [Text der Richtlinie 2015/996](http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L0996)
-
 
 
 ! [Bundesamt für Straßenwesen mit Bewertungen zu dem Modell](https://www.bast.de/BASt_2017/DE/Verkehrstechnik/Fachthemen/cnossos.html) <br>

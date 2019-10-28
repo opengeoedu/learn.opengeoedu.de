@@ -4,14 +4,6 @@ taxonomy:
     category:
         - docs
 menu: Übung
-twitterenable: true
-twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
-facebookenable: true
 ---
 
 In der Übung setzen Sie sich intensiver mit den Aspekten Open Access und Open Source Software auseinander. Praktisch beschäftigen Sie sich in drei kleinen Übungseinheiten:

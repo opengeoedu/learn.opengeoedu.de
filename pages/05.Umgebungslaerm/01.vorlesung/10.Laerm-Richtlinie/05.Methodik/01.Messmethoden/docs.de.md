@@ -3,17 +3,9 @@ title: Messmethoden
 taxonomy:
     category:
         - docs
-twitterenable: true
-twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
-facebookenable: true
 ---
 
-![](Schallpegelmesser_modern.jpg?resize=100,150)
+![Schallpegelmesser](Schallpegelmesser_modern.jpg?resize=100,150)
 [center]Beccandcal <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/wiki/File:Schallpegelmesser_modern.jpg">from Wikimedia Commons</a>
 [/center]
 Die Vergleichbarkeit von Lärm ist nicht nur aufgrund der subjektiven Wahrnehmung erschwert. Unterschiedliche Gewichtungen und Sonderregelungen zwischen den Mitgliedsstaaten erschweren zusätzlich die angestrebte Vergleichbarkeit.
@@ -21,7 +13,7 @@ Die Vergleichbarkeit von Lärm ist nicht nur aufgrund der subjektiven Wahrnehmun
 
 ## Warum wird Umgebungslärm berechnet statt gemessen? 
 
-![](Mittlungspegel-HESSENmobil.jpg?lightbox=600,400&resize=400,150)
+![Mittelungspegel](Mittlungspegel-HESSENmobil.jpg?lightbox=600,400&resize=400,150)
 [center]<a href="https://mobil.hessen.de/planung/l%C3%A4rmschutz/der-mittelungspegel">Hessen Mobil</a>[/center]
 
 
