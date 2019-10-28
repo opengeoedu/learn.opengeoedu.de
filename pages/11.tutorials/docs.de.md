@@ -13,6 +13,19 @@ Auf dieser Seite finden Sie ausführliche Hilfestellungen zu verschiedenen Theme
 
 [plugin:youtube](https://youtu.be/ZOTrDCiVma4)
 
+<script type="application/ld+json"> 
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "name": "Tutorials - Weiterführende Materialien",
+  "description": "Auf dieser Seite finden Sie ausführliche Hilfestellungen zu verschiedenen Themen und Aufgaben in Geo-Informationssystemen.",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenGeoEdu",
+    "sameAs": "https://www.opengeoedu.de"
+  }
+} 
+</script>
 
 Verfügbar sind:
 
@@ -178,3 +191,4 @@ An dieser Stelle werden Verknüpfungen zu externen Inhalten bereitgestellt, die 
     </div>
     <div class="col-sm-3" markdown="1">[![](learnesri.png)](https://learn.arcgis.com?target=_blank)</div>
 </div>
+

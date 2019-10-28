@@ -3,14 +3,6 @@ title: Interoperabilität
 taxonomy:
     category:
         - docs
-twitterenable: true
-twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
-facebookenable: true
 ---
 
 Das wesentliche Ziel des OGC ist Interoperabilität.

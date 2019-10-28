@@ -9,7 +9,8 @@ taxonomy:
 Hier finden Sie eine kommentierte Auswahl von externen Websites und Ressourcen mit grundlegenden Informationen zu den OpenXX-Themen. Weitere Informationen können Sie auch unseren Kontext-bezogenen Querverweisen in der Vorlesung sowie dem Literaturverzeichnis entnehmen.
 
 ## Kategorie-Übersicht:
-- [E-Learning / Weiterbildung](#e-learning-weiterbildung)
+- [Kategorie-Übersicht:](#kategorie-%c3%9cbersicht)
+- [E-Learning / Weiterbildung](#e-learning--weiterbildung)
 - [Allgemeine Informationen](#allgemeine-informationen)
 - [Organisationen](#organisationen)
 - [Definitionen und Richtlinien](#definitionen-und-richtlinien)
@@ -18,13 +19,7 @@ Hier finden Sie eine kommentierte Auswahl von externen Websites und Ressourcen m
 ## E-Learning / Weiterbildung
 
 <div class="simple-responsive-table" markdown="1">
-  <table>
-  <tr>
-  <th>Website</th>
-  <th>Beschreibung</th>
-  </tr>
-  <tr>
-  <td markdown="1">
+  <table><tr><th>Website</th><th>Beschreibung</th></tr><tr> <td markdown="1">
   *(Deutsch / mehrsprachig)* <br/>
   **E-Learning-Programm des Europäischen Datenportals** <br/>
   https://www.europeandataportal.eu/elearning/de/

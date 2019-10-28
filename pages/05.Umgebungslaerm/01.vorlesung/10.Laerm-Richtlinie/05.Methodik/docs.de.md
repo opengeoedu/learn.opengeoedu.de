@@ -19,4 +19,4 @@ In den ersten Berichtsrunden wurden Umgebungslärmkartierungen in geringerem Umf
 | **Großflughäfen** | > 50.000&nbsp;Bewegungen/Jahr | > 50.000 Bewegungen/Jahr |
 
 
-Die Belastungen sind anhand EU-weit einheitlicher Kenngrößen jeweils über den gesamten Tag (**Tag-Abend-Nacht-Lärmindex (L DEN)**) und gesondert für die Nacht (**Nachtlärmindex (L Night)**) zu bestimmen.
+Die Belastungen sind anhand EU-weit einheitlicher Kenngrößen jeweils über den gesamten Tag (**Tag-Abend-Nacht-Lärmindex (L<sub>DEN</sub>)**) und gesondert für die Nacht (**Nachtlärmindex (L<sub>Night</sub>)**) zu bestimmen.

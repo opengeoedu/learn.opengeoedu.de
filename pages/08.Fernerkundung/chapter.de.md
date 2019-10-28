@@ -23,6 +23,16 @@ Videos zum Fallbeispiel **Fernerkundung**
 [plugin:youtube](https://youtu.be/Vh6agzSaXCk)
 [/owl-carousel]
 
-<!-- <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://slides.com/opengeoedu/deck-2/embed?style=light" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div> -->
+<script type="application/ld+json"> 
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "name": "Fernerkundung - OpenGeoEdu Fallbeispiel",
+  "description": "Ziel der Lerneinheit ist es Terminologien der optischen Fernerkundung kennenzulernen und in diesem Zusammenhang die Eigenschaften von Vegetation näher zu betrachten.",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenGeoEdu",
+    "sameAs": "https://www.opengeoedu.de"
+  }
+} 
+</script> 

@@ -3,14 +3,6 @@ title: 'Normung versus Standardisierung'
 taxonomy:
     category:
         - docs
-twitterenable: true
-twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
-facebookenable: true
 ---
 
 Die GIS-Welt hat sich in den letzten drei Jahrzehnten enorm gewandelt. Normungsaktivitäten im GIS-Umfeld haben seit Mitte der 90er-Jahre zugenommen. Dabei sind zu unterscheiden die Normungen (de-jure-Standards) auf nationaler (z.B. DIN, SNV, ÖNorm), europäischer (CEN TC 287, TC 278) bis zur internationalen Ebene (ISO TC 211) von den Bemühungen um Interoperabilität zwischen GIS-Produkt- und Anwendungswelten (z.B. im OGC oder W3C) und den durch Marktpräsenz gesetzten und allgemein akzeptierten und genutzten Produktstandards (z.B. AutoCAD DXF oder Esri's Shape-Format) (de-facto-Standards). 
