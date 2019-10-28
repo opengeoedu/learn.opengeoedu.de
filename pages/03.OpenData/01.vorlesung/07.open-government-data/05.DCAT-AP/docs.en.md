@@ -21,7 +21,8 @@ DCAT-AP in turn has several extensions that either represent national standards 
 - [StatDCAT-AP](https://joinup.ec.europa.eu/release/statdcat-ap-v100) for cataloguing statistical data, developed in cooperation with [Eurostat](https://ec.europa.eu/eurostat/)
 - [GeoDCAT-AP](https://joinup.ec.europa.eu/release/dcat-ap/12) defines an RDF-based syntax (Syntax Binding) for metadata elements of geoinformation defined by the [ISO 19115](https://www.iso.org/search.html?q=ISO%2019115) standards and the [INSPIRE directive](https://inspire.ec.europa.eu/. This enables the networking of spatial data infrastructures (GDIs) with DCAT-AP-compatible data catalogues (e.g. GDI-DE data is also listed in the European Data Portal) as well as the cataloguing of spatial data sets with additional metadata fields.- 
 
-! Take a look at this short info video about DCAT-AP.de: <br/>[![Video](dcat_ap_de_video.jpg?classes=caption "DCAT-AP.de - the standard for the exchange of open public administration data ")](https://www.youtube.com/watch?v=DGCay_bbvDc)
+! Take a look at this short info video about DCAT-AP.de:
+! [![Video](dcat_ap_de_video.jpg?classes=caption "DCAT-AP.de - the standard for the exchange of open public administration data ")](https://www.youtube.com/watch?v=DGCay_bbvDc)
 
 <!--
 Caption: DCAT-AP.de - der Standard zum Austausch von offenen Daten der öffentlichen Verwaltung
