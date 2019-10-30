@@ -1,14 +1,16 @@
 ---
-title: Lanuse Monitoring
+title: Landuse Monitoring
 taxonomy:
     category:
         - docs
-menu: Lanuse Monitoring
+menu: Landuse Monitoring
 ---
 
 ### OpenGeoEdu Case Study
 
 # Landuse Monitoring
+
+Teaser
 
 [owl-carousel items=1 loop=true autoplay=true autoplayHoverPause=true margin=15 responsive={0:{items:1},640:{items:3},1900:{items:3}}]
 [plugin:youtube](https://youtu.be/fwrLTp219pA)
