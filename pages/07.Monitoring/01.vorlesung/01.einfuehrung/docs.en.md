@@ -4,17 +4,17 @@ taxonomy:
     category: docs
 ---
 
-Fläche (Boden) ist eine begrenzte Naturressource. Nur die effiziente Allokation und Nutzungsintensität von Flächen sichern unsere Lebensgrundlage und den Umweltschutz ([GLTN, 2018](https://gltn.net/home/land-management-and-planning/#land-use-planning)). Dabei soll insbesondere die bauliche Entwicklung und die damit verbundene Flächenneuinanspruchnahme mit besonderer Verantwortung erfolgen. So wird in dem nationalen Klimaschutzplan der Bundesregierung angestrebt, **bis 2050 das Netto-Null-Ziel** im Flächenverbrauch zu erreichen ([Meinel et al., 2017](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa2-172489)). Eine nachhaltige Siedlungsentwicklung, d. h. geringer Flächenverbrauch, Begrünung der Städte, Vermeidung von Zersiedelung durch Innen- vor Außenentwicklung, benötigt als Grundlage hochgenaue, kleinräumige Informationen zur Flächennutzung, zu Gebäuden sowie zur Verkehrsinfrastruktur.
+Land is a limited natural resource. The efficient allocation and intensity of use of land can only ensure our livelihood support and environmental protection ([GLTN, 2018](https://gltn.net/home/land-management-and-planning/#land-use-planning)). In particular, the physical development has to be carried-out with special care in case of the new land consumption. For example, the national climate protection plan of Germany aims to achieve the **Net Zero Target** for land consumption by 2050 ([Meinel et al., 2017](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa2-172489)). A sustainable settlement development (i.e. low land consumption, greening of cities, avoidance of urban sprawl by priortising inner development before outer) requires more accurate as well as small-scale information on spatial features such as: land use, buildings and transport infrastructure.
 
 [![abb_uba_30zeil](abb_uba_30zeil.png)](https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/flaeche/siedlungs-verkehrsflaeche#textpart-1)
 
-! Grundlagendaten und Diagramm (als Excel) und weitere Diskussion unter: [Umweltbundesamt - Siedlungs-und Verkehrsflache](https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/flaeche/siedlungs-verkehrsflaeche#textpart-1)
+! Basic data und Diagram (as Excel) and more discussion can be followed by: [Umweltbundesamt - Landuse for settlements and transport purpose](https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/flaeche/siedlungs-verkehrsflaeche#textpart-1)
 
 
 
-Die Grafik zeigt den jährlichen Anstieg der Siedlungs- und Verkehrsfläche im Vergleich zur Erholungsfläche sowie die Flächensparziele  der Bundesregierung. Zur Prüfung und Erreichung dieser Ziele benötigen wir eine kleinräumige Raumbeobachtung und Bewertung der Siedlungsentwicklung, um den Anforderungen aus Politik und Gesellschaft gerecht zu werden.
+The diagram shows the increasing amount of landuse consumption for settlement and transportion purpose (hector/day) by comparing with the recreational landuse, as well as the federal government's goals for landuse reduction per year. Therefore, the spatial monitoring and evaluation of settlement development at the best possible small-scale are one of the fundametal tasks in order to meet the requirements of politics and society for examining and achieving such environmental goals.
 
-Die Bedeutung dieser Aufgabe spiegelt sich auch in der aktuellen Literatur wider.
+The importance of this task is also reflected in the contemporay literature:
 
 > Zum Beispiel: <br>
 „Staat, Gesellschaft, Wissenschaft und Wirtschaft benötigen eine leistungsfähige Raumbeobachtung, die Entscheidungsträgern und Interessierten Informationen zu demografischen, ökonomischen, sozialen sowie siedlungs- und infrastrukturellen Zuständen und Entwicklungen bereitstellt“ <cite> [(Siedentop & Kaup, 2017; p. 3)](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa2-211777).</cite>
