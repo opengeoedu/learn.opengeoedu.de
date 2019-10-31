@@ -3,7 +3,7 @@ title: 'Literatur'
 taxonomy:
     category:
         - docs
----
+---M
 #### Referenzen
 
 Aberle, H., 2017. Hyperspectral Remote Sensing and Field Measurements for Forest Characteristics - A Case Study in the Hainich National Park, Central Germany. Georg-August-Universität Göttingen. http://hdl.handle.net/11858/00-1735-0000-0023-3DD5-8
@@ -111,6 +111,9 @@ Richards, J. A., 2013. Remote Sensing Digital Image Analysis: An Introduction. 5
     - Nachhaltige Waldwirtschaft
       - Bundesministerium für Ernährung und Landwirtschaft: [bmel.de](https://www.bmel.de/DE/Wald-Fischerei/Forst-Holzwirtschaft/Forstwirtschaft-node.html)
       - Umweltbundesamt: [umweltbundesamt.de](https://www.umweltbundesamt.de/daten/land-forstwirtschaft/nachhaltige-waldwirtschaft#textpart-1)
+
+
+- Lexikon der Fernerkundung (Baldenhofer): [FE-Lexikon](http://www.fe-lexikon.info/)
 
 
   - weitere Lernangebote mit Erdbeobachtung
