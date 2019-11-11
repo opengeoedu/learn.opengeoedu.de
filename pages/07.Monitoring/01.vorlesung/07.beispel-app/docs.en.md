@@ -1,5 +1,5 @@
 ---
-title: Webdienste und App
+title: Webservices and Apps
 taxonomy:
     category: docs
 ---

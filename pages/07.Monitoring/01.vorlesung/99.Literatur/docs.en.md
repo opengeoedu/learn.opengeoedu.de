@@ -1,5 +1,5 @@
 ---
-title: Literatur
+title: Literature
 published: true
 taxonomy:
     category:

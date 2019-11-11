@@ -1,32 +1,32 @@
 ---
-title: Forschung und Anwendung
+title: Research and Application
 taxonomy:
     category: docs
 ---
 
-Der Bedarf an **kleinräumigen Informationen ist vielfältig**. Damit können **Wissenschaft und Praxis Maßnahmen und Entscheidungen optimieren**, aber auch die bisherigen Erfolge oder Fehler genauer identifizieren. Hier sollen insbesondere die Anforderungen an die Daten betrachtet werden – z. B. räumliche und zeitliche Auflösung, Objektivität, Homogenität usw. 
+The need for **small-scale information is diverse**. This enables **the Science and Practice to optimize related measures, and decisions**, but it also increase efficiency to identify successes or mistakes. In particular, the challanges should be considered about the data - e.g. spatial and temporal resolution, objectivity, homogeneity, etc.
 
-Nutzer der Daten sind Akteure von der lokalen über die regionale und nationale bis hin zur internationalen Ebene. Die Anwendungsfelder der Daten sind z. B. Grünvolumen, Stadtluftbelastungsszenarien, Bodenwerte oder das Geothermie-Potential.
+Users of the data are actors from the local, regional and national level to the international level. The applications of the data are, for example, meauring green volume, building urban air pollution scenarios, estimating property values or geothermal potential.
 
-**Flächennutzung** (Grünvolumen) <br>
+**Land Use** (Green Volume) <br>
 [![abb_gruenvolumen_ua_berlin](abb_gruenvolumen_ua_berlin.png)](http://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=showMap&mapId=wmsk05_09_gruendvol2010@senstadt) <br>
 
-! Schauen Sie sich Datenangebote an unter [Umweltatlas-Berlin](http://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=showMap&mapId=wmsk05_09_gruendvol2010@senstadt)
+! Please find more information [Umweltatlas-Berlin](http://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=showMap&mapId=wmsk05_09_gruendvol2010@senstadt)
 
 
-**Klimaanpassung** (Luftbelastung)<br>
+**Climate Adaptation** (Air Pollution)<br>
 [![abb_luftbelastung_lhs_sttutgart](abb_luftbelastung_lhs_sttutgart.png)](http://gis6.stuttgart.de/maps/index.html?karte=stadtklima&embedded=true#basemap=0&centerX=3516118.9675944396&centerY=5406021.037465078&scale=25000&layerIds=279.281) <br>
-! Entdecken Sie weitere Themen (Stadtklima, Lärmkartierung usw.) unter [LHS Stuttgart](http://gis6.stuttgart.de/maps/index.html?karte=stadtklima&embedded=true#basemap=0&centerX=3516118.9675944396&centerY=5406021.037465078&scale=25000&layerIds=279.281)
+! Please explore on more Topics (Urban Climate, Noise mapping etc.) on: [LHS Stuttgart](http://gis6.stuttgart.de/maps/index.html?karte=stadtklima&embedded=true#basemap=0&centerX=3516118.9675944396&centerY=5406021.037465078&scale=25000&layerIds=279.281)
 
-**Stadtplanung** (Bodenwerte)<br> [![abb_bodenwerte_lhs_dresden](abb_bodenwerte_lhs_dresden.png)](http://stadtplan2.dresden.de/spdd.aspx?lang=de) <br>
+**Urban Planning** (Property Value)<br> [![abb_bodenwerte_lhs_dresden](abb_bodenwerte_lhs_dresden.png)](http://stadtplan2.dresden.de/spdd.aspx?lang=de) <br>
 
-! Schauen Sie sich mehrere Stadtplanungsinformationen an unter [LHS Dresden](http://stadtplan2.dresden.de/spdd.aspx?lang=de)
+! Please find more information on urban planning on at city scale on: [LHS Dresden](http://stadtplan2.dresden.de/spdd.aspx?lang=de)
 
-**Energieforschung** (Onshore Wind-Potenzial)<br> [![abb_wind_onshore_irena](abb_wind_onshore_irena.png)](https://irena.masdar.ac.ae/gallery/#map/543) <br>
+**Energy Research** (Onshore Wind-potential)<br> [![abb_wind_onshore_irena](abb_wind_onshore_irena.png)](https://irena.masdar.ac.ae/gallery/#map/543) <br>
 
-! Entdecken Sie weltweit Informationen zur Energieforschung unter [IRENA-GlobalAtlas](https://irena.masdar.ac.ae/gallery/#map/543)
+! Let's have a look on global Information on energy reserch on: [IRENA-GlobalAtlas](https://irena.masdar.ac.ae/gallery/#map/543)
 
-!! Suchen Sie sich weitere Anwendungen und kleinräumige Informationsangebote auf lokaler, regionaler, nationaler und internationaler Ebene.
+!! Please find more application and small scale informations at local, regional, national and internation level.
 
 
 <!--
@@ -37,21 +37,22 @@ Nutzer der Daten sind Akteure von der lokalen über die regionale und nationale 
 
 -->
 
+The aim is to make the results of land use monitoring more accurate, i.e. more small-scale and robust. To achieve this, the methods of land use monitoring must be further improved.
 
-Ziel ist es, die Ergebnisse des Flächenmonitorings immer genauer, d.h. kleinräumiger und sicherer zu machen. Dafür müssen die Methoden des Flächenmonitorings weiter verbessert werden.
+- Information is required, for example, on the up-to-date (settlement density, use density), on land use change, landscape quality, building stock, -type, -age and -use), transport infrastructure (density, accessibility) or energy requirements.
+- The information potential of existing official geodata is very high, but suject to utilize more intensively - such as "Hausumringen" [(HU-DE)](https://www.ldbv.bayern.de/produkte/kataster/hausumringe.html), Building locations [(GA)](http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=deu&gdz_akt_zeile=2&gdz_anz_zeile=6&gdz_unt_zeile=19&gdz_user_id=0) oder 3D-building models [(LoD1-DE)](http://www.adv-online.de/AdV-Produkte/Weitere-Produkte/3D-Gebaeudemodelle-LoD/).
 
-- Benötigt werden z. B. Informationen zur Realsituation (Siedlungsdichte, Ausnutzungsdichte), zur Flächennutzungsänderung, zur Landschaftsqualität, zum Gebäudebestand, -typ, -alter und -nutzung), zur Verkehrsinfrastruktur (Dichte, Erreichbarkeit) oder zum Energiebedarf.
-- Dabei ist das Informationspotenzial von bestehenden amtlichen Geobasisdaten wie Hausumringen [(HU-DE)](https://www.ldbv.bayern.de/produkte/kataster/hausumringe.html), Gebäudeadressen [(GA)](http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=deu&gdz_akt_zeile=2&gdz_anz_zeile=6&gdz_unt_zeile=19&gdz_user_id=0) oder 3D-Gebäudemodellen [(LoD1-DE)](http://www.adv-online.de/AdV-Produkte/Weitere-Produkte/3D-Gebaeudemodelle-LoD/) hoch, bisher aber noch ungenügend ausgeschöpft.
-- Nutzergenerierte Daten (Citizen Science) spielen eine immer wichtigere Rolle neben neuen Fernerkundungsdaten und neuen und weiterentwickelten amtlichen Daten.
-- Es gibt nach wie vor Datenqualitätsprobleme (mangelnde Aktualität, s. Abb.).
-- Häufig fehlen noch flächendeckende Datenangebote (z. B. zur Grünflächenausstattung, kleinräumigen Bevölkerungsverteilung).
-- Es gibt eine Diskrepanz zwischen der Flächendeckung amtlicher Daten gegenüber den manchmal genaueren lokalen nutzergenerierten Daten.
+- User-generated data (Citizen Science) play an increasingly important role, besides new remote sensing data and new as well as updated official data.
+- the data quality problems remain as an important concern (e.g. lack of timeliness, see also figure).
+- Often there is still a lack of comprehensive dataset (e.g. on green spaces, small-scale population distribution).
+- There is a massive mismatch between the comprehensive official data and the valid user-generated data (local).
+
 
 ![abb_atkisdaten_qualitat_trend](abb_atkisdaten_qualitat_trend.png)
 
-**Grundaktualität des ATKIS Basis-DLM ab 2006, 2011 und 2017**
+**Up-to-dateness ATKIS Basic-DLM (Official Topographic-Cartographic Information System) on 2006, 2011 und 2017**
 
-!!! Überlegen Sie einmal: Warum ist das ATKIS Basis-DLM ein wichtiger Grundlagendatensatz?
+!!! Let's Think about: Why is the ATKIS Basic DLM an important basic data set?
 
 
-! Informieren Sie sich mehr zur Grundaktualität des ATKIS Basis-DLM im [www.ioer-monitor.de/methodik/glossar](http://www.ioer-monitor.de/methodik/glossar/a/atkis-basis-dlm/)
+! Please find more information on Up-to-dateness of ATKIS Basic-DLM (Official Topographic-Cartographic Information System): [www.ioer-monitor.de/methodik/glossar](https://www.ioer-monitor.de/en/methodology/glossary/a/atkis-basis-dlm/)

@@ -1,5 +1,5 @@
 ---
-title: Einstieg in den Test (ILIAS) zur Vorlesungseinheit
+title: Test on ILIAS for this Module
 menu: Test
 taxonomy:
     category:

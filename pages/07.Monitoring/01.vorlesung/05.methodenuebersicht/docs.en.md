@@ -1,5 +1,5 @@
 ---
-title: Methodenübersicht
+title: Methods
 taxonomy:
     category: docs
 ---
@@ -12,8 +12,8 @@ Dabei kommt raumbezogenen Daten und geostatistischen Informationsangeboten eine 
 
 Das Ziel der Übungen sind Analysen auf **Grundlage offener Daten in Kombination mit Geobasisdaten und Altkarten**. Die Bausteine dazu sind:
 1. Grundlagen der Datenhaltung,
-1. räumliche Analysen und
-1. interaktive Anwendungen.
+2. räumliche Analysen und
+3. interaktive Anwendungen.
 
 In den Übungen werden schrittweise relevante Themenfelder der thematischen Raumanalyse vorgestellt.
 

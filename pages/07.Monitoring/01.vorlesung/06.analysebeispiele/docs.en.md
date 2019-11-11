@@ -1,5 +1,5 @@
 ---
-title: Analysebeispiele
+title: Example Analysis
 taxonomy:
     category:
         - docs

@@ -1,13 +1,13 @@
 ---
-title: Flächenmonitoring
-menu: Vorlesung Flächenmonitoring
+title: Landuse Monitoring
+menu: Lecture
 taxonomy:
     category: docs
 ---
-![logo_ioer](https://www.ioer.de/fileadmin/internet/responsive/header-logo.png)
+![logo_ioer](https://www.ioer.de/fileadmin/internet/responsive/logo-ioer-en.svg)
 
-Das Leibniz‐Institut für ökologische Raumentwicklung (IÖR) ist eine raumwissenschaftliche Forschungseinrichtung der Leibniz‐Gemeinschaft. Das Institut erarbeitet wissenschaftliche Grundlagen für die dauerhaft umweltgerechte Entwicklung von Städten und Regionen im nationalen und internationalen Zusammenhang. Neben Wandel und Management von Landschaften, Ressourceneffizienz von Siedlungsstrukturen sowie Umweltrisiken in der Stadt‐ und Regionalentwicklung beschäftigt sich das IÖR intensiv mit Fragen zum Monitoring der Siedlungs‐ und Freiraumentwicklung. Im Vordergrund stehen dabei automatisierte datengetriebene Erhebungs‐, Monitoring‐, Analyse‐, Visualisierungs- und Bewertungsverfahren für die räumliche Beschreibung von Flächennutzungsstrukturen, Gebäudebeständen und der Verkehrsinfrastruktur und deren Entwicklung. </p>
+The Leibniz Institute for Ecological Regional Development (IÖR) is a non-university research center on spatial sciences, which is a member of the Leibniz Association in Germany. The Institute develops scientific foundations for the sustainable development and transformation of cities as well as regions in a national and international context. IÖR is dealing with the questions of monitoring settlement and open space development, in addition to landscape change and management, resource efficiency of settlement structures and environmental risks in urban and regional development. The thematic topics can be highlighted as automated data-driven approaches of collection, monitoring, analysis, visualisation and evaluation for the spatial dimensions of land use structures, building stock and transport infrastructure and their development.</p>
 
-! Besuchen Sie uns:
-! * [www.ioer.de](https://www.ioer.de/home/)
-! * [www.ioer-monitor.de](http://www.ioer-monitor.de/)
+! For more information:
+! * [www.ioer.de](https://www.ioer.de/1/home/)
+! * [www.ioer-monitor.de](https://www.ioer-monitor.de/en/)

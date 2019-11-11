@@ -1,5 +1,5 @@
 ---
-title: Konzeption des Fallbeispiel
+title: Conception
 taxonomy:
     category: docs
 ---
