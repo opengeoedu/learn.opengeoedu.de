@@ -34,7 +34,7 @@ An dieser Stelle sei bereits auf folgende grundlegende Literatur verwiesen:
 
 -	Heipke, C. (2017): Photogrammetrie und Fernerkundung. Handbuch der Geodäsie, Springer Verlag.
 -	Albertz, J. (2009): Einführung in die Fernerkundung. Grundlagen der Interpretation von Luft- und Satellitenbildern, 4th ed. Wissenschaftliche Buchgesellschaft.
--	Tutorial Fernerkundung: [tu-dresden.de](https://tu-dresden.de/bu/umwelt/geo/ipf/fern/studium/tutorial/tutorial-fernerkundung/tutorial-001)
+
 
 Englischsprachig:
 -	Jensen, R. (2007): Remote sensing of the environment: an earth resource perspective, 2nd ed. Prentice Hall Inc., Upper Saddle, NJ.
