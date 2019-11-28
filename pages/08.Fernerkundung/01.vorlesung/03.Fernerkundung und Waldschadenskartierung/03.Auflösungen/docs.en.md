@@ -20,7 +20,7 @@ taxonomy:
 
 The pixel size of the final image product thus depends on the sensor and fluctuates strongly between 0.4 and 900 m. For common free satellites they are 5 m (RapidEye), 30 m (Landsat 8) or 250/500 m (MODIS). Sentinel-2 has spatial resolutions of 10, 20 and 60 m depending on the channel. In addition to contrast, spatial image resolution is primarily decisive for the recognition and differentiation of objects.
 
-![Pixel size](Räumliche_Auflösung.jpg?classes=caption "Different spatial resolutions for comparison.")
+![Pixel size](spatial_resolution.jpg?classes=caption "Different spatial resolutions for comparison.")
 
 ### Radiometric resolution
 !!! The radiometric resolution indicates the ability of a sensor to distinguish between different intensities within the respective wavelength range of a channel. Simply speaking, it is the contrast of an image, indicating the number of grayscales - expressed in bits:
@@ -29,7 +29,7 @@ The pixel size of the final image product thus depends on the sensor and fluctua
 - 4 bit = 2<sup>4</sup> = 16 grey levels
 - 8 bit = 2<sup>8</sup> = 256 greyscales
 
-![One bit please](bitt_en.jpg?classes=caption "The radiometric resolution defines the sensitivity of the sensor, i.e. the contrast.")
+![One bit please](bitt.jpg?classes=caption "The radiometric resolution defines the sensitivity of the sensor, i.e. the contrast.")
 
 ### Spectral resolution
 !!!  The spectral (optical) resolution of a sensor indicates which areas of the electromagnetic spectrum can be detected and how. The spectral resolution is therefore the covered wavelength range related to the number of spectral bands and is linked to the bandwidth, which is described by the Full Width Half Mean value (FWHM). This indicates the wavelength width that a channel has at 50% of the maximum transmittance of the spectral band. It is sometimes confused with the spectral sampling interval, but this defines the steps between the bands.
