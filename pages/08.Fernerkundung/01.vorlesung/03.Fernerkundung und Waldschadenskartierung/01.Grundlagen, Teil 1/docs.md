@@ -16,10 +16,10 @@ Grundsätzlich lassen sich Fernerkundungssensoren in zwei Gruppen einteilen:
 
 Bei den passiven optischen Sensoren, gibt es eine Reihe an unterschiedlichen Systemen. Sie unterscheiden sich z.B. in der Anzahl der Kanäle, mit denen verschiedene Wellenlängenbereiche des elektromagnetischen Spektrums wahrgenommen werden können. Unsere Augen sind im Grunde auch passive Fernerkundungssensoren, die das sichtbare Licht von etwa 400-700 nm wahrnehmen - also nur einen kleinen Teil des gesamten Spektrums. Kurzwelligere oder langwelligere Strahlung können wir nur mit Hilfe von speziellen Kameras und Sensoren wahrnehmen. So wird quasi sichtbar gemacht, was für uns unsichtbar ist.
 
-In der folgenden Abbildung sind einige der gängigsten aktiven und passiven Erdbeobachtungssatelliten gelistet. Die Einteilung nach Wellenlängenbereich und räumlicher Auflösung (Pixelgröße) ist dabei eine hilfreiche Methode um cih einen Überlick zu schaffen.
+In der folgenden Abbildung sind einige der gängigsten aktiven und passiven Erdbeobachtungssatelliten gelistet. Die Einteilung nach Wellenlängenbereich und räumlicher Auflösung (Pixelgröße) ist dabei eine hilfreiche Methode um sich einen Überlick zu schaffen.
 
 
-![Satelliten_VGL](Satelliten_VGL_d.jpg?resize=750?classes=caption "Beispiele gängiger Satelliten, nach spektraler und räumlicher Auflösung unterteilt und nach passiven und aktiven Sensoren getrennt." )
+![Satelliten_VGL](Satelliten_VGL_d.jpg?resize=700?classes=caption "Beispiele gängiger Satelliten, nach spektraler und räumlicher Auflösung unterteilt und nach passiven und aktiven Sensoren getrennt." )
 <br><br>
 
 
