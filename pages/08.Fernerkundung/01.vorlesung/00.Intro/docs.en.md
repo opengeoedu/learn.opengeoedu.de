@@ -27,7 +27,7 @@ taxonomy:
 At the beginning we will discuss the topic and the importance of forests in a global context, but also of urban trees and green spaces at the local level. The role of remote sensing and its applications will be explained. In addition, various geodata and the data of the EU Copernicus programme are presented. The focus is on the Sentinel-2 satellites. The different data accesses are also explained. Finally, (basic) knowledge about optical remote sensing will be conveyed by means of vegetation monitoring.
 
 
-![Sentinel-2](Sentinel-2.jpg?classes=caption "Sentinel-2. Quelle: ESA")
+![Sentinel-2](Sentinel-2.jpg?classes=caption "Sentinel-2. Source: ESA")
 <br><br>
 
 ## Literature
@@ -52,4 +52,4 @@ In the first case study, a storm event from August 2017 is investigated, during 
 
 Further case studies focus on the vegetation in urban areas. In addition to terrestrial surveys, e.g. in the form of tree cadastres, remote sensing also plays an important role in addressing vegetation and distinguishing large areas from land cover. In addition, open geodata from the Copernicus programme are used. They include, amongst others, tree cover, degree of sealing and land use. Multitemporal data can be used to record changes over time. The focus is on German cities and European capitals.
 
-![Intersection of geodata](VerschnS2Geodaten_en.png?classes=caption "Workflow im Fallbeispiel 1")
+![Intersection of geodata](VerschnS2Geodaten_en.png?classes=caption "Workflow in the first case study.")

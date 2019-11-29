@@ -9,7 +9,7 @@ In many respects, the concept of sustainability is the basis for national and in
 
 The Aichi targets ([Aichi Biodiversity Targets](https://www.cbd.int/sp/targets)) were formulated in 1993 to implement the UN Convention on Biological Diversity (**Convention on Biological Diversity**, CBD). They envisage halving the loss of habitat by 2020, halting overfishing of the oceans and designating more areas as protected areas.
 
-The United Nations Millennium Development Goals (**Millenium Development Goals**, MDGs) were formulated in 2000 for the year 2015 to counter the continuing global deterioration of nature and the environment and to promote and combat issues such as health and poverty. Among the 8 goals ([MDGs](http://www.un.org/millenniumgoals/)) is also ecological sustainability. 
+The United Nations Millennium Development Goals (**Millenium Development Goals**, MDGs) were formulated in 2000 for the year 2015 to counter the continuing global deterioration of nature and the environment and to promote and combat issues such as health and poverty. Among the 8 goals ([MDGs](http://www.un.org/millenniumgoals/)) is also ecological sustainability.
 
 Subsequently, in 2015, the UN further defined the 17 sustainable development goals (**Sustainable Development Goals**, [SDGs](https://sustainabledevelopment.un.org/sdgs)) as part of Agenda 2030 ([MGDs->SDGs](http://www.sdgfund.org/mdgs-sdgs)). These are intended to ensure sustainable development at ecological, social and economic levels and bring together all three dimensions of sustainability for the first time.
 These SDGs are thus in line with the CBD to achieve the Aichi biodiversity goals.
@@ -29,4 +29,4 @@ Our OpenGeoEdu project also addresses various aspects of the UN's sustainability
 - Another important objective is SDG 15 ("Life on Land"): this includes, among other things, indicator 15.1.1, forest area, expressed as a share of the total land area.
 - Another aspect covered in our learning units is addressing urban green spaces and trees using free geo- and remote sensing data. SDG 11 ("Sustainable Cities and Municipalities") also aims at sustainable urban development. General access to public places and green spaces is an important subgoal.
 
-In the course part [GIS](https://learn.opengeoedu.de/gis) you can also work on your own topic for a SDG indicator of your choice in the exercises.
+In the course part [GIS](https://learn.opengeoedu.de/gis) you can also work on your own topic for a SDG indicator of your choice in the exercises (https://ilias.opengeoedu.de/ilias/goto_opengeoedu_lm_349.html).

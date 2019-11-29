@@ -26,4 +26,4 @@ In addition to updating the Urban Atlas, the next local component will deal with
 
 A regular update cycle ensures sustainable monitoring. In addition to the sentinels as a source of information, the data is derived from the contributing missions (Proba-V, SPOT, RapidEye, ...).
 
-!!!! Recherche of HRL: Forest and metadata. Research the update cycle, data sources and determination methods. Compare them with other data.
+!!!! Investigation of HRL: Forest and metadata. Research the update cycle, data sources and determination methods. Compare them with other data.

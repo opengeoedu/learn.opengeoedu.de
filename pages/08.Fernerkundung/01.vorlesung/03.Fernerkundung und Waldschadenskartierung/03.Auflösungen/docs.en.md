@@ -43,4 +43,4 @@ The following figure shows the position of the 13 Sentinel-2 channels within the
 
 For example, Sentinel-2 has a repetition rate at the equator of 5 days, Landsat 8 of 16 days, RapidEye 5 days. Due to larger overlaps of the recording strips, an image of the same place can even be produced every 2-3 days in Sentinel-2 at higher latitudes like in Germany.
 
-![Tempus fugit](temp_Aufl.jpg?)
+![Tempus fugit](temp_Aufl.jpg)

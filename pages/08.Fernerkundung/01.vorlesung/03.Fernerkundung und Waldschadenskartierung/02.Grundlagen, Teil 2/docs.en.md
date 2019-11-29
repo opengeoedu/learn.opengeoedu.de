@@ -14,7 +14,7 @@ taxonomy:
 
 In digital (multispectral) RGB images, such as those displayed on monitors and displays, each pixel of the individual channel represents a specific gray value. This is virtually equivalent to a brightness value. The higher the signal input (e.g. reflected radiation) to a sensor, the greater the gray value of the resulting image. Accordingly, the pixel is displayed brighter. When recording with a radiometric resolution of 8-bit, the pixels can have 256 different gray values: Minimum 0 = black, maximum 255 = white.
 
-![GraustufenPixel](004_en.jpg?resize=500)
+![GrayscalesPixel](004_en.jpg?resize=500)
 
 This is important for the interpretation of remote sensing imagery. Only by combining the gray value images of individual sensor channels (bands) can we obtain a colored image. In this way, objects become more differentiable and certain features can be recognized. Two examples of Sentinel-2 satellite scenes from Frankfurt (Main) are shown below. The southern part shows the city forest. Due to the high reflection in the near infrared, the vegetation appears reddish when the NIR channel is set to red.
 
@@ -46,4 +46,4 @@ Land cover and land use classes can often only be distinguished and identified b
 
 The interpretation and classification depends not only on the color space, but also on the spatial resolution. In simple terms, this defines the smallest possible unit from which objects can be composed, depending on the (local) contrast. It is true that the larger the pixels, the coarser a possible classification is. But it depends on the context and intention. Too much information - both spectral and spatial - can also hinder a response or classification. For example, it may be more difficult to distinguish between crowns of trees in an image with a resolution of a few centimeters than in an image with 1-2 m resolution.
 
-![RäumlAufl](003b_en.jpg?resize=250)
+![SpatialResolution](003b_en.jpg?resize=250)
