@@ -44,6 +44,6 @@ Landbedeckungs- und Landnutzungsklassen sind oft nur durch eine Verifizierung vo
 
 ![Interpretation](006.jpg?resize=650)
 
-Die Interpretation und Klassifizierung hängt nicht nur von dem abgebildeten Farbraum ab, sondern auch von der räumlichen Auflösung. Diese definiert vereinfacht gesagt die kleinste mögliche Einheit, aus der sich Objekte zusammensetzen können, jeweils in Abhängigkeit vom (lokalen) Kontrast. Zwar gilt: je größer die Pixel, desto gröber ist eine mögliche Klassifizierung. Doch kommt es auf den Kontext und Intention an. Zu viel Information – sowohl spektral als auch räumlich – kann auch hinderlich für eine Ansprache bzw. Klassifizierung sein. So ist unter Umständen eine Unterscheidung von Baumkronen in einem Bild mit wenigen Zentimetern Auflösung schwieriger sein als in einem Bild mit 1-2 m Auflösung.
+Die Interpretation und Klassifizierung hängt nicht nur von dem abgebildeten Farbraum ab, sondern auch von der räumlichen Auflösung. Diese definiert vereinfacht gesagt die kleinste mögliche Einheit, aus der sich Objekte zusammensetzen können, jeweils in Abhängigkeit vom (lokalen) Kontrast. Zwar gilt: je größer die Pixel, desto gröber ist eine mögliche Klassifizierung. Doch kommt es auf den Kontext und Intention an. Zu viel Information – sowohl spektral als auch räumlich – kann auch hinderlich für eine Ansprache bzw. Klassifizierung sein. So ist unter Umständen eine Unterscheidung von Baumkronen in einem Bild mit wenigen Zentimetern Auflösung schwieriger  als in einem Bild mit 1-2 m Auflösung.
 
 ![RäumlAufl](003b.jpg?resize=250)

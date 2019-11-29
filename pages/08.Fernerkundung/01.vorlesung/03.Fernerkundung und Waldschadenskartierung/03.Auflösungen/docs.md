@@ -43,4 +43,4 @@ Nachfolgende Abbildung ziegt die Position der 13 Sentinel-2 Kanäle innerhalb de
 
 So hat Sentinel-2 z.B. eine Wiederholungsrate am Äquator von 5 Tagen, bei Landsat 8 sind es 16 Tage, bei RapidEye ebenfalls 5 Tage. Durch größere Überlappungen der Aufnahmestreifen kann bei Sentinel-2 in höheren Breiten wie in Deutschland soagar alle 2-3 Tage ein Bild desselben Ortes zustande kommen.
 
-![Tempus fugit](temp_Aufl.jpg?)
+![Tempus fugit](temp_Aufl.jpg)
