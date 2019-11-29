@@ -29,4 +29,4 @@ Our OpenGeoEdu project also addresses various aspects of the UN's sustainability
 - Another important objective is SDG 15 ("Life on Land"): this includes, among other things, indicator 15.1.1, forest area, expressed as a share of the total land area.
 - Another aspect covered in our learning units is addressing urban green spaces and trees using free geo- and remote sensing data. SDG 11 ("Sustainable Cities and Municipalities") also aims at sustainable urban development. General access to public places and green spaces is an important subgoal.
 
-In the course part [GIS](https://learn.opengeoedu.de/gis) you can also work on your own topic for a SDG indicator of your choice in the exercises (https://ilias.opengeoedu.de/ilias/goto_opengeoedu_lm_349.html).
+! In the course part [GIS](https://learn.opengeoedu.de/gis) you can also work on your own topic for a SDG indicator of your choice in [this exercise](https://ilias.opengeoedu.de/ilias/goto_opengeoedu_lm_349.html).
