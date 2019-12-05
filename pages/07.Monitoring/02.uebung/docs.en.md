@@ -14,15 +14,16 @@ personenabled: false
 facebookenable: true
 ---
 
-Das Fallbeispiel fokussiert darauf, Daten- und Analysegrundlagen für eine nachhaltige Stadt- und Raumplanung zu schaffen. In praktischen Übungen und Aufgaben sollen folgende Themen auf lokaler, regionaler und nationaler Ebene beleuchtet werden:
-
-*	**Bestimmung des Siedlungs- und Verkehrsflächen (SuV)- Anteils** (mit dem offenen WebGIS-Dienst am Beispiel des IÖR–Monitor und mit der QGIS-Umgebung)
-*	**Berechnung von verkehrsbezogenen Flächennutzungsindikatoren** (Nutzung von OpenStreetMap und amtlichen Daten für ein GIS-Projekt)
-*	**Messung der Veränderung der Siedlungs- und Bevölkerungsdichte** (mit dem Global Human Settlement Layer: GHSL und ArcGIS-online)
-*   **Berechnung der räumlichen Verteilung der Gebäudedichte im Rasterformat (Fishnet Grid)** (Verwendung von GeoDa und Berechnung von Univariate Moran’s I (Global, Lokal))
+This thematic case study focuses on the fundamentals of data and analytical for supporting sustainable urban and spatial planning. The practical exercises available (currently only in German) on following topic at local, regional and national level:
 
 
-Kurz Videos zu den **Übungen**
+*	**Estimation of the landuse share for the settlement and transport purpose (SuV)** (with open WebGIS services for example IOER-Monitor and application of QGIS-environment)
+*	**Computation of transport related land use indicator** (Use of OpenStreetMap aand Official data for a GIS-Project)
+*	**Measure and detection of changes in settlement and population density** ( with the Global Human Settlement Layer: GHSL und ArcGIS-online)
+* **Estimation of spatial pattern of building density in Raster format (Fishnet Grid)** (Application of GeoDa and Calculaton ofUnivariate Moran’s I (Global, Local))
+
+
+Short Video on **Practical Exercise**
 [owl-carousel items=1 loop=true autoplay=true autoplayHoverPause=true margin=15 responsive={0:{items:1},640:{items:2},1900:{items:3}}]
 [plugin:youtube](https://youtu.be/NuzP9f4Y1xo)
 [plugin:youtube](https://youtu.be/Twc55NtcbxA)

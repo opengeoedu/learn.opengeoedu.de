@@ -3,16 +3,16 @@ title: Conception
 taxonomy:
     category: docs
 ---
-Das Fallbeispiel „Flächenmonitoring“ fokussiert darauf, Daten- und Analysegrundlagen für eine nachhaltige Stadt- und Raumplanung zu schaffen.
+The case study learning module "Land use monitoring" focuses on the requirements data and related analysis for sustainable urban and spatial planning.
 
-![Konzeption des Fallbeispel Flächenmonitoring](abb_konzept.png?resize=600)
+![General concept of case study - Land Use Monitoring](fig_concept.png?resize=600)
 
-In praktischen Aufgaben und Übungen sollen folgende Themen beleuchtet werden:
-- Bestimmung des Siedlungs- und Verkehrsflächen-Anteils (SuV)
-- Bestimmung der Verkehrsnetzdichte
-- Messung der Veränderung der Siedlungs- und Bevölkerungsdichte
-- Bestimmung der Flächenneuinanspruchnahme
-- Abschätzung der Bodenversiegelung
-- Bestimmung der früheren Entwicklung
-- Ableitung von Stadtgrüninformationen (Flächenanteil und Erreichbarkeit)
-- Ergebnisvisualisierung
+The following topics will mostly be highlighted in practical tasks and exercises :
+- Estimation of the landuse share for the settlement and transport purpose (SuV)
+- Estimation of traffic network density
+- Change detection in settlement and population density
+- Calculaton of new land use consumption
+- Estimation of soil sealing
+- Exploring the historical development
+- Assesment of urban green information (Lanuse and accessibility)
+- Visualization of analytics and results

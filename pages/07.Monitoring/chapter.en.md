@@ -8,7 +8,7 @@ menu: Landuse Monitoring
 
 ### OpenGeoEdu Case Study
 
-# Landuse Monitoring
+# Land Use Monitoring
 
 Teaser
 

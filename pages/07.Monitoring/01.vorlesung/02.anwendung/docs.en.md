@@ -6,7 +6,7 @@ taxonomy:
 
 The need for **small-scale information is diverse**. This enables **the Science and Practice to optimize related measures, and decisions**, but it also increase efficiency to identify successes or mistakes. In particular, the challanges should be considered about the data - e.g. spatial and temporal resolution, objectivity, homogeneity, etc.
 
-Users of the data are actors from the local, regional and national level to the international level. The applications of the data are, for example, meauring green volume, building urban air pollution scenarios, estimating property values or geothermal potential.
+The data users are actors from the local, regional and national level to the international level. The applications of the data are, for example, meauring green volume, building urban air pollution scenarios, estimating property values or geothermal potential.
 
 **Land Use** (Green Volume) <br>
 [![abb_gruenvolumen_ua_berlin](abb_gruenvolumen_ua_berlin.png)](http://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=showMap&mapId=wmsk05_09_gruendvol2010@senstadt) <br>

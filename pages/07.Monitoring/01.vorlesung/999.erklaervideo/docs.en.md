@@ -1,5 +1,5 @@
 ---
-title: Selected Videos
+title: Selected Video
 published: true
 taxonomy:
     category:
@@ -12,6 +12,6 @@ taxonomy:
 [plugin:youtube](https://youtu.be/Ja7rxTXvR20)
 [/owl-carousel]
 
-* [Was ist der Monitor der Siedlungs- und Freiraumentwicklung (IÖR-Monitor)?](https://youtu.be/70Lf00SB7fc)
-* [Zersiedelungsinitiative aus der Schweizerische Bundesrat: Zersiedelung stoppen – für eine nachhaltige Siedlungsentwicklung](https://youtu.be/e9x0Oj1-K2Q)
-* [GDI InfoTour: GDI Grundlagen](https://youtu.be/Ja7rxTXvR20)
+* [What is Monitor of Settlement and Open Space Development (IOER-Monitor)?](https://youtu.be/KFWcW52g2yE)
+* [Urban sprawl initiative from the Swiss Federal Council: Stopping urban sprawl - for sustainable settlement development](https://youtu.be/e9x0Oj1-K2Q)
+* [GDI InfoTour: GDI Fundamentals](https://youtu.be/Ja7rxTXvR20)

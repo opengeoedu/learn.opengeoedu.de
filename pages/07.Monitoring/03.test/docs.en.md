@@ -5,6 +5,6 @@ taxonomy:
     category:
         - docs
 ---
-Der Online-Test dient dazu, das in der Vorlesung erarbeitete Wissen kurz abzufragen. Ein Test umfasst i.d.R. 20 Fragen und ist in 20 Minuten zu bearbeiten. Am Ende haben Sie die Möglichkeit, sich anzuschauen, ob Sie richtig oder falsch geantwortet haben. Der Test ist Bestandteil des Leistungsnachweises für Ihr Modulzertifikat.
+The online test aims to make a short assesment of the knowledge that has be gain from the given lecture. A test consist of 20 Questions and a time limit 20 Munites. At the end,  you will be given a feedback about your answers wheater you answers are correct or not. The test is a mandartory requirement for achiving your module certificate.
 
-[center]<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=tst_286&client_id=opengeoedu" markdown="1" target="_blank">![](/images/test.png?resize=200,200)Hier geht es weiter zum Test (ILIAS)</a>[/center]
+[center]<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=tst_286&client_id=opengeoedu" markdown="1" target="_blank">![](/images/test.png?resize=200,200)Continue here for for Test (ILIAS)</a>[/center]

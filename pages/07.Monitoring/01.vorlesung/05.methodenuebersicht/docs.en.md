@@ -3,23 +3,21 @@ title: Methods
 taxonomy:
     category: docs
 ---
+Small-scale land use monitoring requires tools, models, algorithams, easy-to-understand geovisualisations in participation of divese actors at all decision-making levels.
 
-Ein kleinräumiges Flächenmonitoring benötigt Tools, Systematiken, Berechnungsvorschriften, leicht verständliche Geovisualisierungen sowie Akteure auf allen Entscheidungsebenen.
-
-Dabei kommt raumbezogenen Daten und geostatistischen Informationsangeboten eine besondere Bedeutung zu, die immer genauer sowie aktuell und kostenfrei verfügbar sein sollen.
+Therefore, the spatial data and geostatistical information are having particular importance and should be more accurate, up-to-date and available free of charge.
 
 ![abb_monitoring_thema_ebene_zeit](abb_monitoring_thema_ebene_zeit.png)
 
-Das Ziel der Übungen sind Analysen auf **Grundlage offener Daten in Kombination mit Geobasisdaten und Altkarten**. Die Bausteine dazu sind:
-1. Grundlagen der Datenhaltung,
-2. räumliche Analysen und
-3. interaktive Anwendungen.
+The practical exercises aims to analyse **Available Open Date in combination with Basic Geoinformation including Temporal dimention**. The major milestons are:
+1. Fundamental of data management,
+2. Spatial Analysis und
+3. Interactive Application.
 
-In den Übungen werden schrittweise relevante Themenfelder der thematischen Raumanalyse vorgestellt.
+The practical exercises section will introduce relevant topics of the thematic spatial analysis step by step.
 
-
-- **Datengrundlagen** zur Fläche, zu Gebäuden, zu Verkehrstrassen und zur Landbedeckung
-- **Flächennutzungs**-, Verkehrs- und Gebäudenomenklaturen
-- Beschreibung durch **Indikatoren (Eigenschaften)**
-- Analysen in verschiedenen **Raumauflösungen (Verwaltungsgebiete, Verkehr)**
-- Ergebnisdarstellung als **Karten, Tabellen, Entwicklungsgraphen**
+- **Data sources** of Landuse, Building, Transport Network and Land covers
+- **Land uses**-, Transportation and Building purpose
+- Describe with **Indikators (Charteristics or propertices)**
+- Analysis of different **Spatial scale (Administrative levels, Transport)**
+- Visualization results in the from of **Maps, Tables, Diagrams**
