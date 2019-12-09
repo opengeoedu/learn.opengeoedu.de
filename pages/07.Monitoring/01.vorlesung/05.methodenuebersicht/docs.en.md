@@ -7,7 +7,9 @@ Small-scale land use monitoring requires tools, models, algorithams, easy-to-und
 
 Therefore, the spatial data and geostatistical information are having particular importance and should be more accurate, up-to-date and available free of charge.
 
-![abb_monitoring_thema_ebene_zeit](abb_monitoring_thema_ebene_zeit.png)
+![Fig:Topic of monitor by flowing scale and time](abb_monitoring_thema_ebene_zeit.png)
+**Fig: Topics of monitor by flowing scale and time**
+
 
 The practical exercises aims to analyse **Available Open Date in combination with Basic Geoinformation including Temporal dimention**. The major milestons are:
 1. Fundamental of data management,

@@ -8,7 +8,7 @@ The IÖR-Monitor offers a research data infrastructure with more than 80 indicat
 
 [![abb_ior_monitor_kartenviewer](abb_ior_monitor_kartenviewer.png?classes=caption)](https://monitor.ioer.de/?raeumliche_gliederung=gebiete&glaettung=0&opacity=0.8&zoom=6&lat=51.33061163769853&lng=10.447998046875002&)
 
-! Explore [IÖR-Monitor](http://www.ioer-monitor.de);  Kurz Videos zum **[What is Monitor of Settlement and Open Space Development (IOER-Monitor)?](https://youtu.be/70Lf00SB7fc)**
+! Explore [IÖR-Monitor](http://www.ioer-monitor.de);  Short Video on: **[What is Monitor of Settlement and Open Space Development (IOER-Monitor)?](https://youtu.be/70Lf00SB7fc)**
 
 A mobile app is also available in the Android Apps-store with all indicators of the IOER-Monitor.
 

@@ -48,7 +48,7 @@ The aim is to make the results of land use monitoring more accurate, i.e. more s
 - There is a massive mismatch between the comprehensive official data and the valid user-generated data (local).
 
 
-![abb_atkisdaten_qualitat_trend](abb_atkisdaten_qualitat_trend.png)
+![abb_atkisdaten_qualitat_trend](fig_atkis_data_quality_trend.png)
 
 **Up-to-dateness ATKIS Basic-DLM (Official Topographic-Cartographic Information System) on 2006, 2011 und 2017**
 
