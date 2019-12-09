@@ -20,7 +20,7 @@ This thematic case study focuses on the fundamentals of data and analytical for 
 *	**Estimation of the landuse share for the settlement and transport purpose (SuV)** (with open WebGIS services for example IOER-Monitor and application of QGIS-environment)
 *	**Computation of transport related land use indicator** (Use of OpenStreetMap aand Official data for a GIS-Project)
 *	**Measure and detection of changes in settlement and population density** ( with the Global Human Settlement Layer: GHSL und ArcGIS-online)
-* **Estimation of spatial pattern of building density in Raster format (Fishnet Grid)** (Application of GeoDa and Calculaton ofUnivariate Moran’s I (Global, Local))
+* **Estimation of spatial pattern of building density in Raster format (Fishnet Grid)** (Application of GeoDa and Calculaton of Univariate Moran’s I (Global, Local))
 
 
 Short Video on **Practical Exercise**
