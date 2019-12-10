@@ -31,7 +31,7 @@ taxonomy:
 
 ## Learning Goals
 
-This lecture will introduce to the scientific background on the topic of Land Use Monitoring. Upon completing this section, you should be prepared for working with given exercises on dealing with data and basic analytics for a sustainable urban and regional development.
+This lecture will introduce to the scientific background on the topic of Land Use Monitoring. Upon completing this section, you should be prepared for working with given exercises on dealing with data and basic analytics for sustainable urban and regional development.
 
 ## Structure of the Lecture
 

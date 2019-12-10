@@ -13,7 +13,7 @@ Die nationalen Akteure, wie u.a. das Bundesamt für Kartographie und Geodäsie (
 ### International:
 Daten werden insbesondere von der Europäischen Statistikbehörde ([eurostat](http://ec.europa.eu/eurostat/de/data/database)), der europäischen Umweltagentur ([EEA](https://www.eea.europa.eu/data-and-maps)), der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung ([OECD](https://data.oecd.org/)) und in Geoportalen anderer Europäische Union (EU)-Staaten angeboten. Dazu gehören z.B. die Datenprodukte von Copernicus ([Urban Atlas](http://copernicus.eu/data-access-satellite)). Zudem existieren  weltweite Datenangebote wie Flickr, OpenStreetMap ([OSM](https://www.openstreetmap.de/)), Global Human Settlement Layer  ([GHSL](https://ghsl.jrc.ec.europa.eu/)), Global Urban Footprint ([GUF](https://www.dlr.de/eoc/desktopdefault.aspx/tabid-11725/20508_read-47944/)), "Nighttime Imagery", Höhenmodelle und weitere Produkte auf Grundlage von Volunteered geographical information ([VGI](https://de.wikipedia.org/wiki/Volunteered_geographic_information)).
 
-![opendata and GIS Trend](abb_opendata_trend_de.png?resize=1000)
+![opendata und GIS Trend](abb_opendata_trend_de.png?resize=1000)
 
 Abbildung: Entwicklung von wichtigen Datenquellen und Technologien nach Auswahl. (Quelle: Eigene Darstellung nach Ilieva & McPhearson, 2018. p. 556; [Bill, 2018](https://learn.opengeoedu.de/gis/vorlesung/geschichte))
 
