@@ -3,6 +3,8 @@ title: Themenvorschläge
 taxonomy:
     category:
         - docs
+published: false
+
 twitterenable: true
 twittercardoptions: summary
 orgaenabled: false
