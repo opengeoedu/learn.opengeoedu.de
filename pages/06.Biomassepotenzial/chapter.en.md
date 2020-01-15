@@ -1,5 +1,5 @@
 ---
-title: Biomasse Potentials
+title: Biomass Potentials
 taxonomy:
     category:
         - docs
