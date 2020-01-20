@@ -3,14 +3,6 @@ title: 'Open Data'
 taxonomy:
     category:
         - docs
-twitterenable: true
-twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
-facebookenable: true
 ---
 
 ! [fa=fa-long-arrow-right] Hauptartikel: [OpenData](/opendata)

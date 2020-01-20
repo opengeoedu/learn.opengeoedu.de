@@ -3,14 +3,6 @@ title: 'Grundprinzipien des Open Access'
 taxonomy:
     category:
         - docs
-twitterenable: true
-twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
-facebookenable: true
 ---
 
 Im Wesentlichen unterscheidet man zwei Wege zu Open Access. Unter dem so genannten goldenen Weg versteht man Maßnahmen, die auf Open-Access-Primärpublikationen setzen, zur Zeit vor allem Open-Access-Zeitschriften. Unter dem so genannten grünen Weg wird hingegen die zusätzliche Bereitstellung von Publikationen, die in (Closed-Access-)Zeitschriften erschienen sind, verstanden.

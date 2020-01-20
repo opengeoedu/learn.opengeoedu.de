@@ -4,14 +4,6 @@ taxonomy:
     category:
         - docs
 menu: Vorlesung
-twitterenable: true
-twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
-facebookenable: true
 ---
 
 **Wissen ist Macht, Daten sind wichtig!** - besonders in der Gegenwart, die oft als Informationszeitalter bezeichnet wird. Die weltweit größten Konzerne (Alphabet Inc./Google, Microsoft, Amazon, Facebook, Acxiom) besitzen gigantische Mengen an Daten, die einen Kernbestandteil ihres Geschäftes ausmachen. Daten sind die neue Währung der digitalen Welt - das Öl im Internet. Personenbezogene Daten, mit denen oben genannte Firmen ihr Geld verdienen, sind der Goldstaub im Internet. Daten sind eine begehrte Handelsware. Die Datenbestände (so wie Ideen und Wissen) verbrauchen sich nicht, sondern wachsen immer mehr an. Sie können beliebig vervielfältigt und von vielen Menschen gleichzeitig benutzt werden.

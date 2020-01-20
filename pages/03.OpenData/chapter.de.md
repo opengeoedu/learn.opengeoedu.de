@@ -38,3 +38,17 @@ Videos zum Grundlagenkapitel ***Einführung in die Arbeit mit offenen Daten***
 [plugin:youtube](https://youtu.be/6DncYkPZBc4)
 [plugin:youtube](https://youtu.be/JyVFucL6__Q)
 [/owl-carousel]
+
+<script type="application/ld+json"> 
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "name": "OpenGeoEdu Grundlagen - Open Data",
+  "description": "Warum offene Daten für die Gesellschaft, Demokratie, Wissenschaft, Wirtschaft und nicht zuletzt für Sie wichtig sind, und warum ihre Bedeutung weiterhin rasant wächst",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenGeoEdu",
+    "sameAs": "https://www.opengeoedu.de"
+  }
+} 
+</script> 

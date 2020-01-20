@@ -3,14 +3,6 @@ title: 'Begriffe im Kontext der Offenheit'
 taxonomy:
     category:
         - docs
-twitterenable: true
-twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
-facebookenable: true
 ---
 
 Eine Auswahl von Begriffskombinationen mit Open mit einer kurzen Erläuterung finden Sie hier. Ausführlicher werden diese auf den nächsten Seiten dargelegt:

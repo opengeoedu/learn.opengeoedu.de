@@ -38,3 +38,17 @@ Erfahren Sie mehr über die neue Offenheit in Wissenschaft, Wirtschaft, Verwaltu
 [plugin:youtube](https://youtu.be/UJbe0dw2gsA)
 [plugin:youtube](https://youtu.be/5zNjgi6Jkdw)
 [/owl-carousel]
+
+<script type="application/ld+json"> 
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "name": "OpenGeoEdu Grundlagen - Open XX",
+  "description": "Erfahren Sie mehr über die neue Offenheit in Wissenschaft, Wirtschaft, Verwaltung und Gesellschaft.",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenGeoEdu",
+    "sameAs": "https://www.opengeoedu.de"
+  }
+} 
+</script> 

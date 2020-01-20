@@ -22,4 +22,16 @@ facebookenable: true
 [plugin:youtube](https://youtu.be/3ORqTKuRHik)<!-- uebung -->
 [/owl-carousel]
 
-
+<script type="application/ld+json"> 
+{
+  "@context": "http://schema.org",
+  "@type": "Course",
+  "name": "Einführung in Geo-Informationssysteme (GIS)",
+  "description": "GIS bezeichnet sowohl eine Technologie, Produkte als auch Vorhaben zur Bereitstellung und Behandlung von Geoinformationen.",
+  "provider": {
+    "@type": "Organization",
+    "name": "OpenGeoEdu",
+    "sameAs": "https://www.opengeoedu.de"
+  }
+} 
+</script> 

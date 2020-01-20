@@ -3,14 +3,6 @@ title: politisch
 taxonomy:
     category:
         - docs
-twitterenable: true
-twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
-facebookenable: true
 ---
 
 > In der [Dresdner Vereinbarung](http://www.de.digital/DIGITAL/Redaktion/DE/IT-Gipfel/Publikation/2010/it-gipfel-2010-dresdner-vereinbarung.pdf?__blob=publicationFile&v=4) zum 5. Nationalen IT-Gipfel im Dezember 2010 hat die Politik sich dazu bekannt, bis 2013 den Aufbau einer zentral zugänglichen, den Interessen der Nutzer an einem einheitlichen, leichten und benutzerfreundlichen Zugriff gerecht werdenden Open-Government Plattform mit dem Schwerpunkt auf der Bereitstellung offener Verwaltungsdaten voranzutreiben. Diese soll bestehende Datenplattformen von Bund, Ländern und Kommunen vernetzen, weitere Datenplattformen unterstützen und den Anforderungen von Bund, Ländern und Kommunen sowie den fachlichen Qualitätserwartungen der Nutzer gerecht werden. Damit soll der Zugang zu Daten und Informationen der Verwaltung verbessert werden und der weitere Ausbau eines medienbruchfreien und prozessorientierten E-Governments unterstützt werden (BMI, 2012). Auch der 3. Geo-Fortschrittsbericht der Bundesregierung erwähnt explizit die Koexistenz von Open Data zu national aufgebauten Geodateninfrastrukturen. <cite>[Bundesregierung 2012](http://www.de.digital/DIGITAL/Redaktion/DE/IT-Gipfel/Publikation/2010/it-gipfel-2010-dresdner-vereinbarung.pdf?__blob=publicationFile&v=4)</cite>
