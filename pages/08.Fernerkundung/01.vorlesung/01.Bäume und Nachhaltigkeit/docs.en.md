@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-## Trees & sustainability
+## Trees and sustainability
 
 The motivation for our learning units lies in the sustainability concept in general and in specific aspects:
 + the role of forests on a global and local level,

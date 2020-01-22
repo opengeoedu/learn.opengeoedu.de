@@ -5,10 +5,10 @@ taxonomy:
     category:
         - docs
 ---
-In this exercise, you will learn basic procedures for handling open administrative data, especially in a GIS context. Practically, you will deal with this in three exercise units:
+In the exercise on Open Data, you will learn basic procedures for handling open governmental data, especially in a GIS context. Practically, you will deal with this in three exercise units:
 
 * Research and comparison of Open Data offerings using the [Portal of Open Data Portals](https://portal.opengeoedu.de)
-* Linking and evaluation of administrative areas with official statistics using the official municipality key (amtlicher Gemeindeschlüssel AGS) or regional key (Regionalschlüssel ARS)
+* Linking and evaluation of administrative areas with official statistics using the official municipality key (Amtlicher Gemeindeschlüssel AGS) or regional key (Regionalschlüssel ARS)
 * <font style="color:grey">Use OpenStreetMap for GIS analysis (will be added later)</font>
 
 

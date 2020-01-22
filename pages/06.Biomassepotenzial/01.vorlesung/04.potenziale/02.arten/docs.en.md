@@ -1,5 +1,5 @@
 ---
-title: Potential Types
+title: Potential types
 taxonomy:
   category: docs
 ---
@@ -12,4 +12,4 @@ The potential levels can be translated into different potential types, which can
 - Sustainable potential
 - Exploitable potential
 
-![](Skript_DBFZ_Potenzialarten_en.png?lightbox=800&resize=500&classes=caption "Scematic Illustraion of Potential Types. Adapted from: Thrän and Pfeiffer 2013")
+![](Skript_DBFZ_Potenzialarten_en.png?lightbox=800&resize=500&classes=caption "Schematic illustraion of potential types. Adapted from: Thrän and Pfeiffer 2013")

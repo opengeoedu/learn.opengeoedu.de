@@ -1,5 +1,5 @@
 ---
-title: 'Einstieg in den Test (ILIAS) zur Vorlesungseinheit'
+title: 'Einstieg in den Test zu OpenXX (ILIAS)'
 taxonomy:
     category:
         - docs

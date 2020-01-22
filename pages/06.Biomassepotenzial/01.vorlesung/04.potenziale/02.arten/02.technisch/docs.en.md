@@ -1,5 +1,5 @@
 ---
-title: Technical Biomass Potential
+title: Technical biomass potential
 taxonomy: 
   category: docs
 menu: 'Technical'
@@ -15,6 +15,6 @@ The technical biomass potential is derived from the theoretical biomass potentia
 
 **Example residual waste**: Losses due to the collection system, occurrence of impurities (e.g. plastic in the bio-waste bin)
 
-!! Think about which restrictions you have to consider when considering the technical biomass potential, based on a biomass of your choice. <br> <br>
+!! Think about which restrictions you have to consider when determining the technical biomass potential, based on a biomass of your choice. <br> <br>
 !! With agricultural by-products, such as straw, part of the biomass often has to remain on the field to maintain the humus balance. This is usually handled as a restriction. On the other hand, this could also be considered as material use. Think about how you would classify this and document it in the exercises. <br> <br>
 !! What could be the 5 biomasses with the highest technical biomass potential in Germany? Compare your results with the [DBFZ Ressourcendatenbank](http://webapp.dbfz.de/resources). 

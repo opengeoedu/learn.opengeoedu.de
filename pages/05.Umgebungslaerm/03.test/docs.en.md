@@ -1,19 +1,14 @@
 ---
-title: Entry into the test (ILIAS) for the lecture unit
+title: Test your knowledge on environmental noise (ILIAS)
 menu: Test
 taxonomy:
     category:
         - docs
 ---
-<!--
-Der Online-Test dient dazu das in der Vorlesung erarbeitete Wissen kurz abzufragen. Ein Test umfasst i.d.R. 20 Fragen und ist in 20 Minuten zu bearbeiten. Am Ende haben Sie die Möglichkeit, sich anzuschauen, ob Sie richtig oder falsch geantwortet haben. Der Test ist Bestandteil des Leistungsnachweises für Ihr Modulzertifikat.
+The online test serves to briefly test the knowledge acquired in this lecture unit on Environmental Noise. A test usually consists of 20 questions and can be completed in 20 minutes. At the end you have the opportunity to see whether you have answered correctly or incorrectly. The test is part of the certificate of achievement for your module certificate.
+
 [center]
-<a href="https://ilias.opengeoedu.de" markdown="1" target="_blank">
+<a href="https://ilias.opengeoedu.de/ilias/goto_opengeoedu_tst_437.html" markdown="1" target="_blank">
 ![](/images/test.png?resize=200,200)
 </a>
 [/center]
--->
-
-
-# Sorry
-!!!!! ## We are working under high pressure to provide the test for the case study for you!

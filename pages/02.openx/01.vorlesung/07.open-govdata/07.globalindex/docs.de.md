@@ -7,7 +7,7 @@ taxonomy:
 
 ## Global Open Data Index
 
-Der [Global Open Data Index](https://index.okfn.org/) stellt ein jährliches Ranking der Länder anhand von zehn Schlüsseldatensätzen an jedem Ort zusammen, ausgeführt von lokalen Open Data Experten:
+Der [Global Open Data Index](https://index.okfn.org/) stellt ein Ranking der Länder anhand von zehn Schlüsseldatensätzen an jedem Ort zusammen, ausgeführt von lokalen Open Data Experten:
 
 1. Wahlergebnisse
 2. Unternehmensregister

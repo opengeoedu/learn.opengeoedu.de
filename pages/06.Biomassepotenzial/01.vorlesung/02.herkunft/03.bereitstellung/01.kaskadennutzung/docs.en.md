@@ -1,5 +1,5 @@
 ---
-title: Examples for Cascading Use
+title: Examples for cascading use
 taxonomy: 
   category: docs
 menu: 'Cascading Use'

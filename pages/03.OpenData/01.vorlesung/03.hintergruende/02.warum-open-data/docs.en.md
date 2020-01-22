@@ -38,7 +38,7 @@ Copyright, trademark and patent protection are often cited as arguments against 
 Misuse of data is facilitated by its disclosure and the right to alter it. Data could be intentionally or unintentionally falsified. ([Seuß, 2015](../literatur#Seus2015))
 
 
-There may be distortions of competition for private companies because their privately financed databases may compete with publicly financed data (for open administrative and geodata, e.g. aerial photographs, topographic data and geocoded address databases). ([Seuß, 2015](../literatur#Seus2015))
+There may be distortions of competition for private companies because their privately financed databases may compete with publicly financed data (for instance open administrative data or geodata, e.g. aerial photographs, topographic data and geocoded address databases). ([Seuß, 2015](../literatur#Seus2015))
 
 There is a lack of standards, uniform data quality and uniform and clearly understandable licensing models for the meaningful use of open geodata ([Seuß, 2015](../literatur#Seus2015))
 
@@ -48,7 +48,7 @@ Open data was originally collected for the internal purposes of an organization.
 
 <br/><br/>
 
-!!! **Discuss it:**
-!!! 1. Which of the positions listed here would you agree with?
-!!! 2. Are there arguments that you consider to be irrelevant, outdated or unfounded? If so, for what reason?
-!!! 3. How do you assess the risk of misuse of open data?
+!!!! **Discuss it:**
+!!!! 1. Which of the positions listed here would you agree with?
+!!!! 2. Are there arguments that you consider to be irrelevant, outdated or unfounded? If so, for what reason?
+!!!! 3. How do you assess the risk of misuse of open data?

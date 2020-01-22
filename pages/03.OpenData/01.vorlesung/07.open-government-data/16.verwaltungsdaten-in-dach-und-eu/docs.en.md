@@ -1,5 +1,5 @@
 ---
-title: 'Administrative Data in DACH an EU'
+title: 'Administrative Data in DACH and EU'
 ---
 !!!!! Sorry, we are working hard to make this site available to you in English.
 

@@ -32,7 +32,7 @@ Einen größeren Fokus auf Open Data als Bestandteil von Open Government-Stategi
 
 
 
-G8 Open Data Charta [^1] | International Open Data Charta (IODC)[^2] | Open-Data-Prinzipien der Sunlight-Foundation
+G8 Open Data Charta[^1] | International Open Data Charta (IODC)[^2] | Open-Data-Prinzipien der Sunlight-Foundation
 --|---|--
  |<div class="fullspan" markdown="1"><h3> <i class="fas fa-unlock-alt fa-2x" style="margin:10px"></i> Standardmäßig offene Daten</h3> **Erläuterung:** Bislang wurden Regierungs- und Verwaltungsdaten oft nur auf begründete Anfragen hin herausgegeben. In Zukunft sollen alle Daten standardmäßig veröffentlicht werden, sofern keine besonderen Gründe vorliegen, diese zurückzuhalten. Die International Charta fordert auch, dass Regierungen das Zurückhalten von Daten rechtfertigen müssen.</div> |
  1. Open by default  | 1. Open by default  | -
@@ -69,10 +69,9 @@ var divelements = document.getElementsByClassName("rowspan");
 <br/>
 
 
-!!! **Diskutieren Sie und machen Sie sich Notizen:**
-!! <br/> <br/>
-!!! Warum setzen sich Regierungen und öffentliche Einrichtungen für "Open Data" ein? <br/><br/>
-!!! Auch Regierungen, die sich nicht klar zu den Open Government Zielen bekennen und teilweise oder sogar entgegengesetzte Politik betreiben, veröffentlichen einige Daten als Open Data. Beispiele hierfür sind Russland und China. Worin unterscheiden sich die Ziele dieser Regierungen möglicherweise?
-!!! <br/><br/>**Weitereführende Artikel:**
-!!! - [Eleanor Ross (2015): Why open data doesn't mean open government. The Guardian](https://www.theguardian.com/media-network/2015/dec/02/china-russia-open-data-open-government)
-!!! - [Yolanda Jinxin Ma (2017): Why Open Data Is Good For China](https://gijn.org/2017/03/28/why-open-data-is-good-for-china/)
+!!!! **Diskutieren Sie und machen Sie sich Notizen:**
+!!!! Warum setzen sich Regierungen und öffentliche Einrichtungen für "Open Data" ein? <br/><br/>
+!!!! Auch Regierungen, die sich nicht klar zu den Open Government Zielen bekennen und teilweise oder sogar entgegengesetzte Politik betreiben, veröffentlichen einige Daten als Open Data. Beispiele hierfür sind Russland und China. Worin unterscheiden sich die Ziele dieser Regierungen möglicherweise?
+!!!! <br/><br/>**Weiterführende Artikel:**
+!!!! - [Eleanor Ross (2015): Why open data doesn't mean open government. The Guardian](https://www.theguardian.com/media-network/2015/dec/02/china-russia-open-data-open-government)
+!!!! - [Yolanda Jinxin Ma (2017): Why Open Data Is Good For China](https://gijn.org/2017/03/28/why-open-data-is-good-for-china/)

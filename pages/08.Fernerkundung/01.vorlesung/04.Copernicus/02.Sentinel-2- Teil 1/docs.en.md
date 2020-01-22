@@ -6,7 +6,7 @@ taxonomy:
         - docs
 ---
 ## General
-"Sentinel-2" does not refer to a single satellite, but to a pair of satellites. The first satellite 2A was launched on 22.06.15, 2B was launched on 07.03.17. They orbit the earth in a polar sun-synchronous orbit at an altitude of about 786 km. The overflight times are similar to Landsat and SPOT-5. This makes the data sets more comparable and also allows time series analyses.
+"Sentinel-2" does not refer to a single satellite, but to a pair of satellites. The first satellite 2A was launched on 22.06.15, 2B was launched on 07.03.17. They circle around the earth in a polar sun-synchronous orbit at an altitude of about 786 km. The overflight times are similar to Landsat and SPOT-5. This makes the data sets more comparable and also allows time series analyses.
 
 ![Senitel-2](Sentinel-2_composites.png?classes=caption "Artistic representation of Sentinel-2. Right: Image from the Taunus (Hesse), each in a different combination (red-green-blue, RGB) of different spectral bands.")
 <br><br>

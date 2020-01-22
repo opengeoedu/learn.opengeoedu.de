@@ -12,8 +12,8 @@ What's that, anyway?
 How loud a sound is perceived depends on the following factors:
 
 * the sound pressure level,
-* the type of sound (sound or tone); and
-* of the pitch (frequency).
+* the type of sound (sound or tone) and
+* the pitch (frequency).
 
 Depending on the listener and his perception of sounds, the same sound sources are perceived differently loud and/or annoying. [The transmission of the stimuli depends on the modulation of the sound](https://commons.wikimedia.org/wiki/File:Loudness_perception.webm).
 

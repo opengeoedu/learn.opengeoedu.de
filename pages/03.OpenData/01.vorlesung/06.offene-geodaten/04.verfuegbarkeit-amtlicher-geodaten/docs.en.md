@@ -6,7 +6,7 @@ taxonomy:
 slug: amtliche-geodaten
 Menu: Availability
 ---
-In **Germany**, many of the federal geodata are available as **Open Data**. The federal states and many municipal administrations have made at least some geodata sets freely accessible, but the situation here is very heterogeneous. Very extensive geodata sets, including high-resolution geodata (ALKIS, ATKIS, digital air slides, 3D city models ...), have been made accessible by five federal states so far, important entry points in this context are:
+In **Germany**, many of the federal geodata are available as **Open Data**. The federal states and many municipal administrations have made at least some geodata sets freely accessible, but the situation here is very heterogeneous. Very extensive geodata sets, including high-resolution geodata (ALKIS, ATKIS, digital aerial photos, 3D city models ...), have been made accessible by five federal states so far, important entry points in this context are:
 
 * The [Geoportal Berlin](http://www.stadtentwicklung.berlin.de/geoinformation/) and [Open Data Berlin](https://daten.berlin.de/kategorie/geographie-und-stadtplanung)
 *  [Transparency Portal Hamburg](http://suche.transparenz.hamburg.de/?groups=geografie-geologie-und-geodaten) and the [Geoportal](http://www.geoportal-hamburg.de/Geoportal/geo-online/) of the State of Hamburg
@@ -14,7 +14,9 @@ In **Germany**, many of the federal geodata are available as **Open Data**. The 
 * [Geoportal-Th](https://www.geoportal-th.de): Open Geodata Thuringia
 * [Open Data Sachsen](https://www.opendata.sachsen.de/Daten_finden.htm)
 
-In **Austria**, the digital administration card [basemap.at](https://basemap.at/) is the most widely used Open Data product of Austrian authorities according to the [statistics of the national data portal](https://www.data.gv.at/wp-content/themes/datagvat/ckan-apps.php) and can be used under the [CC By 3.0 AT](https://creativecommons.org/licenses/by/3.0/at/deed.de) license.
+In **Austria**, the digital administration map [basemap.at](https://basemap.at/) is the most widely used Open Data product of Austrian authorities according to the [statistics of the national data portal](https://www.data.gv.at/wp-content/themes/datagvat/ckan-apps.php) and can be used under the [CC By 3.0 AT](https://creativecommons.org/licenses/by/3.0/at/deed.de) license.
+
+In der **Schweiz** bietet das Portal [opendata.swiss](https://opendata.swiss/de/) Zugang zu offenen Daten.
 
 <figure class="image-caption">
         <img alt="Geobasisdaten-Uebersicht" src="amtliche-geodaten/geobasislaender.png"></img>
@@ -44,7 +46,7 @@ In **Austria**, the digital administration card [basemap.at](https://basemap.at/
 | TH           | Thüringen              | http://www.geoportal-th.de/de-de/                                                             |
 
 [/ui-accordion-item]
-[ui-accordion-item title="Overview of data products (spatial base data)"]
+[ui-accordion-item title="Overview of ATKIS products (spatial topographic data)"]
 
 abbrevations  | Product
 --|--

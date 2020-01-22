@@ -1,5 +1,5 @@
 ---
-title: Theoretical Biomass Potential
+title: Theoretical biomass potential
 taxonomy:
   category: docs
 menu: 'Theoretical'

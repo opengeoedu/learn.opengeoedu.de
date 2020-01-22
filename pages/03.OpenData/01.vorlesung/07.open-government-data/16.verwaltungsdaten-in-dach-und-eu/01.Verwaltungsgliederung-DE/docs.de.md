@@ -25,7 +25,7 @@ slug: adm_de
 
 
 
-Die administrativ-politische Gliederung in Deutschland ist hierarchisch aufgebaut ([https://www.haushaltssteuerung.de/lexikon.html](https://www.haushaltssteuerung.de/lexikon.html)). Es wird zwischen 6 administrativen Ebenen (ADM) unterschieden: Staat, Länder, Regierungsbezirke, Kreise, Verwaltungsgemeinschaften und Gemeinden. (Abbildung links)
+Die administrativ-politische Gliederung in Deutschland ist hierarchisch aufgebaut ([https://www.haushaltssteuerung.de/lexikon.html](https://www.haushaltssteuerung.de/lexikon.html)). Es wird zwischen bis zu 6 administrativen Ebenen unterschieden (ADM): Staat, Länder, Regierungsbezirke, Kreise, Verwaltungsgemeinschaften und Gemeinden. (Abbildung links)
 
 Die Verwaltungsebenen sind in Deutschland - mit Ausnahme der Regierungsbezirksebene - flächendeckend aufgebaut. Hierfür sind die kreisfreien Städte zusätzlich in die Gemeinde- und Verwaltungsgemeinschaftsebene und die gemeinschaftsfreien Gemeinden in die Verwaltungsgemeinschaftsebene aufgenommen worden (schraffierte Elemente).
 
@@ -48,30 +48,30 @@ Die Verwaltungsebenen sind in Deutschland - mit Ausnahme der Regierungsbezirkseb
 [ui-tab title=" Administrative Einheiten"]
 
 [ui-accordion independent=true open=none classes="figureattributes, figure-left"]
-[ui-accordion-item title="Bundesländer (ADM 2)"]
+[ui-accordion-item title="Bundesländer (ADM 1)"]
 Deutschland hat 16 **Bundesländer**, die drei Stadtstaaten Berlin, Bremen und Hamburg und die 13 Flächenländer Baden-Württemberg, Bayern, Brandenburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Sachsen, Sachsen-Anhalt,  Schleswig-Holstein und Thüringen.
 [/ui-accordion-item]
 
 [ui-accordion-item title="Regierungsbezirke (ADM 2)"]
-**Regierungsbezirke (ADM 3)** sind nur noch in einigen größeren Flächenländern eingerichtet. Regierungsbezirk (kurz Reg.-Bez.) ist der Bezirk einer allgemeinen Landesmittelbehörde, in der ressortverschiedene Aufgaben gebündelt werden. Diese Behörde wird von einem Regierungspräsidenten geleitet.
+**Regierungsbezirke (ADM 2)** sind nur noch in einigen größeren Flächenländern eingerichtet. Regierungsbezirk (kurz Reg.-Bez.) ist der Bezirk einer allgemeinen Landesmittelbehörde, in der ressortverschiedene Aufgaben gebündelt werden. Diese Behörde wird von einem Regierungspräsidenten geleitet.
 [/ui-accordion-item]
 
 [ui-accordion-item title="(Land-)kreise (ADM 3)"]
 Der **Landkreis** (in Nordrhein-Westfalen der Kreis) ist die nächste Gliederungsstufe, in der mehrere einzelne Gemeinden zusammengefasst sind und die die Aufgaben übernimmt, die für die Gemeinden eines Kreises zu groß sind, wie z. B. der Bau von Kreiskrankenhäusern.
 [/ui-accordion-item]
 
-[ui-accordion-item title="Kreisfreie Städte (ADM 3)"]
+[ui-accordion-item title="Kreisfreie Städte (ADM 4)"]
 **Kreisfreie Städte (ADM 4)** stehen auf derselben Stufe wie die Landkreise. Sie nehmen zugleich sowohl die Aufgaben kreisangehöriger Gemeinden als auch die Aufgaben von Landkreisen wahr. Kreisfreie Städte gehören keinem Landkreis an. Sie sind i.d.R. diejenigen Städte eines Bundeslandes, die die meisten Einwohner haben. Welche Städte als kreisfreie und welche als kreisangehörige Städte kategorisiert werden, hängt vom Landesrecht des jeweiligen Flächenlandes ab. Kreisfreie Städte gibt es mit Ausnahme des Saarlandes in allen Bundesländern. Die drei Stadtstaaten Berlin, Bremen und Hamburg können ebenfalls als kreisfreie Städte eingeordnet werden, welche neben Landesaufgaben auch das gesamte kommunale Aufgabenportfolio erbringen. Im Falle des Landes Bremen handelt es sich konkret um zwei kreisfreie Städte: Bremen und Bremerhaven.
 [/ui-accordion-item]
 
-[ui-accordion-item title="Gemeinde- und Kommunalverbände"]
-**Gemeinde- und Kommunalverbände** sind Zusammenschlüsse von Gemeinden, die bestimmte kommunale Aufgaben für die gemeindeverbandsangehörigen Gemeinden erbringen. Dazu zählen die Landkreise (in Nordrhein-Westfalen die Kreise), die Ämter, Samtgemeinden, Verbandsgemeinden sowie die Bezirksverbände. Es wird also unterschieden zwischen Gemeindeverbänden auf Kreisebene (ADM 4) und unterhalb der Kreisebene (ADM 5). Oberhalb der Kreisebene gibt es außerdem sogenannte Kommunalverbände höherer Ordnung, bestehend aus Kommunalverbänden und kreisfreien Städten. Dazu zählen die  Landschaftsverbände in Nordrhein-Westfalen, die Landeswohlfahrtsverbände in Baden-Württemberg und Hessen sowie die bayerischen Bezirke.
+[ui-accordion-item title="Gemeinde- und Kommunalverbände" (ADM 5)]
+**Gemeinde- und Kommunalverbände (ADM 5)** sind Zusammenschlüsse von Gemeinden, die bestimmte kommunale Aufgaben für die gemeindeverbandsangehörigen Gemeinden erbringen. Dazu zählen die Landkreise (in Nordrhein-Westfalen die Kreise), die Ämter, Samtgemeinden, Verbandsgemeinden sowie die Bezirksverbände. Es wird also unterschieden zwischen Gemeindeverbänden auf Kreisebene (ADM 4) und unterhalb der Kreisebene (ADM 5). Oberhalb der Kreisebene gibt es außerdem sogenannte Kommunalverbände höherer Ordnung, bestehend aus Kommunalverbänden und kreisfreien Städten. Dazu zählen die  Landschaftsverbände in Nordrhein-Westfalen, die Landeswohlfahrtsverbände in Baden-Württemberg und Hessen sowie die bayerischen Bezirke.
 
 (siehe auch https://www.haushaltssteuerung.de/lexikon-gemeindeverbaende.html, http://www.bpb.de/nachschlagen/lexika/recht-a-z/22466/kommunalverbaende, https://www.destatis.de/DE/ZahlenFakten/GesellschaftStaat/OeffentlicheFinanzenSteuern/OeffentlicheFinanzen/Glossar/Gemeindeverband.html)
 [/ui-accordion-item]
 
 [ui-accordion-item title="Gemeinden (ADM 6)"]
-Die **Gemeinden** stellen im politischen System Deutschlands die unterste Verwaltungs- und Gebietskörperschaftsebene im
+Die **Gemeinden (ADM 6)** stellen im politischen System Deutschlands die unterste Verwaltungs- und Gebietskörperschaftsebene im
 Staat. Sie sind Träger der kommunalen Selbstverwaltung. Städte sind (zumeist einwohnerstarke) Gemeinden mit Stadtrecht.
 (siehe auch https://www.haushaltssteuerung.de/lexikon-gemeinde.html)
 [/ui-accordion-item]

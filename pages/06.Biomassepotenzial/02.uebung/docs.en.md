@@ -1,5 +1,5 @@
 ---
-title: Exercises: Biomass Potentials
+title: Exercises: Biomass potentials
 menu: Exercise
 taxonomy:
     category:

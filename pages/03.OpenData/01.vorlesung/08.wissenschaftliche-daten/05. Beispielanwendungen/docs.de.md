@@ -1,5 +1,5 @@
 ---
-title: 'Beispielanwendungen'
+title: 'Beispiele wissenschaftlicher Daten'
 taxonomy:
     category:
         - docs

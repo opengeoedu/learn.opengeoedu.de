@@ -9,7 +9,7 @@ To make it easier for you to get started with the OpenGeoEdu learning units, we 
 
 * A [self-assessment](http://test.opengeoedu.de/selfassessment.aspx?target=_blank): After you have assessed your knowledge and skills reasonably realistically, you will receive information about the course units that we consider to be useful.
 * A [workload calculator](http://test.opengeoedu.de/workload.aspx?target=_blank): By selecting the parts of the course you plan to work on, the associated workload is estimated. The workload that has then been verified by processing is documented in the OpenGeoEdu certificate.
-* A [module description](https://learn.opengeoedu.de/uebersicht/self-assessment/OGE_Modulbeschreibung.pdf?target=_blank): In accordance with the module descriptions in your Bachelor's or Master's degree programmes, you will find a module description for the OpengeoEdu open online course here.
+* A [module description](https://learn.opengeoedu.de/uebersicht/self-assessment/OGE_Modulbeschreibung.pdf?target=_blank): In accordance with the module descriptions in your Bachelor's or Master's degree programmes, you will find a module description for the OpenGeoEdu open online course here.
 * Data sheets (on the next page): A data sheet describes an exercise systematically and in detail.
 
 <div class="card-deck">

@@ -23,8 +23,9 @@ The second data access is __CODE-DE__ (Copernicus Data and Exploitation platform
 <br><br>
 
 !!!! Search for cloud-free (cloud coverage up to max. 10 %) Sentinel-2 images of the city of Frankfurt am Main taken in the second half of 2017.
-!!!! How many records can you find ...
-...at the Copernicus Hub?
-!!!!  b) ... in Code-DE?
+
+!!!! How many records can you find at the Copernicus Hub?
+
+!!!! How many records can you find in Code-DE?
 
 !! Why do you find different numbers of data records? (Note: Search for naming conventions of the Sentinel-2 data)

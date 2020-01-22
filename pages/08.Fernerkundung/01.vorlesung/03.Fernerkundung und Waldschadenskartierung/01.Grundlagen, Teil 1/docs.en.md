@@ -1,5 +1,5 @@
 ---
-title: 'Sensors and Atmosphere'
+title: 'Sensors and atmosphere'
 taxonomy:
     category:
         - docs
@@ -32,11 +32,11 @@ The atmospheric transmissibility or the so-called atmospheric windows are crucia
 
 In contrast to these so-called selective scattering processes, non-selective scattering is independent of the wavelength. An example is haze, which scatters visible light equally, or clouds that appear white to us.
 
-![Elektromagnetic Spectrum](Albertz_EMS_Atmosphaere.jpg?classes=caption "The electromagnetic spectrum. The human eye can only perceive the visible range of about 0.4-0.7 µm (400-700 nm).  Source figure, right: Albertz, 2001.")
+![Elektromagnetic Spectrum](Albertz_EMS_Atmosphaere.jpg?classes=caption "The electromagnetic spectrum. The human eye can only perceive the visible range of about 0.4-0.7 µm (400-700 nm).  Source figure (right): Albertz, 2001.")
 <br><br>
 
 Solar radiation penetrates the atmosphere quasi twice: 1. on its way to the Earth's surface and 2. by reflection from the Earth's surface. Therefore only a weakened signal arrives at the sensors of the satellites. The losses and distortions of the signal falsify to a certain extent the recording and result in a different image than on the ground.
-The properties of the earth's atmosphere have a particular effect on optical remote sensing. Clouds are far more critical. As part of Earth observation, a largely cloudless sky is required for land monitoring. However, clouds and shadows often make operational applications difficult, especially in tropical regions but also in our latitudes. The following figure shows examples of different degrees of cloud cover. Radar sensors, on the other hand, are relatively independent of the atmosphere. They allow to take pictures at any time, even at night and through a cloud cover.
+The properties of the Earth's atmosphere have a particular effect on optical remote sensing. Clouds are far more critical. As part of Earth observation, a largely cloudless sky is required for land monitoring. However, clouds and shadows often make operational applications difficult, especially in tropical regions but also in our latitudes. The following figure shows examples of different degrees of cloud cover. Radar sensors, on the other hand, are relatively independent of the atmosphere. They allow to take pictures at any time, even at night and through a cloud cover.
 
-![Cloud cover](Wolkenbedeckung.jpg?classes=caption "Examples of varying could covers of 0%, 40% and more than 80%. Part of the Rhine-Main area including Taunus,  acquired in May 2018. (c) ESA")
+![Cloud cover](Wolkenbedeckung.jpg?classes=caption "Examples of varying  covers of 0%, 40% and more than 80%. Part of the Rhine-Main area including Taunus,  acquired in May 2018. (c) ESA")
 <br><br>

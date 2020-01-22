@@ -7,17 +7,15 @@ twitterenable: true
 twittercardoptions: summary
 facebookenable: true
 ---
-(to be translated soon)
-In den Übungen erlernen Sie den Einstieg in das Arbeiten mit Landschaftsstrukturmaßen und erlangen Fertigkeiten in ausgewählten Verarbeitungsschritten und Analysemethoden. Die Übungen umfassen folgende Thematiken:
+In the exercises you will learn how to start working with landscape structure measures and acquire skills in selected processing steps and analysis methods. The exercises cover the following topics:
 
-* Einführung in die Grundlagen
-* Nachbarschaftsanalyse
-* Landschaftsvielfalt
-* Landschaftszerschneidung
+* Introduction to the basics
+* Neighbourhood Analysis
+* Landscape diversity
+* Fragmentation of the landscape
 
-Außerdem wird ein Datensatz zu einem größeren Landschaftsausschnitt für eine eigenständige umfassendere Landschaftsanalyse bereitgestellt.
+In addition, a data set on a larger landscape section is provided for an independent, more comprehensive landscape analysis.
 
+As a result of each example, thematic evaluations are produced in the form of maps, diagrams and assessments, which are compiled for each individual exercise in a written document written according to the rules of science.
 
-Im Ergebnis jedes Beispiels entstehen thematische Auswertungen in Form von Karten, Diagrammen und Bewertungen, die für jede einzelne Übung in einem nach Regeln der Wissenschaft verfassten schriftlichen Beleg zusammengestellt werden.
-
-[center]<a href="https://ilias.opengeoedu.de/ilias/goto_opengeoedu_crs_454.html" markdown="1" target="_blank">![](/images/exercise.png?resize=200)Hier geht es weiter zu den Übungen (ILIAS)</a>[/center]
+[center]<a href="https://ilias.opengeoedu.de/ilias/goto_opengeoedu_crs_454.html" markdown="1" target="_blank">![](/images/exercise.png?resize=200)Click here to continue with the exercises (ILIAS)</a>[/center]

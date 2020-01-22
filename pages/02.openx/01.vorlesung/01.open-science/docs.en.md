@@ -10,7 +10,7 @@ A selection of term combinations with Open with a short explanation can be found
 * Open Access: free access to scientific literature and other materials from the Internet.
 * Open Source: Source code of software is made publicly available, freely copyable, modifiable and reusable.
 * Open Innovation: Used in a more entrepreneurial environment to generate appropriate uses for knowledge about innovations.
-* Open Data: Free availability and usability of privately collected (e.g. [OpenStreetMap](https://www.openstreetmap.de/)) and publicly data (e.g. [GovData](https://www.govdata.de/)).
+* Open Data: Free availability and usability of privately collected (e.g. [OpenStreetMap](https://www.openstreetmap.de/)) and administrative data (e.g. [GovData](https://www.govdata.de/)).
 * Open Government: Opening administrative action to business and citizens.
 * Open Educational Resources: Open provision of educational content.
 * OpenStreetMap: a freely available world map.

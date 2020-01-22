@@ -4,9 +4,9 @@ taxonomy:
     category:
         - docs
 ---
-In the course of the [INSPIRE Directive](https://inspire.ec.europa.eu/), a Community Spatial Data Infrastructure (GDI) will be created in Europe to facilitate the national and international exchange of spatial data in the public sector. Many national and regional administrative units therefore have so-called GDI entry points, i.e. web portals, which support access to geographical databases, downloads, map viewers and services (WMS, WFS, ...). Not all of these services are open in the sense of Open Data, but at most of these entry points there are services that can be used free of charge subject to compliance with the terms of use.
+In the course of the [INSPIRE Directive](https://inspire.ec.europa.eu/), a Community Spatial Data Infrastructure (SDI) will be created in Europe to facilitate the national and international exchange of spatial data in the public sector. Many national and regional administrative units therefore have so-called SDI entry points, i.e. web portals, which support access to geographical databases, downloads, map viewers and OGC services (WMS, WFS, ...). Not all of these services are open in the sense of Open Data, but at most of these entry points there are services that can be used free of charge subject to compliance with the terms of use.
 
-Important national GDI entry points in German-speaking countries are:
+Important national SI entry points in German-speaking countries are:
 
 - [Geoportal.de](https://www.geoportal.de) for Germany
 - [INSPIRE Austria](http://www.inspire.gv.at/) and [Geoland.at](http://geoland.at/)

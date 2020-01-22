@@ -4,7 +4,6 @@ taxonomy:
     category:
         - docs
 ---M
-#### Referenzen
 
 Aberle, H., 2017. Hyperspectral Remote Sensing and Field Measurements for Forest Characteristics - A Case Study in the Hainich National Park, Central Germany. Georg-August-Universität Göttingen. http://hdl.handle.net/11858/00-1735-0000-0023-3DD5-8
 
@@ -63,7 +62,7 @@ Thomas, V., 2012. Hyperspectral remote sensing for forest management, in: Thenka
 Tietz, R., 2018. Zugang zu Grünflächen in Großstädten – Eignung von OSM-Daten dargestellt an den Beispielen Dresden und Karlsruhe. AGIT ‒ Journal für Angewandte Geoinformatik 4, 338–347. https://doi.org/10.14627/537647043
 <br><br>
 
-#### Weiterführende Literatur
+#### Lehrbücher
 
 Albertz, J., 2009. Einführung in die Fernerkundung. Grundlagen der Interpretation von Luft- und Satellitenbildern, 4th ed. Wissenschaftliche Buchgesellschaft.
 
@@ -74,7 +73,7 @@ Lillesand, T. M., Kiefer, R. W., Chipman, J. W., 2008. Remote sensing and image 
 Richards, J. A., 2013. Remote Sensing Digital Image Analysis: An Introduction. 5th ed., 494 S., Springer.
 <br><br>
 
-#### Linksammlung
+#### Weblinksammlung
 
 -	Bundesamt für Kartographie und Geodäsie (BKG)
   - BKG-Homepage: [bkg.bund.de](https://www.bkg.bund.de)

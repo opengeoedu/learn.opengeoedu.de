@@ -22,8 +22,9 @@ Die Reflektanzkurve von grüner gesunder Vegetation hat eine charakteristische F
 ## Vegetationsindizes
 Die in der reflektierten Strahlung (z.B. Pixelwerte der einzelnen Sentinel-2 Bänder) enthaltenen Informationen können direkt oder über neu geschaffene Indizes untersucht werden. Spektrale Indizes verfolgen dabei das Prinzip einer Neuberechnung eines künstlichen Kanals, um spezielle Features (Merkmale) hervorzuheben. Sie werden meist als einfache lineare Kombinationen oder Brüche (Ratios) berechnet. Es gibt je nach Sensor und der Anzahl der Kanäle eine Vielzahl an möglichen Kombinationen.
 Vegetationsindizes sind robuster gegenüber Beleuchtungsunterschieden oder atmosphärischen und Hintergrundeinflüssen (Bannari et al. 1995, Huete, 2012).
+
 Der wohl bekannteste Vegetationsindex ist der _Normalized Difference Vegetation Index (NDVI)_ (Rouse, 1974). Er gilt als Standard des Vegetationsmonitorings und macht sich die Unterschiede beim (Gesundheits-)Status von Pflanzen zunutze. Gestresste und trockene Vegetation reflektiert stärker in Rot und vor allem weniger im nahen Infrarot (NIR).
-Der NDVI wird wie folgt berechnet:
+Der NDVI, mit Werten von -1 bis +1, wird wie folgt berechnet:
 
 *NDVI = (NIR - rot) / (NIR + rot)* ,  [-1;1]
 

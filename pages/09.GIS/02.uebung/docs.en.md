@@ -1,5 +1,5 @@
 ---
-title: Exercises: Geo-Information Systems
+title: Exercise on Geo-Information Systems
 menu: Exercise
 taxonomy:
     category:
@@ -7,38 +7,37 @@ taxonomy:
 highlight:
     enabled: false
 ---
-(to be translated soon)
 
-In den Übungen erlernen Sie den Einstieg in das Arbeiten mit Geo-Informationssystemen und erlangen Fertigkeiten in ausgewählten Verarbeitungsschritten eines GIS, die für die Bearbeitung der späteren Fallbeispiele förderlich sind. 
+In the exercises you will learn how to start working with geographic information systems and acquire skills in selected processing steps of a GIS, which will be useful for working on the later case studies. 
 
 <div class="row align-items-center">
     <div class="col-sm-9">
         <strong>Geocoding</strong>
-        <p class="text-justify">Sie möchten sich ein räumliches Bild über die Verteilung einer gegebenen Anzahl von Probanden (Kunden eines Unternehmens, Mitglieder in einem Verein, Teilnehmer an einer Veranstaltung, Studierende in einem Studiengang usw.) machen. Dazu werden die Adressdaten der Probanden geokodiert, aufbereitet und anschließend kartographisch visualisiert.</p>
+        <p class="text-justify">You want to get a spatial picture of the distribution of a given number of test persons (customers of a company, members of an association, participants in a business event, students in a course of study, etc.). To do this, the address data of the test persons is geocoded, prepared and then cartographically visualized.</p>
     </div>
     <div class="col-sm-3" markdown="1"></div>
 </div>
 
 <div class="row align-items-center">
     <div class="col-sm-9">
-        <strong>Daseinsvorsorge</strong>
-        <p class="text-justify">Erkunden Sie Ihr lokales Umfeld hinsichtlich der Angebote zur Daseinsvorsorge. So könnten Sie sich die infrastrukturelle Ausstattung in Themenbereichen wie Gesundheit, Bildung. Freizeit anschauen und mit geltenden Ausstattungsstandards vergleichen. Im Fokus stehen einfache Funktionen der Datenaufbereitung und der Erstellung einer thematischen Karte.</p>
+        <strong>Services of general interest</strong>
+        <p class="text-justify">Explore your local environment with regard to services of general interest. For example, you could look at the infrastructure in areas such as health, education. Look at leisure time and compare it with current equipment standards. The focus is on simple functions for data preparation and the creation of a thematic map.</p>
     </div>
     <div class="col-sm-3" markdown="1"></div>
 </div>
 
 <div class="row align-items-center">
     <div class="col-sm-9">
-        <strong>Wetter</strong>
-        <p class="text-justify">Neben den offiziellen Wetterstationen der nationalen Wetterdienste stellen viele Bürger die Wetterdaten ihrer Homestationen online bereit. Untersuchen Sie einmal inwieweit diese Daten zur Ergänzung des i.d.R. in der Fläche sehr sparsam verteilten amtlichen Wetterstationennetzes geeignet sind. Hier sind insbesondere einfache statistische Maßzahlen zu berechnen, Zeitreihen zu analysieren und Interpolationsansätze zu vergleichen.</p>
+        <strong>Weather</strong>
+        <p class="text-justify">In addition to the official weather stations of the national weather services, many citizens make the weather data of their home stations available online. Investigate to what extent these data are suitable for supplementing the official weather station network, which is usually very sparsely distributed over the area. In particular, simple statistical measurements should be calculated, time series analysed and interpolation approaches compared.</p>
     </div>
     <div class="col-sm-3" markdown="1"></div>
 </div>
 
 <div class="row align-items-center">
     <div class="col-sm-9">
-        <strong>Feinstaub in deutschen Großstädten</strong>
-        <p class="text-justify">Feinstaub wird bundesweit durch das Umweltbundesamt überwacht, gemessen wird dafür an rund 200 Messstationen. Das sind zu wenige, um über die Luftqualität in Städten eine zuverlässige Aussage zu treffen. Deshalb sollen in dieser Übung die offiziellen Messdaten mit Daten aus privat betriebenen Stationen wie dem openSenseMap-Projekt angereichert werden.</p>
+        <strong>Particulate matter in large German cities</strong>
+        <p class="text-justify">Particulate matter is monitored nationwide by the Federal Environment Agency, with measurements being taken at around 200 measuring stations. These are too few to make a reliable statement about the air quality in cities. Therefore, in this exercise the official measurement data will be enriched with data from privately operated stations such as the openSenseMap project.</p>
     </div>
     <div class="col-sm-3" markdown="1"></div>
 </div>
@@ -46,11 +45,11 @@ In den Übungen erlernen Sie den Einstieg in das Arbeiten mit Geo-Informationssy
 <div class="row align-items-center">
     <div class="col-sm-9">
         <strong>Sustainable Development Goals</strong>
-        <p class="text-justify">Zu den 17 Nachhaltigkeitszielen der United Nations (UN) stehen umfangreiche Datensammlungen offen zur Verfügung. Anhand eines Indikators sollen Sie die Situation auf der Erde auswerten und interpretieren. Im Fokus stehen einfache Funktionen der Datenaufbereitung und der Erstellung einer thematischen Karte.</p>
+        <p class="text-justify">Extensive data collections are openly available on the 17 sustainability goals of the United Nations (UN). Using an indicator, you can evaluate and interpret the situation worldwide. The focus is on simple functions of data preparation and the creation of a thematic map.</p>
     </div>
     <div class="col-sm-3" markdown="1">[plugin:youtube](https://youtu.be/I_RAPFc8DC0)</div>
 </div>
 
-Im Ergebnis jedes Beispiels entstehen thematische Auswertungen in Form von Karten, Diagrammen, Bewertungen, die in einem nach Regeln der Wissenschaft verfassten schriftlichen Beleg zusammengestellt werden.
+Each example results in thematic evaluations in the form of maps, diagrams and assessments, which are compiled in a written document written according to scientific rules.
 
-[center]<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=crs_242&client_id=opengeoedu" markdown="1" target="_blank">![](/images/exercise.png?resize=200)Hier geht es weiter zu den Übungen (ILIAS)</a>[/center]
+[center]<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=crs_242&client_id=opengeoedu" markdown="1" target="_blank">![](/images/exercise.png?resize=200)Click here for the exercises (ILIAS)</a>[/center]

@@ -1,5 +1,5 @@
 ---
-title: Backgrounds
+title: Background
 taxonomy:
     category:
         - docs
