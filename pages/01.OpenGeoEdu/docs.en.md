@@ -50,7 +50,7 @@ facebookenable: true
 ---
 <div class="row my-5">
     <div class="col-md-6">
-        [plugin:youtube](https://www.youtube.com/watch?v=yYoiGUOCyE8&cc_lang_pref=en&cc_load_policy=1)
+        [plugin:youtube](https://www.youtube.com/watch?v=yYoiGUOCyE8)
     </div>
     <div class="col-md-6 mt-3 text-justify">
 The open online course OpenGeoEdu consists of several parts which can be freely combined in different ways. Each part of the course consists of a theoretical substructure (usually designed as a lecture with a knowledge test at the end of the course) and a practical exercise part, which usually covers the entire processing chain from searching for open data, to preparation, analysis and visualization of the results. The exercises are constructed as case studies. You will go through a geoprocessing chain, learn about selected analysis functions and produce the results, e.g. in the form of thematic maps, which you will then analyse and interpret in the context of the research question.
@@ -58,3 +58,5 @@ The open online course OpenGeoEdu consists of several parts which can be freely 
 </div>
 
 Lecture and exercise parts are completely freely available. A <a href="https://ilias.opengeoedu.de/ilias/goto_opengeoedu_usr_registration.html" target="_blank">registration</a> will only be necessary if you want to achieve credit points and a grading for which a certificate will be awarded to be credited as academic achievement.
+
+<!-- force english subtitles/ closed captions with appending "&cc_lang_pref=en&cc_load_policy=1" for translated (en) subtitles -->
