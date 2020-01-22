@@ -22,7 +22,7 @@ Some key facts about Sentinel-2:
 <br><br>
 
 Global coverage of Sentinel-2 in a video animation (ESA):
-
+ <style>iframe{width: 100%; max-width: 640px; height: 360px; max-height: 360px}</style>
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" src="https://www.esa.int/spaceinvideos/content/view/embedjw/473937" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 </div>
