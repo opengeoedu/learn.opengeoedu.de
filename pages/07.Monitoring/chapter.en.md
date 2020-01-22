@@ -1,9 +1,9 @@
 ---
-title: Landuse Monitoring
+title: Land use Monitoring
 taxonomy:
     category:
         - docs
-menu: Landuse Monitoring
+menu: Land use Monitoring
 ---
 
 ### OpenGeoEdu Case Study
