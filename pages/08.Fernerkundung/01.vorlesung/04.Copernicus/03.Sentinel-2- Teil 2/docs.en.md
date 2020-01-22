@@ -7,7 +7,7 @@ taxonomy:
 ---
 <script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-The direct comparison of Sentinel-2 and a very high-resolution aerial photograph illustrates very clearly the differences in the recognizability of objects:
+The direct comparison of Sentinel-2 and a very high-resolution aerial photograph, being availabe in Germany as Digital Orthophotos (DOP-20/40) in ATKIS,  illustrates very clearly the differences in the recognizability of objects:
 <br><br>
 <style>iframe{max-width: 800px; width: 100%; height: 900px; max-height:900px}</style>
 <iframe iframe id="239827" src="https://h5p.org/h5p/embed/239827" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
@@ -20,7 +20,7 @@ The direct comparison of Sentinel-2 and a very high-resolution aerial photograph
 
 The spectral resolution and the individual channels of Sentinel-2 are shown in the following figure in comparison to the coverage of Landsat 8 and Landsat 7.
 
-![ChannelsS2LS7LS8](BANDS_S2_LS8_LS7.png?classes=caption "The spectral bands of Sentinel-2 MSI (MultiSpectral Instrument) compared to Landsat 8 OLI (Operational Land Imager) & TRS (Thermal Infrared Sensor) and Landsat 7 ETM+ (Enhanced Thematic Mapper). The background shows the permeability of the atmosphere (including the atmospheric window). Source: NASA")
+![ChannelsS2LS7LS8](BANDS_S2_LS8_LS7.png?classes=caption "The spectral bands of Sentinel-2 MSI (Multi Spectral Instrument) compared to Landsat 8 OLI (Operational Land Imager) & TRS (Thermal Infrared Sensor) and Landsat 7 ETM+ (Enhanced Thematic Mapper). The background shows the permeability of the atmosphere (including the atmospheric window). Source: NASA")
 <br><br>
 
 The Sentinel-2 bands are shown in the following figure (Reflectance curves from Kokaly et al. 2017).
@@ -40,7 +40,7 @@ With the following image slider you can see what the gray value images of the in
 <iframe iframe id="663573" src="https://h5p.org/h5p/embed/663573" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <br><br>
 
-The greyscale images can be combined as required (three by default, RGB). Thus different image areas can be addressed according to intention and need.
+The grayscale images can be combined as required (three by default, RGB). Thus different image areas can be addressed according to intention and need.
 <br><br>
 <iframe iframe id="663578" src="https://h5p.org/h5p/embed/663578" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <br><br>

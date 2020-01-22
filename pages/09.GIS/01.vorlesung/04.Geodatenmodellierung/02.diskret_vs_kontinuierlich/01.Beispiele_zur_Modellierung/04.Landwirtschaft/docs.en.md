@@ -1,5 +1,5 @@
 ---
-title: Example agriculture as object- or field-based model
+title: Example on agriculture as object- or field-based model
 menu: Agriculture 
 taxonomy:
     category:

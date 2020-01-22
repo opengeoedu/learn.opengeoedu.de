@@ -30,13 +30,13 @@ In this learning unit, the focus will be on land monitoring.
 There are basically four project components within Copernicus:
 
 - on the one hand the satellites and contributing missions as well as the ground segment,
-- on the other hand the national in-situ measurement networks. Behind the in-situ component are all data that were not obtained from space (except data such as SRTM).
-- the six thematic services, which are implemented by technical agencies such as the European Environment Agency (EEA).
-- the resulting information is collected, processed and made available to end users. This includes government bodies and administrations, politics, science, commercial enterprises, start-ups or non-profit organisations and citizens ... resp. everyone.
+- on the other hand the national in-situ measurement networks. Behind the in-situ component are all data that were not obtained from space (except data such as SRTM),
+- the six thematic services, which are implemented by technical agencies such as the European Environment Agency (EEA) and
+- the resulting information collected, processed and made available to end users. This includes government bodies and administrations, politics, science, commercial enterprises, start-ups or non-profit organisations and citizens ... resp. everyone.
 
 ![CopernicusComponents](Copernicus_Komponenten_en.png)
 
-Within the space component, satellite systems formof course the fundamental basis for Earth observation and environmental monitoring. Through permanent data supplies and new standards, Europe's position in international satellite remote sensing is to be strengthened. The planned construction of seven satellite systems/instruments will continue over the next years. This also means the expansion and development of ground segments and data platforms. In addition to the _Sentinels_ (guards), there is also an agreement with approx. 30 contributing missions, which include well-known satellite missions such as RapidEye, Landsat, SPOT, Pleiades, WorldView, GeoEye, ALOS/PALSAR, TerraSAR-X, TanDEM-X.
+Within the space component, satellite systems form of course the fundamental basis for Earth observation and environmental monitoring. Through permanent data supplies and new standards, Europe's position in international satellite remote sensing is to be strengthened. The planned construction of seven satellite systems/instruments will continue over the next years. This also means the expansion and development of ground segments and data platforms. In addition to the _Sentinels_ (guards), there is also an agreement with approx. 30 contributing missions, which include well-known satellite missions such as RapidEye, Landsat, SPOT, Pleiades, WorldView, GeoEye, ALOS/PALSAR, TerraSAR-X, TanDEM-X.
 <br><br>
 
 The Sentinel fleet includes:

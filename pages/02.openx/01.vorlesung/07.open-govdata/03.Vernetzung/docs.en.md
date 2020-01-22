@@ -1,5 +1,5 @@
 ---
-title: Cross-linked
+title: Networking
 taxonomy:
     category:
         - docs

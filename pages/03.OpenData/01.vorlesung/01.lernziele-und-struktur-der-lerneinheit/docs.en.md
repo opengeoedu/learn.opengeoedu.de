@@ -40,4 +40,4 @@ In the exercises, you will learn the basic steps for searching for open data and
 This includes:
 * Searching and comparing data offers with our [portal of the Open Data Portals](https://portal.opengeoedu.de)
 * The intersection and aggregation of administrative areas with technical data using the official municipality key (AGS) and the regional key (ARS).
-* <font style="color:grey">Working with data from OpenStreetMap (will be added later)
+* Working with data from OpenStreetMap

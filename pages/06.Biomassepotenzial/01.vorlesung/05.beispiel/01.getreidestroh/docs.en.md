@@ -1,5 +1,5 @@
 ---
-title: Example Cereal Straw
+title: Example: Cereal Straw
 taxonomy:
   category: docs
 menu: 'Cereal Straw'
@@ -14,7 +14,7 @@ The greatest competition for use is - as already mentioned several times - the u
 #### What are the energy pathways for grain straw?
 Straw can be used for energy in different conversion paths. On the one hand it can be used as a raw material in bioethanol plants or SNG plants (SNG = Synthetic Natural Gas) for the production of biogenic fuels of the 2nd generation. In addition to fuel production, straw can also be used as a raw material (usually silage) in biogas plants for methane production. The direct combustion of straw in heating plants or in a combined heat and power plant is also possible. 
 
-The raw material requirement depends on the conversion technology. Small, decentralised solutions such as heating plants or biogas plants with an output between 100 kW and 2 MW have a relatively low raw material requirement of a few thousand tonnes of straw per year (approx. 250 - 3,000 tTM per year, depending on the size of the plant). Combined heat and power plants and plants for fuel production have a significantly higher raw material requirement of approx. 15,000 - 350,000 tTM per year. These central plants are only possible in areas with high straw production, as the transport should be economical and sustainable. For transport distances, it should be noted that straw has a low energy density and therefore large volumes have to be transported. The CO2 and pollutant emissions of the transport vehicles must also be taken into account for a sustainable consideration. (Zeller et al. 2011)
+The raw material requirement depends on the conversion technology. Small, decentralised solutions such as heating plants or biogas plants with an output between 100 kW and 2 MW have a relatively low raw material requirement of a few thousand tonnes of straw per year (approx. 250 - 3.000 tTM per year, depending on the size of the plant). Combined heat and power plants and plants for fuel production have a significantly higher raw material requirement of approx. 15,000 - 350,000 tTM per year. These central plants are only possible in areas with high straw production, as the transport should be economical and sustainable. For transport distances, it should be noted that straw has a low energy density and therefore large volumes have to be transported. The CO2 and pollutant emissions of the transport vehicles must also be taken into account for a sustainable consideration. (Zeller et al. 2011)
 
 ! Further information on transport distances and raw material requirements of individual technologies can be found here: <br>
 ! Publication series of the BMU funding programme [Energetische Biomassenutzung](https://www.energetische-biomassenutzung.de/publikationen/schriftenreihe/) Volume 04 (in German).

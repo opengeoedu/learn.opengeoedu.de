@@ -44,7 +44,7 @@ Oft werden Urheberrecht, Marken- und Patentschutz als Argument gegen Offenheit g
 Ein Missbrauch von Daten wird durch ihre Offenlegung und das Recht, diese zu verändern, erleichtert. Daten könnten absichtlich oder unabsichtlich verfälscht werden. ([Seuß, 2015](../literatur#Seus2015))
 
 
-Es kann zu Wettbewerbsverzerrungen für private Unternehmen kommen, weil deren privat finanzierte Datenbestände in Konkurrenz zu öffentlich finanzierten Daten geraten können (für offene Verwaltungs- und Geodaten, z. B. bei Luftbildern, topographischen Daten und geokodierten Adressbeständen. ([Seuß, 2015](../literatur#Seus2015))
+Es kann zu Wettbewerbsverzerrungen für private Unternehmen kommen, weil deren privat finanzierte Datenbestände in Konkurrenz zu öffentlich finanzierten Daten geraten können (z.B. offenen Verwaltungs- und Geodaten, z. B. bei Luftbildern, topographischen Daten und geokodierten Adressbeständen. ([Seuß, 2015](../literatur#Seus2015))
 
 Für eine sinnvolle Nutzung von offenen Geodaten fehlt es an Standards, einheitlicher Datenqualität und einheitlichen und klar verständlichen Lizenzmodellen ([Seuß, 2015](../literatur#Seus2015))
 
@@ -55,7 +55,7 @@ Offene Daten wurden ursprünglich für interne Zwecke einer Organisation erhoben
 
 <br/><br/>
 
-!!! **Diskutieren Sie:**
-!!! 1. Welchen der hier aufgezählten Positionen würden Sie zustimmen?
-!!! 2. Gibt es Argumente, die Sie für wenig relevant, überholt oder haltlos befinden? Wenn ja, aus welchem Grund?
-!!! 3. Wie schätzen Sie die Gefahr des Missbrauches offener Daten ein?
+!!!! **Diskutieren Sie:**
+!!!! 1. Welchen der hier aufgezählten Positionen würden Sie zustimmen?
+!!!! 2. Gibt es Argumente, die Sie für wenig relevant, überholt oder haltlos befinden? Wenn ja, aus welchem Grund?
+!!!! 3. Wie schätzen Sie die Gefahr des Missbrauches offener Daten ein?

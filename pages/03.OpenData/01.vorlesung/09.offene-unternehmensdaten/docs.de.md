@@ -1,6 +1,6 @@
 ---
 title: 'Open Data und Unternehmen'
-menu: Unternehmen
+menu: Unternehmensdaten
 taxonomy:
     category:
         - docs

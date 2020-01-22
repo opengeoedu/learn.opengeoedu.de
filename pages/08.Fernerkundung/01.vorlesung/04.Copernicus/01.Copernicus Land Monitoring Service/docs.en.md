@@ -6,7 +6,7 @@ taxonomy:
         - docs
 ---
 
-## Data access land monitoring
+## Data access for land monitoring
 
 The Copernicus Land Monitoring Service is available at https://land.copernicus.eu The data is available after free registration (EIONET Account).
 Global, Europe-wide, local and in-situ data are offered there. These are primarily biophysical parameters and LULC data (Land Use/Land Cover).
@@ -24,6 +24,6 @@ The local component aims to provide specific and more detailed information that 
 In addition to updating the Urban Atlas, the next local component will deal with biodiversity in hotspot areas around rivers.
 ! [Local](https://land.copernicus.eu/local)
 
-A regular update cycle ensures sustainable monitoring. In addition to the sentinels as a source of information, the data is derived from the contributing missions (Proba-V, SPOT, RapidEye, ...).
+A regular update cycle ensures sustainable monitoring. In addition to the Sentinels as a source of information, the data is derived from other contributing missions (Proba-V, SPOT, RapidEye, ...).
 
 !!!! Investigation of HRL: Forest and metadata. Research the update cycle, data sources and determination methods. Compare them with other data.

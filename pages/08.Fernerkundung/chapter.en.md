@@ -15,7 +15,7 @@ taxonomy:
 h5p ist oft kaputt
 -->
 
-Videos of the module **Remote Sensing**
+Videos of the module **Remote Sensing** (in German)
 
 [owl-carousel items=1 loop=true autoplay=true autoplayHoverPause=true margin=15 responsive={0:{items:1},640:{items:2},1900:{items:3}}]
 [plugin:youtube](https://youtu.be/iIlX9-Ld_zY)

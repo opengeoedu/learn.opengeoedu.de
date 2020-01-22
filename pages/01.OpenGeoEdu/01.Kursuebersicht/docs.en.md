@@ -11,9 +11,11 @@ facebookenable: true
 anchors:
     active: false
 ---
-On this [overview page](/uebersicht/kursuebersicht) the course parts are presented with a motivating trailer and a short description. A [module description](/uebersicht/self-assessment/OGE_Modulbeschreibung.pdf) of the open online course can be found on the next page. [Data sheets](/uebersicht/datenblatt) exist for the individual course and exercise parts, which systematically and extensively compile the data, software, functionalities and expected results used.
+On this [overview page](/uebersicht/kursuebersicht) the course parts are presented with a motivating trailer and a short description. A [module description](/uebersicht/self-assessment/OGE_Modulbeschreibung.pdf) of the open online course can be found on the next page. [Data sheets](/uebersicht/datenblatt) exist for the individual course and exercise parts, which systematically and extensively compile the data, software, and functionalities used and describe the expected results.
 
 In addition, there is a [self-assessment tool](http://test.opengeoedu.de/selfassessment.aspx) from which hints and recommendations for processing the course parts are given depending on the previous knowledge of the user. A [workload calculator](http://test.opengeoedu.de/workload.aspx) is also available with which the user can select the course parts to be worked on and estimate the corresponding workload.
+
+Short teaser videos of the individual learning units (in German)
 
 <div class="container">
     <div class="row flex-wrap card-deck">
@@ -41,25 +43,25 @@ In addition, there is a [self-assessment tool](http://test.opengeoedu.de/selfass
     <div class="row flex-wrap card-deck">
         <div class="card m-2" id="eMob">
             <h3 class="text-center">
-                Elektromobilität
+                Elektro mobility
             </h3>
             [plugin:youtube](https://youtu.be/rEB3Oti20CI)            
         </div>
         <div class="card m-2" id="biomasse">
-            <h3 class="text-center">Biomassepotenziale</h3>
+            <h3 class="text-center">Biomass potentials</h3>
             [plugin:youtube](https://youtu.be/_a8ZzX2gnE4)
         </div>
     </div>
     <div class="row flex-wrap card-deck">
         <div class="card m-2" id="flaechenmoni">
             <h3 class="text-center">
-                Flächenmonitoring
+                Land use monitoring
             </h3>
            [plugin:youtube](https://youtu.be/fwrLTp219pA)           
         </div>
         <div class="card m-2" id="fernerkundung">
             <h3 class="text-center">
-                Fernerkundung
+                Remote Sensing
             </h3>
             [plugin:youtube](https://youtu.be/iIlX9-Ld_zY)           
         </div>

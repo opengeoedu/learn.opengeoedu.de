@@ -1,5 +1,5 @@
 ---
-title: Calculation of Biomass Potentials
+title: Calculation of biomass potentials
 taxonomy:
   category: docs
 menu: 'Calculation'

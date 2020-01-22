@@ -1,5 +1,5 @@
 ---
-title: 'Spatial Distribution of Biogenic Resources'
+title: 'Spatial distribution of biogenic resources'
 taxonomy:
     category:
         - docs

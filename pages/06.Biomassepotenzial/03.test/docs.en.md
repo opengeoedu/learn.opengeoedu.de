@@ -1,5 +1,5 @@
 ---
-title: Test in ILIAS for this Module
+title: Test on biomass potentials (ILIAS)
 menu: Test
 taxonomy:
     category:

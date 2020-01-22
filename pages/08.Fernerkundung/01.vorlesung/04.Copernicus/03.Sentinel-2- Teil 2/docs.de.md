@@ -7,7 +7,7 @@ taxonomy:
 ---
 <script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-Der direkte Vergleich von Sentinel-2 und einem sehr hochaufgelösten Luftbild verdeutlicht sehr anschaulich die Unterschiede in der Erkennbarkeit von Objekten:
+Der direkte Vergleich von Sentinel-2 und einem sehr hochaufgelösten Luftbild, verfügbar in Deutschland als Digitale Orthophotos (DOP-20/40) in ATKIS, verdeutlicht sehr anschaulich die Unterschiede in der Erkennbarkeit von Objekten:
 <br><br>
 <style>iframe{max-width: 800px; width: 100%; height: 900px; max-height:900px}</style>
 <iframe iframe id="239827" src="https://h5p.org/h5p/embed/239827" width="100%" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

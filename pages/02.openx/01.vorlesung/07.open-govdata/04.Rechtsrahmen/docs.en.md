@@ -1,5 +1,5 @@
 ---
-title: Juridical
+title: Legal framework
 taxonomy:
     category:
         - docs

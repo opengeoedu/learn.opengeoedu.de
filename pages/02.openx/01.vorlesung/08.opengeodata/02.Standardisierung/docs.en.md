@@ -8,7 +8,7 @@ The GIS world has changed enormously in the last three decades. Standardization 
 
 !!! Norming is the unique and determined solution of a repetitive task under the given scientific, technical and economic possibilities.
 
-Norms for spatial information description have been defined and adopted by the ISO (International Organisation for Standardisation) for two decades. In contrast, abstract specifications and implementation specifications are established by the Open Geospatial Consortium (OGC) and implemented in numerous GIS products on the market. ISO and OGC have been working closely together since 1997, e.g. in the form of joint working groups such as the TOCG (TC 211 -- OGC Coordination Group). This has had a decisive influence on the GIS market and enabled the interoperability of heterogeneous systems and approaches.
+Norms for spatial information description have been defined and adopted by the ISO (International Organisation for Standardisation) since 1994. In contrast, abstract specifications and implementation specifications are established by the Open Geospatial Consortium (OGC) and implemented in numerous GIS products on the market. ISO and OGC have been working closely together since 1997, e.g. in the form of joint working groups such as the TOCG (TC 211 -- OGC Coordination Group). This has had a decisive influence on the GIS market and enabled the interoperability of heterogeneous systems and approaches.
 
 ![](ISO.png?resize=300&classes=caption "International Standardisation Organisation")
 

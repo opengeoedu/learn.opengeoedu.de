@@ -19,7 +19,7 @@ taxonomy:
 
 ## Learning objectives
 
-!!!! The aim of the learning unit is to get to know the terminologies of optical remote sensing and to take a closer look at the properties of vegetation in this context. The importance of forests should be emphasized. After working on the lecture notes, you will have knowledge of the acquisition and processing of various open geo and satellite data, with a focus on the European Earth observation programme Copernicus.
+!!!! The aim of the learning unit is to get to know the terminologies of optical remote sensing and to take a closer look at the properties of vegetation in this context. The importance of forests should be emphasized. After working on the lecture notes, you will have knowledge of the acquisition and processing of various open geo data and satellite data, with a focus on the European Earth observation programme Copernicus.
 
 
 ## Structure

@@ -7,9 +7,9 @@ taxonomy:
 ---
 An EU recommendation is the **FAIR Guideline** for Scientific Data Management and Administration, which require that scientific data should be **f**indable, **a**ccessible, **i**nteroperable and **r**eusable (FAIR). The guidelines originate from the [Force 11](https://www.force11.org) community and can be applied to both open and protected data and data repositories ([Wilkinson et al, 2016](../../literatur#Wilkinson2016)). They play an important role as a quality standard for the European Open Access Infrastructure (OpenAIRE).
 
-! Read the explanations by [Kraft (2018)](/opendata/vorlesung/literatur#kraftFair2018) in German on the website of the German National Library of Science and Technology (TIB) ([Blog Entry](https://blogs.tib.eu/wp/tib/2017/09/12/the-fair-data-principles-for-research-data/) / [PDF Handout](https://blogs.tib.eu/wp/tib/wp-content/uploads/sites/3/2017/09/The-FAIR-Data-Principles.pdf)). Following this, the FAIR principles are briefly listed below.
+! Read the explanations by [Kraft (2018)](/opendata/vorlesung/literatur#kraftFair2018) in German on the website of the German National Library of Science and Technology (TIB) ([Blog Entry](https://blogs.tib.eu/wp/tib/2017/09/12/the-fair-data-principles-for-research-data/) / [PDF Handout](https://blogs.tib.eu/wp/tib/wp-content/uploads/sites/3/2017/09/The-FAIR-Data-Principles.pdf)). 
 
-
+The FAIR principles are briefly listed here:
 
 ### To be **F**indable
 

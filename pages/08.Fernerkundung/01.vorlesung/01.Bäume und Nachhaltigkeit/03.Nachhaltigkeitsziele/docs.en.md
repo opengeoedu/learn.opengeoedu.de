@@ -4,12 +4,12 @@ taxonomy:
     category: docs
 ---
 
-## Sustainabile Development Goals
+## Sustainable Development Goals
 In many respects, the concept of sustainability is the basis for national and international environmental and nature conservation agreements, which, among other things, also deal with the preservation of forests.
 
 The Aichi targets ([Aichi Biodiversity Targets](https://www.cbd.int/sp/targets)) were formulated in 1993 to implement the UN Convention on Biological Diversity (**Convention on Biological Diversity**, CBD). They envisage halving the loss of habitat by 2020, halting overfishing of the oceans and designating more areas as protected areas.
 
-The United Nations Millennium Development Goals (**Millenium Development Goals**, MDGs) were formulated in 2000 for the year 2015 to counter the continuing global deterioration of nature and the environment and to promote and combat issues such as health and poverty. Among the 8 goals ([MDGs](http://www.un.org/millenniumgoals/)) is also ecological sustainability.
+The United Nations Millennium Development Goals (**Millenium Development Goals**, MDGs) were formulated in 2000 for the year 2015 to counter the continuing global deterioration of nature and the environment and to promote and combat issues such as health and poverty. Ecological sustainability is one of the 8 goals ([MDGs](http://www.un.org/millenniumgoals/)).
 
 Subsequently, in 2015, the UN further defined the 17 sustainable development goals (**Sustainable Development Goals**, [SDGs](https://sustainabledevelopment.un.org/sdgs)) as part of Agenda 2030 ([MGDs->SDGs](http://www.sdgfund.org/mdgs-sdgs)). These are intended to ensure sustainable development at ecological, social and economic levels and bring together all three dimensions of sustainability for the first time.
 These SDGs are thus in line with the CBD to achieve the Aichi biodiversity goals.
@@ -24,6 +24,7 @@ The pages of the Open Knowledge Foundation (OKF) ([2030Watch](https://www.2030-w
 The adaptation to the [Agenda 2030](https://www.2030agenda.de/de/publication/die-agenda-2030) is defined at national level in the updated version of the [German Sustainability Strategy](https://www.bundesregierung.de/breg-de/themen/nachhaltigkeitspolitik/eine-strategie-begleitet-uns/die-deutsche-nachhaltigkeitsstrategie).
 
 The SDGs are addressed to all humankind, including governments, companies, scientists and civil society. They basically cover everything that is needed to ensure a sustainable and good life. This includes, for example, combating poverty and hunger, preserving biodiversity, and strengthening advocacy for peace.
+
 Our OpenGeoEdu project also addresses various aspects of the UN's sustainability goals. The most important are:
 - OpenGeoEdu corresponds well with the SDGs, because it itself pursues SDG 4 ("High Quality Education") for good and accessible education. This is guaranteed by the open online course and freely accessible content.
 - Another important objective is SDG 15 ("Life on Land"): this includes, among other things, indicator 15.1.1, forest area, expressed as a share of the total land area.

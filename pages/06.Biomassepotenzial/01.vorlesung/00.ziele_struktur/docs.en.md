@@ -31,7 +31,7 @@ facebookenable: true
 
 ### Target Group and Learning Objectives of the Lecture
 
-This lecture is intended for students of space-related study courses; no previous knowledge on the subject of bioenergy/biomass is required. The primary aim of this lecture is to provide background knowledge for working with the exercises and with open data dealing with the following core questions:
+This lecture is intended for students of space-related study courses. No previous knowledge on the subject of bioenergy/biomass is required. The primary aim of this lecture is to provide background knowledge for working with the exercises and with open data dealing with the following core questions:
 
 - What quantities of biogenic resources can we use sustainably?
 - Where are the resources located?

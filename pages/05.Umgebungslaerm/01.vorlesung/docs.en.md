@@ -18,7 +18,7 @@ menu: Lecture
 
 ### Learning objectives
 
-Environmental noise is a very interesting topic for many spatial study courses. The following questions are to be expected in this module:
+Environmental noise is a very interesting topic for many spatial study courses. The following questions are to be answered in this module:
 
 * What is noise?
 * How many people are affected by ambient environmental noise?
@@ -31,7 +31,7 @@ Environmental noise is a very interesting topic for many spatial study courses. 
 
 ### Structure of the lecture
 
-The lecture briefly summarises essential aspects of noise, and in the specific context of the EU Environmental Noise Directive. In the exercise, selected aspects of EU environmental noise mapping will be presented and processed with own data.
+The lecture briefly summarises essential aspects of noise, especially in the specific context of the EU Environmental Noise Directive. In the exercise, selected aspects of EU environmental noise mapping will be presented and processed with own data.
 
 * Quiet areas in a municipality
 * Rail noise in Germany

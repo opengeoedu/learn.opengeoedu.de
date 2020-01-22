@@ -6,11 +6,11 @@ taxonomy:
         - docs
 ---
 
-IIn this exercise, you will deal more intensively with the aspects of Open Access in remote sensing and other open geodata as well as with the use of Open Source software. In practical terms, you will deal with:
+In the exercises you will deal more intensively with the aspects of Open Access in remote sensing and other open geodata as well as with the use of Open Source software. In practical terms, you will work on:
 
 + Remote sensing basics and the importance of vegetation and in particular of forests and green spaces in cities
 + open research data (satellites, geodata), including research in the current data repositories of the EU-Copernicus programme
-+ open GIS and remote sensing software to create your own open software alternative for processing case studies
++ Open GIS and remote sensing software to create your own open software alternative for processing case studies
 
 There are several exercises available. These represent three areas with different spatial extensions:
 * Local/municipal environment: case study: **Capture of windthrow areas**

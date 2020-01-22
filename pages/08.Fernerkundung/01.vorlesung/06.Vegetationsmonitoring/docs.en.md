@@ -22,8 +22,9 @@ The reflectance curve of green healthy vegetation has a characteristic shape and
 ## Vegetation indices
 The information contained in the reflected radiation (e.g. pixel values of the individual sentinel-2 bands) can be examined directly or via newly created indices. Spectral indices follow the principle of a recalculation of an artificial channel to highlight special features. They are usually calculated as simple linear combinations or ratios. Depending on the sensor and the number of channels, there are many possible combinations.
 Vegetation indices are more robust against lighting differences or atmospheric and background influences (Bannari et al. 1995, Huete, 2012).
+
 The best known vegetation index is the _Normalized Difference Vegetation Index (NDVI)_ (Rouse, 1974). It is regarded as the standard for vegetation monitoring and takes advantage of the differences in the (health) status of plants. Stressed and dry vegetation reflects more strongly in red and especially less in near infrared (NIR).
-NDVI is calculated as follows:
+NDVI (ranging between -1 and 1, is calculated as follows:
 
 *NDVI = (NIR - red) / (NIR + red)* , [-1;1]
 

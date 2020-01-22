@@ -10,7 +10,7 @@ menu: Landuse Monitoring
 
 # Land Use Monitoring
 
-Teaser
+Videos on Land use monitoring (in German)
 
 [owl-carousel items=1 loop=true autoplay=true autoplayHoverPause=true margin=15 responsive={0:{items:1},640:{items:3},1900:{items:3}}]
 [plugin:youtube](https://youtu.be/fwrLTp219pA)

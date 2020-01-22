@@ -1,5 +1,5 @@
 ---
-title: Example ATKIS - Digital Landscape Model (DLM) as Object Based Model
+title: Example ATKIS - Digital Landscape Model (DLM) as object-based model
 menu: ATKIS-DLM
 taxonomy:
     category:

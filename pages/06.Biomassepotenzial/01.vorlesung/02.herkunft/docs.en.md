@@ -1,5 +1,5 @@
 ---
-title: Biomass - Origin and Current Utilisation
+title: Biomass - Origin and current utilisation
 taxonomy:
   category: docs
 menu: 'Biomass'
@@ -12,6 +12,6 @@ The consideration of biomass can be structured differently. One way of categoris
 
 In this part of the course, however, the focus is predominantly on the origin of the biomass. As can be seen from the following figure, we distinguish between those biomasses that are grown directly for energy or material use (*Designated Crops (NawaRo)*, see also chapter "Sustainable Supply") and those that are produced as residues, by-products or waste. These two types of origin are described in more detail below.
 
-![](Skript_DBFZ_Biomassekategorien_en.png?lightbox=800&resize=600&classes=caption "Biomas Categories, own image")
+![](Skript_DBFZ_Biomassekategorien_en.png?lightbox=800&resize=600&classes=caption "Biomass categories, own image")
 
 As described above, biomass can be used differently depending on the properties of the raw material. The literature primarily distinguishes between feed and food production and material and energetic use. Some sources consider feed and food production as part of material use. For later potential analyses, all non-energy uses (e.g. feed, bedding, etc.) are summarised under the term "material use".

@@ -23,9 +23,10 @@ Der zweite Datenzugang ist __CODE-DE__ (Copernicus Data and Exploitation platfor
 <br><br>
 
 !!!! Recherchieren Sie nach wolkenfreien (Wolkenbedeckung bis max. 10 %) Sentinel-2 Aufnahmen der Stadt Frankfurt am Main, die im zweiten Halbjahr 2017 erfasst wurden. 
-!!!! Wie viele Datensätze finden Sie …  
-!!!!  a)	… im Copernicus Hub?  
-!!!!  b)	… in Code-DE?   
+
+!!!! Wie viele Datensätze finden Sie im Copernicus Hub?  
+
+!!!! Wie viele Datensätze finden Sie in Code-DE?   
  
 !! Warum finden Sie unterschiedlich viele Datensätze? (Hinweis: Recherchieren Sie nach Namenskonventionen der Sentinel-2 Daten)
 
