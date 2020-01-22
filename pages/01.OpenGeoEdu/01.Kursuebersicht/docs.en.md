@@ -43,7 +43,7 @@ Short teaser videos of the individual learning units (in German)
     <div class="row flex-wrap card-deck">
         <div class="card m-2" id="eMob">
             <h3 class="text-center">
-                Elektro mobility
+                Electro mobility
             </h3>
             [plugin:youtube](https://youtu.be/rEB3Oti20CI)            
         </div>
