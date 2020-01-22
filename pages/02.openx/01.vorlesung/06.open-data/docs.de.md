@@ -13,7 +13,7 @@ taxonomy:
 
 !!! Offene Daten sind Daten, die von jedem und zu jedem Zweck genutzt, verändert und weitergegeben werden können. 
 
-!! Die Open Knowledge Foundation erläutert Open Data in dem [video](https://vimeo.com/21711338). <br><span class="small"> Sollte das Video nicht mehr verfügbar sein, suchen Sie nach Alternativen.</p>
+!! Die Open Knowledge Foundation erläutert Open Data in dem [Video](https://vimeo.com/21711338). <br><span class="small"> Sollte das Video nicht mehr verfügbar sein, suchen Sie nach Alternativen.</p>
 [![](ODOKF.png?resize=300&classes=caption "Open Data (Quelle: Open Knowledge Foundation)")](https://vimeo.com/21711338)
 
 !! Tim Berners-Lee rief 2009 auf der TED zu "Rohdaten jetzt" auf, um Regierungen, Wissenschaftlicher und Institutionen dazu zu bewegen, ihre Daten im Web frei verfügbar zu machen. Ein Jahr später zeigte er auf der TED University 2010 einige interessante Ergebnisse wenn Daten vernetzt werden. [Video](https://www.youtube.com/watch?v=3YcZ3Zqk0a8). <br><span class="small"> Sollte das Video nicht mehr verfügbar sein, suchen Sie nach Alternativen.</p>
