@@ -1,28 +1,25 @@
 ---
-title: 'Learning objectives and structure of the module'
+title: 'Learning objectives and structure of the learning unit'
 menu: Lecture
 taxonomy:
     category:
         - docs
 ---
 
-## Autor der Lerneinheit
+## Author of the course unit
 <div class="row align-items-center">
   <div class="col-sm-3" markdown="1">![](/images/staff/Ralf_Bill_1335a.jpg?lightbox=800&resize=300&classes=caption "Prof. Dr.-Ing. Ralf Bill")</div>
   <div class="col-sm-9">
-    <p>Prof. Dr.-Ing. Ralf Bill koordiniert das Projekt OpenGeoEdu. <br /> Professor Bill ist seit 1994 Professor für Geodäsie und Geoinformatik an der Universität Rostock. Sein Lehrbuch „Grundlagen der Geo-Informationssysteme“, 2016 in 6. Auflage erschienen, gilt im deutschsprachigen Bereich als Standard in der Ausbildung zu GIS. <br /> Seit Jahren beschäftigt sich Prof. Bill mit offenen Geodaten und bezieht diese mehr und mehr in den Unterricht ein, um individualisierte Aufgaben für Studierende zu generieren und damit deren Kreativität zu fördern.</p>
+    <p>Prof. Dr.-Ing. Ralf Bill coordinates the project OpenGeoEdu. <br /> Professor Bill has been Professor of Geodesy and Geoinformatics at the University of Rostock since 1994. His textbook "Grundlagen der Geo-Informationssysteme", published in 2016 in its 6th edition, is considered the standard in GIS education in German-speaking countries. <br /> For years, Prof. Bill has been working with open geodata and increasingly incorporates it into his teaching in order to generate individualized tasks for students and thus promote their creativity.</p>
   </div>
 </div>
 
-## Lernziele 
-!!!! <br> Ziel der Lerneinheit ist das Kennenlernen der Rahmenbedingungen für die Elektromobilität, die Einordnung dieses aktuellen gesellschaftlichen Themas und die Herausarbeitung von Fragestellungen, die mit offenen Geodaten untersucht werden können. 
+## Learning objectives 
+!!!! The aim of the learning unit is to get to know the framework conditions for electro mobility, to classify this current society topic and to work out questions that can be investigated with open geodata. 
 
-## Struktur 
+## Structure of the Lecture
+Electro mobility is a very heavily discussed topic and the emerging industry shows clear development potential. The lecture deals fundamentally with the topic of electro mobility and presents the current situation, e.g. regarding the charging station infrastructure as well as obstacles in increasing the number of electric cars.
 
-Elektromobilität ist insgesamt ein sehr aktuelles Thema und die entstehende Branche zeigt deutliches Entwicklungspotential. Die Vorlesung setzt sich grundlegend mit dem Thema Elektromobilität auseinander und stellt die aktuelle Situation z.B. hinsichtlich der Ladestationeninfrastruktur sowie Hemmnisse in der Steigerung der Zahl von Elektroautos dar. 
+## Contents of the exercises
 
-## Inhalte der Übungen
-
-Die Übungen gehen der Frage nach, wie und welche Fragestellungen sich im Kontext der Elektromobilität mit offenen Geodaten bearbeiten lassen. Hier stehen natürlich insbesondere räumliche Aspekte im Vordergrund. Dazu werden mehrere beispielhafte Fragestellungen angeboten.
-
-Im Ergebnis jedes Beispiels entstehen thematische Auswertungen in Form von Karten, Diagrammen, Bewertungen, die in einem nach Regeln der Wissenschaft verfassten schriftlichen Beleg zusammengestellt werden.
+The exercises will address the question of how and which issues can be addressed with open geodata in the context of electro mobility. Of course, the focus here is on spatial aspects in particular. For this purpose, several exemplary questions are offered. Each example results in thematic evaluations in the form of maps, diagrams, evaluations, which have to be compiled in a written document according to the rules of science.
