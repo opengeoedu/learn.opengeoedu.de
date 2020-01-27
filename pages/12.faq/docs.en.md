@@ -11,8 +11,10 @@ facebookenable: true
 
 ## The project and course offers
 
-[ui-accordion independent=true open=none][ui-accordion-item title="Section 1"][/ui-accordion-item]
-[ui-accordion-item title="Section 1"][/ui-accordion-item]
+[ui-accordion independent=true open=none][ui-accordion-item title="Section 1"]test[/ui-accordion-item]
+[ui-accordion-item title="Section 1"]
+text
+[/ui-accordion-item]
 [ui-accordion-item title="Section 1"][/ui-accordion-item]
 [ui-accordion-item title="Section 1"][/ui-accordion-item][/ui-accordion]
 
