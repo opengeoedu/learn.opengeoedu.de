@@ -1,5 +1,5 @@
 ---
-title: 'Vergleich Vektordaten - Rasterdaten'
+title: 'Comparison of vector and raster data'
 taxonomy:
     category:
         - docs

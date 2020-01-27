@@ -1,5 +1,5 @@
 ---
-title: Forschungsbeispiele
+title: Research examples
 taxonomy:
     category:
         - docs
