@@ -23,15 +23,15 @@ You can find the specific course offer under the menu item "[Overview](https://l
 [/ui-accordion-item]
 
 [ui-accordion-item title="How do I quote OpenGeoEdu correctly?"]
-The contents of the online course are released with the CreativeCommons license cc-by-sa and must be cited as follows: [OpenGeoEdu](https://www.opengeoedu.de/), [XX](https://learn.opengeoedu.de/openx), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
+The contents of the online course are released with the CreativeCommons license <code>cc-by-sa</code> and must be cited as follows: <a href="https://www.opengeoedu.de">OpenGeoEdu</a>, <a href="https://learn.opengeoedu.de/gis/vorlesung/informationsverarbeitung/a_raumbezogene_datenanalyse">Geo-Informationssysteme</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">CC BY-SA 4.0</a>.
 Here is an example:
-    Topological methods are based on neighborhood relationships; they essentially use graph theory as the mathematical basis.
-    [OpenGeoEdu](https://www.opengeoedu.de/), [Geo-Information Systems](https://learn.opengeoedu.de/gis/vorlesung/informationsverarbeitung/a_raumbezogene_datenanalyse), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
+
+>Topological methods are based on neighborhood relationships; they essentially use graph theory as the mathematical basis. <cite><a href="https://www.opengeoedu.de">OpenGeoEdu</a>, <a href="https://learn.opengeoedu.de/gis/vorlesung/informationsverarbeitung/a_raumbezogene_datenanalyse">Geo-Informationssysteme</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">CC BY-SA 4.0</a>.</cite>
 
 Please note:
-•	Name the author (OpenGeoEdu is a link to https://www.opengeoedu.de)
-•	Link to content (Geo-Information systems refers as link to the content https://learn.opengeoedu.de/gis/vorlesung)
-•	License (CC BY-SA 4.0 as a link to the generally understandable summary https://creativecommons.org/licenses/by-sa/4.0/) 
+* Name the author (OpenGeoEdu is a link to `https://www.opengeoedu.de`)
+* Link to content (Geo-Information systems refers as link to the content `https://learn.opengeoedu.de/gis/vorlesung`)
+* License (CC BY-SA 4.0 as a link to the generally understandable summary `https://creativecommons.org/licenses/by-sa/4.0/`) 
 [/ui-accordion-item]
 [/ui-accordion]
 
@@ -89,8 +89,8 @@ As a teacher, you can offer your students the option of working through an OpenG
 
 [ui-accordion-item title="How can I become involved in OpenGeoEdu as a teacher?"]
 Teachers in spatial study programmes are very welcome to participate in the OpenGeoEdu platform,
-•	by integrating our course into your teaching and motivating students to participate in it or
-•	create your own case studies and make them available to the OpenGeoEdu team and thus to everyone.
+* by integrating our course into your teaching and motivating students to participate in it or
+* create your own case studies and make them available to the OpenGeoEdu team and thus to everyone.
 [/ui-accordion-item]
 
 [ui-accordion-item title="How can I contribute my case study or ideas?"]
