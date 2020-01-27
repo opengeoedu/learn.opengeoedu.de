@@ -1,5 +1,5 @@
 ---
-title: Landscape structure dimensions
+title: Landscape metrics
 media_order: 'Beispiel LandstrukmaßJPG.JPG'
 taxonomy:
     category:
@@ -8,9 +8,8 @@ twitterenable: true
 twittercardoptions: summary
 facebookenable: true
 ---
+Over the last decades, the analysis by means of landscape metrics has developed further and further, resulting in a multitude of calculation methods and metrics. The most commonly used metrics describe the __richness, diversity, uniformity__ and __distribution__ of a landscape. Fig. 7 shows an example of common landscape metrics.
 
-Über die letzten Jahrzehnte hat sich die Analyse mittels Landschaftsstrukturmaßen immer weiterentwickelt, woraus eine Vielzahl von Berechnungsmethoden und Maßzahlen hervorgegangen ist. Die wohl meist genutzten Maße beschreiben _Reichtum_, _Vielfalt_, _Gleichmäßigkeit_ und _Verteilung_ einer Landschaft. In Abb. 7 ist ein Beispiel für gängige Landschaftsstrukturmaße aufgeführt.
+![Example Landscape metrics](Beispiel%20Landstrukma%C3%9FJPG.JPG?lightbox=800&classes=caption "Fig. 7: Example of landscape metrics (Source: according to WIENS ET AL. 1993, modified by WALZ 2012)")
 
-![Beispiel Landschaftsstrukturmaße](Beispiel%20Landstrukma%C3%9FJPG.JPG?lightbox=800&classes=caption "Abb. 7: Beispiel Landschaftsstrukturmaße (Quelle: nach WIENS ET AL. 1993, verändert durch WALZ 2012)")
-
-Im Folgenden wird eine von WALZ (2012) angelegte Übersicht über einzelne Gruppen von Landschaftsstrukturmaßen vorgestellt.
+In the following, an overview of individual groups of landscape structure measures is presented, which was created by WALZ (2012).

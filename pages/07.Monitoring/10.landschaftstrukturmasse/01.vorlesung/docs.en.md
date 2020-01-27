@@ -11,6 +11,7 @@ facebookenable: true
 ---
 
 ## Authors of the course unit
+
 <div class="row align-items-center">
   <div class="col-sm-3" markdown="1">![David Hennecke](_MG_7029_a.jpg?lightbox=800&resize=300&classes=caption "M. Eng. David Hennecke")</div>
   <div class="col-sm-9">
@@ -28,26 +29,27 @@ facebookenable: true
 </div>
 
 ### Learning objectives of the lecture
-Landscape structure measures have been used as a tool in research for more than 30 years. In addition, they are partly regarded as important environmental indicators in German and international environmental policy.
 
-! https://www.umweltbundesamt.de/daten/umweltindikatoren
+Landscape metrics have been used as a tool in research for more than 30 years. In addition, they are partly regarded as important environmental indicators in German and international environmental policy.
 
-In this module you will learn which landscape structure measures exist and how or with which software you can use and calculate them. In addition, the required data basis is discussed in order to be able to carry out a successful analysis using landscape structure measures.
+! <https://www.umweltbundesamt.de/daten/umweltindikatoren>
 
-In addition to the use of landscape structure measures, the following contents are covered in this module:
+In this module you will learn which landscape metrics exist and how or with which software you can use and calculate them. In addition, the required data basis is discussed in order to be able to carry out a successful analysis using landscape metrics.
+
+In addition to the use of landscape metrics, the following contents are covered in this module:
 
 * How can a landscape be defined/described?
 * What is a landscape structure?
 * What are the factors and causes of a landscape pattern?
-* Where are the fields of application of landscape structure measures?
-* How can landscape structure measures be used for analyses?
+* Where are the fields of application of landscape metrics?
+* How can landscape metrics be used for analyses?
 
 ### Structure of the lecture
+
 The lecture is based on the habilitation thesis of Prof. Walz and his lectures at the University of Rostock (e.g. in the module Geoinformatics and Landscape Change) and is divided into 5 chapters:
 
 * Basics
-* Landscape structure dimensions
+* Landscape metrics
 * Data basis
 * Software
 * Research examples
-

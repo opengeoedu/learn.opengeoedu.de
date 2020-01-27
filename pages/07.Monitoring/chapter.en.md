@@ -21,8 +21,8 @@ Videos on Land use monitoring (in German)
 {
   "@context": "http://schema.org",
   "@type": "Course",
-  "name": "Flächenmonitoring - OpenGeoEdu Fallbeispiel",
-  "description": "Die Vorlesung vermittelt die wissenschaftlichen Hintergründe des Themas Flächenmonitoring. Dies soll Sie für die Übungseinheiten der Schaffung von Daten- und Analysegrundlagen für eine nachhaltige Stadt- und Raumentwicklung vorbereiten.",
+  "name": "Land Use Monitoring - OpenGeoEdu Fallbeispiel",
+  "description": "The lecture conveys the scientific background of the topic land use monitoring. This should prepare you for the exercises of creating data and analysis bases for sustainable urban and spatial development.",
   "provider": {
     "@type": "Organization",
     "name": "OpenGeoEdu",

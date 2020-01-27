@@ -17,7 +17,7 @@ Since a landscape always consists of several patches, depending on the viewing l
 
 Therefore, it should be noted that the totality of the patches of a landscape and their relationship to each other describes a **landscape structure**. Essentially, the recording of the landscape structure is about the pattern that is visible when looking from above ("horizontal structure").
 
-The _horizontal structure_ describes the planar spatial structure of elements in a landscape. It is used in most cases in the calculation of landscape structure dimensions.
+The _horizontal structure_ describes the planar spatial structure of elements in a landscape. It is used in most cases in the calculation of landscape metrics.
 
 ![Horizontal structure](horz_Landstruk.png?lightbox=800&classes=caption "Fig. 3: Horizontal structure of landscapes - Iowa on the left and MV on the right (sources: Image Landsat (CC BY)/ Copernicus (CC BY-SA 3.0 IGO); © 2018 Google; ©2009 GeoBasis-DE/BKG")
 

@@ -7,7 +7,7 @@ twitterenable: true
 twittercardoptions: summary
 facebookenable: true
 ---
-In the exercises you will learn how to start working with landscape structure measures and acquire skills in selected processing steps and analysis methods. The exercises cover the following topics:
+In the exercises, you will learn how to get started working with landscape metrics and acquire skills in selected processing steps and analysis methods. The exercises cover the following topics:
 
 * Introduction to the basics
 * Neighbourhood Analysis
