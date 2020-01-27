@@ -10,6 +10,17 @@ facebookenable: true
 ---
 
 ## The project and course offers
+
+[ui-accordion independent=true open=none][ui-accordion-item title="Section 1"][/ui-accordion-item]
+[ui-accordion-item title="Section 1"][/ui-accordion-item]
+[ui-accordion-item title="Section 1"][/ui-accordion-item]
+[ui-accordion-item title="Section 1"][/ui-accordion-item][/ui-accordion]
+
+[ui-accordion independent=true open=none][ui-accordion-item title="Section 1"][/ui-accordion-item]
+[ui-accordion-item title="Section 1"][/ui-accordion-item]
+[ui-accordion-item title="Section 1"][/ui-accordion-item]
+[ui-accordion-item title="Section 1"][/ui-accordion-item][/ui-accordion]
+
 [ui-accordion independent=true open=none]
 [ui-accordion-item title=What does OpenGeoEdu offer?]
 The OpenGeoEdu project aims to illustrate the use of open data offerings in spatially oriented study programs using best-practice examples and, based on these, to provide e-learning offerings for integration in such study programs. In terms of data-driven science, a wide variety of data sources will be merged and processed using GIS analysis and visualization methods. Thus, the project serves to raise the open data treasure for science and to identify manifold application and networking possibilities for research and teaching. In addition to various products such as the [data portal for open data](https://portal.opengeoedu.de/), an essential component of OpenGeoEdu is the [open online course](https://www.opengeoedu.de/learn/). This is aimed at students, young scientists, teachers and practitioners who want to familiarize themselves with open geodata for spatially related questions.
