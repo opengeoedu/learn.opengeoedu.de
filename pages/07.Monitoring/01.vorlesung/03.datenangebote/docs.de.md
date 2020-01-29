@@ -5,7 +5,7 @@ taxonomy:
 ---
 
 ### Lokal/Regional:
-Die Bundesländer und Gemeinden sind häufig aktiv in der Open Data-Bewegung, z.B. Hamburg, Berlin, Nordrhein-Westfalen, Thüringen, Rheinland-Pfalz oder u.a. die Gemeinden Aachen, Bonn, Köln, Moers und Rostock (eine Übersicht gibt das [OpenGeoEdu-Datenportal](https://portal.opengeoedu.de/)).
+Die Bundesländer und Gemeinden sind häufig aktiv in der Open Data-Bewegung, z.B. Hamburg, Berlin, Brandenburg, Nordrhein-Westfalen, Thüringen, Rheinland-Pfalz,  oder u.a. die Gemeinden Aachen, Bonn, Dresden, Köln, Moers und Rostock (eine Übersicht gibt das [OpenGeoEdu-Datenportal](https://portal.opengeoedu.de/)).
 
 ### National:
 Die nationalen Akteure, wie u.a. das Bundesamt für Kartographie und Geodäsie ([BKG](https://www.bkg.bund.de/)) oder das Statistische Bundesamt ([DESTATIS](https://www.destatis.de/)), stellen offene Geobasis- und Statistikdaten bereit – von Flächennutzungs- über Gebäude- bis hin zu Verkehrsdaten. Dennoch existiert hier eine Vielzahl von Nutzungslizenzen, Diensten und Datenqualitäten.

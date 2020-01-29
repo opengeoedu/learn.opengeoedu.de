@@ -5,7 +5,7 @@ taxonomy:
 ---
 
 ### Local/Regional:
-The federal states and cities are often active in the Open Data movement, - for example: Hamburg, Berlin, Nordrhein-Westfalen, Thüringen, Rheinland-Pfalz; as well as individul cities like - the  Aachen, Bonn, Köln, Moers und Rostock (an list can be found in [OpenGeoEdu-Datenportal](https://portal.opengeoedu.de/)).
+The federal states and cities are often active in the Open Data movement, - for example: Hamburg, Berlin, Brandenburg, Nordrhein-Westfalen, Thüringen, Rheinland-Pfalz; as well as individul cities like - the  Aachen, Bonn, Dresden, Köln, Moers und Rostock (an list can be found in [OpenGeoEdu-Datenportal](https://portal.opengeoedu.de/)).
 
 ### National:
 The national actors, such as the Federal Office for Cartography and Geodesy ([BKG](https://www.bkg.bund.de/)) or the Federal Statistical Office ([DESTATIS](https://www.destatis.de/)), provide open geobasis and statistical data - from land use data to building and traffic data. Nevertheless, there is a several types of user licenses, services and data qualities available.

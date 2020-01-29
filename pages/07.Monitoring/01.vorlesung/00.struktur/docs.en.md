@@ -8,7 +8,7 @@ taxonomy:
 <div class="row align-items-center">
     <div class="col-sm-3" markdown="1">![](g.meinel_ioer.png?lightbox=800&resize=300)</div>
     <div class="col-sm-9">
-        <p markdown="1"> **Dr. Gotthard Meinel** is the head of research area Monitoring of Settlement and Open Space Development at the Leibniz Institute of Ecological Urban and Regional Development. His research interests are focusing on automated information acquisition, analysis and visualization technologies for monitoring of land use development. He is leading the OpenGeoEdu-Team in Dresden for the conception, development and preparation of learning modules on land use monitoring as well as guiding research tasks.</p>
+        <p markdown="1"> **[Dr. Gotthard Meinel]** is the head of research area Monitoring of Settlement and Open Space Development at the Leibniz Institute of Ecological Urban and Regional Development. His research interests are focusing on automated information acquisition, analysis and visualization technologies for monitoring of land use development. He is leading the OpenGeoEdu-Team in Dresden for the conception, development and preparation of learning modules on land use monitoring as well as guiding research tasks.</p>
     </div>
 </div>
 
