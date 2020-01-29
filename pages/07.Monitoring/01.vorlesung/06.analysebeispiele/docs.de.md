@@ -22,7 +22,9 @@ Eine Auswahl dieser IÖR-Monitoring-Ergebnisse wird im Folgenden vorgestellt:
 
 ### Anteil baulich geprägter SuV  in Überschwemmungsgebieten: Räumlicher Trend in den Bundesländern
 
-![abb_baulichenutzung_uberschwiemung](abb_baulichenutzung_uberschwiemung.png)
+<!---![abb_baulichenutzung_uberschwiemung](abb_baulichenutzung_uberschwiemung.png) -->
+
+<iframe src="https://h5p.org/h5p/embed/708933" width="1090" height="1461" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 Hier ist der prozentuale Anteil der baulich geprägten Siedlungs- und Verkehrsfläche an den Überschwemmungsgebieten in den Bundesländern Deutschlands dargestellt.
 
