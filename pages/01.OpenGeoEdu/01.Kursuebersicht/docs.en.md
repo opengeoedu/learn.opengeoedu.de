@@ -1,6 +1,5 @@
 ---
 title: 'Course parts - short description'
-media_order: 'EuropaAfrika.png,Karte.png,oge_teaser_openxx4.png,oge_teaser_opendata2.png,teaser_emob.png'
 taxonomy:
     category:
         - docs
@@ -11,6 +10,7 @@ facebookenable: true
 anchors:
     active: false
 ---
+
 On this [overview page](/uebersicht/kursuebersicht) the course parts are presented with a motivating trailer and a short description. A [module description](/uebersicht/self-assessment/OGE_Modulbeschreibung.pdf) of the open online course can be found on the next page. [Data sheets](/uebersicht/datenblatt) exist for the individual course and exercise parts, which systematically and extensively compile the data, software, and functionalities used and describe the expected results.
 
 In addition, there is a [self-assessment tool](http://test.opengeoedu.de/selfassessment.aspx) from which hints and recommendations for processing the course parts are given depending on the previous knowledge of the user. A [workload calculator](http://test.opengeoedu.de/workload.aspx) is also available with which the user can select the course parts to be worked on and estimate the corresponding workload.
