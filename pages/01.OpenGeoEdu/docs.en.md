@@ -10,7 +10,7 @@ googletitle: 'OpenGeoEdu | Overview'
 googledesc: 'The open online course OpenGeoEdu consists of several course parts which can be freely combined'
 twitterenable: true
 twittercardoptions: summary
-twittershareimg: 'https://www.opengeoedu.de/images/logo.png'
+twittershareimg: /images/oge_logo_ohnehintergrund.svg
 twittertitle: 'OpenGeoEdu | Overview'
 twitterdescription: 'The open online course OpenGeoEdu consists of several course parts which can be freely combined'
 articleenabled: false
