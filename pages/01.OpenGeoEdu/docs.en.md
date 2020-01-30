@@ -9,7 +9,7 @@ child_type: docs
 googletitle: 'OpenGeoEdu | Overview'
 googledesc: 'The open online course OpenGeoEdu consists of several course parts which can be freely combined'
 twitterenable: true
-twittercardoptions: summary_large_image
+twittercardoptions: summary
 twittershareimg: 'https://www.opengeoedu.de/images/logo.png'
 twittertitle: 'OpenGeoEdu | Overview'
 twitterdescription: 'The open online course OpenGeoEdu consists of several course parts which can be freely combined'
