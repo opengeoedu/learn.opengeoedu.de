@@ -13,6 +13,7 @@ orga:
     ratingValue: 2.5
 orgaratingenabled: false
 facebookenable: true
+facebookimg: /uebersicht/kursuebersicht/oge_teaser_openxx4.png
 anchors:
     active: false
 ---
