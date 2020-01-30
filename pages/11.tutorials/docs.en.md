@@ -123,7 +123,7 @@ Available tutorials you can find below:
 <div class="row align-items-center">
     <div class="col-sm-9">
         <p class="text-justify">This course unit describes common OGC Web Services and explains their use when processing open geodata. Tips and tricks for using OGC-WxS will be also covered.</p>
-        <p markdown="1">Download Tutorial [OGC Web Services](OGE_Tutorial_OGC_WxS-en.pdf?target=_blank)</p>
+        <p markdown="1">Download Tutorial [OGC Web Services](OGE-Tutorial_OGC_WxS-en.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1">![](OGC_Logo_2D_Blue.png)</div>
 </div>
