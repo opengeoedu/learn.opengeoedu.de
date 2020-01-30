@@ -10,9 +10,10 @@ googletitle: 'OpenGeoEdu | Overview'
 googledesc: 'The open online course OpenGeoEdu consists of several course parts which can be freely combined'
 twitterenable: true
 twittercardoptions: summary
-twittershareimg: /images/oge_logo_ohnehintergrund.svg
-twittertitle: 'OpenGeoEdu | Übersicht'
+twittershareimg: 'https://www.opengeoedu.de/images/logo.png'
+twittertitle: 'OpenGeoEdu | Overview'
 twitterdescription: 'The open online course OpenGeoEdu consists of several course parts which can be freely combined'
+articleenabled: false
 orgaenabled: true
 orga:
     name: OpenGeoEdu
@@ -29,7 +30,7 @@ orga:
         -
             area: Switzerland
     url: 'https://www.opengeoedu.de'
-    logo: 'https://www.opengeoedu.de/images/logo/oge.svg'
+    logo: 'https://www.opengeoedu.de/images/logo.png'
     ratingValue: 2.5
     foundingDate: '2017'
     email: info@opengeoedu.de
@@ -45,9 +46,9 @@ orga:
         -
             sameas: 'https://www.linkedin.com/company/opengeoedu/'
 orgaratingenabled: false
-personenabled: false
-facebookenable: true
+facebookenable: false
 ---
+
 <div class="row my-5">
     <div class="col-md-6">
         [plugin:youtube](https://www.youtube.com/watch?v=yYoiGUOCyE8)
