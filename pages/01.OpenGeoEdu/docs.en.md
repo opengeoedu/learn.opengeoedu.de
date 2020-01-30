@@ -30,7 +30,7 @@ orga:
         -
             area: Switzerland
     url: 'https://www.opengeoedu.de'
-    logo: 'https://www.opengeoedu.de/images/logo.png'
+    logo: /images/LOGO_open_geo_edu_RGB.png
     ratingValue: 2.5
     foundingDate: '2017'
     email: info@opengeoedu.de
