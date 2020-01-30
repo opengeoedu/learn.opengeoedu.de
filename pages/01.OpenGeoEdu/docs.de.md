@@ -46,7 +46,7 @@ orga:
         -
             sameas: 'https://www.linkedin.com/company/opengeoedu/'
 orgaratingenabled: false
-facebookenable: true
+facebookenable: false
 ---
 
 <div class="row my-5">
