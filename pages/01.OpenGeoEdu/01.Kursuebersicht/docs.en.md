@@ -6,6 +6,12 @@ taxonomy:
 menu: 'Description Course parts'
 twitterenable: true
 twittercardoptions: summary
+twittershareimg: /uebersicht/kursuebersicht/oge_teaser_openxx4.png
+articleenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
 facebookenable: true
 anchors:
     active: false
