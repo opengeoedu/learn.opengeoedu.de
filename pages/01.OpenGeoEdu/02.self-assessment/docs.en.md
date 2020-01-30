@@ -1,10 +1,20 @@
 ---
 title: 'Tools for Course selection'
+media_order: 'workloadrechner.png,Modulbeschreibung.png,notes.png,OGE_Modulbeschreibung.pdf'
 taxonomy:
     category:
         - docs
 menu: Tools
+twitterenable: true
+twittercardoptions: summary
+articleenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+facebookenable: true
 ---
+
 To make it easier for you to get started with the OpenGeoEdu learning units, we offer you various tools and assistance:
 
 * A [self-assessment](http://test.opengeoedu.de/selfassessment.aspx?target=_blank): After you have assessed your knowledge and skills reasonably realistically, you will receive information about the course units that we consider to be useful.

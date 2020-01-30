@@ -1,10 +1,20 @@
 ---
-title: Data sheets
+title: 'Data sheets'
 taxonomy:
     category:
         - docs
-menu: Data sheets
+menu: 'Data sheets'
+googledesc: "Each data sheet describes an exercise systematically and in detail, e.g. with regard to the prerequisites, the software and data used to...\r\n"
+twitterenable: true
+twittercardoptions: summary
+articleenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+facebookenable: true
 ---
+
 Each data sheet describes an exercise systematically and in detail, e.g. with regard to the prerequisites, the software and data used, the required functionalities and the expected results.
 
 | Legend | | | |
