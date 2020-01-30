@@ -32,9 +32,6 @@ orga:
     url: 'https://www.opengeoedu.de'
     logo: 'https://www.opengeoedu.de/images/logo.png'
     ratingValue: 2.5
-    openingHours:
-        -
-            entry: 'Mo-Su 00:00-23:59'
     foundingDate: '2017'
     email: info@opengeoedu.de
     similar:
