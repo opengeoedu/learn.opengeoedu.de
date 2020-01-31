@@ -3,7 +3,16 @@ title: 'Introduction to Geo-Information Systems'
 taxonomy:
     category:
         - docs
-menu: Geo-Information Systems
+menu: 'Geo-Information Systems'
+googledesc: 'The goal of the course unit is to get to know the essential terms, the workflow and functionalities as well as applications of GI-Systems.'
+twitterenable: true
+twittercardoptions: summary
+articleenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+facebookenable: true
 ---
 
 # Introduction to <br>Geo-Information Systems

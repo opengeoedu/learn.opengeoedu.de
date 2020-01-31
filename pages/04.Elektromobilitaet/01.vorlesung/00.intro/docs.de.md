@@ -24,6 +24,6 @@ Um den Erwerb von Elektrofahrzeugen attraktiver zu machen, wurden verschiedene M
 
 Die Entwicklung der Elektromobilität wird nicht nur in Deutschland politisch aktiv vorangetrieben, China und USA sind treibende Kräfte. In Europa ist Norwegen führend, dort sind bereits heute ein Viertel aller Neuzulassungen Elektrofahrzeuge.
 
-Der Ausbau der Elektromobilität kommt in Deutschland dennoch nur langsam voran. Der eigentliche Boom der Elektromobilität scheint sich eher im Bereich der zweirädrigen E-Fahrzeuge abzuzeichnen. Während der Absatz bei Elektrofahrrädern (E-Bikes) stark zunimmt, entwickelt sich der Vertrieb von Elektro-PKWs eher schleppend.  Anfang 2018 waren gut 50.000 Elektrofahrzeuge angemeldet. Klarer Vorreiter in Sachen Elektromobilität in Deutschland ist der öffentliche Dienst mit 4,7 % aller neuen Pkw im ersten Halbjahr 2017.
+Der Ausbau der Elektromobilität kommt in Deutschland dennoch nur langsam voran. Der eigentliche Boom der Elektromobilität scheint sich eher im Bereich der zweirädrigen E-Fahrzeuge abzuzeichnen. Während der Absatz bei Elektrofahrrädern (E-Bikes) stark zunimmt, entwickelt sich der Vertrieb von Elektro-PKWs eher schleppend.  Anfang 2019 waren gut 80.000 Elektrofahrzeuge angemeldet. Klarer Vorreiter in Sachen Elektromobilität in Deutschland ist der öffentliche Dienst mit 4,7 % aller neuen Pkw im ersten Halbjahr 2017.
 
 ![Neuzulassungen an Elektrofahrzeugen](zulassung_e-auto.PNG?classes=caption "Neuzulassungen an Elektrofahrzeugen (Eigene Darstellung, Quelle: Kraftfahrtbundesamt)")

@@ -7,11 +7,11 @@ taxonomy:
 
 ## Global Open Data Index
 
-The [Global Open Data Index](https://index.okfn.org/) compiles an annual ranking of countries based on ten key data sets at each location, executed by local Open Data experts:
+The [Global Open Data Index](https://index.okfn.org/) compiles a ranking of countries based on ten key data sets at each nation, executed by local Open Data experts:
 
 1. Election results
 2. Business register
-3. National Map
+3. National maps
 4. Government expenditure
 5. National budget
 6. Legislation

@@ -1,6 +1,6 @@
 ---
-title: Typical application areas for GIS
-menu: application areas
+title: Typical applications for GIS
+menu: Applicationss
 menu:
 taxonomy:
     category:

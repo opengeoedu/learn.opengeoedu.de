@@ -1,5 +1,5 @@
 ---
-title: Sustainable Supply
+title: Sustainable supply
 taxonomy: 
   category: docs
 menu: 'Sustainable Supply'
@@ -12,7 +12,7 @@ In this module, the focus will be on biomass potential considerations for energe
 | Energetic use of biomass: Opportunities | Energetic use of biomass: Risks |
 |-|-|
 | High flexibility, good storage capacity: compensation of fluctuating production, e.g. by wind power or solar energy | Possible competition for use (e.g. for food and animal feed production)|
-| Decentralised Energy Supply, Rural Development | Direct or Indirect Land Use Changes |
+| Decentralised energy supply, rural development | Direct or indirect land use changes |
 | Can be used in a variety of ways (heat, electricity, fuels) | Undesirable environmental effects (e.g. through the cultivation of monocultures) |
 | Environmentally and climate-friendly CO2 savings | Often dependent on subsidies, as otherwise not economically feasible |
 | ... | ... |

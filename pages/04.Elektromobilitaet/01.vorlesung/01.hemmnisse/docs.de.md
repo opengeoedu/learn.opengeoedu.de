@@ -5,8 +5,8 @@ taxonomy:
 ---
 Unterschiedliche Aspekte wirken sich bisher hinderlich auf den Zuwachs an Elektrofahrzeugen aus.
 
-! Schauen Sie sich hierzu einmal folgendes [Video](https://www.ardmediathek.de/tv/ARD-Buffet/Elektromobilität-E-Autos-bald-im-Aufwi/Das-Erste/Video?bcastId=428628&documentId=50401350) an. <br><span class="small"> Sollte das Video nicht mehr verfügbar sein, suchen Sie nach Alternativen.</p>
-[![](ard_emob.png?resize=300&classes=caption "Grundlegende Aspekte der Elektromobilität (Quelle: ARD-Mediathek)")](https://www.swr.de/buffet/leben/elektromobilitaet-e-autos-bald-im-aufwind/-/id=257304/did=20982128/nid=257304/1strpmr/index.html)
+! Schauen Sie sich hierzu einmal folgendes [Video](https://www.ardmediathek.de/tv/ARD-Buffet/Elektromobilität-E-Autos-bald-im-Aufwi/Das-Erste/Video?bcastId=428628&documentId=50401350) an. <br><span class="small"> Sollte das Video nicht mehr verfügbar sein, suchen Sie nach Alternativen. [![](ard_emob.png?resize=300&classes=caption "Grundlegende Aspekte der Elektromobilität (Quelle: ARD-Mediathek)")](https://www.swr.de/buffet/leben/elektromobilitaet-e-autos-bald-im-aufwind/-/id=257304/did=20982128/nid=257304/1strpmr/index.html)
+
 - Anschaffungskosten der Elektrofahrzeuge: „Gegenwärtig liegen die Anschaffungskosten eines E-Fahrzeugs typischerweise um rund 60 % (bzw. 10.000 Euro) über denen eines konventionellen Fahrzeugs.“ (Döring/Aigner-Walder, 2017)
 - Ausbau des Ladestationsnetzes: Bis zum Jahr 2020 hat die NPE einen Bedarf von 70.000 öffentlichen Ladepunkten und 7.100 Schnellladesäulen ermittelt, die unter anderem entlang von Autobahnen lange Fahrten sichern (NPE 2011).
 

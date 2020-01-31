@@ -10,19 +10,20 @@ taxonomy:
 On the most different administrative level from the EU up to the municipality numerous offers of open administrative data are found, mostly ordered after columns like
 * Geography, geology and basic geodata
 * Infrastructure, construction and housing
-* Economy and Work
-* Education and Science
+* Economy and work
+* Education and science
 * Environment and climate
 * Population
 * Social affairs
-* Transport and Traffic
+* Transport and traffic
 * Consumer protection
 * Public administration, budget and taxes
 * Health
 * Politics and elections
-* Culture, Leisure, Sports and Tourism
-* Laws and Justice
-A small selection of portals can be found here. The portal of the Open Data portals in Open GeoEdu offers a comprehensive entry page.
+* Culture, leisure, sports and tourism
+* Laws and justice
+
+A small selection of portals can be found here. Our  [Open Data Portal](https://portal.opengeoedu.de/) in OpenGeoEdu offers a comprehensive entry page to open data portals and data infrastructures.
 
 | [**European Union**](https://www.europeandataportal.eu/)| [**GovData Portal for Germany**](https://www.govdata.de/) | [**OpenData.HRO Hanseatic City of Rostock**](https://www.opendata-hro.de/) |
 | :-- | :-- | :-- |
@@ -33,8 +34,5 @@ A small selection of portals can be found here. The portal of the Open Data port
 [![](OGDNRW.png?resize=300&classes=caption "Kommunales Open Government NRW")](https://open.nrw/abschlussfilm-zum-pilotprojekt-kommunales-open-government-nrw)
 
 
-!! * Choose an Open Data Portal and take a look at the data offers it contains. You are also welcome to take a look at the data portal portal provided by OpenGeoEdu. 
-
-
-! Click here to go to the overview portal of [Open Data Portals](http://portal.opengeoedu.de/)
+!! * Choose an Open Data Portal and take a look at the data offers it contains. You are also welcome to take a look at the [Open Data Portal](https://portal.opengeoedu.de/) provided by OpenGeoEdu. 
 

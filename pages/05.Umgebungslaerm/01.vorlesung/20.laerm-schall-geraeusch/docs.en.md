@@ -9,6 +9,6 @@ Sound generally refers to mechanical vibrations in an elastic medium (gas, liqui
  
 ![Soundtransmission](schalluebertragung.jpg?lightbox=800,600&resize=400,200)
 
-! * [Sound Examples](http://www.laermorama.ch/m1_akustik/schall_w.html#schalldefinition) <br>
-! * [•	Physical Fundamentals of Sound](https://www1.deutschebahn.com/laerm/grundlagen/physikalische_grundlagen-1097050) <br>
+! * [Sound examples](http://www.laermorama.ch/m1_akustik/schall_w.html#schalldefinition) <br>
+! * [Physical fundamentals of sound](https://www1.deutschebahn.com/laerm/grundlagen/physikalische_grundlagen-1097050) <br>
 ! * https://en.wikipedia.org/wiki/Sound

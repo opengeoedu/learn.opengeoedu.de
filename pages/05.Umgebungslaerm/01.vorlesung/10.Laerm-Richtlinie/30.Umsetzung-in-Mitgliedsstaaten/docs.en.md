@@ -3,7 +3,7 @@ title: 'Implementation of the Directive in the Member States (selection)'
 taxonomy:
     category:
         - docs
-menu: Implementation of the Directive
+menu: Directive Implementation 
 ---
 
 ## Commission report on the EU Environmental Noise Directive

@@ -10,10 +10,10 @@ Here you will find a commented selection of external websites and resources with
 ## Category overview
 - [Category overview](#category-overview)
 - [E-Learning / Continuing Education](#e-learning--continuing-education)
-- [General Information](#general-information)
+- [General information](#general-information)
 - [Organizations](#organizations)
 - [Definitions and guidelines](#definitions-and-guidelines)
-- [licenses](#licenses)
+- [Licenses](#licenses)
 
 ## E-Learning / Continuing Education
 

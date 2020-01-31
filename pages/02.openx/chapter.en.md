@@ -28,7 +28,7 @@ Learn more about the new openness in science, business, administration and socie
 * Three exercises are recommended.
 
 
-[center]Videos on the basic chapter ***Openess in society, administration, business and science***[/center]
+[center]Videos on the basic chapter ***Openess in society, administration, business and science*** (in German)[/center]
 [owl-carousel items=1 loop=true autoplay=true autoplayHoverPause=true margin=15 responsive={0:{items:1},640:{items:2},1900:{items:3}}]
 [plugin:youtube](https://youtu.be/ptBpbXDczRU)
 [plugin:youtube](https://youtu.be/UJbe0dw2gsA)

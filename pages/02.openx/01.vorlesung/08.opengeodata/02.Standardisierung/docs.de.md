@@ -10,7 +10,7 @@ Die GIS-Welt hat sich in den letzten drei Jahrzehnten enorm gewandelt. Normungsa
 !!! Normung ist die einmalige bestimmte Lösung einer sich wiederholenden Aufgabe unter den jeweils gegebenen wissenschaftlichen, technischen und wirtschaftlichen Möglichkeiten.
 
 Normen zur raumbezogenen Informationsbeschreibung werden durch die ISO (International Organisation for 
-Standardisation) seit zwei Jahrzehnten definiert und verabschiedet. Hingegen werden abstrakte Spezifikationen und 
+Standardisation) seit 1994 definiert und verabschiedet. Hingegen werden abstrakte Spezifikationen und 
 Implementationsspezifikationen durch das Open Geospatial Consortium (OGC) etabliert und  in zahlreichen 
 GIS-Produkten am Markt implementiert. Seit 1997 arbeiten ISO und OGC eng zusammen, z.B. in Form gemeinsamer Arbeitsgruppen wie der 
 TOCG (TC 211 -- OGC Coordination Group). Dies hat den GIS-Markt entscheidend beeinflusst und die Interoperabilität 

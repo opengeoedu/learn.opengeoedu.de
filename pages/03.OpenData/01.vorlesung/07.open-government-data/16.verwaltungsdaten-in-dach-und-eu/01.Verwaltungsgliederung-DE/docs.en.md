@@ -23,7 +23,7 @@ slug: adm_de
 
 </style>
 
-The administrative-political structure in Germany is hierarchical (https://www.haushaltssteuerung.de/lexikon.html). A distinction is made between 6 administrative levels (ADM): State, Länder, administrative districts, districts, administrative communities and municipalities. (Figure on the left)
+The administrative-political structure in Germany is hierarchical (https://www.haushaltssteuerung.de/lexikon.html). A distinction is made between up to 6 administrative levels (ADM): State, Länder, administrative districts, districts, administrative communities and municipalities. (Figure on the left)
 
 The administrative levels in Germany - with the exception of the administrative district level - are set up across the board. For this purpose, the cities that are independent of the district are additionally included in the municipal and administrative community level and the municipalities that are independent of the district are included in the administrative community level (shaded elements).
 
@@ -39,30 +39,30 @@ The administrative levels in Germany - with the exception of the administrative 
   </div>
 
 </div>
-  <div align="middle">Political-Administrative Structure of Germany</div>
+  <div align="middle">Political administrative structure of Germany</div>
   <div id="description" align="middle">&nbsp;</div>
 
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Administrative units"]
 
 [ui-accordion independent=true open=none classes="figureattributes, figure-left"]
-[ui-accordion-item title="Federal states (ADM 2)"]
+[ui-accordion-item title="Federal states (ADM 1)"]
 Germany has 16 **federal states**, the three city states of Berlin, Bremen and Hamburg and the 13 territorial states of Baden-Württemberg, Bavaria, Brandenburg, Hesse, Mecklenburg-Western Pomerania, Lower Saxony, North Rhine-Westphalia, Rhineland-Palatinate, Saarland, Saxony, Saxony-Anhalt, Schleswig-Holstein and Thuringia.
 [/ui-accordion-item]
 
 [ui-accordion-item title="Districts (ADM 2)"]
-**Administrative districts** (ADM 3) are now only established in a few larger territorial countries. Administrative district (Reg.-Bez. for short) is the district of a general state funding authority in which various tasks are bundled. This authority is headed by a district president.
+**Administrative districts** (ADM 2) are now only established in a few larger territorial countries. Administrative district (Reg.-Bez. for short) is the district of a general state funding authority in which various tasks are bundled. This authority is headed by a district president.
 [/ui-accordion-item]
 
 [ui-accordion-item title="Counties (ADM 3)"]
-The **administrative district** (in North Rhine-Westphalia the district) is the next level in the structure in which several individual municipalities are combined and which assumes the tasks which are too large for the municipalities of a district, such as the construction of district hospitals.
+The **county** (in North Rhine-Westphalia the district) is the next level in the structure in which several individual municipalities are combined and which assumes the tasks which are too large for the municipalities of a district, such as the construction of district hospitals.
 [/ui-accordion-item]
 
-[ui-accordion-item title="Cities independent of district (ADM 3)"]
+[ui-accordion-item title="Cities independent of district (ADM 4)"]
 **Cities without counties** (ADM 4) are on the same level as counties. At the same time, they perform the tasks of district municipalities as well as the tasks of rural districts. Cities that are independent of districts do not belong to any administrative district. As a rule, they are the cities of a federal state that have the most inhabitants. Which cities are categorized as independent and which as cities belonging to a district depends on the state law of the respective territorial state. With the exception of Saarland, there are cities in all federal states that are free of districts. The three city states of Berlin, Bremen and Hamburg can also be classified as independent cities, which perform not only state tasks but also the entire portfolio of municipal tasks. In the case of the State of Bremen, there are two cities that are specifically independent of a district: Bremen and Bremerhaven.
 [/ui-accordion-item]
 
-[ui-accordion-item title="Municipal and municipal associations"]
+[ui-accordion-item title="Municipal and municipal associations (ADM 5)"]
 Associations of **municipalities** and local authority associations are associations of municipalities which perform certain municipal tasks for the municipalities belonging to the association. These include the administrative districts (in North Rhine-Westphalia the districts), the offices, joint municipalities, association municipalities and district associations. A distinction is therefore made between associations of municipalities at district level (ADM 4) and below district level (ADM 5). Above the district level, there are also so-called higher-order municipal associations, consisting of municipal associations and cities that are independent of the district. These include the landscape associations in North Rhine-Westphalia, the state welfare associations in Baden-Württemberg and Hesse and the Bavarian districts.
 
 (see also https://www.haushaltssteuerung.de/lexikon-gemeindeverbaende.html, http://www.bpb.de/nachschlagen/lexika/recht-a-z/22466/kommunalverbaende, https://www.destatis.de/DE/ZahlenFakten/GesellschaftStaat/OeffentlicheFinanzenSteuern/OeffentlicheFinanzen/Glossar/Gemeindeverband.html)

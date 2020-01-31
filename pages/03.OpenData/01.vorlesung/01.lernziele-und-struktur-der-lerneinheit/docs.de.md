@@ -41,4 +41,4 @@ In der Übung lernen Sie grundlegende Schritte zur Recherche nach offenen Daten 
 Dies umfasst:
 - Das Suchen und Vergleichen von Datenangeboten mit unserem [Portal der Open Data Portale](https://portal.opengeoedu.de)
 - Das Verschneiden und Aggregieren von Verwaltungsgebieten mit Fachdaten anhand des amtlichen Gemeindeschlüssels (AGS) und Regionalschlüssels (ARS)
-- <font style="color:grey">Die Arbeit mit Daten aus OpenStreetMap (wird zu einem späteren Zeitpunkt ergänzt)</font>
+- Die Arbeit mit Daten aus OpenStreetMap

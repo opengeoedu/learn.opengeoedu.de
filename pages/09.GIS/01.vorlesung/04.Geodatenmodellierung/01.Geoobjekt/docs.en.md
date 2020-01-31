@@ -1,12 +1,12 @@
 ---
-title: The Geoobject
+title: The Geoobject (or Spatial feature)
 taxonomy:
     category:
         - docs
 ---
 GIS today usually follow an object-based view. Standardization defines the spatial object (see [ISO 19109 Geographic information - Rules for application schema, 2013](https://en.wikipedia.org/wiki/ISO/TC_211_Geographic_information/Geomatics#Published_standards)).
 
-!!! "A geoobject is understood to be a unit from the user's point of view, contained in a GIS, that is important for his work, which can be clearly described by means of geodata and identified and referenced in reality. The geoobject usually represents a concrete physical, geometrical or conceptually limited unit of the earth, in this sense it is unique in the real world and has a clear identity. A geoobject can be elementary or arbitrarily complex and the descriptive attributes of the geoobject can be both quantitative (e.g. geometric information) and qualitative (e.g. indication of a name or a soil type). Each geoobject can be assigned to a specific object class". (Bill, 2016: 18-19)
+!!! "A geoobject is understood to be a unit from the user's point of view, contained in a GIS, that is important for his work, which can be clearly described by means of geodata and identified and referenced in reality. The geoobject usually represents a concrete physical, geometrical or conceptually limited unit of the earth, in this sense it is unique in the real world and has a clear identity. A geoobject can be elementary or arbitrarily complex and the descriptive attributes of the geoobject can be both quantitative (e.g. geometric information) and qualitative (e.g. indication of a name or a soil type). Each geoobject can be assigned to a specific object class". (translated from Bill, 2016: 18-19)
 
 Common geoobjects in urban and spatial development may be, for example: buildings, parcels, building blocks, city quarters, cities. They are defined by the following components, illustrated by the example of buildings:
 

@@ -11,8 +11,9 @@ googledesc: 'The open online course OpenGeoEdu consists of several course parts 
 twitterenable: true
 twittercardoptions: summary
 twittershareimg: /images/oge_logo_ohnehintergrund.svg
-twittertitle: 'OpenGeoEdu | Übersicht'
+twittertitle: 'OpenGeoEdu | Overview'
 twitterdescription: 'The open online course OpenGeoEdu consists of several course parts which can be freely combined'
+articleenabled: false
 orgaenabled: true
 orga:
     name: OpenGeoEdu
@@ -29,7 +30,7 @@ orga:
         -
             area: Switzerland
     url: 'https://www.opengeoedu.de'
-    logo: 'https://www.opengeoedu.de/images/logo/oge.svg'
+    logo: /images/LOGO_open_geo_edu_RGB.png
     ratingValue: 2.5
     foundingDate: '2017'
     email: info@opengeoedu.de
@@ -45,9 +46,9 @@ orga:
         -
             sameas: 'https://www.linkedin.com/company/opengeoedu/'
 orgaratingenabled: false
-personenabled: false
-facebookenable: true
+facebookenable: false
 ---
+
 <div class="row my-5">
     <div class="col-md-6">
         [plugin:youtube](https://www.youtube.com/watch?v=yYoiGUOCyE8)
@@ -58,3 +59,5 @@ The open online course OpenGeoEdu consists of several parts which can be freely 
 </div>
 
 Lecture and exercise parts are completely freely available. A <a href="https://ilias.opengeoedu.de/ilias/goto_opengeoedu_usr_registration.html" target="_blank">registration</a> will only be necessary if you want to achieve credit points and a grading for which a certificate will be awarded to be credited as academic achievement.
+
+<!-- force english subtitles/ closed captions with appending "&cc_lang_pref=en&cc_load_policy=1" for translated (en) subtitles -->

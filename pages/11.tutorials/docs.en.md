@@ -33,7 +33,7 @@ Available tutorials you can find below:
 <div class="row align-items-center">
     <div class="col-sm-9">
         <p class="text-justify">
-        This detailed manual explains how the results of an analysis can be summarized in a thematic map. We assume the existence of different data or analysis results an show how Maps can be created using ArcMap (version 10.3). As datasets we use the charging stations (a point theme) and the results of the reachability analysis (a polygon theme) at municipal level. We combine those on a background map and illustrate what elements are part of a map and which elements are used. Also we show you what signatures or colour gradations can be used. The result - a combination of an overview and a detailed map - you can see here.
+        This detailed manual explains how the results of an analysis can be visualised in a thematic map. We assume the existence of different data or analysis results and show how maps can be created using ArcMap (version 10.3). As datasets we use the charging stations (a point theme) and the results of the reachability analysis (a polygon theme) at municipal level from our case study on electro mobility. We combine those on a background map and illustrate what elements are part of a map and which elements are used. Also we explain what signatures or colour gradations can be used. The result - a combination of an overview and a detailed map - you can see here.
         </p>
         <p markdown="1">Download Tutorial [Thematic map design](OGE-Tutorial_Kartengestaltung-en.pdf?target=_blank)</p>
     </div>
@@ -60,7 +60,7 @@ Available tutorials you can find below:
 
 <div class="row align-items-center">
     <div class="col-sm-9">
-        <p class="text-justify">This tutorial introduces you to the fundamentals of modeling and explain them using the Unified Modeling Language (UML) and the Entity Relationship Model (ER) as examples.</p>
+        <p class="text-justify">This tutorial introduces you to the fundamentals of modeling and explains modeling using the Unified Modeling Language (UML) and the Entity Relationship Model (ER) as examples.</p>
         <p markdown="1">Download [Modeling in UML and ER](OGE-Tutorial_UML_Vorlesung-en.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1">![](anwendungsfall.png)</div>
@@ -123,7 +123,7 @@ Available tutorials you can find below:
 <div class="row align-items-center">
     <div class="col-sm-9">
         <p class="text-justify">This course unit describes common OGC Web Services and explains their use when processing open geodata. Tips and tricks for using OGC-WxS will be also covered.</p>
-        <p markdown="1">Download Tutorial [OGC Web Services](OGE_Tutorial_OGC_WxS-en.pdf?target=_blank)</p>
+        <p markdown="1">Download Tutorial [OGC Web Services](OGE-Tutorial_OGC_WxS-en.pdf?target=_blank)</p>
     </div>
     <div class="col-sm-3" markdown="1">![](OGC_Logo_2D_Blue.png)</div>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: Introduction and Motivation
+title: Introduction and motivation
 taxonomy:
     category: docs
 ---
@@ -8,11 +8,9 @@ Land is a limited natural resource. The efficient allocation and intensity of us
 
 [![abb_uba_30zeil](abb_uba_30zeil.png)](https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/flaeche/siedlungs-verkehrsflaeche#textpart-1)
 
-! Basic data und Diagram (as Excel) and more discussion can be followed by: [Umweltbundesamt - Landuse for settlements and transport purpose](https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/flaeche/siedlungs-verkehrsflaeche#textpart-1)
+! Basic data und diagram (as Excel) and more discussion can be followed by: [Umweltbundesamt - Landuse for settlements and transport purpose](https://www.umweltbundesamt.de/daten/flaeche-boden-land-oekosysteme/flaeche/siedlungs-verkehrsflaeche#textpart-1)
 
-
-
-The diagram shows the increasing amount of landuse consumption for settlement and transportion purpose (hector/day) by comparing with the recreational landuse, as well as the federal government's goals for landuse reduction per year. Therefore, the spatial monitoring and evaluation of settlement development at the best possible small-scale are one of the fundametal tasks in order to meet the requirements of politics and society for examining and achieving such environmental goals.
+The diagram shows the increasing amount of landuse consumption for settlement and transportation purpose (hector/day) by comparing with the recreational land use, as well as the federal government's goals for land use reduction per year. Therefore, the spatial monitoring and evaluation of settlement development at the best possible small-scale are one of the fundamental tasks in order to meet the requirements of politics and society for examining and achieving such environmental goals.
 
 The importance of this task is also reflected in the contemporay literature:
 

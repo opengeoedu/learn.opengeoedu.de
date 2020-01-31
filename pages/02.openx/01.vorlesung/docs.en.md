@@ -12,7 +12,7 @@ This new form of openness is characterized by the formation of terms with the wo
 
 [![](Wikimedia.png?resize=300&classes=caption "The ABC of free knowledge? (Source: Wikimedia Salon)")](https://www.youtube.com/watch?v=9Ga0SRMxHSY)
 
-!! „"The more open, the better!" - Does this formula also apply to the field of Open Science? These questions were discussed in the Wikimedia salon "The ABC of Free Knowledge" on 13.03.2018. Have a look at the following [Video](https://www.youtube.com/watch?v=9Ga0SRMxHSY). <br><span class="small"> If the video is no longer available, look for alternatives.</p>
+!! „"The more open, the better!" - Does this formula also apply to the field of Open Science? These questions were discussed in the Wikimedia salon "The ABC of Free Knowledge" on 13.03.2018. Have a look at the following [Video](https://www.youtube.com/watch?v=9Ga0SRMxHSY). <br><span class="small"> If the video is no longer available, look for alternatives.
 
 
 

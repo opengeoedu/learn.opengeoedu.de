@@ -13,7 +13,7 @@ taxonomy:
         <a href="http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/open-educational-resources/global-oer-logo">UNESCO</a></figcaption>
 </figure>
 
-Open Educational Resources (OER) means in the broader sense that educational content is open in a double sense: They are freely accessible and may be used freely. Other competing terms are free learning and teaching resources and the like.
+Open Educational Resources (OER) means in the broader sense that educational content is open in a double sense: They are freely accessible and they may be used freely. Other competing terms are free learning and teaching resources and the like.
 
 Open educational content is therefore free content that is or has been created for the educational sector or is suitable for it.
 
