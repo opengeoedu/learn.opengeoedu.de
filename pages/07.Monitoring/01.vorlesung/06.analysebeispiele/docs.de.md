@@ -26,6 +26,7 @@ Eine Auswahl dieser IÖR-Monitoring-Ergebnisse wird im Folgenden vorgestellt:
 
 <style>iframe{max-width: 600px; width: 100%; height: 500px; max-height: 600px}</style> <iframe src="https://h5p.org/h5p/embed/708933" width="100%" max-width=600 max-height="600" height=400 frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+<br/>
 
 Hier ist der prozentuale Anteil der baulich geprägten Siedlungs- und Verkehrsfläche an den Überschwemmungsgebieten in den Bundesländern Deutschlands dargestellt.
 
