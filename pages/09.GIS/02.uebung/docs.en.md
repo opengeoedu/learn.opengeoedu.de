@@ -52,4 +52,7 @@ In the exercises you will learn how to start working with geographic information
 
 Each example results in thematic evaluations in the form of maps, diagrams and assessments, which are compiled in a written document written according to scientific rules.
 
-[center]<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=crs_242&client_id=opengeoedu" markdown="1" target="_blank">![](/images/exercise.png?resize=200)Click here for the exercises (ILIAS)</a>[/center]
+
+| Exercises                         |                                                    Click-by-Click                                                     |
+| --------------------------------- | :-------------------------------------------------------------------------------------------------------------------: |
+| **Sustainable Development Goals** | [color=blue][fa=fa-file-pdf extras=fa-3x ]<br>[pdf](GIS_SDG_Click-by-Click%20English_Final.pdf?target=_blank)[/color] |
