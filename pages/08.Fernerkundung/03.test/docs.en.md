@@ -4,6 +4,7 @@ menu: Test
 taxonomy:
     category:
         - docs
+visible: false
 ---
 The online test serves to briefly test the knowledge acquired in this learning unit. A test usually consists of 20 questions and can be completed in 20 minutes. At the end you have the opportunity to see whether you have answered correctly or not. The test is part of the certificate of achievement for your module certificate.
 
