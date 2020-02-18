@@ -19,7 +19,7 @@ Bei den passiven optischen Sensoren, gibt es eine Reihe an unterschiedlichen Sys
 In der folgenden Abbildung sind einige der gängigsten aktiven und passiven Erdbeobachtungssatelliten gelistet. Die Einteilung nach Wellenlängenbereich und räumlicher Auflösung (Pixelgröße) ist dabei eine hilfreiche Methode um sich einen Überlick zu schaffen.
 
 
-![Satelliten_VGL](Satelliten_VGL_d.png?resize=700?classes=caption "Beispiele gängiger Satelliten, nach spektraler und räumlicher Auflösung unterteilt und nach passiven und aktiven Sensoren getrennt.")
+![Satelliten_VGL](Satelliten_VGL_d.png?resize=700&classes=caption "Beispiele gängiger Satelliten, nach spektraler und räumlicher Auflösung unterteilt und nach passiven und aktiven Sensoren getrennt.")
 <br><br>
 
 
