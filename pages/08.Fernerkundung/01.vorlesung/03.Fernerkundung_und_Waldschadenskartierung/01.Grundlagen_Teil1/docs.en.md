@@ -20,7 +20,7 @@ The following figure lists some of the most common active and passive Earth obse
 
 
 
-![Satellites_VGL](Satellites_VGL_d_en.png?resize=750&classes=caption "Examples of common satellites, divided by spectral and spatial resolution and separated by passive and active sensors." )
+![Satellites_VGL](Satelliten_VGL_d_en.png?resize=750&classes=caption "Examples of common satellites, divided by spectral and spatial resolution and separated by passive and active sensors." )
 <br><br>
 
 
