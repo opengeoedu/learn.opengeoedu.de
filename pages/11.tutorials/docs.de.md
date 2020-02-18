@@ -203,7 +203,7 @@ An dieser Stelle werden Verknüpfungen zu externen Inhalten bereitgestellt, die 
 
 <div class="row align-items-center">
     <div class="col-sm-9">
-        <h4>map-site.de<small>Lernplattform für Open Source GIS</small></h4>
+        <h4>map-site.de<small> Lernplattform für Open Source GIS</small></h4>
         <p class="text-justify">Diese Lernplattform versteht sich als Einstieg in die Welt von Open Source GIS, im Speziellen auf QGIS. Die Lektionen zu den Themen QGIS und Open Source GIS sind für nichtkommerzielle Zwecke frei verwendbar.</p>
         <p markdown="1">Weiter zur [Lernplattform für Open Source GIS](https://lernplattform.map-site.de/?target=_blank)</p>
     </div>
