@@ -192,3 +192,12 @@ An dieser Stelle werden Verknüpfungen zu externen Inhalten bereitgestellt, die 
     <div class="col-sm-3" markdown="1">[![](learnesri.png)](https://learn.arcgis.com?target=_blank)</div>
 </div>
 
+<div class="row align-items-center">
+    <div class="col-sm-9">
+        <h4>Tutorial Schweizer Weltatlas</h4>
+        <p class="text-justify">Der Schweizer Weltatlas, erstellt durch Spezialisten vom Institut für Kartografie und Geoinformation der ETH Zürich, enthält interessante Informationen und zum Teil auch <a href="https://schweizerweltatlas.ch/materialien/?fwp_suche=interaktiv">interaktive Tools</a>, die den OpenGeoEdu-Kurs gut ergänzen. Insbesondere die <a href="https://schweizerweltatlas.ch/listings/0012/">Werkzeuge zu Kartenprojektionen</a> unterstützen das Verständnis für die Abbildung der komplexen Erdfigur auf ebene, rechtwinklige Koordinatenreferenzsysteme.</p>
+        <p markdown="1">Weiter zum [Schweizer Weltatlas](https://schweizerweltatlas.ch?target=_blank)</p>
+    </div>
+    <div class="col-sm-3" markdown="1">[![](schweizerweltatlas.png)](https://schweizerweltatlas.ch?target=_blank)</div>
+</div>
+
