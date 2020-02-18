@@ -3,6 +3,14 @@ title: 'Sensors and atmosphere'
 taxonomy:
     category:
         - docs
+twitterenable: true
+twittercardoptions: summary
+articleenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+facebookenable: true
 ---
 
 ## Sensor types
@@ -19,7 +27,7 @@ The passive optical sensors have a number of different systems. They vary e.g. i
 The following figure lists some of the most common active and passive Earth observation satellites. The classification according to wavelength range and spatial resolution (pixel size) is a helpful method to get an overview.
 
 
-![Satellites_VGL](Satellites_VGL_d_en.jpg?resize=750?classes=caption "Examples of common satellites, divided by spectral and spatial resolution and separated by passive and active sensors." )
+![Satellites_VGL](Satellites_VGL_d_en.jpg?resize=750?classes=caption "Examples of common satellites, divided by spectral and spatial resolution and separated by passive and active sensors.")
 <br><br>
 
 
