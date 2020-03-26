@@ -3,14 +3,13 @@ title: 'Literatur'
 taxonomy:
     category:
         - docs
----
-#### Referenzen
+---M
 
 Aberle, H., 2017. Hyperspectral Remote Sensing and Field Measurements for Forest Characteristics - A Case Study in the Hainich National Park, Central Germany. Georg-August-Universität Göttingen. http://hdl.handle.net/11858/00-1735-0000-0023-3DD5-8
 
 Aberle, H, Hovenbitzer, M., 2019. (E-)Lernen mit offenen Geo- und Fernerkundungsdaten. AGIT - Journal für Angewandte Informatik, 5-2019, 116-124. https://doi.org/10.14627/537669010
 
-Ackermann, J., Adler, P., Engels, F., Hoffmann, K., Jütte, K., Rüffer, O., Sagischewski, H., Seitz, R., 2014. Forstliche Fernerkundung in den Bundesländern auf neuen Wegen. AFZ-Der Wald 9, 9–11.
+Ackermann, J., Adler, P., Engels, F., Hoffmann, K., Jütte, K., Rüffer, O., Sagischewski, H., Seitz, R., 2014. Forstliche Fernerkundung in den Bundesländern auf neuen Wegen. AFZ-Der Wald 9, 8–10.
 
 Bannari, A., Morin, D., Bonn, F., Huete, A.R., 1995. A review of vegetation indices. Remote Sens. Rev. 13, 95–120. https://doi.org/10.1080/02757259509532298
 
@@ -24,7 +23,7 @@ Elatawneh, A., Wallner, A., Manakos, I., Schneider, T., Knoke, T., 2014. Forest 
 
 Ewald Fassnacht, F., Latifi, H., Stereńczak, K., Modzelewska, A., Lefsky, M., Waser, L. T., Straub, C., Ghosh, A., 2016. Review of studies on tree species classification from remotely sensed data. Remote Sens. Environ. 186, 64–87. https://doi.org/10.1016/j.rse.2016.08.013
 
-Fagan, M., Defries, R., 2009. Measurement and Monitoring of the World’s Forests: A Review and Summary of Remote Sensing Technical Capability, 2009–2015, Resources for the Future.
+Fagan, M., Defries, R., 2009. Measurement and Monitoring of the World’s Forests: A Review and Summary of Remote Sensing Technical Capability, 2009–2015, Resources for the Future. https://www.rff.org/documents/515/RFF-Rpt-Measurement20and20Monitoring_Final.pdf
 
 Gardiner, B., Blennow, K., Carnus, J., Fleischer, P., Ingemarson, F., Landmann, G., Lindner, M., Marzano, M., Nicoll, B., Orazio, C., Peyron, J., Schelhaas, M., Schuck, A., Usbeck, T., 2010. Destructive Storms in European Forests : Past and Forthcoming Impacts. Final Rep. to Eur. Comm. - DG Environ. 138. https://doi.org/10.13140/RG.2.1.1420.4006
 
@@ -50,20 +49,20 @@ Romijn, E., Lantican, C. B., Herold, M., Lindquist, E., Ochieng, R., Wijaya, A.,
 
 Rouse, J. W., Haas, R. H., Scheel, J. A., Deering, D. W., 1974. Monitoring Vegetation Systems in the Great Plains with ERTS, in: Earth Resources Technology Satellite-1 Symposium- Volume I: Technical Presentations. pp. 309–317.
 
-Schelhaas, M.-J., 2008. Impacts of Natural Disturbances on the Development of European Forest Resources: Application of Model Approaches from Tree and Stand Levels to Large-scale Scenarios.
+Schelhaas, M.-J., 2008. Impacts of Natural Disturbances on the Development of European Forest Resources: Application of Model Approaches from Tree and Stand Levels to Large-scale Scenarios. http://library.wur.nl/WebQuery/wurpubs/fulltext/146827
 
 Schwarz, M., Steinmeier, C., Holecz, F., Stebler, O., Wagner, H., 2003. Detection of Windthrow in Mountainous Regions with Different Remote Sensing Data and Classification Methods. Scand. J. For. Res. 18, 525–536. https://doi.org/10.1080/02827580310018023
 
-Seitz, R., Straub, C., 2017. FastResponse - die schnelle Antwort nach dem Sturm. LWF Aktuell 4, 14–16.
+Seitz, R., Straub, C., 2017. FastResponse - die schnelle Antwort nach dem Sturm. LWF Aktuell 4, 14–16. https://www.lwf.bayern.de/mam/cms04/informationstechnologie/dateien/a115_fast_response_seitz.pdf
 
-Steinmeier, C., Schwarz, M., Holecz, F., Stebler, O., Wagner, H., 2002. Evaluation moderner Fernerkundungsmethoden zur Sturmschadenerkennung im Wald. Eidg. Forschungsanstalt WSL, Birmensdorf.
+Steinmeier, C., Schwarz, M., Holecz, F., Stebler, O., Wagner, H., 2002. Evaluation moderner Fernerkundungsmethoden zur Sturmschadenerkennung im Wald. Eidg. Forschungsanstalt WSL, Birmensdorf. https://www.dora.lib4ri.ch/wsl/islandora/object/wsl%3A10317/datastream/PDF/Steinmeier-2002-Evaluation_moderner_Fernerkundungsmethoden_zur_Sturmschadenerkennung-%28published_version%29.pdf
 
 Thomas, V., 2012. Hyperspectral remote sensing for forest management, in: Thenkabail, P., Lyon, J.G., Huete, A. (Eds.), Hyperspectral Remote Sensing of Vegetation. CRC Press, Taylor & Francis Group, Boca Raton, p. 705.
 
 Tietz, R., 2018. Zugang zu Grünflächen in Großstädten – Eignung von OSM-Daten dargestellt an den Beispielen Dresden und Karlsruhe. AGIT ‒ Journal für Angewandte Geoinformatik 4, 338–347. https://doi.org/10.14627/537647043
 <br><br>
 
-#### Weiterführende Literatur
+#### Lehrbücher
 
 Albertz, J., 2009. Einführung in die Fernerkundung. Grundlagen der Interpretation von Luft- und Satellitenbildern, 4th ed. Wissenschaftliche Buchgesellschaft.
 
@@ -71,14 +70,14 @@ Jensen, J.R., 2007. Remote sensing of the environment: an earth resource perspec
 
 Lillesand, T. M., Kiefer, R. W., Chipman, J. W., 2008. Remote sensing and image interpretation, 6th ed. Wiley-Blackwell, John Wiley & Sons, Hoboken, NJ.
 
-Richards, J. A., 2013. Remote Sensing Digital Image Analysis: An Introduction 494.
+Richards, J. A., 2013. Remote Sensing Digital Image Analysis: An Introduction. 5th ed., 494 S., Springer.
 <br><br>
 
-#### Linksammlung
+#### Weblinksammlung
 
 -	Bundesamt für Kartographie und Geodäsie (BKG)
   - BKG-Homepage: [bkg.bund.de](https://www.bkg.bund.de)
-  - BKG Open Data: [geodatenzentrum.de](http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=deu&gdz_akt_zeile=5&gdz_anz_zeile=1&gdz_unt_zeile=0&gdz_user_id=0)
+  - BKG Open Data: [geodatenzentrum.de](https://gdz.bkg.bund.de/)
 
 
 -	Copernicus
@@ -113,6 +112,15 @@ Richards, J. A., 2013. Remote Sensing Digital Image Analysis: An Introduction 49
       - Umweltbundesamt: [umweltbundesamt.de](https://www.umweltbundesamt.de/daten/land-forstwirtschaft/nachhaltige-waldwirtschaft#textpart-1)
 
 
+- Lexikon der Fernerkundung (Baldenhofer): [FE-Lexikon](http://www.fe-lexikon.info/)
+
+
+  - weitere Lernangebote mit Erdbeobachtung
+      - Remote Sensing MOOC (DLR, ESA, Universität Jena): [EO-College](https://eo-college.org/landingpage/)
+      - Fernerkundung in Schulen (Universitäten Bochum & Bonn): [FIS](http://www.fis.uni-bonn.de/)
+      - Lernplattform für Jugendliche (PH Heidelberg): [geo:spektiv](https://www.geospektiv.de/)
+
+
 - Eurostat: [ec.europa.eu](https://ec.europa.eu/eurostat/de)
 
 -	USGS Sentinel2Look:  [landsatlook.usgs.gov](https://landsatlook.usgs.gov/sentinel2/viewer.html)
@@ -126,8 +134,6 @@ Richards, J. A., 2013. Remote Sensing Digital Image Analysis: An Introduction 49
 -	SNAP:  [step.esa.int](http://step.esa.int/main/download/)
 
 -	OpenStreetMap: [openstreetmap.org](https://www.openstreetmap.org)
-
-
 
 
 ![sitzen Laptop](sitzen_laptop250.jpg)

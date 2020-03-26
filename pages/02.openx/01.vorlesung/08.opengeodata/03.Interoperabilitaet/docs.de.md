@@ -3,14 +3,6 @@ title: Interoperabilität
 taxonomy:
     category:
         - docs
-twitterenable: true
-twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
-facebookenable: true
 ---
 
 Das wesentliche Ziel des OGC ist Interoperabilität.
@@ -19,7 +11,7 @@ Das wesentliche Ziel des OGC ist Interoperabilität.
 
 ![](OGC.png?resize=300&classes=caption "Open Geospatial Consortium")
 
-Das OGC verabschiedet abstrakte Spezifikationen und Implementierungsspezifikationen. Mit diesen werden wir in der Übungsbearbeitung konfrontiert, so z.B. durch Nutzung einer Hintergrundkarte als Web Map Service (WMS), eine solche Implementationsspezifikation, die inzwischen auch zur Norm gemacht wurde. Ein WMS (www.opengeospatial.org/standards/wms) erzeugt und visualisiert als webbasierter Dienst aus vorhandenen Geodaten eine Karte als Rasterbild in einem Format (z.B. PNG, JPG, GIF), welches vom gängigen Webbrowser unmittelbar dargestellt werden kann. 
+Das OGC verabschiedet abstrakte Spezifikationen und Implementierungsspezifikationen. Mit diesen werden wir in der Übungsbearbeitung konfrontiert, so z.B. durch Nutzung einer Hintergrundkarte als Web Map Service (WMS), eine solche Implementationsspezifikation, die inzwischen auch zur Norm gemacht wurde. Ein [WMS](https://www.opengeospatial.org/standards/wms) erzeugt und visualisiert als webbasierter Dienst aus vorhandenen Geodaten eine Karte als Rasterbild in einem Format (z.B. PNG, JPG, GIF), welches vom gängigen Webbrowser unmittelbar dargestellt werden kann. 
 
 ! Weiterführende Informationen unter:
 ! * [Open Geospatial Consortium](http://www.opengeospatial.org/)

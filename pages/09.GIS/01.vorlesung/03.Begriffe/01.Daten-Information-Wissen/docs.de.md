@@ -16,7 +16,7 @@ Unterste Ebene: Zeichenebene (Syntax) verwendet Zeichen von vereinbarter Form al
 
 Ein Beispiel:
 ![Ein Beispiel](GIS4.png)
-+ Die dargestellte Zeichenfolge aus 0 und 1 stelle eine Binärdarstellung dar, der angedeutete Rahmen umschließt eine 8er Bitfolge. Mit den Regeln zur Wandlung einer Binärdarstellung in eine Dezimalzahl lässt sich der Wert der Binärfolge 11111000 berechnen zu 0 * 2^0 + 0 * 2^1 + 0 * 2^2 + 1 * 2^3 + 1 * 2^4 + 1 * 2^5 + 1 * 2^6 + 1 * 2^7 = 228.
++ Die dargestellte Zeichenfolge aus 0 und 1 stelle eine Binärdarstellung dar, der angedeutete Rahmen umschließt eine 8er Bitfolge. Mit den Regeln zur Wandlung einer Binärdarstellung in eine Dezimalzahl lässt sich der Wert der Binärfolge 11111000 berechnen zu 0 * 2^0 + 0 * 2^1 + 0 * 2^2 + 1 * 2^3 + 1 * 2^4 + 1 * 2^5 + 1 * 2^6 + 1 * 2^7 = 248.
 + In der Mitte ist das Zahlentupel 3451278,35; 5336412,46 dargestellt, welches sich bei genauerer Betrachtung unter Nutzung des Wissens zu Koordinaten - und hier speziell zu Gauß-Krüger-Koordinaten als früherem Koordinatenreferenzsystem in Deutschland - als zweidimensionaler Punkt im Gauß-Krüger-Koordinatensystem erweist. Dieser Punkt liegt im 3. Meridianstreifen - die Führungsziffer deutet dies an - gut 49 km westlich von 9° östlicher Länge (Rechtswert). Der Punkt ist 5336412,46 m entfernt vom Äquator (Hochwert).
 + Beim unteren graphischen Symbol könnte es sich - bei entsprechendem Wissen über die Zeichenvorschriften in Karten - um die Darstellung eines Wohngebäudes mit der Hausnummer 12 zur Straße zeigend in einer Katasterkarte handeln.
 + Und zu guter Letzt erkennt man nur mit dem Vorwissen über die Professur für Geodäsie und Geoinformatik, dass es sich hier um das Logo der Professur handelt.

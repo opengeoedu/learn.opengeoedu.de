@@ -3,30 +3,22 @@ title: global
 taxonomy:
     category:
         - docs
-twitterenable: true
-twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
-facebookenable: true
 ---
 
 ## Global Open Data Index
 
-Der [Global Open Data Index](https://index.okfn.org/) stellt ein jährliches Ranking der Länder anhand von zehn Schlüsseldatensätzen an jedem Ort zusammen, ausgeführt von lokalen Open Data Experten:
+Der [Global Open Data Index](https://index.okfn.org/) stellt ein Ranking der Länder anhand von zehn Schlüsseldatensätzen an jedem Ort zusammen, ausgeführt von lokalen Open Data Experten:
 
 1. Wahlergebnisse
-1. Unternehmensregister
-1. Landeskarte
-1. Staatsausgaben
-1. Staatsbudget
-1. Gesetzgebung
-1. Nationale Statistiken
-1. Postleitzahlen
-1. Fahrpläne
-1. Schadstoffemissionen
+2. Unternehmensregister
+3. Landeskarte
+4. Staatsausgaben
+5. Staatsbudget
+6. Gesetzgebung
+7. Nationale Statistiken
+8. Postleitzahlen
+9. Fahrpläne
+10. Schadstoffemissionen
 
 [![Global Open Data Index](opendataindex.png?classes=caption "Global Open Data Index")](https://index.okfn.org/place/#map)
 

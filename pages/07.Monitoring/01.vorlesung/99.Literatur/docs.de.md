@@ -23,6 +23,7 @@ Urban Morphologies](https://www.mdpi.com/2220-9964/8/1/2), In: ISPRS Internation
 * Langford, M., (2013): [An Evaluation of Small Area Population Estimation Techniques Using Open Access Ancillary Data.](https://onlinelibrary.wiley.com/doi/abs/10.1111/gean.12012) Geographical Analysis 45(3), S.324-344.
 * Lantseva, A. A. & Ivanov, S. V. (2016): [Modeling Transport Accessibility with Open Data: Case Study of St. Petersburg.](https://www.sciencedirect.com/science/article/pii/S1877050916326916) Procedia Computer Science 101, S.197-206.
 * Ilieva, R. T., and McPhearson, T. (2018). [Social-media data for urban sustainability](https://www.nature.com/articles/s41893-018-0153-6). Nature Sustainability, 10, S.553.
+* * Meinel, G. et al. (Hrsg): [Flächennutzungsmonitoring X Flächenpolitik – Flächenmanagement – Indikatoren?](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-336810)  Berlin : Rhombos-Verlag, 2018,(IÖR-Schriften; 76).
 * Meinel, G. et al. (Hrsg): [Flächennutzungsmonitoring IX: Nachhaltigkeit der Siedlungs- und Verkehrsentwicklung?](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa2-172489)  Berlin : Rhombos-Verlag, 2017, S.326 (IÖR-Schriften; 73).
 * Meinel, G. et al., (2016): [Studie zur Implementierung einer Innenentwicklungspotenzial - Flächenerhebung in die Amtliche Statistik.](http://www.bbsr.bund.de/BBSR/DE/Veroeffentlichungen/BBSROnline/2016/bbsr-online-02-2016-dl.pdf?__blob=publicationFile&v=2) Bonn: BBRS, S.14.
 * Richter, B., Grunewald, K., Meinel, G., (2016): [Analyse von Wegedistanzen in Städten zur Verifizierung des Ökosystemleistungsindikators „Erreichbarkeit Städtischer Grünflächen](http://gispoint.de/fileadmin/user_upload/paper_gis_open/AGIT_2016/537622063.pdf). In: AGIT - Journal für Angewandte Geoinformatik 2, S.472-781.
@@ -36,6 +37,8 @@ Urban Morphologies](https://www.mdpi.com/2220-9964/8/1/2), In: ISPRS Internation
 
 
 ##Internetquellen
+
+* [Atlas of Urban Expansion - Global](http://www.atlasofurbanexpansion.org/data)
 
 * [EU Science hub](https://ghsl.jrc.ec.europa.eu/enact.php)
 
@@ -62,5 +65,3 @@ Urban Morphologies](https://www.mdpi.com/2220-9964/8/1/2), In: ISPRS Internation
 * [Urban Data Platform](http://urban.jrc.ec.europa.eu)
 
 * [Zensus2011 Atlas – Deutschland](https://atlas.zensus2011.de/)
-
-* [Atlas of Urban Expansion - Global](http://www.atlasofurbanexpansion.org/data)

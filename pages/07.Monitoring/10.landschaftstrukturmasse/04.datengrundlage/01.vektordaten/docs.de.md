@@ -15,5 +15,4 @@ Vektordaten sind in der Geoinformatik Punkte, Linien, Flächen und Körper, welc
 
 Durch die geometrischen Informationen der Vektordaten können unter anderem Berechnungen hinsichtlich der Fläche, des Umfangs oder der Form durchgeführt werden.
 
-Vektordaten können z.B. aus dem ATKIS-DLM oder frei aus Open Street Map bezogen oder selbst digitalisiert werden. Unabdingbar ist bei allen Daten eine vorherige Qualitätskontrolle. 
-
+Vektordaten können z.B. aus dem ATKIS-DLM oder frei aus Open Street Map bezogen oder selbst digitalisiert werden. Unabdingbar ist bei allen Daten eine vorherige Qualitätskontrolle.

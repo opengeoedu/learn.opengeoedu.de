@@ -3,14 +3,6 @@ title: rechtlich
 taxonomy:
     category:
         - docs
-twitterenable: true
-twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
-facebookenable: true
 ---
 
 Dies ist auch im Rechtsraum durch z.B. die Public Sector Information (PSI) Directive auf europäischer Ebene, das E-Government-Gesetz ([EGovG](http://www.gesetze-im-internet.de/egovg/)) oder das Geodatenzugangsgesetz ([GeoZG](https://de.wikipedia.org/wiki/Geodatenzugangsgesetz)) auf nationaler Ebene abgesichert.

@@ -1,5 +1,5 @@
 ---
-title: Beispiele interaktiver Lärmanwendungen 
+title: Beispiele für Lärmanwendungen 
 taxonomy:
     category:
         - docs
@@ -7,12 +7,19 @@ taxonomy:
 
 ## Visualisierung
 
-Interaktiv lassen sich Lärmkarten in Städten und Einrichtungen betrachten.
+Interaktiv lassen sich Lärmkarten in verschiedenen Städten und Einrichtungen betrachten.
 
 ! * [Lärmkarte Berlin 2018: So laut ist es vor Ihrer Haustür](https://interaktiv.morgenpost.de/laermkarte-berlin/) <br>
 ! * [framap.fraport.de](http://framap.fraport.de/aimPort/ISFL/Modul_Gis/main.aspx?AID=ISFL2&STY=6) <br>
 ! * [So viel Stadt verbraucht Tegel](https://digitalpresent.tagesspiegel.de/txl) 
 ! * [Flugrouten über Berlin](https://digitalpresent.tagesspiegel.de/flugrouten)
+
+## Lärmaktionsplanung
+
+Unterschiedliche Städte und Gemeinden stellen die ausgewiesenen Ruhigen Gebiete im Geodateninfrastrukturen oder offenen Datenportalen zur Verfügung, oftmals jedoch nur in pdf-Form
+
+! * Die Stadt Rostock bietet den Datensatz im offenen Datenportal an: [Ruhige Gebiete](https://www.opendata-hro.de/dataset/ruhige_gebiete)
+! * Die Stadt Bremen bietet ausgewiesene Ruhige Gebiete im [Kartendienst](https://metaver.de/kartendienste?layers=eed0276a46a37cae5aa65a23afdbf252&lang=de&topic=themen&bgLayer=webatlasde_light&E=481010.32&N=5889582.39&zoom=7) an.
 
 
 ## Noisemapping

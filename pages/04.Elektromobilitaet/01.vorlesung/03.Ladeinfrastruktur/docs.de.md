@@ -6,15 +6,18 @@ taxonomy:
 ---
 ## Aktuelle Ladeinfrastruktur
 
-Die unzureichende öffentliche Ladeinfrastruktur stellt ein wesentliches Hindernis für den erfolgreichen Übergang zur Elektromobilität dar. Laut Berechnungen der NPE (2015) sind rund 85 Prozent der benötigten Ladeinfrastruktur private Ladepunkte. Die restlichen 15 Prozent befinden sich im öffentlich zugänglichen Bereich. Die meisten Nutzer nutzen eine private Lademöglichkeit. Wer lange Strecken fährt, lädt unterwegs an derzeit gut 13.000 öffentlich zugänglichen Ladepunkten (Bundesverband der Energie- und Wasserwirtschaft 2019).
+Die unzureichende öffentliche Ladeinfrastruktur stellt ein wesentliches Hindernis für den erfolgreichen Übergang zur Elektromobilität dar. Laut Berechnungen der NPE (2015) sind rund 85 Prozent der benötigten Ladeinfrastruktur private Ladepunkte. Die restlichen 15 Prozent befinden sich im öffentlich zugänglichen Bereich. Die meisten Nutzer nutzen eine private Lademöglichkeit.
 
-Problem sind auch sehr divergierende Angaben zu den verfügbaren Ladestationen. So spricht eine Übersicht des Energiewirtschaftsverbands BDEW Anfang 2019 von rund 13.000 öffentlichen. Die Bundesnetzagentur stellt ein <a href="https://netzausbau.maps.arcgis.com/apps/webappviewer/index.html?id=0b5ca416de8445e4b68666a202f0f833">Ladesäulenregister</a> mit  7.7000 Ladesäulen (Stand Februar 2019) zu den im Rahmen der Ladesäulenverordnung (LSV) gemeldeten Daten zur öffentlich zugänglichen Ladeinfrastruktur in Deutschland zum [Download](https://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/HandelundVertrieb/Ladesaeulenkarte/Ladesaeulenkarte_node.html) (CC-BY 4.0) bereit.
+Problem sind auch sehr divergierende Angaben zu den verfügbaren Ladestationen. 
+
+Die Bundesnetzagentur stellt ein <a href="https://netzausbau.maps.arcgis.com/apps/webappviewer/index.html?id=0b5ca416de8445e4b68666a202f0f833">Ladesäulenregister</a> mit  11.600 Ladesäulen (Stand Januar 2020) zu den im Rahmen der Ladesäulenverordnung (LSV) gemeldeten Daten zur öffentlich zugänglichen Ladeinfrastruktur in Deutschland zum [Download](https://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/HandelundVertrieb/Ladesaeulenkarte/Ladesaeulenkarte_node.html) (CC-BY 4.0) bereit.
+
+Derzeit (Stand Dezember 2019) werden vom Bundesverband der Deutschen Energiewirtschaft (BDEW) rund 23.840 öffentliche und halböffentliche Ladepunkte von Energieunternehmen, Parkhaus- und Parkplatzbetreibern, Supermärkten und Hotels erfasst. Das ist eine Steigerung von über 50 Prozent innerhalb eines Jahres. Der Anteil der Schnellladestationen liegt bei rund 12 Prozent.
 
 [![Ladesäulenregister (BNetzA)](ladesaeulenregister_BNetzA.jpg?classes=caption "Ladesäulenregister der BNetzA (Januar 2019)")](https://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/HandelundVertrieb/Ladesaeulenkarte/Ladesaeulenkarte_node.html)
 
 <!-- 
 Nachfolgende Abbildung deutet als Übersicht das verfügbare Ladenetz in Deutschland und den Benelux-Ländern an (http://maps.ladenetz.de/).
-
 [![](ladenetz.png?classes=caption "Ladenetz DACH- und Benelux-Länder (Juni 2018) [http://maps.ladenetz.de/](http://maps.ladenetz.de/)")](http://maps.ladenetz.de/)
 -->
 

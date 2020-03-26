@@ -13,6 +13,7 @@ twittercardoptions: summary
 twittershareimg: /images/oge_logo_ohnehintergrund.svg
 twittertitle: 'OpenGeoEdu | Übersicht'
 twitterdescription: 'Der offene Onlinekurs OpenGeoEdu besteht aus mehreren Kursteilen, die in unterschiedlicher Kombination frei zusammengestellt werden können.'
+articleenabled: false
 orgaenabled: true
 orga:
     name: OpenGeoEdu
@@ -29,7 +30,7 @@ orga:
         -
             area: Switzerland
     url: 'https://www.opengeoedu.de'
-    logo: 'https://www.opengeoedu.de/images/logo/oge.svg'
+    logo: 'https://www.opengeoedu.de/images/logo.png'
     ratingValue: 2.5
     foundingDate: '2017'
     email: info@opengeoedu.de
@@ -37,21 +38,17 @@ orga:
         -
             sameas: 'https://twitter.com/OpenGeoEdu'
         -
-            sameas: 'https://www.facebook.com/OpenGeoEdu/'
-        -
             sameas: 'https://github.com/opengeoedu'
         -
             sameas: 'https://www.instagram.com/opengeoedu/'
-        -
-            sameas: 'https://plus.google.com/b/104005783617945697564/104005783617945697564'
         -
             sameas: 'https://www.youtube.com/channel/UChFyYD9h3ynC1rX-s3tyNdw'
         -
             sameas: 'https://www.linkedin.com/company/opengeoedu/'
 orgaratingenabled: false
-personenabled: false
-facebookenable: true
+facebookenable: false
 ---
+
 <div class="row my-5">
     <div class="col-md-6">
         [plugin:youtube](https://www.youtube.com/watch?v=yYoiGUOCyE8)

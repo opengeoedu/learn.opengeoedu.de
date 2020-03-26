@@ -11,6 +11,7 @@ facebookenable: true
 ---
 
 ## Autoren der Lerneinheit
+
 <div class="row align-items-center">
   <div class="col-sm-3" markdown="1">![David Hennecke](_MG_7029_a.jpg?lightbox=800&resize=300&classes=caption "M. Eng. David Hennecke")</div>
   <div class="col-sm-9">
@@ -28,13 +29,12 @@ facebookenable: true
 </div>
 
 ### Lernziele der Vorlesung
+
 Bereits seit gut 30 Jahren werden Landschaftsstrukturmaße in der Forschung als Mittel eingesetzt. Zudem werden sie z.T. als wichtige Umweltindikatoren in der deutschen und internationalen Umweltpolitik angesehen.
 
-! https://www.umweltbundesamt.de/daten/umweltindikatoren
-
+! <https://www.umweltbundesamt.de/daten/umweltindikatoren>
 
 In diesem Modul lernen Sie, welche Landschaftsstrukturmaße es gibt und wie bzw. mit welcher Software Sie diese nutzen und berechnen können. Zudem wird die benötigte Datengrundlage besprochen, um eine erfolgreiche Analyse anhand von Landschaftsstrukturmaßen durchführen zu können.
-
 
 Neben der Nutzung von Landschaftsstrukturmaßen, werden folgende Inhalte in diesem Modul behandelt:
 
@@ -44,9 +44,8 @@ Neben der Nutzung von Landschaftsstrukturmaßen, werden folgende Inhalte in dies
 * Wo liegen die Anwendungsbereiche der Landschaftsstrukturmaße?
 * Wie kann man die Landschaftsstrukturmaße für Analysen nutzen?
 
-
-
 ### Struktur der Vorlesung
+
 Die Vorlesung ist anlehnend an die Habilitationsschrift von Herrn Prof. Walz und dessen Vorlesungen an der Universität Rostock (z.B. im Modul Geoinformatik und Landschaftswandel) entstanden und ist in 5 Kapitel aufgeteilt:
 
 * Grundlagen

@@ -3,18 +3,10 @@ title: 'Open Street Map'
 taxonomy:
     category:
         - docs
-twitterenable: true
-twittercardoptions: summary
-orgaenabled: false
-orga:
-    ratingValue: 2.5
-orgaratingenabled: false
-personenabled: false
-facebookenable: true
 ---
 
 [![OSM](osm_logo.png)](https://www.openstreetmap.org/about)
-OpenStreetMap ist ein im Jahre 2004 gegründetes Projekt mit dem Ziel, eine freie Weltkarte zu erschaffen. OSM-Kartierer erzeugen weltweit Daten über Straßen, Eisenbahnen, Flüsse, Wälder, Häuser und alles andere, was gemeinhin auf Karten zu sehen ist. Dieses Projekt soll die für kommerzielle Geodaten oftmals vorhandenen Barrieren z. B. bezüglich Nutzungsrechten und Kosten überwinden. Im Jahr 2006 wurde die OpenStreetMap-Foundation als Non-Profit-Organisation gegründet, die durch Spenden und sonstige Gelder die Infrastruktur aufrechterhält ([www.openstreetmap.org](http://www.openstreetmap.org/), F. Ramm und J. Topf, (2008)). OSM wird ganz wesentlich durch das Engagement seiner Nutzergemeinschaft geprägt. Im OSM Wiki sind im August 2017 über 3 Millionen Nutzer registriert. Die OpenStreetMap-Daten darf jeder lizenzkostenfrei einsetzen und beliebig weiterverarbeiten. Die Daten unterliegen der Open Database License ([ODbL](https://opendatacommons.org/licenses/odbl/summary/)).
+OpenStreetMap ist ein im Jahre 2004 gegründetes Projekt mit dem Ziel, eine freie Weltkarte zu erschaffen. OSM-Kartierer erzeugen weltweit Daten über Straßen, Eisenbahnen, Flüsse, Wälder, Häuser und alles andere, was gemeinhin auf Karten zu sehen ist. Dieses Projekt soll die für kommerzielle Geodaten oftmals vorhandenen Barrieren z. B. bezüglich Nutzungsrechten und Kosten überwinden. Im Jahr 2006 wurde die OpenStreetMap-Foundation als Non-Profit-Organisation gegründet, die durch Spenden und sonstige Gelder die Infrastruktur aufrechterhält ([www.openstreetmap.org](http://www.openstreetmap.org/), F. Ramm und J. Topf, (2008)). OSM wird ganz wesentlich durch das Engagement seiner Nutzergemeinschaft geprägt. Im OSM Wiki sind Anfang 2020 über 5 Millionen Nutzer registriert. Die OpenStreetMap-Daten darf jeder lizenzkostenfrei einsetzen und beliebig weiterverarbeiten. Die Daten unterliegen der Open Database License ([ODbL](https://opendatacommons.org/licenses/odbl/summary/)).
 
 ! Weiterführende Informationen unter:
 ! * [www.openstreetmap.org](http://www.openstreetmap.org/)
