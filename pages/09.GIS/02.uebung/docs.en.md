@@ -55,4 +55,4 @@ Each example results in thematic evaluations in the form of maps, diagrams and a
 
 | Exercises                         |                                                    Click-by-Click                                                     |
 | --------------------------------- | :-------------------------------------------------------------------------------------------------------------------: |
-| **Sustainable Development Goals** | [color=blue][fa=fa-file-pdf extras=fa-3x ]<br>[pdf](GIS_SDG_Click-by-Click%20English_Final.pdf?target=_blank)[/color] |
+| **Sustainable Development Goals** | [color=blue][fa=fa-file-pdf extras=fa-3x ]<br>[pdf](GIS_SDG_Click-by-Click-English.pdf?target=_blank)[/color] |
