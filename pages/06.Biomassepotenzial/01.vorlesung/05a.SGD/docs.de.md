@@ -9,7 +9,7 @@ menu: 'Bioenergy & SDGs'
 !!!! Zu welchen SDGs kann die energetische Nutzung biogener Rest- und Abfallstoffe beitragen (Beispiele)?
 
 Richtlinien für die Nutzung der SDG-Logos finden Sie hier: 
-[Sustainable Development Goals - Guidelines for the use of the SDG logo including the color wheel, and 17 icons](https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/01/SDG_Guidelines_AUG_2019_Final.pdf) <br><br>
+[Sustainable Development Goals - Guidelines for the use of the SDG logo including the color wheel, and 17 icons](https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/01/SDG_Guidelines_AUG_2019_Final.pdf) <br>
 
 ![](E_SDG_Poster_2019_without_UN_emblem_WEB.png?lightbox=800&resize=500&classes=caption "Die 17 Sustainable Development Goals. © United Nations")
 
