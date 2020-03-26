@@ -2,7 +2,7 @@
 title: Bioenergie und die SDGs 
 taxonomy:
   category: docs
-menu: 'Bioenergy & SDGs'
+menu: 'Bioenergie & SDGs'
 ---
 
 !!!! Was sind die Sustainable Development Goals? <br>
