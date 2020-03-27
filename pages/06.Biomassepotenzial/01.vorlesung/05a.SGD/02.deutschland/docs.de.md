@@ -11,4 +11,5 @@ Deutschland hat sich zum Ziel gesetzt, die Treibhausgasemissionen bis 2030 um mi
 
 Der spezifische Kraftstoffverbrauch von Pkw und Lkw pro Kilometer ist zwar gesunken; gleichzeitig gibt es jedoch mehr Verkehrsmittel und es werden auch wesentlich mehr Kilometer mit Pkw, Flugzeug & Co zurückgelegt und mehr Güter auf der Straße und auf dem Wasser transportiert (BMU 2016). 
 Einsparungen können z.B. durch den Ausbau des öffentlichen Personenverkehrs, alternative Antriebe (v.a. Elektro-Fahrzeuge, Plug-in-Hybrid Technologien) und Effizienzsteigerungen erreicht werden. Und auch Biokraftstoffe, die aus Abfall- und Reststoffen hergestellt werden, können einen Beitrag zur Erreichung der Klimaschutzziele leisten. 
+
 Wie hoch dieser Beitrag sein könnte, zeigt ein Blick in die [DBFZ Ressourcendatenbank](http://webapp.dbfz.de/resources). Würde man z.B. die Hälfte des bisher nicht genutzten Getreidestrohs zu Biomethan aufbereiten, könnten damit 85% des öffentlichen Personennahverkehrs auf der Straße (v.a. Busse) betrieben werden. Eine Busflotte mit entsprechenden Antrieben natürlich vorausgesetzt!
