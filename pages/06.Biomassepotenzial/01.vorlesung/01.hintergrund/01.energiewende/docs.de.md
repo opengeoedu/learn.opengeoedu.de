@@ -9,7 +9,7 @@ Pflanzliche Biomasse dient direkt (als Nahrungsmittel) oder indirekt (als Futter
 
 Biomasse kann außerdem in *Bioenergie* umgewandelt werden und durch eine sichere, saubere, integrierte und intelligente Bioenergienutzung ein wichtiger Baustein der Energiewende sein. 
 
-Im Pariser Abkommen von 2015 haben 197 Staaten beschlossen, die globale Erderwärmung auf „deutlich unter“ 2°C bis zum Ende des Jahrhunderts zu begrenzen. Bis zum 01.07.2018 haben bereits 178 Staaten dieses Abkommen ratifiziert, darunter alle EU-Mitgliedsstaaten (UNFCCC 2018). Im Klimaschutzplan 2050 hat Deutschland noch einmal bekräftigt, die jährlichen Treibhausgas-Emissionen im Vergleich zu 1990 um 80 - 95 % zu senken (BMUB 2016). Im überwiegenden Teil der [IPCC](http://www.ipcc.ch/)-Szenarien (mehr Infos [hier](http://wiki.bildungsserver.de/klimawandel/index.php/IPCC)) spielt Bioenergie eine wichtige Rolle zur Erreichung der Klimaziele, aber:  
+Im Pariser Abkommen von 2015 haben 197 Staaten beschlossen, die globale Erderwärmung auf „deutlich unter“ 2°C bis zum Ende des Jahrhunderts zu begrenzen. Bis zum 01.07.2018 haben bereits 189 Staaten dieses Abkommen ratifiziert, darunter alle EU-Mitgliedsstaaten (UNFCCC 2020). Im Klimaschutzplan 2050 hat Deutschland noch einmal bekräftigt, die jährlichen Treibhausgas-Emissionen im Vergleich zu 1990 um 80 - 95 % zu senken (BMUB 2016). Im überwiegenden Teil der [IPCC](http://www.ipcc.ch/)-Szenarien (mehr Infos [hier](http://wiki.bildungsserver.de/klimawandel/index.php/IPCC)) spielt Bioenergie eine wichtige Rolle zur Erreichung der Klimaziele, aber:  
 
 - Welche Mengen können wir überhaupt nachhaltig nutzen?
 - Wo befinden sich die Ressourcen?
