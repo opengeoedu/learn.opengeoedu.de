@@ -13,6 +13,8 @@ Stroh ist ein Nebenprodukt der Landwirtschaft; unterschieden wird nach unterschi
 #### Welche Restriktionen und Nutzungskonkurrenzen müssen beachtet werden?
 Die größte Nutzungskonkurrenz ist - wie bereits mehrfach erwähnt - die Verwendung von Getreidestroh zum Erhalt der Humusbilanz. Abgesehen von der Humusbilanzierung, wird Getreidestroh oft als Tiereinstreu verwendet. Hier ist zu überlegen, ob es Alternativen gibt bzw. eine Kaskadennutzung sinnvoll ist.
 
+![](Skript_DBFZ_Einstreu.png?lightbox=800&resize=500&classes=caption "Getreidestroh als Einstreu in der Tierhaltung. Quelle: Jasmin Kalcher (DBFZ)")
+
 #### Welche energetischen Nutzungspfade für Getreidestroh gibt es?
 Stroh kann in unterschiedlichen Konversionspfaden energetisch genutzt werden. Zum einen kann es als Rohstoff in Bio-Ethanol-Anlagen oder SNG-Anlagen (SNG = Synthetic Natural Gas bzw. synthetisches Erdgas) zur Herstellung von biogenen Kraftstoffen der 2. Generation verwendet. Neben der Kraftstofferzeugung kann Stroh als ein Rohstoff (meist als Silage) in Biogasanlagen zur Methanproduktion zum Einsatz kommen. Die direkte Verbrennung von Stroh in Heizwerken oder in einem Heizkraftwerk ist ebenfalls möglich. 
 
