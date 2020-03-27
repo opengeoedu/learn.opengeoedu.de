@@ -18,6 +18,6 @@ Die Gruppe der biogenen Rest- und Abfallstoffe setzt sich aus einer Vielzahl von
 | Reststoffe von sonstigen Flächen | Halmgut von Landschaftspflegeflächen, Bahnbegleitholz, Straßenbegleitgrün |
 
 <br>
-Aktuell werden in Deutschland etwa 65-85 % der technisch nutzbaren biogenen Rest- und Abfallstoffe stofflich, z.B. als Tierfutter oder Einstreu, oder energetisch genutzt (DBFZ-Ressourcendatenbank: http://webapp.dbfz.de/resources, Stand 25.03.2020). 
+Aktuell werden in Deutschland etwa 65-85 % der technisch nutzbaren biogenen Rest- und Abfallstoffe stofflich, z.B. als Tierfutter oder Einstreu, oder energetisch genutzt (![DBFZ-Ressourcendatenbank] (http://webapp.dbfz.de/resources), Stand 25.03.2020). 
 
-!! Welches könnten die 5 wichtigsten Rest- und Abfallstoffe in Deutschland sein (gemessen an der zur Verfügung stehenden Menge)? Die DBFZ-Ressourcendatenbank:http://webapp.dbfz.de/resources 
+!! Welches könnten die 5 wichtigsten Rest- und Abfallstoffe in Deutschland sein (gemessen an der zur Verfügung stehenden Menge)? Die ![DBFZ-Ressourcendatenbank] (http://webapp.dbfz.de/resources) hilft Ihnen bei der Beantwortung dieser Frage.
