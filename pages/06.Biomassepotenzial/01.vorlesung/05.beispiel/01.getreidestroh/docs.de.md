@@ -5,7 +5,7 @@ taxonomy:
 menu: 'Getreidestroh'
 ---
 
-![](Skript_DBFZ_Getreidestroh.png?lightbox=400&resize=200&classes=caption "Getreidestroh. Copyright: Paul Trainer (DBFZ)")
+![](Skript_DBFZ_Getreidestroh.png?lightbox=800&resize=500&classes=caption "Getreidestroh. Copyright: Paul Trainer (DBFZ)")
 
 #### Welche Einzelbiomassen werden berücksichtigt? Um welche Art von Biomasse handelt es sich?
 Stroh ist ein Nebenprodukt der Landwirtschaft; unterschieden wird nach unterschiedlichen Arten von Stroh, die abhängig von der eigentlichen Anbaubiomasse sind. Zu typischen Arten von Stroh in Deutschland gehören u.a. Maisstroh, Getreidestroh von Weizen, Roggen, Gerste, Hafer oder Triticale und Rapsstroh. In diesem Beispiel beschränken wir uns auf die Betrachtung von Getreidestroh.
