@@ -5,6 +5,8 @@ taxonomy:
 menu: 'Westafrika'
 ---
 
+<iframe src="https://axelgjzabel.de/wp-admin/admin-ajax.php?action=h5p_embed&id=6" width="632" height="448" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://axelgjzabel.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 Bioenergie ist in vielen Regionen Westafrikas die am häufigsten genutzte Energiequelle, nachhaltig ist die Nutzung jedoch oftmals nicht - weder für den Menschen noch für die Natur. Die Verbrennung von biogenen (z.B. Holz, Holzkohle, Dung) oder fossilen Brennstoffen (z.B. Kohle, Kerosin) in offenen Kochstellen hat oft schwerwiegende gesundheitliche Auswirkungen. Laut der Weltgesundheitsorganisation WHO sterben weltweit jedes Jahr 3,8 Millionen Menschen an den Folgen von Luftverschmutzung, die durch die ineffiziente Nutzung von Brennstoffen verursacht wurde (WHO 2018). Hiervon sind vor allem Frauen und Kinder betroffen, die sich häufiger als Männer in geschlossenen Räumen aufhalten. 
 
 Außerdem: um den Jahresbedarf einer 4-köpfigen Familie nach Holz/Holzkohle zum Kochen zu decken, werden laut Schätzungen der FAO im afrikanischen Durchschnitt 2,4 Tonnen (!) Holz benötigt (FAO 2017). Um diesen Bedarf zu decken, wird oft mehr Holz aus Wäldern entnommen als nachwachsen kann. Dies führt zu einer Verschlechterung des Bodens und zu Waldverlusten. 
