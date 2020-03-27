@@ -29,6 +29,8 @@ Biomass and Bioenergy, Volume 127 (2019). [DOI](https://doi.org/10.1016/j.biombi
 
 Brosowski, André; Thrän, Daniela; Mantau, Udo; Mahro, Bernd; Erdmann, Georgia; Adler, Philipp et al. (2016): A review of biomass potential and current utilisation – Status quo for 93 biogenic wastes and residues in Germany. In: Biomass and Bioenergy 95, S. 257–272. [DOI](https://doi.org/10.1016/j.biombioe.2016.10.017).
 
+DBFZ-Ressourcendatenbank. Stand 25.03.2020. [Online](http://webapp.dbfz.de)
+
 Creutzig, Felix; Ravindranath, N. H.; Berndes, Göran; Bolwig, Simon; Bright, Ryan; Cherubini, Francesco et al. (2015): Bioenergy and climate change mitigation: An assessment. In: GCB Bioenergy 7 (5), S. 916–944. [DOI](https://doi.org/10.1111/gcbb.12205).
 
 Fachagentur Nachwachsende Rohstoffe e. V. (FNR) (Hg.) (2018): Anbau und Verwendung Nachwachsender Rohstoffe in Deutschland. Unter Mitarbeit von A. Becker, D. Peters und D. Kemnitz. [Online](https://mediathek.fnr.de/anbauflache-fur-nachwachsende-rohstoffe.html).
