@@ -15,8 +15,8 @@ The group of biogenic residues and waste materials consists of a large number of
 | agricultural by-products | cereal straw, cattle slurry, cattle liquid manure, beet leaves, rapeseed straw |
 | municipal waste | bio waste from private households, green waste, kitchen and canteen wastes, sewage sludge from public wastewater treatment plants |
 | industrial waste | residues from milk processing, vegetable processing, biodiesel production |
-| residues from other areas | Wooden materials from landscape management, stalks from roadside greenery; woody biomass
-from roadside greenery; railway lineside stalks; railway lineside wood |
+| residues from other areas | wooden materials from landscape management, stalks from roadside greenery, woody biomass
+from roadside greenery, railway lineside stalks, railway lineside wood |
 
 <br>
 Currently, about 65-85 % of the technically usable biogenic residues and wastes in Germany are used for material (e.g. as animal feed or litter) or energetic purposes (Brosowski et al. 2019). 
