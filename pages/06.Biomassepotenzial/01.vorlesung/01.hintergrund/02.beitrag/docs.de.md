@@ -5,7 +5,7 @@ taxonomy:
 menu: 'Beitrag Bioenergie'
 ---
 
-Wie aus nachfolgender Abbildung ersichtlich, lag der Anteil der regenerativen Energien im Jahr 2017 bei 13,1% des nationalen *Primärenergieverbrauchs*. Unter den regenerativen Energien ist Biomasse der wichtigste Energieträger - so trug Biomasse 2017 zu über 60% der regenerativen Energieerzeugung bei. 
+Wie aus nachfolgender Abbildung ersichtlich, lag der Anteil der regenerativen Energien im Jahr 2017 bei 13,1% des nationalen *Primärenergieverbrauchs*. 2018 ist der Anteil leicht gestiegen und liegt bei 13,8%. Unter den regenerativen Energien ist Biomasse der wichtigste Energieträger - so trug Biomasse 2017 und 2018 zu etwa 60% der regenerativen Energieerzeugung bei. 
 
 ![](Skript_DBFZ_Primaerenergieverbrauch_2017.png?lightbox=800&resize=500&classes=caption "Primärenergieverbrauch in Deutschland 2017 nach Energieträgern. Quelle: Arbeitsgemeinschaft Energiebilanzen, Arbeitsgruppe Erneuerbare Energien-Statistik, 2018, eigene Darstellung")
 
