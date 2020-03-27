@@ -21,4 +21,4 @@ from roadside greenery, railway lineside stalks, railway lineside wood |
 <br>
 Currently, about 65-85 % of the technically usable biogenic residues and wastes in Germany are used for material (e.g. as animal feed or litter) or energetic purposes (Brosowski et al. 2019). 
 
-!! What could be the 5 most important residual and waste materials in Germany (measured by the amount available)? The scientific paper by [Brosowski et al. 2019](https://www.sciencedirect.com/science/article/pii/S0961953419302247) could help you to answer this question.
+!! What could be the 5 most important biogenic residues and wastes in Germany (measured by the amount available)? The scientific paper by [Brosowski et al. 2019](https://www.sciencedirect.com/science/article/pii/S0961953419302247) could help you to answer this question.
