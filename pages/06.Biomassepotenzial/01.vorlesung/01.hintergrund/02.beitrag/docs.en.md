@@ -5,7 +5,7 @@ taxonomy:
 menu: 'Contribution Bioenergy'
 ---
 
-As it can be seen from the following figure, the share of renewable energies in 2017 was 13.1% of the national *primary energy consumption*. Among renewable energies, biomass is the most important energy source - biomass contributed to more than 60% of renewable energy production in 2017. 
+As it can be seen from the following figure, the share of renewable energies in 2017 was 13.1% of the national *primary energy consumption*. In 2018 the share increrased slightly to 13.8%. Among renewable energies, biomass is the most important energy source - biomass contributed to about 60% of renewable energy production in 2017 and 2018. 
 
 ![](Script_DBFZ_Primaerenergieverbrauch_2017_en.png?lightbox=800&resize=500&classes=caption "Primary energy consumption in Germany in 2017, based on energy carriers. Adapted from: Arbeitsgemeinschaft Energiebilanzen, Arbeitsgruppe Erneuerbare Energien-Statistik, 2018")
 
