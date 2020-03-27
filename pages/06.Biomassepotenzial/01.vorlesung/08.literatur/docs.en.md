@@ -31,6 +31,8 @@ Brosowski, André; Thrän, Daniela; Mantau, Udo; Mahro, Bernd; Erdmann, Georgia;
 
 Creutzig, Felix; Ravindranath, N. H.; Berndes, Göran; Bolwig, Simon; Bright, Ryan; Cherubini, Francesco et al. (2015): Bioenergy and climate change mitigation: An assessment. In: GCB Bioenergy 7 (5), S. 916–944. [DOI](https://doi.org/10.1111/gcbb.12205).
 
+DBFZ resource database. As of 25.03.2020. [Online](http://webapp.dbfz.de)
+
 Fachagentur Nachwachsende Rohstoffe e. V. (FNR) (Hg.) (2018): Anbau und Verwendung Nachwachsender Rohstoffe in Deutschland. Unter Mitarbeit von A. Becker, D. Peters und D. Kemnitz. [Online](https://mediathek.fnr.de/anbauflache-fur-nachwachsende-rohstoffe.html).
 
 Food and Agriculture Organization of the United Nations (FAO) (2017): Incentivizing sustainable wood energy in Sub-Saharan Africa. A way forward for policy makers. [Online](http://www.fao.org/3/a-i6815e.pdf).
