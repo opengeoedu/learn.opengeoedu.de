@@ -13,5 +13,5 @@ In the field of biogenic residues and wastes, the [DBFZ-Resource Database](webap
 
  <br>
 ! Brosowski, André; Krause, Tim; Mantau, Udo; Mahro, Bernd; Noke, Anja; Richter, Felix; et al. (2019): How to measure the impact of biogenic residues, wastes and by-products: Development of a national resource monitoring based on the example of Germany. In: Biomass and Bioenergy, Volume 127 (2019). Online verfügbar unter: https://www.sciencedirect.com/science/article/pii/S0961953419302247 <br>
-! DBFZ-Resource Database: webapp.dbfz.de
+! DBFZ-Resource Database: webapp.dbfz.de<br>
 ! Fachagentur für Nachwachsende Rohstoffe (FNR, in German): [Basic Data on Renewable Resources](https://basisdaten.fnr.de/)
