@@ -5,11 +5,15 @@ taxonomy:
 menu: 'Getreidestroh'
 ---
 
+![](Skript_DBFZ_Getreidestroh.png?lightbox=800&resize=500&classes=caption "Getreidestroh. Copyright: Paul Trainer (DBFZ)")
+
 #### Welche Einzelbiomassen werden berücksichtigt? Um welche Art von Biomasse handelt es sich?
 Stroh ist ein Nebenprodukt der Landwirtschaft; unterschieden wird nach unterschiedlichen Arten von Stroh, die abhängig von der eigentlichen Anbaubiomasse sind. Zu typischen Arten von Stroh in Deutschland gehören u.a. Maisstroh, Getreidestroh von Weizen, Roggen, Gerste, Hafer oder Triticale und Rapsstroh. In diesem Beispiel beschränken wir uns auf die Betrachtung von Getreidestroh.
 
 #### Welche Restriktionen und Nutzungskonkurrenzen müssen beachtet werden?
 Die größte Nutzungskonkurrenz ist - wie bereits mehrfach erwähnt - die Verwendung von Getreidestroh zum Erhalt der Humusbilanz. Abgesehen von der Humusbilanzierung, wird Getreidestroh oft als Tiereinstreu verwendet. Hier ist zu überlegen, ob es Alternativen gibt bzw. eine Kaskadennutzung sinnvoll ist.
+
+![](Skript_DBFZ_Einstreu.png?lightbox=800&resize=500&classes=caption "Getreidestroh als Einstreu in der Tierhaltung. Quelle: Jasmin Kalcher (DBFZ)")
 
 #### Welche energetischen Nutzungspfade für Getreidestroh gibt es?
 Stroh kann in unterschiedlichen Konversionspfaden energetisch genutzt werden. Zum einen kann es als Rohstoff in Bio-Ethanol-Anlagen oder SNG-Anlagen (SNG = Synthetic Natural Gas bzw. synthetisches Erdgas) zur Herstellung von biogenen Kraftstoffen der 2. Generation verwendet. Neben der Kraftstofferzeugung kann Stroh als ein Rohstoff (meist als Silage) in Biogasanlagen zur Methanproduktion zum Einsatz kommen. Die direkte Verbrennung von Stroh in Heizwerken oder in einem Heizkraftwerk ist ebenfalls möglich. 
@@ -23,5 +27,5 @@ Von der Konversionstechnologie ist der Rohstoffbedarf abhängig. Kleine, dezentr
 Das theoretische Potenzial wird indirekt über die Anbaufläche des Hauptprodukts, z.B. Getreide, berechnet. Das Verhältnis von Korn zu Stroh ist abhängig von der Getreideart. Zusätzlich ist der Wassergehalt zu berücksichtigen; in der Literatur wird von einem Wassergehalt von 14% ausgegangen. Für die Berechnung des technischen Biomassepotenzials werden Abzüge für die Humusbilanzierung sowie die technische Bergungsrate berücksichtigt. Beide Faktoren sind abhängig von den Bodenverhältnissen, der Witterung und der Art der Bewirtschaftung und Bergung. Werte für die Faktoren können ebenfalls dem Datenblatt Getreidestroh entnommen werden.
 
 #### Wie können die Ergebnisse so kartographisch aufbereitet werden, dass auch Laien diese gut interpretieren können?
-Das Getreidestrohaufkommen und das damit verbundene nachhaltige Biomassepotenzial wurden für Deutschland in unterschiedlichen Auflösungen (Bundesland, Landkreis, km²) berechnet und räumlich dargestellt. Sie können <a href="https://www.dbfz.de/index.php?id=987&L=0" target="_blank">Karten</a> zum Strohpotenzial und den interaktiven <a href="https://www.dbfz.de/index.php?id=1061&L=0" target="_blank">Bioenergieatlas</a> auf den Mikroseiten des DBFZ finden.
+Das Getreidestrohaufkommen und das damit verbundene nachhaltige Biomassepotenzial wurden für Deutschland in unterschiedlichen Auflösungen (Bundesland, Landkreis, km²) berechnet und räumlich dargestellt. Sie können <a href="https://www.dbfz.de/index.php?id=987&L=0" target="_blank">Karten</a> zum Strohpotenzial und den interaktiven <a href="https://www.webapp.dbfz.de" target="_blank">Bioenergieatlas</a> auf den Mikroseiten des DBFZ finden.
 Für Bosnien und Herzegowina wurde ein ähnlicher [Atlas](http://atlasbm.bhas.gov.ba/) erstellt; hier sind die Auflösungen Landkreis, Entität und national verfügbar. 

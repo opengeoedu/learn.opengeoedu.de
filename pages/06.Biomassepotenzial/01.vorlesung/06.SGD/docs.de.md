@@ -17,6 +17,8 @@ Im Grundlagenteil von OpenGeoEdu hatten Sie bereits die Möglichkeit, sich mit d
 
 Beantworten Sie acht Fragen zu den SDGs und finden Sie heraus, wie gut Sie über die Sustainable Development Goals Bescheid wissen!
 
+<iframe src="https://axelgjzabel.de/wp-admin/admin-ajax.php?action=h5p_embed&id=4" width="958" height="464" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://axelgjzabel.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 Betrachten wir die 17 Ziele mit Fokus auf Bioenergie aus Rest- und Abfallstoffen, fällt auf den ersten Blick natürlich das Ziel Nummer 7 („affordable & clean energy“) ins Auge. 
 
 Wie in den vorangegangenen Kapiteln erläutert, kann die nachhaltige Erzeugung von Strom, Wärme oder Kraftstoff aus Biomasse einen Beitrag zu einem erneuerbaren Energiesystem leisten. Gleichzeitig wirkt sich Bioenergie aus Rest- und Abfallstoffen jedoch direkt oder indirekt auf eine Reihe weiterer SDGs aus.

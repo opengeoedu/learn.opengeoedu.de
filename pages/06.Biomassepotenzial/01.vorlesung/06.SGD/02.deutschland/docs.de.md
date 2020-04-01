@@ -5,6 +5,8 @@ taxonomy:
 menu: 'Deutschland'
 ---
 
+<iframe src="https://axelgjzabel.de/wp-admin/admin-ajax.php?action=h5p_embed&id=5" width="632" height="448" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://axelgjzabel.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 Deutschland hat sich zum Ziel gesetzt, die Treibhausgasemissionen bis 2030 um mindestens 40% gegenüber den Werten von 1990 zu senken (BMU 2016). Um dieses Ziel zu erreichen, sind auch im Verkehrssektor wesentliche Änderungen notwendig. Denn: die verkehrsbedingten THG-Emissionen sind zwischen 1990 und 2017 sogar leicht angestiegen.
 
 ![](Skript_DBFZ_THG_Emissionen_Verkehr_1990bis2017.png?lightbox=800&resize=700&classes=caption "Treibhausgas-Emissionen des Verkehrssektors in Deutschland 1990-2017, Datengrundlage: European Environment Agency (EEA) 2020, eigene Darstellung")

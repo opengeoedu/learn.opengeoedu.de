@@ -4,6 +4,7 @@ taxonomy:
   category: docs
 menu: 'Cereal Straw'
 ---
+![](Skript_DBFZ_Getreidestroh.png?lightbox=800&resize=500&classes=caption "Getreidestroh. Copyright: Paul Trainer (DBFZ)")
 
 #### Which single biomass is considered? What type of biomass is it?
 Straw is a by-product of agriculture; a distinction is made between different types of straw, which are dependent on the actual cultivated biomass. Typical types of straw in Germany include corn straw, cereal straw from wheat, rye, barley, oats or triticale and rapeseed straw. In this example we limit ourselves to the consideration of cereal straw.
@@ -23,5 +24,5 @@ The raw material requirement depends on the conversion technology. Small, decent
 The theoretical potential is calculated indirectly via the cultivated area of the main product, e.g. cereals. The ratio of grain to straw depends on the type of grain. In addition, the water content must be taken into account; the literature assumes a water content of 14%. For the calculation of the technical biomass potential, deductions for the humus balance and the technical salvage rate are taken into account. Both factors are dependent on soil conditions, weather conditions and the type of cultivation and salvage. Values for the factors can also be taken from the cereal straw data sheet.
 
 #### How can the results be mapped so that laypersons can interpret them well?
-The cereal straw volume and the associated sustainable biomass potential were calculated for Germany in different resolutions (federal state, county, km²) and spatially represented. You can find <a href="https://www.dbfz.de/index.php?id=987&L=0" target="_blank">maps</a> on straw potential and the interactive <a href="https://www.dbfz.de/index.php?id=1061&L=0" target="_blank">bioenergy atlas</a> on the micropages of the DBFZ.
+The cereal straw volume and the associated sustainable biomass potential were calculated for Germany in different resolutions (federal state, county, km²) and spatially represented. You can find <a href="https://www.dbfz.de/index.php?id=987&L=0" target="_blank">maps</a> on straw potential and the interactive <a href="https://www.webapp.dbfz.de">bioenergy atlas</a> on the micropages of the DBFZ.
 For Bosnia and Herzegovina a similar [atlas](http://atlasbm.bhas.gov.ba/) has been prepared; here the resolutions county, entity and national are available. 
