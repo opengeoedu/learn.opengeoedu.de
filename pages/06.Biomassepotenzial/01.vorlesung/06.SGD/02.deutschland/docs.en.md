@@ -4,6 +4,10 @@ taxonomy:
   category: docs
 menu: 'Germany'
 ---
+<iframe src="https://axelgjzabel.de/wp-admin/admin-ajax.php?action=h5p_embed&id=5" width="632" height="448" frameborder="0" allowfullscreen="allowfullscreen" style="max-width: 600px; width: 100%; height: 500px; max-height: 600px"></iframe>
+<!--<script src="https://axelgjzabel.de/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>-->
+<!-- NOTE: Skript wurde daktiviert weil Seite nicht richtig angezeigt wird, statt dessen wurden CSS-Eigenschaften eingefügt, analog zu https://github.com/opengeoedu/learn.opengeoedu.de/blob/master/pages/08.Fernerkundung/01.vorlesung/06.Vegetationsmonitoring/docs.de.md -->
+
 Germany has set itself the goal of reducing greenhouse gas emissions by at least 40% by 2030 compared to 1990 levels (BMU 2016). In order to achieve this goal, significant changes are also required in the transport sector. This is because transport-related GHG emissions actually increased slightly between 1990 and 2017.
 
 ![](Skript_DBFZ_GHG_Emissions_Transport_1990-2017.png?lightbox=800&resize=700&classes=caption "GHG-emissionen from the transport sector in Germany 1990-2017, Data source: European Environment Agency (EEA) 2020, own illustration")
