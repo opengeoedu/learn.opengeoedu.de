@@ -1,2 +1,7 @@
+*/
+!/pages/
+!/pages/**
+Thumbs.db
+.*
 .vscode/settings.json
 .vscode/accordion.code-snippets
