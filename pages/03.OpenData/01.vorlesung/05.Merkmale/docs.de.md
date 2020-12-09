@@ -4,6 +4,8 @@ taxonomy:
     category:
         - docs
 slug: merkmale
+process:
+    twig: true
 ---
 
 {assets:css}
