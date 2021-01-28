@@ -13,14 +13,16 @@ In **Deutschland** sind alle Geodaten des Bundes als **Open Data** verfügbar. D
 - [Transparenzportal Hamburg](http://suche.transparenz.hamburg.de/?groups=geografie-geologie-und-geodaten) und das [Geoportal](http://www.geoportal-hamburg.de/Geoportal/geo-online/) des Landes
 - [Geoportal.NRW](https://www.geoportal.nrw/): Das Geoportal des Landes Nordrhein-Westfalen
 - [Geoportal-Th](https://www.geoportal-th.de): Offene Geodaten Thüringen
-* [Open Data Sachsen](https://www.opendata.sachsen.de/Daten_finden.htm)
+- [Open Data Sachsen](https://www.opendata.sachsen.de/Daten_finden.htm)
+- [OpenGeodata.Brandenburg](https://data.geobasis-bb.de/) und[Geobroker](https://geobroker.geobasis-bb.de/): offene Geobasis- und Geofachdaten von Brandenburg
+
+Weniger umfangreiche offene Geodaten sind zum Beispiel für [Baden-Württemberg](https://www.lgl-bw.de/unsere-themen/Produkte/Open-Data/) und die meisten Bundesländer verfügbar, siehe Tabelle unten.
 
 In **Österreich** ist die digitale Verwaltungskarte [basemap.at](https://basemap.at/) nach der [Statistik des nationalen Datenportals](https://www.data.gv.at/wp-content/themes/datagvat/ckan-apps.php) das meistgenutzte Open Data- Produkt österreichischer Behörden und kann unter der Lizenz [CC By 3.0 AT](https://creativecommons.org/licenses/by/3.0/at/deed.de) genutzt werden.
 
-In der **Schweiz** bietet das Portal [opendata.swiss](https://opendata.swiss/de/) Zugang zu offenen Daten.
+In der **Schweiz** bietet das Portal [opendata.swiss](https://opendata.swiss/de/) Zugang zu offenen Daten. Ferner wird [swisstopo.admin.ch](https://www.swisstopo.admin.ch/de/swisstopo/kostenlose-geobasisdaten.htm) ab März 2021 Ihre Daten kostenlos zur Verfügung stellen. 
 
 [^1]: Die Schweiz ist kein Teilnehmer der INSPIRE-Direktive, verfügt aber über ähnliche Geodateninfrastrukturen wie die EU
-
 
 
 
