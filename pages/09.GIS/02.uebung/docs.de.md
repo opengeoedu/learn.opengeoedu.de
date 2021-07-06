@@ -49,6 +49,14 @@ In den Übungen erlernen Sie den Einstieg in das Arbeiten mit Geo-Informationssy
     <div class="col-sm-3" markdown="1">[plugin:youtube](https://youtu.be/I_RAPFc8DC0)</div>
 </div>
 
+<div class="row align-items-center">
+    <div class="col-sm-9">
+        <strong>Lokale Geoinformation: Erkundung der Geodatenlage an einem Ort Ihrer Wahl</strong>
+        <p class="text-justify">In der Übung beschäftigen Sie sich intensiv und systematisch mittels Internetrecherchen mit der Geodatenlage vor Ort. Dazu sollen Sie an Ihrem Arbeitsort  (oder einem anderen Ort Ihres Interesses) herausfinden, welche Geoinformationen dazu in digitaler Form vorliegen (in Form von Geobasisdaten wie dem Liegenschaftskataster bzw. topographischen Karten, als Geofachdaten z.B. aus dem Planungs- und Umweltbereich aus dem behördlichen, unternehmerischen oder gesellschaftlichen Umfeld).</p>
+    </div>
+    <div class="col-sm-3" markdown="1"></div>
+</div>
+
 Im Ergebnis jedes Beispiels entstehen thematische Auswertungen in Form von Karten, Diagrammen, Bewertungen, die in einem nach Regeln der Wissenschaft verfassten schriftlichen Beleg zusammengestellt werden.
 
 [center]<a href="https://ilias.opengeoedu.de/ilias/goto.php?target=crs_242&client_id=opengeoedu" markdown="1" target="_blank">![](/images/exercise.png?resize=200)Hier geht es weiter zu den Übungen (ILIAS)</a>[/center]

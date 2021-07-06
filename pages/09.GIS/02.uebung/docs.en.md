@@ -50,6 +50,16 @@ In the exercises you will learn how to start working with geographic information
     <div class="col-sm-3" markdown="1">[plugin:youtube](https://youtu.be/I_RAPFc8DC0)</div>
 </div>
 
+<div class="row align-items-center">
+    <div class="col-sm-9">
+        <strong>Local geoinformation: Exploration of the geodata sitiuation at a location of your choice</strong>
+        <p class="text-justify">In the exercise, you will deal intensively and systematically with the local situation of geodata using Internet research. For this purpose, you are to find out for your place of work (or another place of your interest) which geoinformation is available in digital form (in the form of geographic base data such as real estate cadastres or topographic maps, as as well as thematic geodata e.g. planning and environmental data from official, corporate or social domains).</p>
+    </div>
+    <div class="col-sm-3" markdown="1"></div>
+</div>
+
+
+
 Each example results in thematic evaluations in the form of maps, diagrams and assessments, which are compiled in a written document written according to scientific rules.
 
 
